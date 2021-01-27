@@ -1,0 +1,64 @@
+/**/
+
+#puyo-text{
+    width: 340px;
+    margin: 0 auto;
+    text-align: center;
+}
+p.emphasize{
+    background: linear-gradient(transparent 40%, #fcffa8 10%);
+}
+#text-button {
+    text-align: center;
+    width: 80px;
+    margin:5px auto;
+    background:#ffc6c4;
+    display:inlineblock;
+    opacity:0.6;
+    text-decoration: none;
+    box-shadow:0 10px #ff9c83;
+    color:#fff;
+    text-shadow:2px 2px 2px #bdbdbd;
+    border-radius:8px;
+    user-select:none;
+  }
+#text-button:hover{
+    opacity:1;
+  }
+#text-button:active{
+    position:relative;
+    top:10px;
+    box-shadow:none;
+  }
+#puyo-section{
+  padding: 10px;
+  background: rgba(255, 248, 222, 0.7);
+  border-radius: 10px;
+}
+
+#stage{
+/*  position:absolute; 
+    left: 0; 
+    top: 0; 
+    overflow: hidden; 
+    background: url(../img/puyo_5bg.png); */
+
+    position:relative; 
+    margin: 0 auto; 
+    overflow: hidden;
+    background: url(../img/puyo_5bg.png);
+    opacity: 0.9;
+}
+
+#score{
+    /* position:absolute; 
+    left: 0; 
+    top: 0; 
+    overflow: hidden; 
+    text-align: right; */
+
+    margin: 0 auto; 
+    overflow: hidden; 
+    text-align: right;
+}
+
