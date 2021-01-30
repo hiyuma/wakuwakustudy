@@ -112,9 +112,16 @@
                                    <div class="info-children">
                                           <span><a href="index.php">HTML→PHP</a> 全移行</span>
                                    </div>
+
                                    <li>2021年01月30日</li>
                                    <div class="info-children">
-                                          <span>SiteMap 更新</span>
+                                          <span>siteMap 更新</span>
+                                   </div>
+
+                                   <li>2021年01月30日</li>
+                                   <div class="info-children">
+                                          <span><a href="english-daily-conversation.html">ENGLISH</a>
+                                                 更新(CVS中級/脱落音)</span>
                                    </div>
 
                                    <li>2021年01月28日</li>
