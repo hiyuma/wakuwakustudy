@@ -904,6 +904,9 @@ ol#gallery-list li a{
 	text-align: center;
 	font-weight: bold;
 }
+.table-question{
+	width: 100%;
+}
 
 #english-table {
 	margin: 0 auto;
