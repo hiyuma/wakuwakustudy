@@ -179,7 +179,7 @@
 
     <hr>
 
-    <!-- ※Don't forget to change the label 18 -->
+    <!-- ※Don't forget to change the label 19 -->
     <div id="アヒルと鴨のコインロッカー"></div>
     <h3 id="movies-title"><strong>アヒルと鴨のコインロッカー</strong></h3>
     <div id="movies">
@@ -237,9 +237,9 @@
 
 
         <div class="accbox">
-          <input type="checkbox" id="label18a" class="cssacc" />
+          <input type="checkbox" id="label19a" class="cssacc" />
 
-          <label for="label18a" class="closeButton">READ MORE</label>
+          <label for="label19a" class="closeButton">READ MORE</label>
 
           <div class="accshow">
 

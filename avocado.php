@@ -99,7 +99,7 @@
           <div class="accbox">
             <input type="checkbox" id="001" class="cssacc" />
 
-            <label for="001"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="001"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p>
             ミニトマトと一緒にアボカドの種から育て始めます。
@@ -122,7 +122,7 @@
           <div class="accbox">
             <input type="checkbox" id="002" class="cssacc" />
 
-            <label for="002"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="002"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p>種が割れ、根っこが出てきた。
             <br><br>
@@ -137,7 +137,7 @@
           <div class="accbox">
             <input type="checkbox" id="003" class="cssacc" />
 
-            <label for="003"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="003"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p>いよいよ、土に植えました。
             <br><br>
@@ -150,7 +150,7 @@
           <div class="accbox">
             <input type="checkbox" id="004" class="cssacc" />
 
-            <label for="004"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="004"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p>かわいい。
             <br><br>
@@ -165,7 +165,7 @@
           <div class="accbox">
             <input type="checkbox" id="005" class="cssacc" />
 
-            <label for="005"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="005"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p>いいよー。
             <br><br>
@@ -180,7 +180,7 @@
           <div class="accbox">
             <input type="checkbox" id="006" class="cssacc" />
 
-            <label for="006"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="006"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p>大きくなってきた。
             <br><br>
@@ -197,7 +197,7 @@
           <div class="accbox">
             <input type="checkbox" id="007" class="cssacc" />
 
-            <label for="007"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="007"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <br>
           <p>この数日で葉の数が増えてきた。
@@ -213,7 +213,7 @@
           <div class="accbox">
             <input type="checkbox" id="008" class="cssacc" />
 
-            <label for="008"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="008"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p>やはり熱帯地方で多く育てられている果物。
             <br><br>
@@ -233,7 +233,7 @@
           <div class="accbox">
             <input type="checkbox" id="009" class="cssacc" />
 
-            <label for="009"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="009"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p>葉っぱがさらに大きくなってきた。
             <br><br>
@@ -246,7 +246,7 @@
           <div class="accbox">
             <input type="checkbox" id="010" class="cssacc" />
 
-            <label for="010"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="010"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p>
             実は追いアボカドチャレンジしていた。
@@ -268,7 +268,7 @@
           <div class="accbox">
             <input type="checkbox" id="011" class="cssacc" />
 
-            <label for="011"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="011"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <br>
           <img src="gallery/avocado/shirahyu-avocado1021(2).jpg" alt="アボカド15">
@@ -292,7 +292,7 @@
           <div class="accbox">
             <input type="checkbox" id="012" class="cssacc" />
 
-            <label for="012"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="012"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p>
             あれから時が経ち。
@@ -316,7 +316,7 @@
           <div class="accbox">
             <input type="checkbox" id="013" class="cssacc" />
 
-            <label for="013"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="013"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p>4月22日の写真と比べると明らか。
             <br><br>
@@ -333,7 +333,7 @@
           <div class="accbox">
             <input type="checkbox" id="014" class="cssacc" />
 
-            <label for="014"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="014"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p>え？きのこ生えてきたよ？笑</p>
         </div></div>
@@ -344,7 +344,7 @@
           <div class="accbox">
             <input type="checkbox" id="015" class="cssacc" />
 
-            <label for="015"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="015"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <br>
           <img src="gallery/avocado/shirahyu-avocado20200602 2.jpg" alt="アボカド20">
@@ -365,7 +365,7 @@
           <div class="accbox">
             <input type="checkbox" id="016" class="cssacc" />
 
-            <label for="016"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="016"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <br>
           <img src="gallery/avocado/avocado20200611B.jpg" alt="アボカド21">
@@ -384,7 +384,7 @@
           <div class="accbox">
             <input type="checkbox" id="017" class="cssacc" />
 
-            <label for="017"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="017"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <br>
           <img src="gallery/avocado/avocado20200617B.jpg" alt="アボカド23">
@@ -401,7 +401,7 @@
           <div class="accbox">
             <input type="checkbox" id="018" class="cssacc" />
 
-            <label for="018"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="018"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <br>
           <img src="gallery/avocado/avocado20200627B.jpg" alt="アボカド25">
@@ -422,7 +422,7 @@
           <div class="accbox">
             <input type="checkbox" id="019" class="cssacc" />
 
-            <label for="019"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="019"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <br>
           <img src="gallery/avocado/avocado20200704B.jpg" alt="アボカド27">
@@ -443,7 +443,7 @@
           <div class="accbox">
             <input type="checkbox" id="020" class="cssacc" />
 
-            <label for="020"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="020"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p>先週に比べるとまたさらに横に野比のび太。
             <br><br>
@@ -469,7 +469,7 @@
           <div class="accbox">
             <input type="checkbox" id="021" class="cssacc" />
 
-            <label for="021"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="021"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p>アボちゃんはどんどん横に伸びてきています。
             <br><br>
@@ -496,7 +496,7 @@
             <div class="accbox">
               <input type="checkbox" id="022" class="cssacc" />
   
-              <label for="022"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+              <label for="022"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
               <div class="accshow">
           </p>
           <p>
@@ -530,7 +530,7 @@
           <div class="accbox">
             <input type="checkbox" id="023" class="cssacc" />
 
-            <label for="023"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="023"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p>連日の猛暑日。
             <br><br>
@@ -583,7 +583,7 @@
           <div class="accbox">
             <input type="checkbox" id="024" class="cssacc" />
 
-            <label for="024"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="024"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p><img src="gallery/avocado/avo20200822B.jpg" alt="アボカド36"></p>
           <p>夏です。
@@ -609,7 +609,7 @@
           <div class="accbox">
             <input type="checkbox" id="025" class="cssacc" />
 
-            <label for="025"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="025"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p><img src="gallery/avocado/avo20200829B.jpg" alt="アボカド38"></p>
           <p>101.2cm。
@@ -635,7 +635,7 @@
           <div class="accbox">
             <input type="checkbox" id="026" class="cssacc" />
 
-            <label for="026"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="026"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p><img src="gallery/avocado/avo20200905B.jpg" alt="アボカド40"></p>
           <p>105.5cm。
@@ -663,7 +663,7 @@
           <div class="accbox">
             <input type="checkbox" id="027" class="cssacc" />
 
-            <label for="027"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="027"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p><img src="gallery/avocado/avo20200913B.jpg" alt="アボカド43"></p>
           <p>まだまだ暑さが続いています。
@@ -709,7 +709,7 @@
           <div class="accbox">
             <input type="checkbox" id="028" class="cssacc" />
 
-            <label for="028"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="028"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p><img src="gallery/avocado/avo20200919B.jpg" alt="アボカド45"></p>
           <p>涼しくなってきました。
@@ -744,7 +744,7 @@
           <div class="accbox">
             <input type="checkbox" id="029" class="cssacc" />
 
-            <label for="029"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="029"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p><img src="gallery/avocado/avo20200927A.jpg" alt="アボカド46"></p>
           <p>背丈は108.6cm。
@@ -774,7 +774,7 @@
           <div class="accbox">
             <input type="checkbox" id="030" class="cssacc" />
 
-            <label for="030"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="030"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p><img src="gallery/avocado/avo20201011A.jpg" alt="アボカド49"></p>
           <p>寒くなってきました。
@@ -801,7 +801,7 @@
           <div class="accbox">
             <input type="checkbox" id="031" class="cssacc" />
 
-            <label for="031"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="031"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p><img src="gallery/avocado/avo20201022b.jpg" alt="アボカド51"></p>
           <p>最近は、天気が雨か曇りが多かったのでほとんど土が乾きませんでした。
@@ -836,7 +836,7 @@
           <div class="accbox">
             <input type="checkbox" id="032" class="cssacc" />
 
-            <label for="032"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="032"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p><img src="gallery/avocado/avo20201115b.jpg" alt="アボカド53"></p>
           <p>11月15日、東京都杉並区、16時現在の気温は18℃。
@@ -865,7 +865,7 @@
           <div class="accbox">
             <input type="checkbox" id="033" class="cssacc" />
 
-            <label for="033"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="033"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p><img src="gallery/avocado/avo20201216a.jpg" alt="アボカド54"></p>
           <p>12月16日、東京都杉並区、16時現在の気温は7℃。
@@ -900,7 +900,7 @@
           <div class="accbox">
             <input type="checkbox" id="034" class="cssacc" />
 
-            <label for="034"><span><img class="icon" src="gallery/ICONS/avocado.png" alt=""> READ </span></label>
+            <label for="034"><span><img class="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
             <div class="accshow">
           <p><img src="gallery/avocado/avo20210115b.jpg" alt="アボカド57"></p>
           <p>2021年01月16日、東京都杉並区、17時現在の気温は13℃。

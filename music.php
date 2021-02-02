@@ -416,18 +416,57 @@
             <em3>
               時間： 
               <br>
-              ジャンル：
+              ジャンル： 
               <br>
               レーベル： 
             </em3>
             <br><br>
           </div> -->
 
-        <!-- <div id="20210201"></div>
-          <!- XX ->
+        <!-- <div id="20210204"></div>
+          <!- Blessed / Smerz  ->
           <hr>
           <div>
-            <p><small> 2021年02月01日</small></p>
+            <p><small> 2021年02月04日</small></p>
+            <i class="fas fa-headphones-alt"></i> Blessed / Smerz 
+            <br><br>
+            <i class="far fa-file-audio"></i> <a href="" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
+            <br>
+            <em3>
+              時間： 3:07
+              <br>
+              ジャンル： ダンス・エレクトロニカ
+              <br>
+              レーベル： XL Recordings
+            </em3>
+            <br><br>
+          </div> -->
+
+
+       <!-- <div id="20210203"></div>
+          <!- Sunny's Time (Logic1000 Remix) / カリブー ->
+          <hr>
+          <div>
+            <p><small> 2021年02月03日</small></p>
+            <i class="fas fa-headphones-alt"></i> Sunny's Time (Logic1000 Remix) / カリブー 
+            <br><br>
+            <i class="far fa-file-audio"></i> <a href="https://amzn.to/2L367VO" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
+            <br>
+            <em3>
+              時間： 3:57
+              <br>
+              ジャンル： ダンス・エレクトロニカ
+              <br>
+              レーベル： PLANCHA
+            </em3>
+            <br><br>
+          </div> -->
+
+        <div id="20210202"></div>
+          <!-- <!- Can you / park hye jin -> -->
+          <hr>
+          <div>
+            <p><small> 2021年02月02日</small></p>
             <i class="fas fa-headphones-alt"></i> Can you / park hye jin
             <br><br>
             <i class="far fa-file-audio"></i> <a href="https://amzn.to/3cmtVPF" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
@@ -440,13 +479,13 @@
               レーベル： Ninja Tune
             </em3>
             <br><br>
-          </div> -->
+          </div>
 
-            <!-- <div id="20210131"></div>
-          <!- Wait on Me EP / Felipe Gordon  -> 
+            <div id="20210201"></div>
+          <!-- <!- Wait on Me EP / Felipe Gordon  ->  -->
           <hr>
           <div>
-            <p><small> 2021年01月31日</small></p>
+            <p><small> 2021年02月01日</small></p>
             <i class="fas fa-headphones-alt"></i> Wait on Me EP / Felipe Gordon 
             <br><br>
             <i class="far fa-file-audio"></i> <a href="" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
@@ -459,14 +498,15 @@
               レーベル： Toy Tonics
             </em3>
             <br><br>
-          </div> -->
+          </div>
 
-
-        <div id="20210130"></div>
+        
+        
+        <div id="20210131"></div>
           <!-- <!- Talkin' Bout It / Young Franco feat. KLP  -> -->
           <hr>
           <div>
-            <p><small> 2021年01月30日</small></p>
+            <p><small> 2021年01月31日</small></p>
             <i class="fas fa-headphones-alt"></i> Talkin' Bout It / Young Franco feat. KLP 
             <br><br>
             <i class="far fa-file-audio"></i> <a href="https://amzn.to/3t9mVvB" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
@@ -481,7 +521,9 @@
             <br><br>
           </div>
 
-        <div id="20210130"></div>
+
+
+     <div id="20210130"></div>
         <!-- <!- American Boy (Amazon Original) / イヤーズ＆イヤーズ  -> -->
         <hr>
         <div>

@@ -97,7 +97,7 @@
             <div class="accbox">
               <input type="checkbox" id="history" class="cssacc" />
 
-              <label for="history">DJ出演歴　OPEN</label>
+              DJ出演歴　<label for="history">OPEN</label>
 
               <div class="accshow">
                 ---2012.11------
