@@ -39,15 +39,17 @@
               }
 
               th:first-child {
-                     width: 5%;
+                     width: 6%;
               }
               td:first-child{
                      font-weight: bold;
               }
 
               td:nth-child(2),td:nth-child(3) {
+                     width: 47%;
                      font-size: smaller;
                      font-weight: lighter;
+                     line-height: 3.2;
               }
 
         
@@ -56,59 +58,17 @@
 
 <body>
        <main>
-              <header>
-                     <nav class="header" id="menu">
-                            <ul>
-                                   <li><a class="active" href="index.html"><span class="material-icons">home</span>HOME</a></li>
-                                   <li><a href="aboutsite.html"><span class="material-icons">assignment_ind</span>ABOUT</a>
-                                   </li>
-                                   <li><a href="gallery.html"><span class="material-icons">photo_camera</span>PHOTO</a></li>
-                                   <li><a href="diary.html"><span class="material-icons">text_snippet</span>DIARY</a></li>
-                                   <li><a href="jspractice/index.html"><span class="material-icons">laptop_mac</span>WORK</a></li>
-                            </ul>
-                     </nav>
-              </header>
+       <?php include('parts/header.php') ?>
 
-              <div id="puyo-menu">
-
-                     <button id="menuButton" class="button"><i class="fa fa-bars flip" aria-hidden="true"></i></button>
-
-                     <button id="home" class="otherButton1 hidden openMenu"><a class="link" href="smt.html">
-                                   <i class="fas fa-money-check-alt" aria-hidden="true"></i></a></button>
-
-                     <button id="about" class="otherButton2 hidden openMenu"><a class="link" href="about.html">
-                                   <i class="fa fa-user" aria-hidden="true"></i></a></button>
-
-                     <button id="work" class="otherButton3 hidden openMenu"><a class="link" href="avocado.html">
-                                   <i class="fab fa-pagelines" aria-hidden="true"></i></a></button>
-
-                     <button id="contact" class="otherButton4 hidden openMenu"><a class="link" href="movie.html">
-                                   <i class="fas fa-film" aria-hidden="true"></i></a></button>
-
-                     <button id="contact" class="otherButton5 hidden openMenu"><a class="link" href="english.html">
-                                   <i class="fas fa-font" aria-hidden="true"></i></a></button>
-
-                     <button id="contact" class="otherButton6 hidden openMenu"><a class="link" href="https://twitter.com/hiyuma" target="blank" rel="noopener">
-                                   <i class="fab fa-twitter" aria-hidden="true"></i></a></button>
-
-                     <button id="contact" class="otherButton7 hidden openMenu"><a class="link" href="mailto:info@developershirai.com">
-                                   <i class="fas fa-envelope" aria-hidden="true"></i></a></button>
-
-              </div>
-
-              <div id="widget" class="mujirushi2">
-                     <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=48&l=ur1&category=homekitchen&banner=1HY8QMW19KZAFF39AA02&f=ifr&linkID=290c135104bd6ccfad58ccfd2cad7e3b&t=hiyuma-22&tracking_id=hiyuma-22" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-              </div>
+              <?php include('parts/menuButton.php'); ?>
+              <?php include('parts/widget/widget_214.php'); ?>
 
 
               <header>
                      <h1 class="logo">集</h1>
               </header>
 
-              <div class="btn-facebook"><iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fdevelopershirai.shop%2F&width=136&layout=button&action=like&size=small&share=true&height=65&appId" width="136" height="20" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-                     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a>
-                     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-              </div>
+              <?php include('parts/facebook_twitter_button.php'); ?>
 
               <div id="article">
                      <section>
@@ -154,11 +114,11 @@
                                                         $female_rate = round($results[1] / $results[38] * 100);
                                                         $others_rate = round($results[2] / $results[38] * 100);
 
-                                                        echo '  <td>男性：' . $results[0] . '人
-                                                        <br> 女性：' . $results[1] . '人
-                                                        <br> その他：' . $results[2] . '人</td>';
+                                                        echo '  <td>男性 ： ' . $results[0] . '人
+                                                        <br> 女性 ： ' . $results[1] . '人
+                                                        <br> その他 ： ' . $results[2] . '人</td>';
                                                         
-                                                        echo '  <td>男性：' . $male_rate . '%<br> 女性：' . $female_rate . '%<br>その他：' . $others_rate . '%</td>';
+                                                        echo '  <td>男性 ： ' . $male_rate . '%<br> 女性 ： ' . $female_rate . '%<br>その他 ： ' . $others_rate . '%</td>';
                                                         ?>
                                                  </tr>
                                                  <tr>
@@ -173,22 +133,22 @@
                                                         $age70_rate = round($results[9] / $results[38] * 100);
                                                         $age80_rate = round($results[10] / $results[38] * 100);
 
-                                                        echo '  <td>10代：' . $results[3] . '人<br>' .
-                                                               '20代：' . $results[4] . '人<br>' .
-                                                               '30代：' . $results[5] . '人<br>' .
-                                                               '40代：' . $results[6] . '人<br>' .
-                                                               '50代：' . $results[7] . '人<br>' .
-                                                               '60代：' . $results[8] . '人<br>' .
-                                                               '70代：' . $results[9] . '人<br>' .
-                                                               '80代以上：' . $results[10] . '人</td>';
-                                                        echo '  <td>10代：' . $age10_rate . '%<br>' .
-                                                               '20代：' . $age20_rate . '%<br>' .
-                                                               '30代：' . $age30_rate . '%<br>' .
-                                                               '40代：' . $age40_rate . '%<br>' .
-                                                               '50代：' . $age50_rate . '%<br>' .
-                                                               '60代：' . $age60_rate . '%<br>' .
-                                                               '70代：' . $age70_rate . '%<br>' .
-                                                               '80代以上：' . $age80_rate . '%</td>';
+                                                        echo '  <td>10代 ： ' . $results[3] . '人<br>' .
+                                                               '20代 ： ' . $results[4] . '人<br>' .
+                                                               '30代 ： ' . $results[5] . '人<br>' .
+                                                               '40代 ： ' . $results[6] . '人<br>' .
+                                                               '50代 ： ' . $results[7] . '人<br>' .
+                                                               '60代 ： ' . $results[8] . '人<br>' .
+                                                               '70代 ： ' . $results[9] . '人<br>' .
+                                                               '80代以上 ： ' . $results[10] . '人</td>';
+                                                        echo '  <td>10代 ： ' . $age10_rate . '%<br>' .
+                                                               '20代 ： ' . $age20_rate . '%<br>' .
+                                                               '30代 ： ' . $age30_rate . '%<br>' .
+                                                               '40代 ： ' . $age40_rate . '%<br>' .
+                                                               '50代 ： ' . $age50_rate . '%<br>' .
+                                                               '60代 ： ' . $age60_rate . '%<br>' .
+                                                               '70代 ： ' . $age70_rate . '%<br>' .
+                                                               '80代以上 ： ' . $age80_rate . '%</td>';
                                                         ?>
                                                  </tr>
                                                  <tr>
@@ -204,25 +164,25 @@
                                                         $lover4n_rate = round($results[18] / $results[38] * 100);
                                                         $lover0others_rate = round($results[19] / $results[38] * 100);
 
-                                                        echo '  <td>既婚：' . $results[11] . '人<br>' .
-                                                               'いる(お付き合い1年未満)：' . $results[12] . '人<br>' .
-                                                               'いる(お付き合い1年以上)：' . $results[13] . '人<br>' .
-                                                               'いる(お付き合い3年以上)：' . $results[14] . '人<br>' .
-                                                               'いない(1年未満)：' . $results[15] . '人<br>' .
-                                                               'いない(1年以上)：' . $results[16] . '人<br>' .
-                                                               'いない(3年以上)：' . $results[17] . '人<br>' .
-                                                               'いない(友達以上、恋人未満有)：' . $results[18] . '人<br>'.
-                                                               'その他：' . $results[19] . '人</td>';
+                                                        echo '  <td>既婚 ： ' . $results[11] . '人<br>' .
+                                                               'いる(お付き合い1年未満) ： ' . $results[12] . '人<br>' .
+                                                               'いる(お付き合い1年以上) ： ' . $results[13] . '人<br>' .
+                                                               'いる(お付き合い3年以上) ： ' . $results[14] . '人<br>' .
+                                                               'いない(1年未満) ： ' . $results[15] . '人<br>' .
+                                                               'いない(1年以上) ： ' . $results[16] . '人<br>' .
+                                                               'いない(3年以上) ： ' . $results[17] . '人<br>' .
+                                                               'いない(友達以上、恋人未満有) ： ' . $results[18] . '人<br>'.
+                                                               'その他 ： ' . $results[19] . '人</td>';
 
-                                                        echo '  <td>既婚：' . $lover1m_rate . '%<br>' .
-                                                               'いる(お付き合い1年未満)：' . $lover1e_rate . '%<br>' .
-                                                               'いる(お付き合い1年以上)：' . $lover2e_rate . '%<br>' .
-                                                               'いる(お付き合い3年以上)：' . $lover3e_rate . '%<br>' .
-                                                               'いない(1年未満)：' . $lover1n_rate . '%<br>' .
-                                                               'いない(1年以上)：' . $lover2n_rate . '%<br>' .
-                                                               'いない(3年以上)：' . $lover3n_rate . '%<br>' .
-                                                               'いない(友達以上、恋人未満有)：' . $lover4n_rate . '%<br>' .
-                                                               'その他：' . $lover0others_rate . '%</td>';
+                                                        echo '  <td>既婚 ： ' . $lover1m_rate . '%<br>' .
+                                                               'いる(お付き合い1年未満) ： ' . $lover1e_rate . '%<br>' .
+                                                               'いる(お付き合い1年以上) ： ' . $lover2e_rate . '%<br>' .
+                                                               'いる(お付き合い3年以上) ： ' . $lover3e_rate . '%<br>' .
+                                                               'いない(1年未満) ： ' . $lover1n_rate . '%<br>' .
+                                                               'いない(1年以上) ： ' . $lover2n_rate . '%<br>' .
+                                                               'いない(3年以上) ： ' . $lover3n_rate . '%<br>' .
+                                                               'いない(友達以上、恋人未満有) ： ' . $lover4n_rate . '%<br>' .
+                                                               'その他 ： ' . $lover0others_rate . '%</td>';
                                                         ?>
                                                  </tr>
                                                  <tr>
@@ -247,41 +207,41 @@
                                                         $request16_rate = round($results[35] / $results[38] * 100);
                                                         $request17_rate = round($results[36] / $results[38] * 100);
 
-                                                        echo '  <td>性格・雰囲気：' . $results[20] . '人<br>' .
-                                                               '誠実さ・思い遣り：' . $results[21] . '人<br>' .
-                                                               '容姿・身長：' . $results[22] . '人<br>' .
-                                                               '地位・経済力：' . $results[23] . '人<br>' .
-                                                               '常識・教養：' . $results[24] . '人<br>' .
-                                                               '家事・生活能力：' . $results[25] . '人<br>' .
-                                                               '価値観・金銭感覚の相性：' . $results[26] . '人<br>'.
-                                                               '子供好き・育児参加：' . $results[27] . '人<br>'.
-                                                               '家族関係良好：' . $results[28] . '人<br>'.
-                                                               '年齢：' . $results[29] . '人<br>'.
-                                                               '包容力：' . $results[30] . '人<br>'.
-                                                               'ユーモア・面白さ：' . $results[31] . '人<br>'.
-                                                               'センス：' . $results[32] . '人<br>'.
-                                                               '体の相性・体力：' . $results[33] . '人<br>'.
-                                                               '食事・趣味などの好き嫌いの相性：' . $results[34] . '人<br>'.
-                                                               'ギャンブル・酒癖・喫煙しない：' . $results[35] . '人<br>'.
-                                                               'その他：' . $results[36] . '人</td>';
+                                                        echo '  <td>性格・雰囲気 ： ' . $results[20] . '人<br>' .
+                                                               '誠実さ・思い遣り ： ' . $results[21] . '人<br>' .
+                                                               '容姿・身長 ： ' . $results[22] . '人<br>' .
+                                                               '地位・経済力 ： ' . $results[23] . '人<br>' .
+                                                               '常識・教養 ： ' . $results[24] . '人<br>' .
+                                                               '家事・生活能力 ： ' . $results[25] . '人<br>' .
+                                                               '価値観・金銭感覚の相性 ： ' . $results[26] . '人<br>'.
+                                                               '子供好き・育児参加 ： ' . $results[27] . '人<br>'.
+                                                               '家族関係良好 ： ' . $results[28] . '人<br>'.
+                                                               '年齢 ： ' . $results[29] . '人<br>'.
+                                                               '包容力 ： ' . $results[30] . '人<br>'.
+                                                               'ユーモア・面白さ ： ' . $results[31] . '人<br>'.
+                                                               'センス ： ' . $results[32] . '人<br>'.
+                                                               '体の相性・体力 ： ' . $results[33] . '人<br>'.
+                                                               '食事・趣味などの好き嫌いの相性 ： ' . $results[34] . '人<br>'.
+                                                               'ギャンブル・酒癖・喫煙しない ： ' . $results[35] . '人<br>'.
+                                                               'その他 ： ' . $results[36] . '人</td>';
 
-                                                        echo '  <td>性格・雰囲気：' . $request1_rate . '%<br>' .
-                                                               '誠実さ・思い遣り：' . $request2_rate . '%<br>' .
-                                                               '容姿・身長：' . $request3_rate . '%<br>' .
-                                                               '地位・経済力：' . $request4_rate . '%<br>' .
-                                                               '常識・教養：' . $request5_rate . '%<br>' .
-                                                               '家事・生活能力：' . $request6_rate . '%<br>' .
-                                                               '価値観・金銭感覚の相性：' . $request7_rate . '%<br>'.
-                                                               '子供好き・育児参加：' . $request8_rate . '%<br>'.
-                                                               '家族関係良好：' . $request9_rate . '%<br>'.
-                                                               '年齢：' . $request10_rate . '%<br>'.
-                                                               '包容力：' . $request11_rate . '%<br>'.
-                                                               'ユーモア・面白さ：' . $request12_rate . '%<br>'.
-                                                               'センス：' . $request13_rate . '%<br>'.
-                                                               '体の相性・体力：' . $request14_rate . '%<br>'.
-                                                               '食事・趣味などの好き嫌いの相性：' . $request15_rate . '%<br>'.
-                                                               'ギャンブル・酒癖・喫煙しない：' . $request16_rate . '%<br>'.
-                                                               'その他：' . $request17_rate . '%</td>';
+                                                        echo '  <td>性格・雰囲気 ： ' . $request1_rate . '%<br>' .
+                                                               '誠実さ・思い遣り ： ' . $request2_rate . '%<br>' .
+                                                               '容姿・身長 ： ' . $request3_rate . '%<br>' .
+                                                               '地位・経済力 ： ' . $request4_rate . '%<br>' .
+                                                               '常識・教養 ： ' . $request5_rate . '%<br>' .
+                                                               '家事・生活能力 ： ' . $request6_rate . '%<br>' .
+                                                               '価値観・金銭感覚の相性 ： ' . $request7_rate . '%<br>'.
+                                                               '子供好き・育児参加 ： ' . $request8_rate . '%<br>'.
+                                                               '家族関係良好 ： ' . $request9_rate . '%<br>'.
+                                                               '年齢 ： ' . $request10_rate . '%<br>'.
+                                                               '包容力 ： ' . $request11_rate . '%<br>'.
+                                                               'ユーモア・面白さ ： ' . $request12_rate . '%<br>'.
+                                                               'センス ： ' . $request13_rate . '%<br>'.
+                                                               '体の相性・体力 ： ' . $request14_rate . '%<br>'.
+                                                               '食事・趣味などの好き嫌いの相性 ： ' . $request15_rate . '%<br>'.
+                                                               'ギャンブル・酒癖・喫煙しない ： ' . $request16_rate . '%<br>'.
+                                                               'その他 ： ' . $request17_rate . '%</td>';
                                                         ?>
                                                  </tr>
                                           </tbody>
@@ -295,138 +255,21 @@
                             echo '<p class="link"><i class="far fa-edit"></i><a href="questionnaire.php">アンケートページへ戻る</a></p>';
                             ?>
                      </section>
+                     <?php include('parts/contents.php'); ?>
               </div>
 
               <div id="aside">
-                     <div id="section" class="prof">
-                            <div class="line">ADMINISTRATOR</div>
-
-                            <p><a href="about.html"><img src="gallery/nekotemari.gif" alt="猫カフェ"></a></p>
-
-                            <i class="fas fa-user-circle"></i>
-                            <em3 id="プロフィール"><a href="about.html">し ら ひ ゅ ー</a></em3>
-                            <br><br>
-                            <div id="prof">
-                                   <a href="https://twitter.com/hiyuma?ref_src=twsrc%5Etfw"><i class="fab fa-twitter-square"></i></a>
-                                   <a href="https://line.me/ti/p/MOJmLGebP8"><i class="fab fa-line"></i></a>
-                                   <a href="https://github.com/hiyuma"><i class="fab fa-github"></i></a>
-                                   <a href="https://iFLYER.tv/hiyuma"><i class="fas fa-headphones"></i></a>
-                                   <a href="https://soundcloud.com/hiyuma-shirai"><i class="fab fa-soundcloud"></i></a>
-                                   <a href="mailto:info@developershirai.com"><i class="fas fa-envelope"></i></a>
-                            </div>
-
-                            <p>
-                                   <em5>※プログラミング・英語・投資勉強中※</em5>
-                            </p>
-
-                            <div class="studylist">
-                                   <span><i class="fas fa-paw"></i><a href="jspractice/omikuji.html"><small>今日のねこちゃんおみくじ</small></a></span>
-                                   <br>
-                                   <span><i class="fas fa-compact-disc"></i><a href="music.html"><small>今日の1曲</small></a></span>
-                            </div>
-
-
-                            <p>※お問い合わせは<span class="material-icons">
-                                          email</span><a href="mailto:info@developershirai.com">こちら</a>からお願い致します。
-                            </p>
-
-                            <div class="dog">
-                                   <i class="fas fa-dog fa-spin fa-fw"></i>
-                                   <i class="fas fa-dog fa-fw"></i>
-                                   <i class="fas fa-dog fa-fw"></i>
-                                   <i class="fas fa-dog fa-fw"></i>
-                                   <i class="fas fa-dog fa-fw"></i>
-                                   <i class="fas fa-dog fa-fw"></i>
-                                   <i class="fas fa-dog fa-fw"></i>
-                            </div>
-                     </div>
+              <?php include('parts/prof.php'); ?>
 
                      <div id="recommend"></div>
 
-                     <div id="widget3" class="recommended">
-                            <p> しらひゅー今季オススメ商品 </p>
-                            <hr>
-                            <iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B0111105RE&linkId=512c6f0c12f94bb0f137592a10a7f286&bc1=ffdede&amp;lt1=_blank&fc1=ffffff&lc1=ffffff&bg1=ffdede&f=ifr">
-                            </iframe>
-
-                            <iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B07TYHRWSD&linkId=2bed6eb6894ff64c8503d66ab11a2a6f&bc1=ffdede&amp;lt1=_blank&fc1=ffffff&lc1=ffffff&bg1=ffdede&f=ifr">
-                            </iframe>
-
-                            <iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B08958F7SN&linkId=f3f4ba277c7d3a48bfabd859f650f77f&bc1=ffdede&amp;lt1=_blank&fc1=ffffff&lc1=ffffff&bg1=ffdede&f=ifr">
-                            </iframe>
-
-                            <iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B087S27C9R&linkId=3bdaab26f501463c9acd3a29a5d62100&bc1=ffdede&amp;lt1=_blank&fc1=ffffff&lc1=ffffff&bg1=ffdede&f=ifr">
-                            </iframe>
-
-                            <iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B01LYRR6ON&linkId=ee6892949d4f6788fa2a40f15fa226cf&bc1=ffdede&amp;lt1=_blank&fc1=ffffff&lc1=ffffff&bg1=ffdede&f=ifr">
-                            </iframe>
-
-                            <iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B079QRQTCR&linkId=60aacc8ddec062cf19f685218fd04dbf&bc1=ffdede&amp;lt1=_blank&fc1=ffffff&lc1=ffffff&bg1=ffdede&f=ifr">
-                            </iframe>
-
-                            <iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B07SHC76CH&linkId=68981efda4ec916a307145642e4da6a8&bc1=ffdede&amp;lt1=_blank&fc1=ffffff&lc1=ffffff&bg1=ffdede&f=ifr">
-                            </iframe>
-
-                            <iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B07NQDQWW6&linkId=3a56d256cdb8c2ecce4ec7a25bf7e54e&bc1=ffdede&amp;lt1=_blank&fc1=ffffff&lc1=ffffff&bg1=ffdede&f=ifr">
-                            </iframe>
-                     </div>
-
-                     <div id="widget3" class="switch">
-                            <p>時間に限りがある為
-                                   <br>買うのを我慢している
-                            </p>
-                            <hr>
-                            <iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B07WS7BZYF&linkId=5a3115f776ed0f930bd304d1acc41982&bc1=ffdede&amp;lt1=_blank&fc1=9c9c9c&lc1=707070&bg1=ffdede&f=ifr">
-                            </iframe>
-                     </div>
-
-                     <div id="widget3" class="a8">
-
-                            <a href="https://px.a8.net/svt/ejp?a8mat=3BOCPF+9LBFN6+1WP2+674EP" rel="nofollow">
-                                   <img border="0" width="120" height="60" alt="" src="https://www26.a8.net/svt/bgt?aid=201010515580&wid=001&eno=01&mid=s00000008903001041000&mc=1"></a>
-                            <img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=3BOCPF+9LBFN6+1WP2+674EP" alt="">
-
-                            <a href="https://px.a8.net/svt/ejp?a8mat=3BOCPF+G3ASDU+1JUK+ZRALD" rel="nofollow">
-                                   <img border="0" width="120" height="60" alt="" src="https://www27.a8.net/svt/bgt?aid=201010515973&wid=001&eno=01&mid=s00000007238006006000&mc=1"></a>
-                            <img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=3BOCPF+G3ASDU+1JUK+ZRALD" alt="">
-
-
-                            <a href="https://px.a8.net/svt/ejp?a8mat=3BOCPF+G3W7ZM+1JUK+HXSGH" rel="nofollow">
-                                   <img border="0" width="120" height="60" alt="" src="https://www29.a8.net/svt/bgt?aid=201010515974&wid=001&eno=01&mid=s00000007238003013000&mc=1"></a>
-                            <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=3BOCPF+G3W7ZM+1JUK+HXSGH" alt="">
-
-                            <a href="https://px.a8.net/svt/ejp?a8mat=3BOCPF+A1ZKKY+3AQG+NUES1" rel="nofollow">
-                                   <img border="0" width="120" height="60" alt="" src="https://www27.a8.net/svt/bgt?aid=201010515608&wid=001&eno=01&mid=s00000015388004005000&mc=1"></a>
-                            <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=3BOCPF+A1ZKKY+3AQG+NUES1" alt="">
-
-                            <a href="https://px.a8.net/svt/ejp?a8mat=3BOFU5+7BR2JE+1JUK+61Z81" rel="nofollow">
-                                   <img border="0" width="120" height="60" alt="" src="https://www26.a8.net/svt/bgt?aid=201014573443&wid=002&eno=01&mid=s00000007238001017000&mc=1"></a>
-                            <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=3BOFU5+7BR2JE+1JUK+61Z81" alt="">
-                     </div>
-
-                     <div id="widget3" class="kaimin muji">
-                            <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=21&l=ur1&category=homekitchen&banner=1NB7AKK59M1WYQTVDHR2&f=ifr&linkID=451a6a0a66ce05df3e107787d100902d&t=hiyuma-22&tracking_id=hiyuma-22" width="125" height="125" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-                            <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=21&l=ur1&category=homekitchen&banner=1118RRKGRGP6E53AWF02&f=ifr&linkID=4c1584b22751fff367dd07f4f2d15704&t=hiyuma-22&tracking_id=hiyuma-22" width="125" height="125" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-                     </div>
-
-                     <div id="widget3" class="newlife 214">
-                            <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=21&l=ur1&category=seasons&banner=19V1W74AERWFQE61V102&f=ifr&linkID=343127fbf4d2f1596bee67918b29d55f&t=hiyuma-22&tracking_id=hiyuma-22" width="125" height="125" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-                            <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=21&l=ur1&category=seasons&banner=1ND1EDK3G72PR8RM7582&f=ifr&linkID=cd5377118077b36de8010a41add4b796&t=hiyuma-22&tracking_id=hiyuma-22" width="125" height="125" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-                     </div>
-
-                     <div id="widget3" class="pantri">
-                            <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=294&l=ur1&category=amazonrotate&f=ifr&linkID=6f54d9751c82c3788c8aca8f1c21db08&t=hiyuma-22&tracking_id=hiyuma-22" width="225" height="100" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-                     </div>
+                     <?php include('parts/widget/side_widget.php'); ?>
               </div>
        </main>
 
 
 
-       <footer>
-              <div class="footer">
-                     Copyright © 2020 developershirai All Rights Reserved.
-              </div>
-       </footer>
+       <?php include('parts/footer.php'); ?>
 
        <script type="text/javascript">
               $(function() {
