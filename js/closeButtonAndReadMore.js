@@ -1,12 +1,9 @@
 $(function(){
-  var flg = "off";
   $('.closeButton').on('click', function(){
-    if(flg == "off"){
+    if($(this).text() === 'READ MORE'){
       $(this).text("CLOSE");
-      flg = "on";
     }else{
       $(this).text("READ MORE");
-      flg = "off";
     }
   });
 });

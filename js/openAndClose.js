@@ -1,12 +1,9 @@
 $(function(){
-  var flg = "off";
   $('.accbox label').on('click', function(){
-    if(flg == "off"){
+    if($(this).text() === 'OPEN'){
       $(this).text("CLOSE");
-      flg = "on";
     }else{
       $(this).text("OPEN");
-      flg = "off";
     }
   });
 });
