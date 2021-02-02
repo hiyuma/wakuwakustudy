@@ -2,6 +2,7 @@ table#english-heading{
   border-collapse: collapse;
   border-spacing: 0;
   width: 100%;
+  color: #727272;
 }
 
 table#english-heading tr:last-child{
@@ -93,8 +94,14 @@ table#english-heading th.popular span.inner{
   padding: 10px 0 6px;
 }
 
+.list_wrapper{
+  color: #959595;
+}
+
 .list_wrapper h3{
   text-align:center;
+  color: #8f8f8f;
+  font-weight: normal;
 }
 
 .material-icons.word{

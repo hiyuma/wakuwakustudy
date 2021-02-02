@@ -40,28 +40,31 @@
         <section>
           <div class="line"><i class="fas fa-language"></i>ENGLISH DAILY CONVERSATION</div>
           <P>
-              このページでは、学習中の日常英会話・リスニングで利用している<a href="https://px.a8.net/svt/ejp?a8mat=3BOCPH+BLYC7U+3AQG+ZQ80I" rel="nofollow">	スタディサプリENGLISH（新日常英会話コース）</a>を参考に、よく使いそうな、応用の効くだろう表現を抜粋しながら作成しています。
+              このページでは、学習中の日常英会話・リスニングで利用している<a href="https://px.a8.net/svt/ejp?a8mat=3BOCPH+BLYC7U+3AQG+ZQ80I" rel="nofollow">	スタディサプリ ENGLISH ( 新日常英会話コース ) </a>を参考に、よく使いそうな、応用の効くだろう表現を抜粋しながら作成しています。
               <br><br>
               スタディサプリENGLISH　新日常英会話は、発音・発話練習、リスニング、シャドーイング＆ディクテーションも効率的にできます。	
               <br><br>
-              ここでは音声がないので、<a href="https://px.a8.net/svt/ejp?a8mat=3BOCPH+BLYC7U+3AQG+ZQ80I" rel="nofollow">	スタディサプリENGLISH（新日常英会話コース）</a>
-              とともに、<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=3BOCPH+BLYC7U+3AQG+ZQ80I" alt=""><a
-              href="https://eigosapuri.jp/toeic/?vos=evalstsstopx0000001&fed=ppstp1906003">スタディサプリENGLISH(TOEIC対策)</a>もぜひ使ってみてください。
+              「リスニングPLUS」の”音声変化ディクテーション”を実際にしている動画を撮影しましたので、参考に掲載します。
+              <p><video id="diary" src="movie/engDictation_Trim.mp4" controls poster="movie/engDictation_Moment.jpg"></video></p>
+              発音やスペル、単語などを一度に勉強できるお気に入りのコンテンツです。
+              <br><br>
+              ここでは重要な音声がありませんので、<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=3BOCPH+BLYC7U+3AQG+ZQ80I" alt=""><a
+              href="https://eigosapuri.jp/toeic/?vos=evalstsstopx0000001&fed=ppstp1906003">スタディサプリ ENGLISH ( TOEIC対策 ) </a>も、ぜひ一緒に使ってみてください。
               <br><br>
               使いやすく、目的に合った内容を探すこともできますし、とてもオススメです。
           </P>
 
           <table id="english-heading">
             <tr>
-              <th><a href="english.html">英単語</a><i class="fas fa-angle-double-right"></i></th>
-              <th><a href="english.html">英文法</a><i class="fas fa-angle-double-right"></i></th>
+              <th><a href="english.php">英単語</a><i class="fas fa-angle-double-right"></i></th>
+              <th><a href="english.php">英文法</a><i class="fas fa-angle-double-right"></i></th>
               <th>英会話</th>
             </tr>
           </table>
             <hr>
             <div class="list_wrapper">
-              <p id="english-line1"><i class="fas fa-headset"></i>日常英会話 ( Listening plus Dictation )　※作成中</p>
-              <h3>Class list <i class="fas fa-list-ul"></i></h3>
+              <p id="english-line1"><i class="fas fa-headset"></i>日常英会話 ( Listening plus Dictation )　<em2>※作成中<em2></p>
+              <h3><i class="fas fa-list-ul"></i> Class list </h3>
               <div id="movie-list">
                 <ol>
                   <li value="210"><a href="#beginner1"><i class="fas fa-globe"></i>初級（脱落音）</a></li>
@@ -3923,8 +3926,52 @@
                   <td colspan="2">measuredの子音dとその後のoutの母音ouが連結して「メジャーダウッ」のように聞こえます。</td>
                 </tr>
 
-                <!-- <tr>
+                <tr>
                   <td>341</td>
+                  <td>Kenny likes to sleep on his stomach at night.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">ケニーは夜、うつ伏せに寝るのが好きです。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">sleepの子音pとその後のonの母音oが連結して「スリーポン」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>342</td>
+                  <td>The doctor has ordered the old woman to stay in bed.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">医師はその高齢の女性にベッドに寝ているように指示しました。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">hasの子音sとその後のorderedの母音oが連結して「ハゾーダー」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>343</td>
+                  <td>The fireworks display has been cancelled because of rain.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">雨のため花火大会は中止になっています。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">becauseの子音seとその後のofの母音oが連結して「ビコーゾヴ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>344</td>
+                  <td>Visitors are requested to turn off their cell phones during the show.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">見学者は、ショーの間は携帯電話のスイッチを切るよう求められています。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">turnの子音nとその後のoffの母音oが連結して「ターノフ」のように聞こえます。</td>
+                </tr>
+
+                <!-- <tr>
+                  <td>345</td>
                   <td></td>
                 </tr>
                 <tr>
@@ -3933,7 +3980,61 @@
                 <tr>
                   <td colspan="2"></td>
                 </tr>
- -->
+
+                <tr>
+                  <td>346</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+
+                <tr>
+                  <td>347</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+
+                <tr>
+                  <td>348</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+
+                <tr>
+                  <td>349</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+             
+                <tr>
+                  <td>350</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr> -->
 
 
 
