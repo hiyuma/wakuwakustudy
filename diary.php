@@ -51,6 +51,7 @@
           <!-- list -->
           <div id="schedule0" class="schedule_list">
             <ol>
+              <li value="210"><a href="#20210131">2021年01月31日　「消息」</a></li>
               <li value="210"><a href="#20210113">2021年01月13日　「理を料る」</a></li>
               <li value="210"><a href="#20210106">2021年01月06日　「断々乎たる」</a></li>
               <li value="210"><a href="#20201219">2020年12月19日　「遂げる変遷」</a></li>
@@ -92,13 +93,84 @@
         <p>Move to this first article<a href="#first"><span class="material-icons">south</span></a></p>
 
 
+        <div id="20210131"></div>
+        <br>
+        <p id="avocado"><strong>2021年01月31日 「消息」</strong></p>
+        <div class="accbox">
+          <input type="checkbox" id="消息" class="cssacc" />
+
+          <label for="消息"><span><i class="fas fa-book"></i>READ</span></label>
+          <div class="accshow">
+            <p><img src="gallery/diary/letter.jpg" alt="チャイルドからの手紙"></p>
+            <p><img src="gallery/diary/lettertrans.jpg" alt="チャイルドからの手紙"></p>
+            <em3>写真：Moufidaちゃんからのお手紙（2枚目：1枚目の翻訳）</em3>
+            <br><br>
+            <p>Moufidaちゃんから、2回目のお手紙が届きました。
+            <br><br>
+            誰？と思った方は、よろしければ、<a href="https://developershirai.com/diary.php#20200718">こちら</a>をご覧くださいませ。
+            <br><br>
+            Moufidaちゃんお米が好きなのですね。
+            <br><br>
+            お米はトーゴ産なのでしょうか。
+            <br><br>
+            早速、お返事を送りました。
+            <br><br>
+            長い文章だと削られるようなので、説明などをある程度省きました。
+            <br><br>
+            好きな食べ物の質問には、お米とポテトサラダが好きだと書き、作ったポテトサラダの写真を添付しておきました。
+            <br><br>
+            今知りましたが、マイページなどから自分が送った手紙の内容確認できないのですね。
+            <br><br>
+            さて、話は変わります。
+            <br><br>
+            残念ながら、トーゴでも、徐々に新型コロナウイルス感染拡大しているようです。
+            <br><br>
+            とはいえ、現在の新規感染者が50人前後とのことです。
+            <br><br>
+            日本に比べると圧倒的に少ないですが、増加傾向です。
+            <br><br>
+            それ故に、かなり心配をしていましたが、お手紙が届いたことで少しホッとしました。
+            <br><br>
+            アフリカでは、早めに変異ウイルスが確認されているため、急拡大していかないかと心配しています。
+            <br><br>
+            トーゴでは、医療設備も整っていないとのことです。
+            <br><br>
+            日本は、整っていると思えますが、連携が上手く取れておらず、何をするにも非効率で、後手に回っている印象です。
+            <br><br>
+            慎重さが良い場合もありますが、感染症に関しては先手を取りたいところですよね。
+            <br><br>
+            さらに、強制力のない緊急事態宣言では、効果も薄い様子です。
+            <br><br>
+            本日の東京都新規感染者数は、”633”人でした。
+            <br><br>
+            連日1000人以下となっているも、緊急事態宣言下では一度も500人以下になっていません。           
+            <br><br>
+            家族のいる長野県、北海道も感染者が減少傾向であるため、このまま東京が減少し、収まることを祈りつつ、自粛生活を継続していきます。
+            <br><br>
+            この様なご時世だからこそ、連絡さえ取れれば、会えなくても生きているんだなと、安心することがあります。
+            <br><br>
+            2021年に入ってからサイドワーク、勉強と、より忙しく過ごしていますが、やはり外出はしたいものです。
+            <br><br>
+            友人らとの話では、行きたい場所がたくさんあります。
+            <br><br>
+            せめて、緊急事態宣言が解除されるまでは不要不急の外出をしません。
+            <br><br>
+            感染対策をしっかりしておけば良いって思っていたら、それは違います。
+            <br><br>
+            完全な感染対策は1人ではできません。
+            <br><br>
+            命には変えられません、力を合わせて乗り越えましょう。
+            </p><br><br>
+          </div>
+        </div>
+
         <div id="20210113"></div>
         <br>
         <p id="avocado"><strong>2021年01月13日 「理を料る」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="理を料る" class="cssacc" />
 
-          <label for="理を料る"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="理を料る"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <p><img src="gallery/diary/cheesetomato.jpg" alt="トマトチーズリゾット"></p>
             <em3>写真：トマトチーズリゾット</em3>
@@ -200,7 +272,7 @@
         <div class="accbox">
           <input type="checkbox" id="断々乎たる" class="cssacc" />
 
-          <label for="断々乎たる"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="断々乎たる"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <p><img src="gallery/top/2021Greeting.png" alt="2021年 新年挨拶筆"></p>
             <p>新年明けましておめでとうございます。
@@ -256,7 +328,7 @@
         <div class="accbox">
           <input type="checkbox" id="遂げる変遷" class="cssacc" />
 
-          <label for="遂げる変遷"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="遂げる変遷"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <p>新型コロナ感染拡大以降、地元長野県へ帰省ができていません。
               <br><br>
@@ -357,7 +429,7 @@
         <div class="accbox">
           <input type="checkbox" id="羽翼" class="cssacc" />
 
-          <label for="羽翼"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="羽翼"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <p>株式投資を始めて約6ケ月。
               <br><br>
@@ -449,7 +521,7 @@
         <div class="accbox">
           <input type="checkbox" id="ぬくもる" class="cssacc" />
 
-          <label for="ぬくもる"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="ぬくもる"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <p><img src="gallery/diary/wadahorikouen.jpg" alt="善福寺川緑地"></p>
             <em3>写真：善福寺川緑地</em3>
@@ -531,7 +603,7 @@
         <div class="accbox">
           <input type="checkbox" id="花緑青" class="cssacc" />
 
-          <label for="花緑青"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="花緑青"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <p><img src="gallery/diary/20201008room.jpg"></p>
             <p><img src="gallery/diary/20201008roomB.jpg"></p>
@@ -582,7 +654,7 @@
         <div class="accbox">
           <input type="checkbox" id="竹取物語" class="cssacc" />
 
-          <label for="竹取物語"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="竹取物語"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <p><img src="gallery/diary/20201001B.jpg"></p>
             <p>観月と晩酌を楽しみました。
@@ -644,7 +716,7 @@
         <div class="accbox">
           <input type="checkbox" id="400" class="cssacc" />
 
-          <label for="400"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="400"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <p><video id="diary" src="movie/20200920babysmile.mp4" controls poster="gallery/diary/20200920babysmile.jpg"></video></p>
             <p>アレクサに「おはよう」と言うと、こう言います。
@@ -702,7 +774,7 @@
         <div class="accbox">
           <input type="checkbox" id="赤いお尻" class="cssacc" />
 
-          <label for="赤いお尻"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="赤いお尻"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <p><img src="gallery/diary/20200815peachA.jpg" alt="ワッサー"></p>
             <p>
@@ -760,7 +832,7 @@
         <div class="accbox">
           <input type="checkbox" id="青にちかい碧" class="cssacc" />
 
-          <label for="青にちかい碧"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="青にちかい碧"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <p><img src="gallery/diary/20200809airplane.jpg" alt="空と飛行機"></p>
             <p>梅雨明けから連日の夏日、猛暑日です。
@@ -797,7 +869,7 @@
         <div class="accbox">
           <input type="checkbox" id="つるの恩返し" class="cssacc" />
 
-          <label for="つるの恩返し"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="つるの恩返し"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <p><img src="gallery/diary/oowadajoumu1.png" alt="半沢直樹 大和田常務"></p>
 
@@ -823,7 +895,7 @@
         <div class="accbox">
           <input type="checkbox" id="幸" class="cssacc" />
 
-          <label for="幸"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="幸"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <p><img src="gallery/diary/plan.jpg" alt="PLAN INTERNATIONAL"></p>
             <p><a href="https://www.plan-international.jp/"><i class="fas fa-angle-double-right"></i>プラン・インターナショナル・ジャパン</a></p>
@@ -886,7 +958,7 @@
         <div class="accbox">
           <input type="checkbox" id="叶いますように" class="cssacc" />
 
-          <label for="叶いますように"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="叶いますように"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <img src="gallery/diary/2020tanabata.jpg" alt="七夕">
 
@@ -933,7 +1005,7 @@
         <div class="accbox">
           <input type="checkbox" id="黒柳 徹子" class="cssacc" />
 
-          <label for="黒柳 徹子"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="黒柳 徹子"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <img src="gallery/diary/tamanegi1.jpg" alt="たまねぎ">
             <p>実家の畑で取れた玉ねぎとにんにくが届きました。
@@ -990,7 +1062,7 @@
         <div class="accbox">
           <input type="checkbox" id="共に" class="cssacc" />
 
-          <label for="共に"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="共に"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <img src="gallery/diary/arimon.jpg" alt="ありもん">
             <p>入梅とともにJavaの勉強も佳境に入ってきています。
@@ -1027,7 +1099,7 @@
         <div class="accbox">
           <input type="checkbox" id="風と光" class="cssacc" />
 
-          <label for="風と光"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="風と光"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <p>
               年々、暑さが厳しくなっていくと共に夏グッズも進化していきます。
@@ -1087,7 +1159,7 @@
         <div class="accbox">
           <input type="checkbox" id="重力" class="cssacc" />
 
-          <label for="重力"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="重力"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <p>自粛解除してから1週間。
               <br><br>
@@ -1123,7 +1195,7 @@
         <div class="accbox">
           <input type="checkbox" id="解除" class="cssacc" />
 
-          <label for="解除"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="解除"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <p>わたくし自粛解除しました。
               <br><br>
@@ -1155,7 +1227,7 @@
         <div class="accbox">
           <input type="checkbox" id="酢" class="cssacc" />
 
-          <label for="酢"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="酢"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <img src="gallery/diary/pikurusu.jpg" alt="ピクルス">
             <p>
@@ -1181,7 +1253,7 @@
         <div class="accbox">
           <input type="checkbox" id="大きさ" class="cssacc" />
 
-          <label for="大きさ"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="大きさ"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <img src="gallery/diary/iphoneSE2size.jpg" alt="iphoneSE2">
             <p>
@@ -1219,7 +1291,7 @@
         <div class="accbox">
           <input type="checkbox" id="コスパ" class="cssacc" />
 
-          <label for="コスパ"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="コスパ"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <img src="gallery/diary/s30.jpg" alt="s30">
             <p>タブレットを新調しました。
@@ -1240,7 +1312,7 @@
         <div class="accbox">
           <input type="checkbox" id="立体" class="cssacc" />
 
-          <label for="立体"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="立体"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <img src="gallery/diary/kiyytpen holder.jpg" alt="3dkittydesign">
             <br>
@@ -1269,7 +1341,7 @@
         <div class="accbox">
           <input type="checkbox" id="コントロール" class="cssacc" />
 
-          <label for="コントロール"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="コントロール"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <img src="gallery/diary/ddj200.jpg" alt="ddj200">
             <p>PioneerのスマートDJコントローラー<a href="https://amzn.to/34J96Zg" target="blank">DDJ200</a>が届きました。
@@ -1298,7 +1370,7 @@
         <div class="accbox">
           <input type="checkbox" id="洗えマスク" class="cssacc" />
 
-          <label for="洗えマスク"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="洗えマスク"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <img src="gallery/diary/mask.jpg" alt="洗えマスク">
             <p>夏用 洗えマスクを購入。<a href="https://apparelai.theshop.jp/" target="blank">アパレルアイ株式会社</a>さんが自社商品として使用しているレディースパンツ生地を使用したマスクらしいです。
@@ -1315,7 +1387,7 @@
         <div class="accbox">
           <input type="checkbox" id="時間" class="cssacc" />
 
-          <label for="時間"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="時間"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <img src="gallery/diary/rucksack.jpg" alt="リュックサック">
             <img src="gallery/diary/sneakers.jpg" alt="スニーカー">
@@ -1344,7 +1416,7 @@
         <div class="accbox">
           <input type="checkbox" id="良品" class="cssacc" />
 
-          <label for="良品"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="良品"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <img src="gallery/diary/mujirushi.jpg" alt="AMAZON×無印良品">
             <p>なんと。
@@ -1364,7 +1436,7 @@
         <div class="accbox">
           <input type="checkbox" id="無" class="cssacc" />
 
-          <label for="無"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="無"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <p>やばいです。
               <br><br>
@@ -1381,7 +1453,7 @@
         <div class="accbox">
           <input type="checkbox" id="うっぷん" class="cssacc" />
 
-          <label for="うっぷん"><span><i class="fas fa-book"></i> READ </span></label>
+          <label for="うっぷん"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <img src="gallery/diary/IMG20200503165756.jpg" alt="部屋の壁紙">
             <p>部屋の壁紙張り替えしました。
@@ -1401,7 +1473,7 @@
           <div class="accbox">
             <input type="checkbox" id="糸口" class="cssacc" />
 
-            <label for="糸口"><span><i class="fas fa-book"></i> READ </span></label>
+            <label for="糸口"><span><i class="fas fa-book"></i>READ</span></label>
             <div class="accshow">
               <p>新型コロナ感染拡大の影響で自粛生活へ。
                 <br><br>
