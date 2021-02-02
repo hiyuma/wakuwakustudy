@@ -366,9 +366,7 @@ h1.logo {
 	text-align: center;
 }
 
-.pushbtn {
-	padding-bottom: 50px;
-}
+
 #about #prof {
  border-radius: 50%;
  width: 80%;
@@ -381,27 +379,39 @@ h1.logo {
 	text-align: center;
 }
 
-
+.pushbtn {
+	padding-bottom: 50px;
+}
+.pushbtn .btnArea{
+	text-align: center;
+}
 #work .startbtn {
-	padding: 15px 40px;
-	background: #b5fcd3;
-	display: inlineblock;
+	padding: 5px 20px;
+	background: #aaffcd;
+	display: inline-block;
 	opacity: 0.8;
 	text-decoration: none;
 	box-shadow: 0 10px #46a16a;
 	color: #fff;
 	border-radius: 8px;
 	user-select: none;
+	cursor: pointer;
 }
+
 
 #work .startbtn:hover {
 	opacity: 1;
+	color: rgb(255, 166, 166);
 }
 
 #work .startbtn:active {
 	position: relative;
 	top: 10px;
 	box-shadow: none;
+}
+
+#work .pushbtn a{
+	text-align: center;
 }
 
 .food {
@@ -556,13 +566,13 @@ em1 {
 }
 
 em2 {
-	line-height: 1.6em;
-	font-size: 1.2em;
-	font-weight: bold;
+	line-height: 1.6;
+	font-size: 0.7em;
+	color: rgb(117, 117, 117);
 }
 
 em3 {
-	line-height: 0.8em;
+	line-height: 1.2em;
 	font-size: 0.8em;
 	font-weight: bold;
 	padding-left: 10px;
@@ -572,7 +582,6 @@ em3 {
 em4 {
 	line-height: 1.2em;
 	font-size: 0.9rem;
-	font-weight: lighter;
 	background: linear-gradient(transparent 40%, #fcffa8 10%);
 }
 
@@ -698,7 +707,6 @@ section {
 	border-radius: 25px;
 	background: linear-gradient(-45deg, rgba(255, 247, 247, 0.9), rgba(255, 242, 239, 0.6));
 	justify-content: center;
-	padding: 0;
 	text-align: center;
 }
 #widget3 hr{
@@ -895,6 +903,7 @@ ol#gallery-list li a{
 #english-line1{
 	text-align: center;
 	font-weight: bold;
+	color: #535353;
 }
 #english-line2{
 	text-align: center;
