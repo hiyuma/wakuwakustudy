@@ -1,4 +1,3 @@
-use facebook_twitter_button;
 <!DOCTYPE html>
 <html lang="Ja">
 
@@ -11,14 +10,14 @@ use facebook_twitter_button;
     <meta name="keywords" content="プログラミング,Java,JavaScript,HTML,CSS">
     <title>しらひゅーのわくわくスタディ WORK JavaScript</title>
     <link rel="stylesheet" href="../mystyle.css">
-    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="shortcut icon" href="../favicon.ico" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <div id="page_top">
       <a href="#"></a>
     </div>
 
     <script src="https://kit.fontawesome.com/6256a7882a.js" crossorigin="anonymous"></script>
-    <script src="js/jquery-2.2.4.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script src="js/jquery.easing.1.3.js"></script>
     <div id="page_top"><a href="#"></a></div>
 
@@ -35,6 +34,7 @@ use facebook_twitter_button;
     <main>
 
     <?php include('../parts/menuButton.php'); ?>
+    <?php include('../parts/facebook_twitter_button.php'); ?>
 
     <div id="article">
 
@@ -330,19 +330,21 @@ use facebook_twitter_button;
             </div>
           </ul>
 
+
+
           <p id="avocado"></p>
           <p>
-            <em3>1:下の子たちを優しく押して走らせてください。</em3>
+            <em2>1:下の子たちを優しく押して走らせてください。</em2>
           </p>
           <div class="animal">
-            <div class="box2">　🐈</div>
-            <div class="box2">　🐕</div>
-            <div class="box2">　🐥</div>
+            <div class="box2">🐈</div>
+            <div class="box2">🐕</div>
+            <div class="box2">🐥</div>
           </div>
 
           <p id="avocado"></p>
           <p>
-            <em3>2:下の人たちを押してバネみたいな動きをさせてみましょう。</em3>
+            <em2>2:下の人たちを押してバネみたいな動きをさせてみましょう。</em2>
           </p>
           <div class="animal">
             <div class="box4">🤸🏻‍♂️</div>
@@ -352,7 +354,7 @@ use facebook_twitter_button;
 
           <p id="avocado"></p>
           <p>
-            <em3>3:下の食べ物をクリックして回転させてください。</em3>
+            <em2>3:下の食べ物をクリックして回転させてください。</em2>
           </p>
           <div class="food">
             <div class="box3" id="target1">🍚</div>
@@ -364,13 +366,13 @@ use facebook_twitter_button;
 
           <div class="pushbtn">
             <p id="avocado"></p>
-            <p>
-              <em3>4:下のボタンを押してみてください。</em3>
+            <p><em2>4:下のボタンを0秒になるまで押してください。</em2>
             </p>
-            <p>※端末によっては、ボタンを押しても機能しないかもしれません。（イベント発生なし）</p>
-            <a href="##" class="startbtn">PUSH</a>
-            　<a href="##" class="startbtn">PUSH</a>
-          </div>
+            <p><em4>※0秒になるとアラートが出ます。"OK"を押下していただくか、ページ再読み込みをしてください。</em4></p>
+            <div class="btnArea">
+              <a id="count" class="startbtn" onclick="setTimeout('countDown()',1000);">PUSH</a>
+            </div>
+            </div>
 
 
           <script>
@@ -458,6 +460,9 @@ use facebook_twitter_button;
     </footer>
     <script src="../js/menu.js"></script>
   <script src="../js/href.js"></script>
+  <script src="js/count.js"></script>
+  <script src="js/createString.js"></script>
+  <script src="js/fadeinout.js"></script>
 
   </body>
 
