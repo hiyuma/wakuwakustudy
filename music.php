@@ -404,33 +404,52 @@
         </div>
 
 
-        <!-- <div id="202102XX"></div>
+        <!-- <div id="20210206"></div>
           <!- XX ->
           <hr>
           <div>
-            <p><small> 2021年02月XX日</small></p>
-            <i class="fas fa-headphones-alt"></i>  /  
+            <p><small> 2021年02月06日</small></p>
+            <i class="fas fa-headphones-alt"></i> スカーフとトワレ / Scarf & the SuspenderS 
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
+            <i class="far fa-file-audio"></i> <a href="https://amzn.to/3oIsJsr" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
             <br>
             <em3>
-              時間： 
+              時間： 5:15
               <br>
-              ジャンル： 
+              ジャンル： ヒップホップ
               <br>
-              レーベル： 
+              レーベル： SPACE SHOWER MUSIC
             </em3>
             <br><br>
           </div> -->
 
-        <!-- <div id="20210204"></div>
-          <!- Blessed / Smerz  ->
+          <!-- <div id="20210205"></div>
+          <!-   ->
+          <hr>
+          <div>
+            <p><small> 2021年02月05日</small></p>
+            <i class="fas fa-headphones-alt"></i> Stop & Go (Up the Wall Dub) / The Galleria 
+            <br><br>
+            <i class="far fa-file-audio"></i> <a href="https://amzn.to/2Mk3S1d" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
+            <br>
+            <em3>
+              時間： 6:15
+              <br>
+              ジャンル： ダンス・エレクトロニカ
+              <br>
+              レーベル： Environ
+            </em3>
+            <br><br>
+          </div> -->
+
+        <div id="20210204"></div>
+          <!-- <!- Blessed / Smerz  -> -->
           <hr>
           <div>
             <p><small> 2021年02月04日</small></p>
             <i class="fas fa-headphones-alt"></i> Blessed / Smerz 
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
+            <i class="far fa-file-audio"></i> <a href="https://amzn.to/39HI60b" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
             <br>
             <em3>
               時間： 3:07
@@ -440,11 +459,11 @@
               レーベル： XL Recordings
             </em3>
             <br><br>
-          </div> -->
+          </div>
 
 
-       <!-- <div id="20210203"></div>
-          <!- Sunny's Time (Logic1000 Remix) / カリブー ->
+       <div id="20210203"></div>
+          <!-- <!- Sunny's Time (Logic1000 Remix) / カリブー -> -->
           <hr>
           <div>
             <p><small> 2021年02月03日</small></p>
@@ -460,7 +479,7 @@
               レーベル： PLANCHA
             </em3>
             <br><br>
-          </div> -->
+          </div>
 
         <div id="20210202"></div>
           <!-- <!- Can you / park hye jin -> -->
