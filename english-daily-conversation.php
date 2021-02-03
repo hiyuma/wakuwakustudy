@@ -71,6 +71,7 @@
                   <li value="210"><a href="#intermediate1"><i class="fas fa-globe"></i>中級（脱落音）</a></li>
                   <li value="210"><a href="#beginner2"><i class="fas fa-globe"></i>初級（連結音）</a></li>
                   <li value="210"><a href="#intermediate2"><i class="fas fa-globe"></i>中級（連結音）</a></li>
+                  <li value="210"><a href="#beginner3"><i class="fas fa-globe"></i>初級（同化音）</a></li>
                   <li value="210"><a href="#relations"><i class="fab fa-amazon"></i> RELATIONS</a></li>
                   <li value="210"><a href="#recommend"><i class="fab fa-amazon"></i> しらひゅー推し</a></li>
                 </ol>
@@ -3970,41 +3971,129 @@
                   <td colspan="2">turnの子音nとその後のoffの母音oが連結して「ターノフ」のように聞こえます。</td>
                 </tr>
 
-                <!-- <tr>
+                <tr>
                   <td>345</td>
-                  <td></td>
+                  <td>Ten years have passed since I went to university.</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">大学に行ってから10年が経ちました。</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">sinceの子音ceとその後の母音Iが連結して「シンサイ」のように聞こえます。</td>
                 </tr>
 
                 <tr>
                   <td>346</td>
-                  <td></td>
+                  <td>I heard a rumor that the department will be reorganized.</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">私はその部署が再編されるといううわさを聞きました。</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">heardの子音dとその後の母音aが連結して「ハーダ」のように聞こえます。</td>
                 </tr>
 
                 <tr>
                   <td>347</td>
-                  <td></td>
+                  <td>It’s time to take our yearly trip out to the island.</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">その島への毎年恒例の旅行の時期になりました。</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">tripの子音pとその後のoutの母音ouが連結して「トゥリッパウッ」のように聞こえます。</td>
                 </tr>
 
                 <tr>
                   <td>348</td>
+                  <td>The dough is left for about one hour to rise.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">生地が膨らむよう、約１時間そのままにしておきます。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">forの子音rとその後のaboutの母音aが連結して「フォーラバウッ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>349</td>
+                  <td>Where can we find an experienced architect?</td>
+                </tr>
+                <tr>
+                  <td colspan="2">私たちはどこで経験豊富な建築家を探すことができますか。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">findの子音dとその後のanの母音a、anの子音nとその後のexperiencedの母音eが連結して「ファインダニクスペリエンストゥ」のように聞こえます。</td>
+                </tr>
+             
+                <tr>
+                  <td>350</td>
+                  <td>The letter doesn’t say what the lecture is about.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">その手紙には何についての講義なのかが書いてありません。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">isの子音sとその後のaboutの母音aが連結して「イザバウッ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>351</td>
+                  <td>Any employees who have worked over three years here get a pay raise.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">この会社で勤続３年以上の社員全員に昇給があります。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">workedの子音dとその後のoverの母音oが連結して「ワークトウヴァ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>352</td>
+                  <td>The paint you ordered hasn’t arrived yet.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">あなたが注文したペンキはまだ届いていません。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">hasn’tの子音tとその後のarrivedの母音aが連結して「ハズンタライヴドゥ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>353</td>
+                  <td>Mom hung up the towels outside to dry in the sun.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">お母さんは日光で乾かすためタオルを屋外に掛けました。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">hungの子音gとその後のupの母音uが連結して「ハンガッ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>354</td>
+                  <td>We need to protect our heritage for the next generation.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">私たちは次の世代への遺産を守る必要があります。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">protectの子音tとその後のourの母音ouが連結して「プロテクタワ」のように聞こえます。</td>
+                </tr>
+
+                </tbody>
+            </table>
+
+
+            <div id="begninner3"></div>
+            <table class="table">
+              <tbody>
+                <tr>
+                  <th colspan="2" class="class">初級（同化音）</th>
+                </tr>
+
+                <!-- <tr>
+                  <td>355</td>
                   <td></td>
                 </tr>
                 <tr>
@@ -4015,7 +4104,7 @@
                 </tr>
 
                 <tr>
-                  <td>349</td>
+                  <td>356</td>
                   <td></td>
                 </tr>
                 <tr>
@@ -4024,9 +4113,31 @@
                 <tr>
                   <td colspan="2"></td>
                 </tr>
-             
+
                 <tr>
-                  <td>350</td>
+                  <td>357</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+
+                <tr>
+                  <td>358</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+
+                <tr>
+                  <td>359</td>
                   <td></td>
                 </tr>
                 <tr>
