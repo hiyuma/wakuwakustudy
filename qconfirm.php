@@ -68,11 +68,11 @@ table td{
 
         <p class="line">アンケート結果</p>
         <?php
-        //入力値に不正なデータがないかなどをチェックする関数
+        
         function checkInput($var)
         {
           if (is_array($var)) {
-            //$var が配列の場合、checkInput()関数をそれぞれの要素について呼び出す
+           
             return array_map('checkInput', $var);
           } else {
              //php.iniでmagic_quotes_gpcが「on」の場合の対策
@@ -83,11 +83,11 @@ table td{
             if (preg_match('/\0/', $var)) {
               die('不正な入力（NULLバイト）です。');
             }
-            //文字エンコードのチェック
+            
             if (!mb_check_encoding($var, 'UTF-8')) {
               die('不正な文字エンコードです。');
             }
-            //数値かどうかのチェック 
+            
             if (!ctype_digit($var)) {
               die('不正な入力です。');
             }
@@ -98,9 +98,9 @@ table td{
         //POSTされたデータをチェック
         $_POST = checkInput($_POST);
 
-        $error = 0;  //変数の初期化
+        $error = 0;  
 
-        //性別の入力の検証
+        
         if (isset($_POST['gender'])) {
           $gender = $_POST['gender'];
           if ($gender == 1) {
@@ -110,23 +110,23 @@ table td{
           } else if ($gender == 3) {
             $gendername = '無回答';
           } else {
-            $error = 1;  //入力エラー（値が 1 または 2 以外）
+            $error = 1;  
           }
         } else {
-          $error = 1;  //入力エラー（値が未定義）
+          $error = 1;  
         }
 
-        //年齢の入力の検証
+        
         if (isset($_POST['age'])) {
           $age = $_POST['age'];
           if ($age < 1 || $age > 8) {
-            $error = 1;  //入力エラー（値が1-8以外）
+            $error = 1;  
           }
         } else {
-          $error = 1;  //入力エラー（値が未定義）
+          $error = 1;  
         }
 
-        //恋人いるいないの入力の検証
+       
         if (isset($_POST['lover'])) {
           $lover = $_POST['lover'];
           if ($lover == 1) {
@@ -148,26 +148,26 @@ table td{
           } else if ($lover == 9) {
             $loverStatus = 'その他';
           } else {
-            $error = 1;  //入力エラー（値が 1 または 2 以外）
+            $error = 1;  
           }
         } else {
-          $error = 1;  //入力エラー（値が未定義）
+          $error = 1;  
         }
 
-        //求めるものの入力の検証
+        
         if (isset($_POST['request'])) {
           $request = $_POST['request'];
           if (is_array($request)) {
             foreach ($request as $value) {
               if ($value < 0 || $value > 16) {
-                $error = 1;  //入力エラー（値が0-16以外）
+                $error = 1; 
               }
             }
           } else {
-            $error = 1;  //入力エラー（値が配列ではない）
+            $error = 1;  
           }
         } else {
-          $error = 1;  //入力エラー（値が未定義）
+          $error = 1;  
         }
 
         //エラーがない場合の処理（結果の表示）
@@ -246,10 +246,8 @@ table td{
           }
           echo '</td></tr></tbody></table>';
 
-          //アンケート結果を保存するテキストファイルを指定
           $textfile = '../log/log.txt';
 
-          //読み込み／書き出し用にオープン (r+) 'b' フラグを指定
           $fp = fopen($textfile, 'r+b');
           if (!$fp) {
             exit('ファイルが存在しないか異常があります');

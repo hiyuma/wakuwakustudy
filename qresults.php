@@ -73,9 +73,8 @@
               <div id="article">
                      <section>
                             <?php
-                            //アンケート結果が保存するたテキストファイルを指定
                             $textfile = '../log/log.txt';
-                            //ファイルを開く
+                            
                             $fp = fopen($textfile, 'rb');   //rで読み込みモード、bで互換性維持 
 
                             if (!$fp) {  //fopen()関数の戻り値を検証
@@ -92,7 +91,7 @@
                                    $results[] = trim(fgets($fp));
                             }
 
-                            if ($results[38] != 0) {  //アンケート結果が0でなければ集計
+                            if ($results[38] != 0) {  
                                    echo '<p>アンケートの集計結果：総数 ' . $results[38] . ' 件</p>';
 
                             ?>
@@ -109,7 +108,7 @@
                                                  <tr>
                                                         <td>性別</td>
                                                         <?php
-                                                        // 男女の比率計算
+                                                        
                                                         $male_rate   = round($results[0] / $results[38] * 100);
                                                         $female_rate = round($results[1] / $results[38] * 100);
                                                         $others_rate = round($results[2] / $results[38] * 100);
@@ -248,7 +247,7 @@
                                    </table>
                             <?php
                             } else {
-                                   // アンケートデータがない場合
+                                   
                                    echo '  <p class="msg">表示できるようなアンケートデータがありません。</p>';
                             }
                             fclose($fp);
