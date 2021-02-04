@@ -2,8 +2,8 @@
 <?php
 //データベースへ接続
 $dsn = 'mysql:dbname=developershirai_user;host=localhost;charset=utf8';
-$user = 'developershirai_user';
-$password = 'post2021';
+$user = 'root';
+$password = '';
 
 try {
   $db = new PDO($dsn, $user, $password);
