@@ -404,7 +404,7 @@
         </div>
 
 
-        <!-- <div id="20210206"></div>
+        <!-- <div id="20210207"></div>
           <!- XX ->
           <hr>
           <div>
@@ -419,6 +419,26 @@
               ジャンル： ヒップホップ
               <br>
               レーベル： SPACE SHOWER MUSIC
+            </em3>
+            <br><br>
+          </div> -->
+
+
+          <!-- <div id="20210206"></div>
+          <!-   ->
+          <hr>
+          <div>
+            <p><small> 2021年02月06日</small></p>
+            <i class="fas fa-headphones-alt"></i> Oh No / Jessy Lanza 
+            <br><br>
+            <i class="far fa-file-audio"></i> <a href="https://amzn.to/3tslt7y" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
+            <br>
+            <em3>
+              時間： 4:41
+              <br>
+              ジャンル： ダンス・エレクトロニカ
+              <br>
+              レーベル： Plugz
             </em3>
             <br><br>
           </div> -->

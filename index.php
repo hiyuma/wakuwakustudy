@@ -74,7 +74,7 @@
                      </em4>
                      <br><br>
                      <div class="line">STUDY LIST <i class="fas fa-pencil-alt"></i></div>
-                     <div class="items"><span style="font-weight: normal;">2021年02月03日 現在</span>
+                     <div class="items"><span style="font-weight: normal;">2021年02月04日 現在</span>
 
                             <div class="accbox2">
                                    <input type="checkbox" id="studylistopen" class="cssacc2">
@@ -105,6 +105,10 @@
                      <ul class="info">
 
                             <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
+
+                            <li>2021年02月04日</li>
+                            <div class="info-children"><span><a href="jspractice/work.php">WORK</a>更新</span>
+                            </div>
 
                             <li>2021年02月02日</li>
                             <div class="info-children">
@@ -818,6 +822,18 @@
                                           href="" target="blank" rel="noopener">
                                           </a></li>
                                    <hr> -->
+
+                            2021年02月04日
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG043BP0U1A200C2000000/" target="blank" rel="noopener">
+                                          東京都、新たに734人感染　新型コロナ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQOGR03E3L0T00C21A2000000/" target="blank" rel="noopener">
+                                          変異ウイルス対応ワクチン、開発相次ぐ　英グラクソなど</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXKZO68785140T00C21A2TCS000/" target="blank" rel="noopener">
+                                          コロナワクチン 日本の課題</a></li>
+                                   <hr>
 
                             2021年02月03日
                                    <li><i class="far fa-file-alt"></i><a
