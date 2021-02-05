@@ -74,7 +74,7 @@
                      </em4>
                      <br><br>
                      <div class="line">STUDY LIST <i class="fas fa-pencil-alt"></i></div>
-                     <div class="items"><span style="font-weight: normal;">2021年02月04日 現在</span>
+                     <div class="items"><span style="font-weight: normal;">2021年02月05日 現在</span>
 
                             <div class="accbox2">
                                    <input type="checkbox" id="studylistopen" class="cssacc2">
@@ -82,14 +82,13 @@
 
                                    <div class="accshow2">
                                           <li>PROGRAMMING</li>
-                                          <div class="info-children"><span>WEBアプリケーション開発（PHP / Java/ JavaScript /
-                                                        JSP/ Servlet
-                                                        / MySQL / Linux / Spring）</span></div>
+                                          <div class="info-children"><span>WEBアプリケーション開発（PHP / AWS )</span></div>
+                                          <div class="info-children"><span>修学済：Java/ JavaScript / JSP/ Servlet / MySQL / Linux / Git ）</span></div>
                                           <li>ENGLISH</li>
+                                          <div class="info-children"><span>Dictation(スタディサプリ)</span></div>
                                           <div class="info-children"><span>Word / Listening / Writing /
                                                         Dictation(スタディサプリ)
-                                                        Listening(NHK即レス英会話,MOVIES) / Online
-                                                        Conversation(レアジョブ)</span></div>
+                                                        Listening(NHK即レス英会話,MOVIES) / Online Conversation(DMM英会話)</span></div>
                                           <li>INVESTMENT</li>
                                           <div class="info-children"><span>LINE証券 / LINEスマート投資 / つみたてNISA</span>
                                           </div>
@@ -106,9 +105,15 @@
 
                             <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
-                            <li>2021年02月04日</li>
-                            <div class="info-children"><span><a href="jspractice/work.php">WORK</a>更新</span>
+
+                            <li>2021年02月05日</li>
+                            <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">テクニカルな日記</a> 作成</span>
                             </div>
+
+                            <li>2021年02月04日</li>
+                            <div class="info-children"><span><a href="jspractice/work.php">WORK</a> 更新</span>
+                            </div>
+
 
                             <li>2021年02月02日</li>
                             <div class="info-children">
@@ -120,7 +125,7 @@
 
                             <li>2021年02月02日</li>
                             <div class="info-children">
-                                   <span><a href="diary.php">DIARY</a>他、READ⇔CLOSEバグJSコード修正</span></div>
+                                   <span><a href="diary.php">DIARY</a>他、READ⇔CLOSE JSコードバグ修正</span></div>
 
                             <li>2021年02月01日</li>
                             <div class="info-children">
@@ -822,6 +827,17 @@
                                           href="" target="blank" rel="noopener">
                                           </a></li>
                                    <hr> -->
+                            2021年02月05日
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG0521Z0V00C21A2000000/" target="blank" rel="noopener">
+                                          東京都、新たに577人感染　新型コロナ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQOGG011970R00C21A2000000/" target="blank" rel="noopener">
+                                          見てわかる変異ウイルス　新型コロナ、感染力増も</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG053530V00C21A2000000/" target="blank" rel="noopener">
+                                          抗体保有は東京で0.91%、依然低く　コロナで厚労省調査</a></li>
+                                   <hr>
 
                             2021年02月04日
                                    <li><i class="far fa-file-alt"></i><a
