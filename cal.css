@@ -1,22 +1,26 @@
-#schedule0 li a{
-  color: rgb(117, 117, 117);
-  text-decoration: none;
+#schedule0 li a {
+	color: rgb(117, 117, 117);
+	text-decoration: none;
 }
 
 div.cal_wrapper {
-  width: 100%;
-  text-align: center;
-	padding: 10px 0px;
-}
-div.schedule_wrapper {
-	padding: 10px 0px;
 	width: 100%;
-	border: solid 1px #CCC;
-	border-radius: 10px;
-	box-shadow: 1px 1px 1px rgb(212, 212, 212);
+	text-align: center;
+	padding: 10px 0px;
 }
-div.schedule_wrapper ol{
+
+div.schedule_wrapper {
+	padding: 10px;
+	width: 100%;
+	border: solid 1px rgb(219, 219, 219);
 	border-radius: 10px;
+	box-shadow: 2px 2px 15px rgb(221, 221, 221);
+}
+
+div.schedule_wrapper ol {
+	border-radius: 10px;
+	padding: 10px;
+	background: linear-gradient(-45deg, rgba(221, 220, 220, 0.6), rgba(255, 236, 234, 0.9), rgba(218, 251, 237, 0.8));
 }
 
 div.schedule_wrapper h3 {
@@ -26,25 +30,38 @@ div.schedule_wrapper h3 {
 	font-size: 16px;
 	color: #666;
 }
+
 div.schedule_wrapper div.schedule_list {
-	padding: 0px 10px;
+	padding: 10px;
 	margin: 0px;
 }
+
 div.schedule_wrapper div.schedule_list ol {
 	height: 200px;
 	overflow-y: scroll;
-	padding: 0px;
-	margin: 5px auto;
+	padding: 0;
+  position: relative;
 	border-top: solid 1px #CCC;
+
 }
+
 div.schedule_wrapper div.schedule_list ol li {
-	padding: 5px 10px 0px 0px;
-	margin: 0px 0px 0px 30px;
+	padding: 5px 5px 2px 5px;
+	margin: 5px;
 	font-size: 13px;
 	line-height: 1.8em;
+	color: rgb(146, 146, 146);
+	border-left: solid 8px rgba(255, 200, 200, 0.7);
+	background: rgba(245, 245, 245, 0.8);
+	list-style-type: none
 }
+
 div.schedule_wrapper div.schedule_list ol li:hover {
 	text-decoration: underline;
+	color: rgb(255, 210, 210);
+}
+div.schedule_wrapper div.schedule_list ol li a:hover{
+	color: rgb(255, 210, 210);
 }
 div.cal_wrapper table.cal tr th p {
 	float: left;
@@ -53,9 +70,11 @@ div.cal_wrapper table.cal tr th p {
 	color: #666;
 	font-size: 12px;
 }
+
 div.cal_wrapper table.cal tr th div.cal_ui {
 	float: right;
 }
+
 div.cal_wrapper table.cal tr th div.cal_ui input {
 	border: solid 1px rgb(214, 214, 214);
 	background-color: #FFF;
@@ -65,21 +84,26 @@ div.cal_wrapper table.cal tr th div.cal_ui input {
 	padding: 1px 5px;
 	border-radius: 10px;
 }
+
 div.cal_wrapper table.cal tr td {
 	border-top: solid 1px rgb(187, 187, 187);
 }
+
 div.cal_wrapper table.cal tr td {
 	font-size: 10px;
 	text-align: center;
 	padding: 2px
 }
+
 div.cal_wrapper table.cal tr.headline td {
 	padding: 5px 0px;
 	color: rgb(129, 129, 129);
 }
+
 div.cal_wrapper table.cal tr.headline {
 	background-color: #EEE;
 }
+
 div.cal_wrapper table.cal tr td div {
 	position: relative;
 	padding: 5px 15px;
@@ -89,6 +113,7 @@ div.cal_wrapper table.cal tr td div {
 	background-color: #FFF;
 	border-radius: 10px;
 }
+
 div.cal_wrapper table.cal tr td div span {
 	display: none;
 	position: absolute;
@@ -111,20 +136,25 @@ div.cal_wrapper table.cal tr td div span {
 div.cal_wrapper table.cal tr td div.Sat {
 	color: #00F;
 }
+
 div.cal_wrapper table.cal tr td div.Sun {
 	color: #F00;
 }
+
 div.cal_wrapper table.cal tr td div.Today {
 	font-weight: bolder;
 }
+
 div.cal_wrapper table.cal tr td div.Deli {
 	background-color: #EFE;
 }
+
 div.cal_wrapper table.cal tr td div.Holyday {
 	font-weight: bolder;
 	color: #F00;
 	background-color: #FEE;
 }
+
 div.cal_wrapper table.cal tr td div.Birthday {
 	font-weight: bolder;
 	background-color: #EEF;
@@ -138,9 +168,11 @@ div.cal_wrapper table.cal tr td div.backward {
 	background-color: #FFF;
 	border-radius: 10px;
 }
+
 div.cal_wrapper table.cal tr td div.pointer {
 	cursor: pointer;
 }
+
 div.cal_wrapper table.cal tr td div.pointer:hover {
 	background-color: rgb(167, 167, 167);
 }

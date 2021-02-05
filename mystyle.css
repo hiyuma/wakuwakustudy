@@ -21,6 +21,22 @@ body:before {
 	background-size: cover;
 }
 
+::-webkit-scrollbar {
+	border-radius: 13px;
+	background: rgba(255, 255, 255, 0.6);
+	width: 17px;
+}
+::-webkit-scrollbar-track {
+border-radius: 17px;
+box-shadow: inset 1px 1px 1px rgba(255, 255, 255, 0.8);
+}
+::-webkit-scrollbar-thumb {
+background: linear-gradient(-45deg, rgba(179, 179, 179, 0.6), 
+rgba(200, 200, 200, 0.9), rgba(238, 238, 238, 0.8));
+border-radius: 17px;
+border: solid 1px rgba(255, 255, 255, 0.6);
+}
+
 #ChristmasTree {
 	margin: 30px auto;
 }
@@ -578,7 +594,8 @@ button.showResult {
 }
 
 #top-img {
-	width: 100%;
+	margin-left: 2%;
+	width: 95%;
 }
 
 #about {
@@ -1301,17 +1318,18 @@ h3#movies-title {
 	display: inline-block;
 	margin: 1.5px 0;
 	padding: 5px;
-	color: #535353;
-	font-weight: bold;
+	font-size: smaller;
+	color: #808080;
 	cursor: pointer;
 	transition: all 1s;
 }
 
 .accbox label:after {
+	font-weight: bold;
 	padding-left: 15px;
 	content: '\f107';
 	font-family: 'Font Awesome 5 free';
-	color: #808080;
+	color: #8b8b8b;
 }
 
 .accbox label:hover {
@@ -1444,6 +1462,7 @@ p#impression {
 	border-top: 0.7px solid rgba(179, 179, 179, 0.8);
 	line-height: 45px;
 	margin: 0 auto;
+	color: #747474;
 }
 
 #page_top {
