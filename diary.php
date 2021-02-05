@@ -44,45 +44,48 @@
         <p>
           <image id="top-img" src="gallery/top/diary3.png" alt="">
         </p>
-        <p>日記は定期的に書くかもしれないし、書かないかもしれない。</p>
+        <p>日記は、定期的に書くかもしれないし、書かないかもしれない。
+          <br><br>
+          このサイトの変更点や、パソコンなどのトラブルシューティング、プログラミング用メモなど、<a href="https://developershirai.com/technical-diary.php">テクニカルな日記</a>みたいなページを作成しました。
+        </p>
 
         <div class="schedule_wrapper">
           <h3><i class="far fa-list-alt"></i>　Diary list</h3>
           <!-- list -->
           <div id="schedule0" class="schedule_list">
-            <ol>
-              <li value="210"><a href="#20210131">2021年01月31日　「消息」</a></li>
-              <li value="210"><a href="#20210113">2021年01月13日　「理を料る」</a></li>
-              <li value="210"><a href="#20210106">2021年01月06日　「断々乎たる」</a></li>
-              <li value="210"><a href="#20201219">2020年12月19日　「遂げる変遷」</a></li>
-              <li value="210"><a href="#20201129">2020年11月29日　「羽翼」</a></li>
-              <li value="210"><a href="#20201117">2020年11月17日　「ぬくもる」</a></li>
-              <li value="210"><a href="#20201008">2020年10月08日　「花緑青」</a></li>
-              <li value="210"><a href="#20201002">2020年10月02日　「竹取物語」</a></li>
-              <li value="210"><a href="#20200920">2020年09月20日　「400」</a></li>
-              <li value="210"><a href="#20200830">2020年08月30日　「赤いお尻」</a></li>
-              <li value="210"><a href="#20200809">2020年08月09日　「青にちかい碧」</a></li>
-              <li value="210"><a href="#20200722">2020年07月22日　 「つるの恩返し」</a></li>
-              <li value="210"><a href="#20200718">2020年07月18日　「幸」</a></li>
-              <li value="210"><a href="#20200711">2020年07月11日　「叶いますように」</a></li>
-              <li value="210"><a href="#20200625">2020年06月25日　「黒柳 徹子」</a></li>
-              <li value="210"><a href="#20200618">2020年06月18日　「共に」</a></li>
-              <li value="210"><a href="#20200614">2020年06月14日　「風と光」</a></li>
-              <li value="210"><a href="#20200607">2020年06月07日　「重力」</a></li>
-              <li value="210"><a href="#20200601">2020年06月01日　「解除」</a></li>
-              <li value="210"><a href="#20200531">2020年05月31日　「酢」</a></li>
-              <li value="210"><a href="#20200529">2020年05月29日　「大きさ」</a></li>
-              <li value="210"><a href="#20200524">2020年05月24日　「コスパ」</a></li>
-              <li value="210"><a href="#20200517">2020年05月17日　「コントロール」</a></li>
-              <li value="210"><a href="#20200515">2020年05月15日　「洗えます」</a></li>
-              <li value="210"><a href="#20200514">2020年05月14日　「時間」</a></li>
-              <li value="210"><a href="#20200509">2020年05月09日　「良品」</a></li>
-              <li value="210"><a href="#20200505">2020年05月05日　「無」</a></li>
-              <li value="210"><a href="#20200503">2020年05月03日　「うっぷん」</a></li>
-              <li value="210"><a href="#20200322">2020年03月22日　「糸口」</a></li>
+            <ol reversed>
+              <li><a href="#20210131"> 2021年01月31日　「消息」</a></li>
+              <li><a href="#20210113"> 2021年01月13日　「理を料る」</a></li>
+              <li><a href="#20210106"> 2021年01月06日　「断々乎たる」</a></li>
+              <li><a href="#20201219"> 2020年12月19日　「遂げる変遷」</a></li>
+              <li><a href="#20201129"> 2020年11月29日　「羽翼」</a></li>
+              <li><a href="#20201117"> 2020年11月17日　「ぬくもる」</a></li>
+              <li><a href="#20201008"> 2020年10月08日　「花緑青」</a></li>
+              <li><a href="#20201002"> 2020年10月02日　「竹取物語」</a></li>
+              <li><a href="#20200920"> 2020年09月20日　「400」</a></li>
+              <li><a href="#20200830"> 2020年08月30日　「赤いお尻」</a></li>
+              <li><a href="#20200809"> 2020年08月09日　「青にちかい碧」</a></li>
+              <li><a href="#20200722"> 2020年07月22日　 「つるの恩返し」</a></li>
+              <li><a href="#20200718"> 2020年07月18日　「幸」</a></li>
+              <li><a href="#20200711"> 2020年07月11日　「叶いますように」</a></li>
+              <li><a href="#20200625"> 2020年06月25日　「黒柳 徹子」</a></li>
+              <li><a href="#20200618"> 2020年06月18日　「共に」</a></li>
+              <li><a href="#20200614"> 2020年06月14日　「風と光」</a></li>
+              <li><a href="#20200607"> 2020年06月07日　「重力」</a></li>
+              <li><a href="#20200601"> 2020年06月01日　「解除」</a></li>
+              <li><a href="#20200531"> 2020年05月31日　「酢」</a></li>
+              <li><a href="#20200529"> 2020年05月29日　「大きさ」</a></li>
+              <li><a href="#20200524"> 2020年05月24日　「コスパ」</a></li>
+              <li><a href="#20200517"> 2020年05月17日　「コントロール」</a></li>
+              <li><a href="#20200515"> 2020年05月15日　「洗えます」</a></li>
+              <li><a href="#20200514"> 2020年05月14日　「時間」</a></li>
+              <li><a href="#20200509"> 2020年05月09日　「良品」</a></li>
+              <li><a href="#20200505"> 2020年05月05日　「無」</a></li>
+              <li><a href="#20200503"> 2020年05月03日　「うっぷん」</a></li>
+              <li><a href="#20200322"> 2020年03月22日　「糸口」</a></li>
 
-              <li value="210"><a href="#recommend"><i class="fab fa-amazon"></i>　しらひゅー推し</a></li>
-              <li value="210"><a href="#amazon"><i class="fab fa-amazon"></i>　DIARY RELATIONS</a></li>
+              <li><a href="#recommend"> <i class="fab fa-amazon"></i> しらひゅー推し</a></li>
+              <li><a href="#amazon"> <i class="fab fa-amazon"></i> DIARY RELATIONS</a></li>
             </ol>
           </div>
         </div>
@@ -95,7 +98,7 @@
 
         <div id="20210131"></div>
         <br>
-        <p id="avocado"><strong>2021年01月31日 「消息」</strong></p>
+        <p id="avocado"><strong>　2021年01月31日 「消息」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="消息" class="cssacc" />
 
@@ -166,7 +169,7 @@
 
         <div id="20210113"></div>
         <br>
-        <p id="avocado"><strong>2021年01月13日 「理を料る」</strong></p>
+        <p id="avocado"><strong>　2021年01月13日 「理を料る」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="理を料る" class="cssacc" />
 
@@ -175,7 +178,7 @@
             <p><img src="gallery/diary/cheesetomato.jpg" alt="トマトチーズリゾット"></p>
             <em3>写真：トマトチーズリゾット</em3>
             <br><br>
-            <p>2021年、とまとブームが再燃しました。
+            <p>　2021年、とまとブームが再燃しました。
               <br><br>
               定期的に、Amazonでトマトジュースの箱買いしています。
             <p><a href="https://amzn.to/39pRXGs"><img src="gallery/diary/tomato.jpg" alt="トマトジュース"></a></p>
@@ -268,7 +271,7 @@
 
         <div id="20210106"></div>
         <br>
-        <p id="avocado"><strong>2021年01月06日 「断々乎たる」</strong></p>
+        <p id="avocado"><strong>　2021年01月06日 「断々乎たる」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="断々乎たる" class="cssacc" />
 
@@ -324,7 +327,7 @@
 
         <div id="20201219"></div>
         <br>
-        <p id="avocado"><strong>2020年12月19日 「遂げる変遷」</strong></p>
+        <p id="avocado"><strong>　2020年12月19日 「遂げる変遷」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="遂げる変遷" class="cssacc" />
 
@@ -425,7 +428,7 @@
 
         <div id="20201129"></div>
         <br>
-        <p id="avocado"><strong>2020年11月29日 「羽翼」</strong></p>
+        <p id="avocado"><strong>　2020年11月29日 「羽翼」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="羽翼" class="cssacc" />
 
@@ -517,7 +520,7 @@
 
         <div id="20201117"></div>
         <br>
-        <p id="avocado"><strong>2020年11月17日 「ぬくもる」</strong></p>
+        <p id="avocado"><strong>　2020年11月17日 「ぬくもる」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="ぬくもる" class="cssacc" />
 
@@ -599,7 +602,7 @@
 
         <div id="20201008"></div>
         <br>
-        <p id="avocado"><strong>2020年10月08日 「花緑青」</strong></p>
+        <p id="avocado"><strong>　2020年10月08日 「花緑青」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="花緑青" class="cssacc" />
 
@@ -650,7 +653,7 @@
 
         <div id="20201002"></div>
         <br>
-        <p id="avocado"><strong>2020年10月02日 「竹取物語」</strong></p>
+        <p id="avocado"><strong>　2020年10月02日 「竹取物語」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="竹取物語" class="cssacc" />
 
@@ -712,7 +715,7 @@
 
         <div id="20200920"></div>
         <br>
-        <p id="avocado"><strong>2020年09月20日 「400」</strong></p>
+        <p id="avocado"><strong>　2020年09月20日 「400」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="400" class="cssacc" />
 
@@ -770,7 +773,7 @@
 
         <div id="20200830"></div>
         <br>
-        <p id="avocado"><strong>2020年08月30日 「赤いお尻」</strong></p>
+        <p id="avocado"><strong>　2020年08月30日 「赤いお尻」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="赤いお尻" class="cssacc" />
 
@@ -828,7 +831,7 @@
 
         <div id="20200809"></div>
         <br>
-        <p id="avocado"><strong>2020年08月09日 「青にちかい碧」</strong></p>
+        <p id="avocado"><strong>　2020年08月09日 「青にちかい碧」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="青にちかい碧" class="cssacc" />
 
@@ -865,7 +868,7 @@
 
         <div id="20200722"></div>
         <br>
-        <p id="avocado"><strong>2020年07月22日 「つるの恩返し」</strong></p>
+        <p id="avocado"><strong>　2020年07月22日 「つるの恩返し」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="つるの恩返し" class="cssacc" />
 
@@ -891,7 +894,7 @@
 
         <div id="20200718"></div>
         <br>
-        <p id="avocado"><strong>2020年07月18日 「幸」</strong></p>
+        <p id="avocado"><strong>　2020年07月18日 「幸」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="幸" class="cssacc" />
 
@@ -954,7 +957,7 @@
 
         <div id="20200711"></div>
         <br>
-        <p id="avocado"><strong>2020年07月11日 「叶いますように」</strong></p>
+        <p id="avocado"><strong>　2020年07月11日 「叶いますように」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="叶いますように" class="cssacc" />
 
@@ -1001,7 +1004,7 @@
 
         <div id="20200625"></div>
         <br>
-        <p id="avocado"><strong>2020年06月25日「黒柳 徹子」</strong></p>
+        <p id="avocado"><strong>　2020年06月25日「黒柳 徹子」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="黒柳 徹子" class="cssacc" />
 
@@ -1058,7 +1061,7 @@
 
         <div id="20200618"></div>
         <br>
-        <p id="avocado"><strong>2020年06月18日 「共に」</strong></p>
+        <p id="avocado"><strong>　2020年06月18日 「共に」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="共に" class="cssacc" />
 
@@ -1095,7 +1098,7 @@
 
         <div id="20200614"></div>
         <br>
-        <p id="avocado"><strong>2020年06月14日 「風と光」</strong></p>
+        <p id="avocado"><strong>　2020年06月14日 「風と光」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="風と光" class="cssacc" />
 
@@ -1155,7 +1158,7 @@
 
         <div id="20200607"></div>
         <br>
-        <p id="avocado"><strong>2020年06月07日「重力」</strong></p>
+        <p id="avocado"><strong>　2020年06月07日「重力」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="重力" class="cssacc" />
 
@@ -1191,7 +1194,7 @@
 
         <div id="20200601"></div>
         <br>
-        <p id="avocado"><strong>2020年06月01日 「解除」</strong></p>
+        <p id="avocado"><strong>　2020年06月01日 「解除」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="解除" class="cssacc" />
 
@@ -1222,7 +1225,7 @@
 
         <div id="20200531"></div>
         <br>
-        <p id="avocado"><strong>2020年05月31日 「酢」</strong></p>
+        <p id="avocado"><strong>　2020年05月31日 「酢」</strong></p>
 
         <div class="accbox">
           <input type="checkbox" id="酢" class="cssacc" />
@@ -1249,7 +1252,7 @@
 
         <div id="20200529"></div>
         <br>
-        <p id="avocado"><strong>2020年05月29日 「大きさ」</strong></p>
+        <p id="avocado"><strong>　2020年05月29日 「大きさ」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="大きさ" class="cssacc" />
 
@@ -1287,7 +1290,7 @@
 
         <div id="20200524"></div>
         <br>
-        <p id="avocado"><strong>2020年05月24日 「コスパ」</strong></p>
+        <p id="avocado"><strong>　2020年05月24日 「コスパ」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="コスパ" class="cssacc" />
 
@@ -1308,7 +1311,7 @@
 
         <div id="20200522"></div>
         <br>
-        <p id="avocado"><strong>2020年05月22日 「立体」</strong></p>
+        <p id="avocado"><strong>　2020年05月22日 「立体」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="立体" class="cssacc" />
 
@@ -1337,7 +1340,7 @@
 
         <div id="20200517"></div>
         <br>
-        <p id="avocado"><strong>2020年05月17日 「コントロール」</strong></p>
+        <p id="avocado"><strong>　2020年05月17日 「コントロール」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="コントロール" class="cssacc" />
 
@@ -1366,7 +1369,7 @@
 
         <div id="20200515"></div>
         <br>
-        <p id="avocado"><strong>2020年05月15日 「洗えマスク」</strong></p>
+        <p id="avocado"><strong>　2020年05月15日 「洗えマスク」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="洗えマスク" class="cssacc" />
 
@@ -1383,7 +1386,7 @@
 
         <div id="20200514"></div>
         <br>
-        <p id="avocado"><strong>2020年05月14日 「時間」</strong></p>
+        <p id="avocado"><strong>　2020年05月14日 「時間」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="時間" class="cssacc" />
 
@@ -1412,7 +1415,7 @@
 
         <div id="20200509"></div>
         <br>
-        <p id="avocado"><strong>2020年05月09日 「良品」</strong></p>
+        <p id="avocado"><strong>　2020年05月09日 「良品」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="良品" class="cssacc" />
 
@@ -1432,7 +1435,7 @@
 
         <div id="20200505"></div>
         <br>
-        <p id="avocado"><strong>2020年05月05日 「無」</strong></p>
+        <p id="avocado"><strong>　2020年05月05日 「無」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="無" class="cssacc" />
 
@@ -1449,7 +1452,7 @@
 
         <div id="20200503"></div>
         <br>
-        <p id="avocado"><strong>2020年05月03日 「うっぷん」</strong></p>
+        <p id="avocado"><strong>　2020年05月03日 「うっぷん」</strong></p>
         <div class="accbox">
           <input type="checkbox" id="うっぷん" class="cssacc" />
 
@@ -1469,7 +1472,7 @@
         <div id="first">
           <div id="20200322"></div>
           <br>
-          <p id="avocado"><strong>2020年03月22日 「糸口」</strong></p>
+          <p id="avocado"><strong>　2020年03月22日 「糸口」</strong></p>
           <div class="accbox">
             <input type="checkbox" id="糸口" class="cssacc" />
 

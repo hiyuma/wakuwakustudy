@@ -12,6 +12,7 @@
   <title>しらひゅーのわくわくスタディ PHOTO GALLERY</title>
   <link rel="shortcut icon" href="favicon.ico" />
   <link rel="stylesheet" href="mystyle.css">
+  <link rel="stylesheet" href="cal.css">
   <link rel="stylesheet" href="css/lightgallery.css">
 
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -51,21 +52,21 @@
 
         <p>京都、福島、青森、鎌倉、鋸山など自転車旅を中心に随時掲載していく予定です。</p>
 
-        <div class="list_wrapper">
+        <div class="schedule_wrapper">
           <h3><i class="fas fa-list-ul"></i> Gallery List</h3>
-          <div id="movie-list">
-            <ol>
-              <li value="210"><a href="#">イベントとDJ※soon</a></li>
-              <li value="210"><a href="#">散歩とサイクリング※soon</a></li>
-              <li value="210"><a href="#2008京都">2008年4月 京都府(自転車旅) <i class="fas fa-angle-double-right"></i></a></li>
-              <li value="210"><a href="#2011福島">2011年12月 福島県(自転車旅)<i class="fas fa-angle-double-right"></i></a></li>
-              <li value="210"><a href="#2012鋸山">2012年11月 千葉県鋸山(自転車旅)<i class="fas fa-angle-double-right"></i></a></li>
-              <li value="210"><a href="#2013長野">2013年02月 長野県パーティ”NagaNo”@中目黒solfa <i class="fas fa-angle-double-right"></i></a></li>
-              <li value="210"><a href="#2013鎌倉">2013年09月 神奈川県鎌倉(自転車旅)<i class="fas fa-angle-double-right"></i></a></li>
-              <li value="210"><a href="#2013青森">2013年11月 青森県(自転車旅)<i class="fas fa-angle-double-right"></i></a></li>
-              <li value="210"><a href="#和田堀公園">2014年～2020年 東京都杉並区 和田堀公園 <i class="fas fa-angle-double-right"></i></a></li>
-              <li value="210"><a href="#大田黒公園">2020年11月 東京都杉並区 大田黒公園 紅葉ライトアップ <i class="fas fa-angle-double-right"></i></a></li>
-              <li value="210"><a href="#recommend"><i class="fab fa-amazon"></i>　しらひゅー推し</a></li>
+          <div id="schedule0" class="schedule_list">
+            <ol reversed>
+              <li> <a href="#">イベントとDJ※soon</a></li>
+              <li> <a href="#">散歩とサイクリング※soon</a></li>
+              <li> <a href="#2008京都">2008年4月 京都府(自転車旅) <i class="fas fa-angle-double-right"></i></a></li>
+              <li> <a href="#2011福島">2011年12月 福島県(自転車旅)<i class="fas fa-angle-double-right"></i></a></li>
+              <li> <a href="#2012鋸山">2012年11月 千葉県鋸山(自転車旅)<i class="fas fa-angle-double-right"></i></a></li>
+              <li> <a href="#2013長野">2013年02月 長野県パーティ”NagaNo”@中目黒solfa <i class="fas fa-angle-double-right"></i></a></li>
+              <li> <a href="#2013鎌倉">2013年09月 神奈川県鎌倉(自転車旅)<i class="fas fa-angle-double-right"></i></a></li>
+              <li> <a href="#2013青森">2013年11月 青森県(自転車旅)<i class="fas fa-angle-double-right"></i></a></li>
+              <li> <a href="#和田堀公園">2014年～2020年 東京都杉並区 和田堀公園 <i class="fas fa-angle-double-right"></i></a></li>
+              <li> <a href="#大田黒公園">2020年11月 東京都杉並区 大田黒公園 紅葉ライトアップ <i class="fas fa-angle-double-right"></i></a></li>
+              <li> <a href="#recommend"><i class="fab fa-amazon"></i>　しらひゅー推し</a></li>
             </ol>
           </div>
         </div>

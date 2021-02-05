@@ -12,6 +12,7 @@
     <title>しらひゅーのわくわくスタディ ENGLISH DAILY CONVERSATION</title>
     <link  rel = "shortcut icon"  href = "favicon.ico" />
     <link rel="stylesheet" href="mystyle.css">
+    <link rel="stylesheet" href="cal.css">
     <link rel="stylesheet" href="english.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <div id="page_top">
@@ -62,18 +63,18 @@
             </tr>
           </table>
             <hr>
-            <div class="list_wrapper">
+            <div class="schedule_wrapper">
               <p id="english-line1"><i class="fas fa-headset"></i>日常英会話 ( Listening plus Dictation )　<em2>※作成中<em2></p>
               <h3><i class="fas fa-list-ul"></i> Class list </h3>
-              <div id="movie-list">
+              <div id="schedule0" class="schedule_list">
                 <ol>
-                  <li value="210"><a href="#beginner1"><i class="fas fa-globe"></i>初級（脱落音）</a></li>
-                  <li value="210"><a href="#intermediate1"><i class="fas fa-globe"></i>中級（脱落音）</a></li>
-                  <li value="210"><a href="#beginner2"><i class="fas fa-globe"></i>初級（連結音）</a></li>
-                  <li value="210"><a href="#intermediate2"><i class="fas fa-globe"></i>中級（連結音）</a></li>
-                  <li value="210"><a href="#beginner3"><i class="fas fa-globe"></i>初級（同化音）</a></li>
-                  <li value="210"><a href="#relations"><i class="fab fa-amazon"></i> RELATIONS</a></li>
-                  <li value="210"><a href="#recommend"><i class="fab fa-amazon"></i> しらひゅー推し</a></li>
+                  <li> <a href="#beginner1"><i class="fas fa-globe"></i>初級（脱落音）</a></li>
+                  <li> <a href="#intermediate1"><i class="fas fa-globe"></i>中級（脱落音）</a></li>
+                  <li> <a href="#beginner2"><i class="fas fa-globe"></i>初級（連結音）</a></li>
+                  <li> <a href="#intermediate2"><i class="fas fa-globe"></i>中級（連結音）</a></li>
+                  <li> <a href="#beginner3"><i class="fas fa-globe"></i>初級（同化音）</a></li>
+                  <li> <a href="#relations"><i class="fab fa-amazon"></i> RELATIONS</a></li>
+                  <li> <a href="#recommend"><i class="fab fa-amazon"></i> しらひゅー推し</a></li>
                 </ol>
               </div>
             </div>
