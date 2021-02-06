@@ -42,7 +42,7 @@
       <section>
         <div class="line">TECHNICAL DIARY</div>
         <p>
-          <image id="top-img" src="gallery/top/diary3.png" alt="">
+          <img id="top-img" src="gallery/top/techtop.png" alt="">
         </p>
         <br>
         <p>IT関連の技術的な日記を書くかもしれないし、書かないかもしれないです。</p>
@@ -52,28 +52,81 @@
           <!-- list -->
           <div id="schedule0" class="schedule_list">
             <ol reversed>
-              <li><a href="#20210205"> 2021年02月05日 「スクロールバーデザイン変更」</a></li>
+              <!-- <li><a href="#20210207"> 2021年02月07日 AWS「AWS導入」</a></li> -->
+              <li><a href="#20210206"> 2021年02月06日 CSS「リストデザイン変更」</a></li>
+              <li><a href="#20210205"> 2021年02月05日 CSS「スクロールバーデザイン変更」</a></li>
               <li> <a href="#recommend"> <i class="fab fa-amazon"></i> しらひゅー推し</a></li>
               <!-- <li> <a href="#amazon"> <i class="fab fa-amazon"></i>　RELATIONS</a></li> -->
             </ol>
           </div>
         </div>
 
+        <!-- id=0003 -->
+        <!-- <div id="20210206"></div>
+        <br>
+        <p id="avocado">2021年02月06日 <i class="fas fa-laptop-code"></i>AWS</p>
+        <p id="title">「AWS」</p>
+
+        <div class="accbox">
+          <p><img src="gallery/techimg" alt=""></p>
+   
+          <input type="checkbox" id="0003" class="cssacc" />
+          <label for="0003"><span><i class="fas fa-book"></i>READ</span></label>
+          <div class="accshow">
+            <p>
+            <br><br>
+            <br><br>
+            <br><br>
+            <br><br>  
+            </p>
+          </div>
+        </div>
+        <br> -->
+        
+        
+        <!-- id=0002 -->
+        <div id="20210206"></div>
+        <br>
+        <p id="avocado">2021年02月06日 <i class="fas fa-laptop-code"></i>CSS</p>
+        <p id="title">「リスト(li)デザイン変更」</p>
+
+        <div class="accbox">
+          <p><img src="gallery/techimg/スクロールバー変更後スクリーンショット 2021-02-05 183730.jpg" alt="スクロールバー変更CSS"></p>
+   
+          <input type="checkbox" id="0002" class="cssacc" />
+          <label for="0002"><span><i class="fas fa-book"></i>READ</span></label>
+          <div class="accshow">
+            <p>後回しにしていたリストのデザインの変更しました。
+              <br><br>
+              大したものではないですが、ポイントは、border-left、background、list-style-typeです。
+              <p><img src="gallery/techimg/list-left-bar-css.jpg" alt="リストデザイン変更CSS"></p>
+              変更後のリストはこちらです。
+              <p><img src="gallery/techimg/change-list-design-done.jpg" alt="リストデザイン変更後"></p>
+              ひとまず、見やすくなったような気がします。
+            </p>
+          </div>
+        </div>
+        <br>
+
         <div id="20210205"></div>
         <br>
-        <p id="avocado"><strong>　2021年02月05日　<i class="fas fa-laptop-code"></i>「スクロールバーデザイン変更」</strong></p>
+        <p id="avocado">2021年02月05日 <i class="fas fa-laptop-code"></i>CSS</p>
+        <p id="title">「スクロールバー(scrollbar)デザイン変更」</p>
         <div class="accbox">
+              <p><img src="gallery/techimg/Inkedスクロールバー変更前スクリーンショット 2021-02-05 183925_LI.jpg" alt="スクロールバー変更前"></p>
           <input type="checkbox" id="0001" class="cssacc" />
 
           <label for="0001"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <p>ふと、スクロールバーを見ていたら、どこのサイトでもだいたいデザイン一緒だよなと思い始めました。
-              <p><img src="gallery/techimg/Inkedスクロールバー変更前スクリーンショット 2021-02-05 183925_LI.jpg" alt="スクロールバー変更前"></p>
+              <br><br>
               そして、変えることが出来るのか調べるところから始めてみました。
               <br><br>
               変更する方法は複数見つかりました。
               <br><br>
               僕が主に利用しているブラウザはChromeだったため、CSS追加しても効果がないパターンもありましたが、今回はwebkitをつかって変更しました。
+              <br><br>
+              ::-webkit-scrollbar(全体)、::-webkit-scrollbar-track(バーの可動域部)、::-webkit-scrollbar-thumb(バー本体) 
               <p><img src="gallery/techimg/スクロールバー変更CSS (2).jpg" alt="スクロールバー変更CSS"></p>
               変更後のスクロールバーはこちらです。
               <p><img src="gallery/techimg/Inkedスクロールバー変更後スクリーンショット 2021-02-05 183730_LI.jpg" alt="スクロールバー変更後"></p>
@@ -83,9 +136,9 @@
             </p>
             <hr>
             <br>
-            <em2><i class="fas fa-arrow-circle-right"></i>今後は、変更したものを、出来る限り記録していきます。</em2>
           </div>
         </div>
+        <em2><i class="fas fa-arrow-circle-right"></i>今後は、大きく変更したものは出来る限り記録していきます。</em2>
         <br>
       </section>
 
