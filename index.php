@@ -74,7 +74,7 @@
                      </em4>
                      <br><br>
                      <div class="line">STUDY LIST <i class="fas fa-pencil-alt"></i></div>
-                     <div class="items"><span style="font-weight: normal;">2021年02月05日 現在</span>
+                     <div class="items"><span style="font-weight: normal;">2021年02月06日 現在</span>
 
                             <div class="accbox2">
                                    <input type="checkbox" id="studylistopen" class="cssacc2">
@@ -86,9 +86,9 @@
                                           <div class="info-children"><span>修学済：Java/ JavaScript / JSP/ Servlet / MySQL / Linux / Git ）</span></div>
                                           <li>ENGLISH</li>
                                           <div class="info-children"><span>Dictation(スタディサプリ)</span></div>
-                                          <div class="info-children"><span>Word / Listening / Writing /
-                                                        Dictation(スタディサプリ)
-                                                        Listening(NHK即レス英会話,MOVIES) / Online Conversation(DMM英会話)</span></div>
+                                          <div class="info-children"><span>Word / Listening / Writing(スタディサプリ) / 
+                                                        Listening(NHK即レス英会話,MOVIES)</span></div>
+                                          <div class="info-children"><span>Online Conversation(Native Camp)</span></div>
                                           <li>INVESTMENT</li>
                                           <div class="info-children"><span>LINE証券 / LINEスマート投資 / つみたてNISA</span>
                                           </div>
@@ -106,8 +106,16 @@
                             <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
 
+                            <li>2021年02月06日</li>
+                            <div class="info-children"><span>各ページTOPイメージ変更 "<a href="jspractice/work.php"> WORK</a>、<a href="https://developershirai.com/technical-diary.php"> TECHNICAL DIARY</a>、<a href="movie.php"> MOVIE</a>、<a href="video.php"> VIDEO</a>、<a href="gallery.php"> PHOTO</a>、<a href="english.php"> ENGLISH</a>、<a href="aboutsite.php"> ABOUT</a> "</span>
+                            </div>
+
+                            <li>2021年02月06日</li>
+                            <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY</a> 更新</span>
+                            </div>
+
                             <li>2021年02月05日</li>
-                            <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">テクニカルな日記</a> 作成</span>
+                            <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY</a> 作成</span>
                             </div>
 
                             <li>2021年02月04日</li>
@@ -827,6 +835,17 @@
                                           href="" target="blank" rel="noopener">
                                           </a></li>
                                    <hr> -->
+                            2021年02月06日
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG061S70W1A200C2000000/" target="blank" rel="noopener">
+                                          東京都、新たに639人感染　新型コロナ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG043BN0U1A200C2000000/" target="blank" rel="noopener">
+                                          手作りチョコは「大丈夫？」　コロナ下のバレンタイン</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQOGR0601W0W1A200C2000000/" target="blank" rel="noopener">
+                                          WHO　他社のワクチン生産、製薬会社に呼びかけ</a></li>
+                                   <hr>
                             2021年02月05日
                                    <li><i class="far fa-file-alt"></i><a
                                           href="https://www.nikkei.com/article/DGXZQODG0521Z0V00C21A2000000/" target="blank" rel="noopener">
