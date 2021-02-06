@@ -41,7 +41,7 @@
         <section>
           <div class="line">VIDEOS</div>
           <p>
-            <image id="top-img" src="gallery/top/video.jpg" alt="小物">
+            <image id="top-img" src="gallery/top/movie.png" alt="">
           </p>
           <p>コメント付きで様々な動画をきまぐれに掲載していきます。
             <br><br>

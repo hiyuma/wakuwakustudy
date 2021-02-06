@@ -41,14 +41,12 @@
         <div id="section">
           <div class="line">WORK SPACE</div>
           <p>
-            <img id="top-img" src="../gallery/top/work.jpg" alt="">
+            <img id="top-img" src="../gallery/top/work.png" alt="">
           </p>
 
           <p>ここは、独学中のプログラム言語(主にフロントエンド)を載せているページです。
             <br><br>
-            <i class="fas fa-laptop-code"></i>PROGRAMMING LANGUAGE
-          <div class="info-children"><span style="font-size: smaller;">HTML / CSS / JavaScript / jQuery / BootStrap
-              <br>PHP / Java / JSP/Servlet / MySQL / Linux / Spring</span></div>
+            このサイトの変更点や、パソコンなどのトラブルシューティング、プログラミング用メモなど、<a href="https://developershirai.com/technical-diary.php">テクニカルな日記</a>を作成しました。
           </p>
 
           <br>

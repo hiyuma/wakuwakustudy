@@ -47,7 +47,7 @@
       <section>
         <div class="line">PHOTO GALLERY</div>
         <p>
-          <img id="top-img" src="gallery/top/gallery.jpg" alt="">
+          <img id="top-img" src="gallery/top/gallery.png" alt="">
         </p>
 
         <p>京都、福島、青森、鎌倉、鋸山など自転車旅を中心に随時掲載していく予定です。</p>

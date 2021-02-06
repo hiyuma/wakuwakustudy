@@ -46,8 +46,9 @@
         </p>
         <p>日記は、定期的に書くかもしれないし、書かないかもしれない。
           <br><br>
-          このサイトの変更点や、パソコンなどのトラブルシューティング、プログラミング用メモなど、<a href="https://developershirai.com/technical-diary.php">テクニカルな日記</a>みたいなページを作成しました。
+          このサイトの変更点や、パソコンなどのトラブルシューティング、プログラミング用メモなど、<a href="https://developershirai.com/technical-diary.php">テクニカルな日記</a>ページを作成しました。
         </p>
+        <br>
 
         <div class="schedule_wrapper">
           <h3><i class="far fa-list-alt"></i>　Diary list</h3>

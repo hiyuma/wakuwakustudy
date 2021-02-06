@@ -43,7 +43,7 @@
 
         <div class="line">MOVIES</div>
         <p>
-          <image id="top-img" src="gallery/top/movie.jpg" alt="">
+          <img id="top-img" src="gallery/top/movie2.png" alt="">
         </p>
         <p>鑑賞映画の感想を書き留めていきます。
           <br><br>
