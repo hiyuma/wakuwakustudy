@@ -1209,6 +1209,8 @@ ol#gallery-list li a {
 	width: 80%;
 	margin: 0 auto 10px;
 	background: linear-gradient(-45deg, rgba(228, 227, 227, 0.9), rgba(255, 233, 233, 0.6));
+	font-weight: normal;
+	font-size: smaller;
 }
 
 #movies {
@@ -1463,6 +1465,13 @@ p#impression {
 	line-height: 45px;
 	margin: 0 auto;
 	color: #747474;
+	letter-spacing: 2px;
+}
+#title{
+	color: #747474;
+	letter-spacing: 3px;
+	font-weight: bold;
+	margin: 0 0 25px 0;
 }
 
 #page_top {
