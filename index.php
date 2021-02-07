@@ -64,7 +64,6 @@
                             </a></span>
                      <br>
                      <span><i class="fas fa-headphones-alt"></i><a href="music.php"> 今 日 の 1 曲 </a></span>
-
                      <br>
                      <span><i class="far fa-edit"></i><a href="questionnaire.php"> ア ン ケ ー ト </a></span>
 
@@ -74,7 +73,7 @@
                      </em4>
                      <br><br>
                      <div class="line">STUDY LIST <i class="fas fa-pencil-alt"></i></div>
-                     <div class="items"><span style="font-weight: normal;">2021年02月06日 現在</span>
+                     <div class="items"><span style="font-weight: normal;">2021年02月07日 現在</span>
 
                             <div class="accbox2">
                                    <input type="checkbox" id="studylistopen" class="cssacc2">
@@ -83,7 +82,7 @@
                                    <div class="accshow2">
                                           <li>PROGRAMMING</li>
                                           <div class="info-children"><span>WEBアプリケーション開発（PHP / AWS )</span></div>
-                                          <div class="info-children"><span>修学済：Java/ JavaScript / JSP/ Servlet / MySQL / Linux / Git ）</span></div>
+                                          <div class="info-children"><span>修学済：HTML / CSS / JavaScript / Java / JSP / Servlet / MySQL / Linux / Git</span></div>
                                           <li>ENGLISH</li>
                                           <div class="info-children"><span>Dictation(スタディサプリ)</span></div>
                                           <div class="info-children"><span>Word / Listening / Writing(スタディサプリ) / 
@@ -105,6 +104,9 @@
 
                             <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+                            <li>2021年02月06日</li>
+                            <div class="info-children"><span><a href="https://developershirai.com/puyo2/www/puyoforlaptop.php">ぷよ改変「ありあり」</a> 作成</span>
+                            </div>
 
                             <li>2021年02月06日</li>
                             <div class="info-children"><span>各ページTOPイメージ変更 "<a href="jspractice/work.php"> WORK</a>、<a href="https://developershirai.com/technical-diary.php"> TECHNICAL DIARY</a>、<a href="movie.php"> MOVIE</a>、<a href="video.php"> VIDEO</a>、<a href="gallery.php"> PHOTO</a>、<a href="english.php"> ENGLISH</a>、<a href="aboutsite.php"> ABOUT</a> "</span>
@@ -786,7 +788,7 @@
                             <li><i class="fab fa-youtube"></i> <a href="video.php">VIDEO</a></li>
                             <li><i class="fas fa-laptop-code"></i> <a href="jspractice/index.php">WORK</a></li>
                             <li> <span><i class="far fa-edit"></i> <a href="questionnaire.php">アンケート</a></span></li>
-                            <li><i class="fas fa-gamepad"></i> <a href="puyo2/www/puyoforlaptop.php">ぷよぷよTEST</a></li>
+                            <li><i class="fas fa-gamepad"></i> <a href="puyo2/www/puyoforlaptop.php">パズルゲーム ありあり</a></li>
                             <li><i class="fas fa-cat"></i> <a href="jspractice/nekochan.php">ねこちゃんSOS</a></li>
                             <li><i class="fas fa-paw"></i> <a href="jspractice/omikuji.php">ねこちゃんおみくじ</a></li>
                             <li><i class="fab fa-amazon"></i> <a href="#recommend">しらひゅー推し</a></li>
@@ -835,6 +837,17 @@
                                           href="" target="blank" rel="noopener">
                                           </a></li>
                                    <hr> -->
+                            2021年02月07日
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG070YP0X00C21A2000000/" target="blank" rel="noopener">
+                                          東京都、新たに429人感染　新型コロナ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQOGM070L50X00C21A2000000/" target="blank" rel="noopener">
+                                          南ア変異ウイルスに低い効果か、アストラゼネカワクチン</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQOFP277F40X20C21A1000000/" target="blank" rel="noopener">
+                                          在宅勤務、社員の「心のケア」へ企業動く</a></li>
+                                   <hr>
                             2021年02月06日
                                    <li><i class="far fa-file-alt"></i><a
                                           href="https://www.nikkei.com/article/DGXZQODG061S70W1A200C2000000/" target="blank" rel="noopener">

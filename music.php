@@ -404,11 +404,11 @@
         </div>
 
 
-        <!-- <div id="20210207"></div>
+        <!-- <div id="202102XX"></div>
           <!- XX ->
           <hr>
           <div>
-            <p><small> 2021年02月06日</small></p>
+            <p><small> 2021年02月XX日</small></p>
             <i class="fas fa-headphones-alt"></i> スカーフとトワレ / Scarf & the SuspenderS 
             <br><br>
             <i class="far fa-file-audio"></i> <a href="https://amzn.to/3oIsJsr" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
@@ -422,6 +422,44 @@
             </em3>
             <br><br>
           </div> -->
+
+          <div id="20210208"></div>
+          <!-- <!-His Rope / Burial & Four Tet & Thom Yorke -> -->
+          <hr>
+          <div>
+            <p><small> 2021年02月08日</small></p>
+            <i class="fas fa-headphones-alt"></i> His Rope / Burial & Four Tet & Thom Yorke
+            <br><br>
+            <i class="far fa-file-audio"></i> <a href="https://amzn.to/2N4Y8YS" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
+            <br>
+            <em3>
+              時間： 5:32
+              <br>
+              ジャンル： エレクトロニカ
+              <br>
+              レーベル： XL Recordings
+            </em3>
+            <br><br>
+          </div>
+
+          <div id="20210207"></div>
+          <!-- <!- Unknown Tongues / Jlin -> -->
+          <hr>
+          <div>
+            <p><small> 2021年02月07日</small></p>
+            <i class="fas fa-headphones-alt"></i> Unknown Tongues / Jlin
+            <br><br>
+            <i class="far fa-file-audio"></i> <a href="https://amzn.to/36RWWPT" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
+            <br>
+            <em3>
+              時間： 3:26
+              <br>
+              ジャンル： ダンス・エレクトロニカ
+              <br>
+              レーベル： Planet Mu
+            </em3>
+            <br><br>
+          </div>
 
 
           <div id="20210206"></div>
