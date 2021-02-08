@@ -8,7 +8,7 @@ function countDown() {
   } else {
     document.getElementById('count').innerHTML = count + " 秒";
     clearTimeout();
-    alert("TIME OUT ページを再読み込みしてください。");
+    alert("0秒になりました。OKを押してください。");
     count = 10;
   }
 }

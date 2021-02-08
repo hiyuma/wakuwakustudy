@@ -58,7 +58,7 @@
 
           <p>・おためしチャレンジページは<a href="../test.php" target="blank">こちら</a><i class="fas fa-laptop-code"></i></p>
 
-          <p>・JavaScript練習用ページ「ぷよぷよ」は<a href="../puyo2/www/puyoforlaptop.php" target="blank">こちら</a><i class="fas fa-gamepad"></i></p>
+          <p>・JavaScript練習用ページ「ありあり」は<a href="../puyo2/www/puyoforlaptop.php" target="blank">こちら</a><i class="fas fa-gamepad"></i></p>
           <br>
           <em4>※現在、会社員とフリーランス活動、英語学習などの合間を使っているため、このページの更新頻度が低くなっています。</em4>
           <br>
@@ -383,7 +383,7 @@
               <em4>※0秒になるとアラートが出ます。"OK"を押下してください。</em4>
             </p>
             <div class="btnArea">
-              <a id="count" class="startbtn" onclick="setTimeout('countDown()',1000);">PUSH</a>
+              <a id="count" class="startbtn" onclick="setTimeout('countDown()',0.1);">PUSH</a>
             </div>
           </div>
           
@@ -397,7 +397,7 @@
               <em4>※正負/偶数奇数の判定です。</em4>
             </p>
             <form action="work.php#judgment" method="post">
-              <p><input type="number" name="num" placeholder="数字を入力してください"></p>
+              <p><input type="number" name="num" placeholder="数字を入力してください" value="<?php if( !empty($_POST['num']) ){ echo $_POST['num']; } ?>"></p>
 
               <div id="submitAria">
                 <input type="submit" value="判定" class="submitButton">
