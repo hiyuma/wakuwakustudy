@@ -32,7 +32,7 @@
 
       <p>・おためしチャレンジページは<a href="../test.php" target="blank">こちら</a><i class="fas fa-laptop-code"></i></p>
 
-      <p>・JavaScript練習用ページ「ぷよぷよ」は<a href="../puyo2/www/puyoforlaptop.php" target="blank">こちら</a><i class="fas fa-gamepad"></i></p>
+      <p>・JavaScript練習用ページ「ありあり」は<a href="../puyo2/www/puyoforlaptop.php" target="blank">こちら</a><i class="fas fa-gamepad"></i></p>
     </div>
     <div id="btn">引く</div>
   </main>

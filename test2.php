@@ -52,7 +52,7 @@
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item" href="jspractice/nekochan.php">ねこちゃんSOS</a>
                 <a class="dropdown-item" href="jspractice/omikuji.php">ねこちゃんおみくじ</a>
-                <a class="dropdown-item" href="puyo2/www/puyoforlaptop.php">ぷよぷよ(TEST)</a>
+                <a class="dropdown-item" href="puyo2/www/puyoforlaptop.php">ありあり(TEST)</a>
                 <div class="dropdown-divider"></div>
                 <a class="dropdown-item" href="mailto:info@developershirai.com">CONTACT</a>
               </div>

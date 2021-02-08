@@ -104,6 +104,10 @@
 
                             <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+                            <li>2021年02月08日</li>
+                            <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY</a> 更新</span>
+                            </div>
+
                             <li>2021年02月06日</li>
                             <div class="info-children"><span><a href="https://developershirai.com/puyo2/www/puyoforlaptop.php">ぷよ改変「ありあり」</a> 作成</span>
                             </div>
@@ -788,7 +792,7 @@
                             <li><i class="fab fa-youtube"></i> <a href="video.php">VIDEO</a></li>
                             <li><i class="fas fa-laptop-code"></i> <a href="jspractice/index.php">WORK</a></li>
                             <li> <span><i class="far fa-edit"></i> <a href="questionnaire.php">アンケート</a></span></li>
-                            <li><i class="fas fa-gamepad"></i> <a href="puyo2/www/puyoforlaptop.php">パズルゲーム ありあり</a></li>
+                            <li><i class="fas fa-gamepad"></i> <a href="puyo2/www/puyoforlaptop.php">ゲームありあり</a></li>
                             <li><i class="fas fa-cat"></i> <a href="jspractice/nekochan.php">ねこちゃんSOS</a></li>
                             <li><i class="fas fa-paw"></i> <a href="jspractice/omikuji.php">ねこちゃんおみくじ</a></li>
                             <li><i class="fab fa-amazon"></i> <a href="#recommend">しらひゅー推し</a></li>
@@ -827,6 +831,18 @@
 
 
                             <!-- 2021年02月XX日
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="" target="blank" rel="noopener">
+                                          </a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="" target="blank" rel="noopener">
+                                          </a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="" target="blank" rel="noopener">
+                                          </a></li>
+                                   <hr> -->
+
+                            <!-- 2021年02月08日
                                    <li><i class="far fa-file-alt"></i><a
                                           href="" target="blank" rel="noopener">
                                           </a></li>
