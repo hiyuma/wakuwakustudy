@@ -53,6 +53,7 @@
           <div id="schedule0" class="schedule_list">
             <ol reversed>
               <!-- <li><a href="#20210207"> 2021年02月07日 AWS「AWS導入」</a></li> -->
+              <li><a href="#20210208"> 2021年02月08日 PHP「入力値の継承」</a></li>
               <li><a href="#20210206"> 2021年02月06日 CSS「リストデザイン変更」</a></li>
               <li><a href="#20210205"> 2021年02月05日 CSS「スクロールバーデザイン変更」</a></li>
               <li> <a href="#recommend"> <i class="fab fa-amazon"></i> しらひゅー推し</a></li>
@@ -61,10 +62,10 @@
           </div>
         </div>
 
-        <!-- id=0003 -->
-        <!-- <div id="20210206"></div>
+        <!-- id=0004 -->
+        <!-- <div id="20210209"></div>
         <br>
-        <p id="avocado">2021年02月06日 <i class="fas fa-laptop-code"></i>AWS</p>
+        <p id="avocado">2021年02月09日 <i class="fas fa-laptop-code"></i>AWS</p>
         <p id="title">「AWS」</p>
 
         <div class="accbox">
@@ -82,6 +83,55 @@
           </div>
         </div>
         <br> -->
+
+        <!-- id=0003 -->
+        <div id="20210208"></div>
+        <br>
+        <p id="avocado">2021年02月08日 <i class="fas fa-laptop-code"></i>PHP</p>
+        <p id="title">「入力値の継承」</p>
+
+        <div class="accbox">
+          <p><img src="gallery/techimg/InkedPHPFormDoneNone_LI.jpg" alt="PHP入力値の継承前"></p>
+   
+          <input type="checkbox" id="0003" class="cssacc" />
+          <label for="0003"><span><i class="fas fa-book"></i>READ</span></label>
+          <div class="accshow">
+
+            <p>先日、<a href="https://developershirai.com/jspractice/work.php#judgment">WORK</a>ページにて更新した数字判定でのフォーム入力。
+            <br><br>
+            上の写真の通り、数字を入力して判定ボタンを押すと結果は表示されますが、入力値が消えています。
+            <br><br>
+            今回は、入力値を判定ボタンを押した後でも残すプログラミングをしてみます。
+            <br><br>
+            僕が作成したこのフォームは、別のPHPファイルを読み込んでいます。
+            <br><br>
+            POSTされた値を変数に格納し、if文でチェックし、表示される結果を変える処理をしています。
+            <br><br>
+            その変数を入力フォームに残す処理をします。
+            <br><br>
+            PHPは、以下の写真の様に、
+            <br>value="&lt;?php if( !empty($_POST['送信された値を持った変数名']) ){ echo $_POST['送信された値を持った変数名']; } ?&gt;”<br>でコーディングしてみました。
+          <p><img src="gallery/techimg/phpFormValueRemaine2021-02-08.jpg" alt="PHPフォーム入力値継承"></p>
+            <br><br>
+            表示もif文「!empty()」で空チェックをしています。
+            <br><br>
+            これで数字を入力して判定をボタンを押下すると...
+            <p><img src="gallery/techimg/PHPformValueRemainDone.jpg" alt="PHPフォーム入力値継承"></p>
+            今度は値が継承されています。
+            <br><br>
+            値の継承方法は多々あるので、他も色々試してみます。
+            <br><br>
+            例えば、会員情報を入力するサイトで、入力内容確認させたい場合や、一度別の画面へ移動して戻った場合などでもこういった処理を使います。
+            <br><br>
+            会員登録のようなフォームでは、一度入力したものが消えると、再入力の手間をかけてくれず、辞める人もいるでしょう。
+            <br><br>
+            といった様に、大切な処理になるので、忘れずにコーディングしておきたいものです。
+            <br><br>
+            <a href="https://developershirai.com/questionnaire.php">アンケート集計</a>機能ページを作成した時にも入力値の確認処理をしてありますので、よかったら確認してみてください。
+            </p>
+          </div>
+        </div>
+        <br>
         
         
         <!-- id=0002 -->
@@ -91,7 +141,7 @@
         <p id="title">「リスト(li)デザイン変更」</p>
 
         <div class="accbox">
-          <p><img src="gallery/techimg/スクロールバー変更後スクリーンショット 2021-02-05 183730.jpg" alt="スクロールバー変更CSS"></p>
+          <p><img src="gallery/techimg/Inkedリスト変更前スクリーンショット LI.jpg" alt="スクロールバー変更CSS"></p>
    
           <input type="checkbox" id="0002" class="cssacc" />
           <label for="0002"><span><i class="fas fa-book"></i>READ</span></label>
