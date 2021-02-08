@@ -423,6 +423,25 @@
             <br><br>
           </div> -->
 
+           <!-- <div id="20210209"></div>
+          <!- XX ->
+          <hr>
+          <div>
+            <p><small> 2021年02月09日</small></p>
+            <i class="fas fa-headphones-alt"></i> スカーフとトワレ / Scarf & the SuspenderS 
+            <br><br>
+            <i class="far fa-file-audio"></i> <a href="https://amzn.to/3oIsJsr" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
+            <br>
+            <em3>
+              時間： 5:15
+              <br>
+              ジャンル： ヒップホップ
+              <br>
+              レーベル： SPACE SHOWER MUSIC
+            </em3>
+            <br><br>
+          </div> -->
+
           <div id="20210208"></div>
           <!-- <!-His Rope / Burial & Four Tet & Thom Yorke -> -->
           <hr>
