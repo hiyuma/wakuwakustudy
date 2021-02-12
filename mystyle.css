@@ -594,7 +594,6 @@ button.showResult {
 }
 
 #top-img {
-	margin-left: 2%;
 	width: 95%;
 }
 
@@ -769,12 +768,14 @@ div.wakuwaku img {
 	border: 1px solid #ffe0d6;
 }
 
-h1 {
-	font-size: 1.8em;
-	color: white;
-	background: #FA8072;
-	border-radius: 20px;
-	padding: 20px;
+#techsection h3{
+	color: #5a5a5a;
+	border-bottom: solid 1px #9c9c9c;
+}
+#techsection h2{
+	margin-top: 10px;
+	font-size: 1.2rem;
+	color: #868686;
 }
 
 em1 {
@@ -819,7 +820,7 @@ em5 {
 }
 
 .line {
-	width: 93%;
+	width: 95%;
 	padding: 3px 10px;
 	margin: 10px 0;
 	line-height: 25px;
@@ -1154,8 +1155,44 @@ ol#gallery-list li a {
 	font-weight: bold;
 }
 
+
+
 .table-question {
 	width: 100%;
+}
+
+table#techdiary{
+	width: 100%;
+	border: solid 0.5px #a5a5a5;
+	margin: 0 auto;
+	padding: 0px;
+	text-align: center;
+	border-radius: 5px;
+	border-collapse: collapse;
+}
+table#techdiary th,td{
+	border: solid 0.5px #a5a5a5;
+	font-size: smaller;
+}
+section#techsection{
+	margin: 0 auto;
+}
+
+section#techsection img{
+	border: 5px solid #e6e6e6;
+	max-width: 50%;
+}
+section#techsection .accshow img{
+	border: 5px solid #e6e6e6;
+	max-width: 100%;
+}
+section#techsection p img#top-img{
+	min-width: 100%;
+	border:none
+}
+section#techsection .accshow a{
+	color: rgb(100, 100, 100);
+	background: linear-gradient(transparent 40%, #fcffa8 10%);
 }
 
 #english-table {
