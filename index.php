@@ -73,7 +73,7 @@
                      </em4>
                      <br><br>
                      <div class="line">STUDY LIST <i class="fas fa-pencil-alt"></i></div>
-                     <div class="items"><span style="font-weight: normal;">2021年02月07日 現在</span>
+                     <div class="items"><span style="font-weight: normal;"><?php include('parts/weekly.php'); ?></span>
 
                             <div class="accbox2">
                                    <input type="checkbox" id="studylistopen" class="cssacc2">
@@ -84,10 +84,10 @@
                                           <div class="info-children"><span>WEBアプリケーション開発（PHP / AWS )</span></div>
                                           <div class="info-children"><span>修学済：HTML / CSS / JavaScript / Java / JSP / Servlet / MySQL / Linux / Git</span></div>
                                           <li>ENGLISH</li>
-                                          <div class="info-children"><span>Dictation(スタディサプリ)</span></div>
-                                          <div class="info-children"><span>Word / Listening / Writing(スタディサプリ) / 
-                                                        Listening(NHK即レス英会話,MOVIES)</span></div>
-                                          <div class="info-children"><span>Online Conversation(Native Camp)</span></div>
+                                          <div class="info-children"><span>Dictation ( スタディサプリ ) </span></div>
+                                          <div class="info-children"><span>Word / Listening / Writing ( スタディサプリ ) / 
+                                                        Listening ( NHK即レス英会話 , MOVIES )</span></div>
+                                          <div class="info-children"><span>Online Conversation ( Native Camp )</span></div>
                                           <li>INVESTMENT</li>
                                           <div class="info-children"><span>LINE証券 / LINEスマート投資 / つみたてNISA</span>
                                           </div>
@@ -97,15 +97,23 @@
                             </div>
                      </div>
               </ul>
-
+              
 
               <div id="aside">
                      <ul class="info">
 
                             <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+                            <li>2021年02月10日</li>
+                            <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（ソースコードの埋め込み）</a> 更新</span>
+                            </div>
+
+                            <li>2021年02月09日</li>
+                            <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（現在日時の取得）</a> 更新</span>
+                            </div>
+
                             <li>2021年02月08日</li>
-                            <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY</a> 更新</span>
+                            <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（入力値の継承）</a> 更新</span>
                             </div>
 
                             <li>2021年02月06日</li>
@@ -826,8 +834,8 @@
 
                      <ul class="news">
                             <div class="line">新型コロナウイルス <i class="fas fa-virus-slash"></i></div>
-                            <li><i class="far fa-file-alt"></i><a href="https://vdata.nikkei.com/newsgraphics/postal-mail-research-2020/#/" target="blank" rel="noopener">
-                                          働く時間、収入 コロナでどう変わった? 数字で見るリアル世論 郵送調査2020</a></li>
+                            <li><i class="far fa-file-alt"></i><a href="https://www.nikkei.com/article/DGXZQODG026OW0S1A200C2000000/" target="blank" rel="noopener">
+                            知っておきたいコロナワクチン接種　手順や副作用は？</a></li>
 
 
                             <!-- 2021年02月XX日
@@ -842,17 +850,65 @@
                                           </a></li>
                                    <hr> -->
 
-                            <!-- 2021年02月08日
+                            2021年02月12日
                                    <li><i class="far fa-file-alt"></i><a
-                                          href="" target="blank" rel="noopener">
-                                          </a></li>
+                                          href="https://www.nikkei.com/article/DGXZQODG1248Y0S1A210C2000000/" target="blank" rel="noopener">
+                                          東京都、新たに307人感染　新型コロナ</a></li>
                                    <li><i class="far fa-file-alt"></i><a
-                                          href="" target="blank" rel="noopener">
-                                          </a></li>
+                                          href="https://www.nikkei.com/article/DGXZQODG1222B0S1A210C2000000/" target="blank" rel="noopener">
+                                          ファイザーのワクチン、日本に到着</a></li>
                                    <li><i class="far fa-file-alt"></i><a
-                                          href="" target="blank" rel="noopener">
-                                          </a></li>
-                                   <hr> -->
+                                          href="https://www.nikkei.com/article/DGXZQODJ0117L0R00C21A2000000/" target="blank" rel="noopener">
+                                          「巣ごもり」でキウイ急増、バナナも堅調　20年輸入果実</a></li>
+                                   <hr>
+
+                            2021年02月11日
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG111WM0R10C21A2000000/" target="blank" rel="noopener">
+                                          東京都、新たに434人感染　新型コロナ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG10CL30Q1A210C2000000/" target="blank" rel="noopener">
+                                          「ワクチン接種へ医療負荷軽減を」　厚労省助言組織</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQOGR10F0M0Q1A210C2000000/" target="blank" rel="noopener">
+                                          ドイツ、3月7日までロックダウン延長　変異株警戒</a></li>
+                                   <hr>
+
+                            2021年02月10日
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG103JF0Q1A210C2000000/" target="blank" rel="noopener">
+                                          東京都、新たに491人感染　新型コロナ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODE103U90Q1A210C2000000/" target="blank" rel="noopener">
+                                          来週半ばにワクチン接種開始　首相が明言</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODZ095Z90Z00C21A2000000/" target="blank" rel="noopener">
+                                          変異型特定のPCR試薬　ロシュ、日本で商業用発売</a></li>
+                                   <hr>
+
+                            2021年02月09日
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG091MV0Z00C21A2000000/" target="blank" rel="noopener">
+                                          東京都、新たに412人感染　新型コロナ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODF091K60Z00C21A2000000/" target="blank" rel="noopener">
+                                          ワクチン1瓶あたりの接種回数、6回から5回に変更 ファイザー製　対応の注射器、確保間に合わず</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG017SH0R00C21A2000000/" target="blank" rel="noopener">
+                                          コロナ差別、条例で防げ　20超の自治体が制定</a></li>
+                                   <hr>
+
+                            2021年02月08日
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG083CU0Y1A200C2000000/" target="blank" rel="noopener">
+                                          東京都、新たに276人感染　新型コロナ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQOGM081LP0Y1A200C2000000/" target="blank" rel="noopener">
+                                          南ア、英アストラゼネカ製ワクチンの接種停止へ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODZ251FQ0V20C21A1000000/" target="blank" rel="noopener">
+                                          コロナ禍で「自由時間増えた」4人に1人　民間調査</a></li>
+                                   <hr>
                             2021年02月07日
                                    <li><i class="far fa-file-alt"></i><a
                                           href="https://www.nikkei.com/article/DGXZQODG070YP0X00C21A2000000/" target="blank" rel="noopener">

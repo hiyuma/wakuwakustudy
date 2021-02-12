@@ -409,38 +409,153 @@
           <hr>
           <div>
             <p><small> 2021年02月XX日</small></p>
-            <i class="fas fa-headphones-alt"></i> スカーフとトワレ / Scarf & the SuspenderS 
+            <i class="fas fa-headphones-alt"></i>  / 
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="https://amzn.to/3oIsJsr" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
+            <i class="far fa-file-audio"></i> <a href="" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
             <br>
             <em3>
-              時間： 5:15
+              時間： 
               <br>
-              ジャンル： ヒップホップ
+              ジャンル： 
               <br>
-              レーベル： SPACE SHOWER MUSIC
+              レーベル： 
             </em3>
             <br><br>
           </div> -->
 
-           <!-- <div id="20210209"></div>
-          <!- XX ->
+
+        <!-- <div id="20210215"></div>
+          <!- Shooting Stars / Bag Raiders ->
           <hr>
           <div>
-            <p><small> 2021年02月09日</small></p>
-            <i class="fas fa-headphones-alt"></i> スカーフとトワレ / Scarf & the SuspenderS 
+            <p><small> 2021年02月15日</small></p>
+            <i class="fas fa-headphones-alt"></i> Shooting Stars / Bag Raiders
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="https://amzn.to/3oIsJsr" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
+            <i class="far fa-file-audio"></i> <a href="" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
             <br>
             <em3>
-              時間： 5:15
+              時間： 3:47
               <br>
-              ジャンル： ヒップホップ
+              ジャンル： エレクトロ・ポップス
               <br>
-              レーベル： SPACE SHOWER MUSIC
+              レーベル： MODULAR
             </em3>
             <br><br>
           </div> -->
+
+        <!-- <div id="20210214"></div>
+          <!- Something For Your M.I.N.D. / スーパーオーガニズム ->
+          <hr>
+          <div>
+            <p><small> 2021年02月14日</small></p>
+            <i class="fas fa-headphones-alt"></i> Something For Your M.I.N.D. / スーパーオーガニズム
+            <br><br>
+            <i class="far fa-file-audio"></i> <a href="https://amzn.to/3tQag0Y" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
+            <br>
+            <em3>
+              時間： 2:45
+              <br>
+              ジャンル： オルタナティヴ・ロック
+              <br>
+              レーベル： Domino Recording Co
+            </em3>
+            <br><br>
+          </div> -->
+
+        <!-- <div id="20210213"></div>
+          <!- Begin (feat. Wales) / Shallou ->
+          <hr>
+          <div>
+            <p><small> 2021年02月13日</small></p>
+            <i class="fas fa-headphones-alt"></i> Begin (feat. Wales) / Shallou
+            <br><br>
+            <i class="far fa-file-audio"></i> <a href="https://amzn.to/3793Pwm" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
+            <br>
+            <em3>
+              時間： 4:02
+              <br>
+              ジャンル： エレクトロニカ
+              <br>
+              レーベル：  Shallou
+            </em3>
+            <br><br>
+          </div> -->
+          
+         <div id="20210212"></div>
+          <!-- <!- Full Circle / George FitzGerald and Boxed In -> -->
+          <hr>
+          <div>
+            <p><small> 2021年02月12日</small></p>
+            <i class="fas fa-headphones-alt"></i> Full Circle / George FitzGerald and Boxed In
+            <br><br>
+            <i class="far fa-file-audio"></i> <a href="https://amzn.to/3tRZ97C" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
+            <br>
+            <em3>
+              時間： 	4:52
+              <br>
+              ジャンル： ダンス・エレクトロニカ
+              <br>
+              レーベル： Double Six Records
+            </em3>
+            <br><br>
+          </div> -->
+
+          <div id="202111"></div>
+          <!-- <!- Hang Up (Single ver.) / Young Juvenile Youth -> -->
+          <hr>
+          <div>
+            <p><small> 2021年02月11日</small></p>
+            <i class="fas fa-headphones-alt"></i> Hang Up (Single ver.) / Young Juvenile Youth
+            <br><br>
+            <i class="far fa-file-audio"></i> <a href="https://amzn.to/2MK4r4C" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
+            <br>
+            <em3>
+              時間： 4:17
+              <br>
+              ジャンル： ダンス・エレクトロニカ
+              <br>
+              レーベル：  Underground Gallery
+            </em3>
+            <br><br>
+          </div>
+
+           <div id="202110"></div>
+          <!-- <!- Naboo / Hot Since 82, Miss Kittin -> -->
+          <hr>
+          <div>
+            <p><small> 2021年02月10日</small></p>
+            <i class="fas fa-headphones-alt"></i> Naboo / Hot Since 82, Miss Kittin 
+            <br><br>
+            <i class="far fa-file-audio"></i> <a href="https://amzn.to/3p6lACq" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
+            <br>
+            <em3>
+              時間： 5:13
+              <br>
+              ジャンル： ダンス・エレクトロニカ
+              <br>
+              レーベル： Knee Deep In Sound
+            </em3>
+            <br><br>
+          </div>
+
+           <div id="20210209"></div>
+          <!-- <!- The Yancey / Glenn Astro -> -->
+          <hr>
+          <div>
+            <p><small> 2021年02月09日</small></p>
+            <i class="fas fa-headphones-alt"></i> The Yancey / Glenn Astro 
+            <br><br>
+            <i class="far fa-file-audio"></i> <a href="https://amzn.to/3oYaJKZ" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
+            <br>
+            <em3>
+              時間： 4:29
+              <br>
+              ジャンル： エレクトロニカ
+              <br>
+              レーベル： Tartelet Records
+            </em3>
+            <br><br>
+          </div>
 
           <div id="20210208"></div>
           <!-- <!-His Rope / Burial & Four Tet & Thom Yorke -> -->
