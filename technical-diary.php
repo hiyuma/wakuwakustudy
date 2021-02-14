@@ -55,7 +55,7 @@
           <!-- list -->
           <div id="schedule0" class="schedule_list">
             <ol reversed>
-              <!-- <li><a href="#20210207"> 2021年02月10日 AWS「AWS導入」</a></li> -->
+              <!-- <li><a href="#20210214"> 2021年02月14日 XML「サイトマップの作成と追加」</a></li> -->
               <li><a href="#20210210"> 2021年02月10日 HTML/CSS「ソースコードの埋め込み」</a></li>
               <li><a href="#20210209"> 2021年02月09日 PHP「現在日時の所得」</a></li>
               <li><a href="#20210208"> 2021年02月08日 PHP「入力値の継承」</a></li>
@@ -66,6 +66,33 @@
             </ol>
           </div>
         </div>
+
+
+         <!-- id=0006 -->
+         <!-- <div id="20210214"></div>
+        <br>
+        <p id="avocado">2021年02月14日 <i class="fas fa-laptop-code"></i>XML</p>
+        <h2 id="title">「サイトマップの作成と追加」</h2>
+
+        <div class="accbox">
+
+          <p><img src="gallery/techimg/AddSitemap.jpg" alt="PHP現在時刻取得前表示1"></p>
+
+          <input type="checkbox" id="0005" class="cssacc" />
+
+          <label for="0005"><span><i class="fas fa-book"></i>READ</span></label>
+          <div class="accshow">
+            <h3>サイトマップとは？</a></h3>
+            <p>
+            <br><br>
+            サイトマップを作成してくれる自動生成ツール<a href="http://www.sitemapxml.jp/" target="_blank">sitemap.xml Editor</a>を使いました。
+            <br><br>
+            <br><br>
+            <br><br>
+            </p>
+          </div>
+        </div>
+        <br> -->
 
         <!-- id=0004 -->
         <div id="20210210"></div>
