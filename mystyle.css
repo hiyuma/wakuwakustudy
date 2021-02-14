@@ -165,12 +165,12 @@ iframe {
 }
 
 header h1 {
-	width: 60px;
-	height: 60px;
+	width: 80px;
+	height: 80px;
 	margin: 0 auto;
 	background: linear-gradient(-45deg, rgba(221, 220, 220, 0.6), rgba(255, 236, 234, 0.9), rgba(218, 251, 237, 0.8));
 	font-size: 2em;
-	line-height: 60px;
+	line-height: 80px;
 	font-family: "'Hannotate SC','ヒラギノ角ゴシック','Hiragino Sans','メイリオ', Meiryo,sans-serif;";
 	font-weight: 800;
 	color: #ffffff;
@@ -179,6 +179,22 @@ header h1 {
 	border-radius: 50%;
 	transition: all 2s;
 	user-select: none;
+}
+h1.logo {
+	margin: 40px auto 20px;
+}
+h1.logo img{
+	width: 50%;
+	vertical-align:middle;
+}
+
+.logo:hover {
+	width: 120px;
+	height: 120px;
+	font-size: 4em;
+	font-weight: 900;
+	line-height: 120px;
+	transform: rotate(1080deg);
 }
 
 /* .material-icons.rotate { 未使用
@@ -504,18 +520,7 @@ button a.link {
 	color: rgb(136, 136, 136);
 }
 
-h1.logo {
-	margin: 40px auto 20px;
-}
 
-.logo:hover {
-	width: 120px;
-	height: 120px;
-	font-size: 4em;
-	font-weight: 900;
-	line-height: 120px;
-	transform: rotate(1080deg);
-}
 
 .btn {
 	padding-bottom: 50px;
