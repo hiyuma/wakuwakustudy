@@ -104,6 +104,20 @@
 
                             <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+                            <li>2021年02月15日</li>
+                            <div class="info-children"><span><a href="video.php"> VIDEO</a> 更新(TVアニメ「鬼滅の刃」遊郭編)</span>
+                            </div>
+
+                            <li>2021年02月14日</li>
+                            <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（サイトマップの作成と追加）</a> 更新</span></div>
+
+                            <li>2021年02月13日</li>
+                            <div class="info-children">
+                            <span><a href="smt.php"> スマート投資</a> 更新</span></div>
+
+                            <li>2021年02月12日</li>
+                            <div class="info-children"><span><a href="diary.php">DIARY</a> 更新</span></div>
+
                             <li>2021年02月10日</li>
                             <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（ソースコードの埋め込み）</a> 更新</span>
                             </div>
@@ -169,7 +183,7 @@
 
                             <li>2021年01月30日</li>
                             <div class="info-children">
-                                   <span>siteMap 更新</span>
+                                   <span>SiteMap 更新</span>
                             </div>
 
                             <li>2021年01月30日</li>
@@ -849,6 +863,42 @@
                                           href="" target="blank" rel="noopener">
                                           </a></li>
                                    <hr> -->
+
+                            2021年02月15日
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG152FU0V10C21A2000000/" target="blank" rel="noopener">
+                                          東京都、新たに266人感染　新型コロナ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQOGH12CEI0S1A210C2000000/" target="blank" rel="noopener">
+                                          日経平均3万円、主役は外国人・日銀　個人に恩恵薄く</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQOMH09CY90Z00C21A2000000/" target="blank" rel="noopener">
+                                          確定申告16日スタート　コロナ下、今年も期限延長</a></li>
+                                   <hr>
+
+                            2021年02月14日
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG141MR0U1A210C2000000/" target="blank" rel="noopener">
+                                          東京都、新たに371人感染　新型コロナ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODB133110T10C21A2000000/" target="blank" rel="noopener">
+                                          新型コロナワクチン「1瓶6回」対応注射器　米でも混乱</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODF12D0U0S1A210C2000000/" target="blank" rel="noopener">
+                                          ファイザー製ワクチン承認、有効性を確認　17日接種へ</a></li>
+                                   <hr>
+
+                            2021年02月13日
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG131L50T10C21A2000000/" target="blank" rel="noopener">
+                                          東京都、新たに369人感染　新型コロナ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQOFK015KL0R00C21A2000000/" target="blank" rel="noopener">
+                                          JR東海「ずらし旅」好調　コロナ禍でブランド再構築</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG029TV0S1A200C2000000/" target="blank" rel="noopener">
+                                          さらば不幸な廃業　コロナでどん底、倒産体験糧に再起</a></li>
+                                   <hr>
 
                             2021年02月12日
                                    <li><i class="far fa-file-alt"></i><a

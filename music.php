@@ -40,9 +40,9 @@
 
 
       <section>
-        <div class="line">MUSIC</div>
-        <p>
-          <image id="top-img" src="gallery/top/music.jpg" alt="小物">
+        <h1 class="line">MUSIC</h1>
+        <p id="top-img-p">
+          <img id="top-img" src="gallery/top/music.jpg" alt="小物">
         </p>
         <p>毎日1曲ずつ。
           <br><br>
@@ -423,9 +423,123 @@
             <br><br>
           </div> -->
 
+        <!-- <div id="20210221"></div>
+          <!- Girl (Mixed) / Neon Bunny, Children’s Corner ->
+          <hr>
+          <div>
+            <p><small> 2021年02月21日</small></p>
+            <i class="fas fa-headphones-alt"></i> Girl (Mixed) / Neon Bunny, Children’s Corner
+            <br><br>
+            <i class="far fa-file-audio"></i> <a href="https://amzn.to/2Nx37Sn" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
+            <br>
+            <em3>
+              時間： 2:43
+              <br>
+              ジャンル： ダンス・エレクトロニカ
+              <br>
+              レーベル： Kitsuné Musique
+            </em3>
+            <br><br>
+          </div> -->
 
-        <!-- <div id="20210215"></div>
-          <!- Shooting Stars / Bag Raiders ->
+           <!-- <div id="20210220"></div>
+          <!-  Tonight / Little People ->
+          <hr>
+          <div>
+            <p><small> 2021年02月20日</small></p>
+            <i class="fas fa-headphones-alt"></i> Tonight / Little People
+            <br><br>
+            <i class="far fa-file-audio"></i> <a href="https://amzn.to/3jXB1w0" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
+            <br>
+            <em3>
+              時間： 	3:53
+              <br>
+              ジャンル： エレクトロニカ
+              <br>
+              レーベル： Youth and Progress Recordings
+            </em3>
+            <br><br>
+          </div> -->
+
+           <!-- <div id="20210219"></div>
+          <!- Myself / Duñe, Twenty9 ->
+          <hr>
+          <div>
+            <p><small> 2021年02月19日</small></p>
+            <i class="fas fa-headphones-alt"></i> Myself / Duñe, Twenty9
+            <br><br>
+            <i class="far fa-file-audio"></i> <a href="https://amzn.to/2ZjoMAc" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
+            <br>
+            <em3>
+              時間： 2:47
+              <br>
+              ジャンル： ダンス・エレクトロニカ
+              <br>
+              レーベル： Roche Musique
+            </em3>
+            <br><br>
+          </div> -->
+
+          <!-- <div id="20210218"></div>
+          <!- 5 A.M. / Kartell ->
+          <hr>
+          <div>
+            <p><small> 2021年02月18日</small></p>
+            <i class="fas fa-headphones-alt"></i> 5 A.M. / Kartell
+            <br><br>
+            <i class="far fa-file-audio"></i> <a href="https://amzn.to/3qhqvC1" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
+            <br>
+            <em3>
+              時間： 4:06
+              <br>
+              ジャンル： ダンス・エレクトロニカ
+              <br>
+              レーベル： Roche Musique
+            </em3>
+            <br><br>
+          </div> -->
+
+          <!-- <div id="20210217"></div>
+          <!- Everything Must Change (Aicube Vocal Mix) [feat. Fonogenico] / Ayur ->
+          <hr>
+          <div>
+            <p><small> 2021年02月17日</small></p>
+            <i class="fas fa-headphones-alt"></i> Everything Must Change (Aicube Vocal Mix) [feat. Fonogenico] / Ayur
+            <br><br>
+            <i class="far fa-file-audio"></i> <a href="https://amzn.to/37b57a7" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
+            <br>
+            <em3>
+              時間： 5:14
+              <br>
+              ジャンル： ダンス・エレクトロニカ
+              <br>
+              レーベル： FILE RECORDS INC.
+            </em3>
+            <br><br>
+          </div> -->
+
+          <!-- <div id="20210216"></div>
+          <!- Niet II / Maika Loubté ->
+          <hr>
+          <div>
+            <p><small> 2021年02月16日</small></p>
+            <i class="fas fa-headphones-alt"></i> Niet II / Maika Loubté
+            <br><br>
+            <i class="far fa-file-audio"></i> <a href="https://amzn.to/3pmS37y" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
+            <br>
+            <em3>
+              時間： 4:44
+              <br>
+              ジャンル： エレクトロニカ
+              <br>
+              レーベル： WATER RECORDS
+            </em3>
+            <br><br>
+          </div> -->
+
+
+        <div id="20210215"></div>
+          <!-- <!- Shooting Stars / Bag Raiders -> -->
           <hr>
           <div>
             <p><small> 2021年02月15日</small></p>
@@ -441,7 +555,7 @@
               レーベル： MODULAR
             </em3>
             <br><br>
-          </div> -->
+          </div>
 
         <div id="20210214"></div>
           <!-- <!- Something For Your M.I.N.D. / スーパーオーガニズム -> -->
