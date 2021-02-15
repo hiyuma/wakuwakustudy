@@ -55,7 +55,7 @@
           <!-- list -->
           <div id="schedule0" class="schedule_list">
             <ol reversed>
-              <!-- <li><a href="#20210214"> 2021年02月14日 XML「サイトマップの作成と追加」</a></li> -->
+              <li><a href="#20210214"> 2021年02月14日 SEO「サイトマップの作成と追加」</a></li>
               <li><a href="#20210210"> 2021年02月10日 HTML/CSS「ソースコードの埋め込み」</a></li>
               <li><a href="#20210209"> 2021年02月09日 PHP「現在日時の所得」</a></li>
               <li><a href="#20210208"> 2021年02月08日 PHP「入力値の継承」</a></li>
@@ -68,24 +68,23 @@
         </div>
 
 
-         <!-- id=0006 -->
-         <!-- <div id="20210214"></div>
+        <!-- id=0007 -->
+         <!-- <div id="202102XX"></div>
         <br>
-        <p id="avocado">2021年02月14日 <i class="fas fa-laptop-code"></i>XML</p>
-        <h2 id="title">「サイトマップの作成と追加」</h2>
+        <p id="avocado">2021年02月XX日 <i class="fas fa-laptop-code"></i>XML</p>
+        <h2 id="title">「」</h2>
 
         <div class="accbox">
 
-          <p><img src="gallery/techimg/AddSitemap.jpg" alt="PHP現在時刻取得前表示1"></p>
+          <p><img src="gallery/techimg" alt=""></p>
 
-          <input type="checkbox" id="0005" class="cssacc" />
+          <input type="checkbox" id="0007" class="cssacc" />
 
-          <label for="0005"><span><i class="fas fa-book"></i>READ</span></label>
+          <label for="0007"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
-            <h3>サイトマップとは？</a></h3>
+            <h3></a></h3>
             <p>
             <br><br>
-            サイトマップを作成してくれる自動生成ツール<a href="http://www.sitemapxml.jp/" target="_blank">sitemap.xml Editor</a>を使いました。
             <br><br>
             <br><br>
             <br><br>
@@ -93,6 +92,114 @@
           </div>
         </div>
         <br> -->
+
+         <!-- id=0006 -->
+         <div id="20210214"></div>
+        <br>
+        <p id="avocado">2021年02月14日 <i class="fas fa-laptop-code"></i>SEO施策</p>
+        <h2 id="title">「サイトマップの作成と追加」</h2>
+
+        <div class="accbox">
+
+          <p><img src="gallery/techimg/20210214/AddSitemap.jpg" alt="sitemap.xml Editor1"></p>
+
+          <input type="checkbox" id="0006" class="cssacc" />
+
+          <label for="0006"><span><i class="fas fa-book"></i>READ</span></label>
+          <div class="accshow">
+            <h3>1.サイトマップとは？</h3>
+            <p><mark><strong>サイトマップとは、Webサイト（ドメイン内）のページリンクをまとめたリストのことです。</mark></strong>
+            <br><br>
+            そのWebサイトには、どのようなページがあるのか、ファイル情報など、Webサイトの内容をわかりやすく伝える役割をしています。
+            <br><br>
+            本Webサイトは、僕が独学で1から作成したため、まとまりのない内容になっていますが、通常は、このサイトマップを考えた構成で設計し作成していくのが良いでしょう。
+            <br><br>
+            特に、SEO施策を気にするのであれば、検索エンジンに正しく認識されることが重要です。
+            <br><br>
+            Googleが"サイトマップが必要かどうか"について、以下の様に説明しています。
+            <br><br>
+            <ul>
+            <h4>サイトマップが必要かどうか</h4>
+            <p>サイトの各ページが適切にリンクされていれば、Google は通常、サイトのほとんどのページを検出できます。
+              <br><br>
+              その場合でも、大規模なサイト、複雑なサイト、専門性の高いファイルのクロールを改善する手段としてサイトマップが役立ちます。</p>
+            <h4>次の場合にサイトマップが必要になることがあります。</h4>
+            
+            <li>サイトのサイズが非常に大きい。</li>
+            <li>サイトにどこからもリンクされていない、または適切にリンクされていないコンテンツ ページのアーカイブが大量にある。</li>
+            <li>サイトが新しく、外部からのリンクが少ない。</li>
+            <li>サイトに動画や画像などのリッチメディア コンテンツが多数含まれている、またはサイトが Google ニュースに表示されている。</li>
+            <br>
+            <em3>出典：<a href="https://developers.google.com/search/docs/advanced/sitemaps/overview?hl=ja&visit_id=637488909103191118-449890832&rd=1">上級者向け SEO施策/サイトマップについて | google検索セントラル</a></em3>
+            </ul>
+            ちなみに、本サイトはサイズが小さいですし、SEO施策を気にして作成していないので、必要ないでしょう。
+            <br><br>
+            とはいえ、Webサイト構築受注でもSEO施策は重要なので、作成してみました。
+            <br><br>
+            サイトマップには、”XMLサイトマップ”と”HTMLサイトマップ”の2種類のファイル形式があります。
+            <br><br>
+            ”XMLサイトマップ”とは、Googleなどの検索エンジンにWebサイトの各ページ情報を認識してもらうリストです。
+            <br><br>
+            ”HTMLサイトマップ”とは、ユーザが目にして、どのようなページがあるのか情報を伝えたり、ユーザの利便性を向上させるリストです。
+            <br><br>
+            Googleのいう、ユーザビリティとクローラビリティを向上するためには、どちらも作成した方が良いということです。
+
+
+            <h3>2.サイトマップを作成する方法は？</h3>
+            ”XMLサイトマップ”と”HTMLサイトマップ”どちらも作成することは難しくないです。
+            <br><br>
+            まず、”XMLサイトマップ”の作成方法から説明します。
+            <br><br>
+            「Google XML Sitemaps」や、フリーのWebアプリで作成できます。
+
+            <h4>”XMLサイトマップ”の作成方法</h4>
+            
+            今回は、サイトマップを作成してくれる自動生成ツール<a href="http://www.sitemapxml.jp/" target="_blank">sitemap.xml Editor</a>を使いました。
+            <p><img src="gallery/techimg/20210214/sitemapCreate.jpg" alt="sitemap.xml Editor2"></p>
+            特に理由がなければ、写真のように選択肢を変えずにサイトマップを作成します。
+            <br><br>
+            サイトマップから除外したいページがある場合は、指定しておいた方が良いです。
+            <p><img src="gallery/techimg/20210214/sitemapDone.jpg" alt="sitemap.xml Editor3"></p>
+            作成開始して、しばらくすると完了します。完了した"sitemap.xml"ファイルをクリックしてダウンロードします。
+            <br><br>
+            ダウンロードした"sitemap.xml"ファイルをFTPなどでルート配下になるように配置します。
+            <br><br>
+            以下の写真のように、Googleへ教えてあげるために<a href="https://search.google.com/search-console/">Google Search Console</a>の左項目から、サイトマップを選択し、URLに"sitemap.xml"を入力し送信します。
+            <p><img src="gallery/techimg/20210214/AddSitemap (2).jpg" alt="Google Search Console"></p>
+            写真のようにステータス「成功しました」と表示されたら完了です。
+            <br><br>
+            もし、「取得できませんでした」などのエラーが出た場合は、ファイル名やディレクトリを再度確認して送信しなおしてみましょう。
+
+            <h4>”HTMLサイトマップ”の作成方法</h4>
+            手動で作成する方法と、自動で作成する方法があります。
+            <br><br>
+            本サイトには、”HTMLサイトマップ”は設置していません。
+            <br><br>
+            サイト規模が小さいのもありますが、Webサイト自体作成中なので、設置するとしたら、まだ先になるでしょう。
+            <br><br>
+            また、依然は、必要とされていた大規模Webサイトでも、”HTMLサイトマップ”を設置しないサイトが増えてきています。
+            <br><br>
+            <a href="https://www.amazon.co.jp/">Amazon</a>のサイトでも、現在では、カスタマー向けのサイトマップは設置されていないようです。数年前までは、”HTMLサイトマップ”が設置されていた記憶があります。
+            <br><br>
+            ユーザビリティの向上からも、SEO施策からも設置した方が良いと言われてきました。
+            <br><br>
+            しかし、現在(2021年2月14日)では、Googleは”XMLサイトマップ”を参考にしているため、”HTMLサイトマップ”は、SEO施策としての効果はないと言われているのです。
+            <br><br>
+            ただ、もし、WordPressを利用している場合は、”HTMLサイトマップ”を簡単に自動生成してくれるプラグインがありますので、紹介しておきます。
+            <br><br>
+            WordPressの場合は、「<a href="https://ja.wordpress.org/plugins/ps-auto-sitemap/">PS Auto Sitemap</a>」と「<a href="https://ja.wordpress.org/plugins/simple-sitemap/">Simple Sitemap</a>」があります。
+            <br><br>
+            現段階では、僕がWordPressを利用していないため、「PS Auto Sitemap」で作成が必要な場合は、恐れ入りますが検索して見つけていただきたいです。
+            <br><br>
+            ちなみに、”HTMLサイトマップ”を手動で作成する場合は、リンク切れなどのミスが起きやすく管理する必要が出てくるのであまりオススメしません。
+            <h3>3.サイトマップを作成し、SEO施策しましょう</h3>
+            サイトマップには、クローラビリティを向上する”XMLサイトマップ”と、ユーザビリティを向上する”HTMLサイトマップ”の2種類があり、
+            <br><br>
+            現在のSEO施策では、”XMLサイトマップ”を設置しておいた方が良いでしょう。また、”HTMLサイトマップ”は、SEO施策との関連性が薄いか全く無いため、必要に応じて設置するべきか判断しましょう。
+            </p>
+          </div>
+        </div>
+        <br>
 
         <!-- id=0004 -->
         <div id="20210210"></div>
@@ -196,6 +303,8 @@
             CDN読み込みしているので、preにprettyprintクラスとlinenumsクラスを付けるだけで、良いのです。
             <br><br>
             また、個人的に別途CSSファイルを作成して、さらに変更している部分があります。
+            <br><br>
+            長いコードを折り返さずに、一行で表示したい場合は、スクロールバーを使って表示することもできます。
             <br><br>
             あとは、&lt;pre class="prettyprint linenums">&lt;/pre>の間にコードを入れて、以下のように表記できます。
 
