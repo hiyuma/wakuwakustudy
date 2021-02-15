@@ -2,8 +2,8 @@
 <?php
 //データベースへ接続
 $dsn = 'mysql:dbname=developershirai_user;host=localhost;charset=utf8';
-$user = 'root';
-$password = '';
+$user = 'developershirai_user';
+$password = 'post2021';
 
 try {
   $db = new PDO($dsn, $user, $password);
@@ -60,6 +60,7 @@ $stmt = $pdo->query("SELECT * FROM user WHERE user_name ='" . $_POST["user_name"
     ?>
   </table>
 
+<a href="https://developershirai.com/">HOME</a>
 </body>
 
 </html>

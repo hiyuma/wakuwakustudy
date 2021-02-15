@@ -40,8 +40,8 @@
 		<main>
 			<div id="article">
 				<section>
-					<div class="line"><i class="fas fa-language"></i>ENGLISH</div>
-					<p>
+					<h1 class="line"><i class="fas fa-language"></i>ENGLISH</h1>
+					<p id="top-img-p">
             <image id="top-img" src="gallery/top/english.jpg" alt="">
           </p>
 					<p>

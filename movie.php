@@ -41,8 +41,8 @@
     <div id="article">
     <section>
 
-        <div class="line">MOVIES</div>
-        <p>
+        <h1 class="line">MOVIES</h1>
+        <p id="top-img-p">
           <img id="top-img" src="gallery/top/movie2.png" alt="">
         </p>
         <p>鑑賞映画の感想を書き留めていきます。

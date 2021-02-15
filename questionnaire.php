@@ -103,15 +103,19 @@
     <div id="article">
       <section>
 
-        <p class="line">アンケート<i class="far fa-edit"></i></p>
+        <h1 class="line">アンケート<i class="far fa-edit"></i></h1>
         
-          <p><img src="gallery/top/questionnaire2.jpg" alt="文房具"></p>
+          <p id="top-img-p">
+            <img src="gallery/top/questionnaire2.jpg" alt="文房具">
+          </p>
         <p>
         <i class="fab fa-php"></i>PHP独学の一環で、1から作成してみたアンケート・集計機能です。(データベースとの連携なし)
           <br><br>
           もしよろしければ、アンケート回答（4つの質問）のご協力をお願い致します。
           <br><br>
           アンケート内容に関しては、特に意味はありません。
+          <br><br>
+          そのうち、実験的に別のアンケート内容を追加する可能性があります。
           <br><br>
           PHPでの配列、ループ処理、ファイル読み書き、計算式が正常に機能するか確認するために作成しました。
           <br><br>

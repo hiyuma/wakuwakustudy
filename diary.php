@@ -41,7 +41,7 @@
     <div id="article">
       <section>
         <div class="line">DIARY</div>
-        <p>
+        <p id="top-img-p">
           <image id="top-img" src="gallery/top/diary3.png" alt="">
         </p>
         <p>日記は、定期的に書くかもしれないし、書かないかもしれない。
@@ -1560,7 +1560,7 @@
               <div class="map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12962.030822958783!2d139.63751292104376!3d35.6891219611531!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f25b342610e7%3A0x8cff7e89e65508b0!2z5p2x5Lqs6YO956uL5ZKM55Sw5aCA5YWs5ZyS!5e0!3m2!1sja!2sjp!4v1586431467604!5m2!1sja!2sjp" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
               </div>
 
-              <p>話題の鬼滅の刃 は<a href="https://amzn.to/33Lu7mT">Prime Video</a>で26話まで見てしまいました。
+              <p>話題の鬼滅の刃 は<a href="https://amzn.to/3ddBatD">Prime Video</a>で26話まで見てしまいました。
                 <br><br>
                 観る前はグロイ映像が多そうで、子供が見ても平気なのかと心配でした。
                 <br><br>

@@ -39,7 +39,7 @@
     <main>
       <div id="article">
         <section>
-          <div class="line"><i class="fas fa-language"></i>ENGLISH DAILY CONVERSATION</div>
+          <h1 class="line"><i class="fas fa-language"></i>ENGLISH DAILY CONVERSATION</h1>
           <P>
               このページでは、学習中の日常英会話・リスニングで利用している<a href="https://px.a8.net/svt/ejp?a8mat=3BOCPH+BLYC7U+3AQG+ZQ80I" rel="nofollow">	スタディサプリ ENGLISH ( 新日常英会話コース ) </a>を参考に、よく使いそうな、応用の効くだろう表現を抜粋しながら作成しています。
               <br><br>

@@ -45,8 +45,8 @@
 
     <div id="article">
       <section>
-        <div class="line">PHOTO GALLERY</div>
-        <p>
+        <h1 class="line">PHOTO GALLERY</h1>
+        <p id="top-img-p">
           <img id="top-img" src="gallery/top/gallery.png" alt="">
         </p>
 

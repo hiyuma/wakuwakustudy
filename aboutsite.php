@@ -36,12 +36,12 @@
       <main>
          <div id="article">
             <section>
-               <div class="line">しらひゅーのわくわくスタディ</div>
-               <p>
-                  <image id="top-img" src="gallery/top/aboutsite.png" alt="">
+               <h1 class="line">しらひゅーのわくわくスタディ</h1>
+               <p id="top-img-p">
+                  <img id="top-img" src="gallery/top/aboutsite.png" alt="">
                </p>
                <p>このサイトは、リモートワーク中の <a href="about.php"
-                     target="blank">し ら ひ ゅ ー</a> が1から制作、日々更新中。
+                     target="blank">しらひゅー</a> が1から制作、日々更新中。
                      <br><br>
                      2020年3月22日から独学と同時にこのサイトを制作開始。
                      <br><br>

@@ -39,14 +39,14 @@
 
       <div id="work">
         <div id="section">
-          <div class="line">WORK SPACE</div>
-          <p>
+          <h1 class="line">WORK SPACE</h1>
+          <p id="top-img-p">
             <img id="top-img" src="../gallery/top/work.png" alt="">
           </p>
 
           <p>ここは、独学中のプログラム言語(主にフロントエンド)を載せているページです。
             <br><br>
-            このサイトの変更点や、パソコンなどのトラブルシューティング、プログラミング用メモなど、<a href="https://developershirai.com/technical-diary.php">テクニカルな日記</a>を作成しました。
+            このサイトの変更点や、パソコンなどのトラブルシューティング、プログラミング用メモなど、別途<a href="https://developershirai.com/technical-diary.php">テクニカル日記</a>を作成しました。
           </p>
 
           <br>

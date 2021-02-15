@@ -40,8 +40,8 @@
    <main>
       <div id="article">
          <section>
-            <div class="line">LINEスマート投資</div>
-            <p>
+            <h1 class="line">LINEスマート投資</h1>
+            <p id="top-img-p">
                <image id="top-img" src="gallery/top/smt.png" alt="">
             </p>
             <p>LINEで手軽にできる<a href="https://lin.ee/wzMqnDA" target="blank">LINEスマート投資</a>。

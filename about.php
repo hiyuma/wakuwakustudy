@@ -38,7 +38,7 @@
     <div id="article">
       <section>
 
-        <div class="line">ABOUT</div>
+        <h1 class="line">ABOUT</h1>
         <div id="about">
           <p>
             <img id="prof" src="gallery/新宿あるる.jpg" alt="しらひゅープロフィール写真">
@@ -51,7 +51,7 @@
             <a href="https://soundcloud.com/hiyuma-shirai"><i class="fab fa-lg fa-soundcloud"></i></a>　
             <a href="mailto:info@developershirai.com"><i class="fas fa-lg fa-envelope"></i></a>
           </div>
-          <p>し ら ひ ゅ ー （ し ら い　ひ ゆ ま ）</p>
+          <p id="name">しらひゅー （しらい ひゆま）</p>
           <h3>PROFILE</h3>
           <p>長野県中野市出身。東京都在住。
             <br><br>
@@ -75,14 +75,14 @@
             <br><br>
             2019年からプラン・スポンサーシップ参加中。2020年5月から時々UberEats配達で運動不足解消。
             <br><br>
-            2020年4月からWEBサイト制作、業務管理WEBアプリ開発、サーバー構築、ネットワーク構築、パソコンやスマートフォン、IoTなどの通信機器の操作設定・トラブルシューティングのサポートなど実施中。
+            <mark>2020年4月からWEBサイト制作、業務管理WEBアプリ開発、サーバー構築、ネットワーク構築、パソコンやスマートフォン、IoTなどの通信機器の操作設定・トラブルシューティングのサポートなど実施中。</mark>
             <br><br>
             ※お仕事のご依頼はお手数ですが、<span class="material-icons">
               email
             </span>”<a href="mailto:info@developershirai.com">info@developershirai.com</a>” へ、または<i class="fab fa-twitter"></i> ”<a class="link" href="https://twitter.com/hiyuma" target="blank" rel="noopener">Twitter</a>” から「お仕事依頼」と記載の上、依頼内容と共にご連絡をお願い致します。
             <br><br>
             現在、パソコンの遠隔サポートも対応しています。（要予約）
-            <br>※年末年始：12月28日～1月3日まで休業です。
+            <br>※営業日:10:00～23:00 休業：不定期 / 年末年始：12月28日～1月3日
             <br><br>
             2020年6月、HTML/CSS/Javascriptを修了後、
             <br>
