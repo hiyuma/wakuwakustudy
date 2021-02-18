@@ -44,21 +44,15 @@
         <p id="top-img-p">
           <img id="top-img" src="gallery/top/music.jpg" alt="小物">
         </p>
-        <p>毎日1曲ずつ。
-          <br><br>
-          好きな音楽を毎日1曲ずつ。
+        <p>毎日1曲ずつ。好きな音楽を毎日1曲ずつ。
           <br><br>
           CHILL OUT、JAZZ、TECHNO、ELECTRO、HOUSE、R&B、AMBIENT、POP、ROCKなど。
           <br><br>
-          千差万別。
-          <br><br>
-          クラブDJ出演時は、DEEP HOUSE、TECHNO、ELECTRO系の選曲多。
+          千差万別。クラブDJ出演時は、DEEP HOUSE、TECHNO、ELECTRO系の選曲多。
           <br><br>
           クラブミュージック系は音響、特に低音域が良い環境で聞いて欲しいです。
           <br><br>
-          常に音の全体を聴きたいと思い、曲に合わせたイコライジングを考えてしまいます。
-          <br><br>
-          基本的に、インスト(Instrumental)系を好んでいます。
+          常に音の全体を聴きたいと思い、曲に合わせたイコライジングを考えてしまいます。基本的に、インスト(Instrumental)系を好んでいます。
           <br><br>
           ここでは、部屋で筋トレ、ステップダンスする時、または、外の景色を観ながらのパン＆コーヒータイムで聞くことが多くなってるため、しばらくはダンス系、メロウ系選曲が多めになりそうな予感がします。
           <br><br>
@@ -409,17 +403,16 @@
           <hr>
           <div>
             <p><small> 2021年02月XX日</small></p>
-            <i class="fas fa-headphones-alt"></i>  / 
+            <h4> / <i class="fas fa-headphones-alt"></i></h4>
+            <i class="far fa-file-audio file"></i><a href="" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-            <br>
-            <em3>
+            <em2>
               時間： 
               <br>
               ジャンル： 
               <br>
               レーベル： 
-            </em3>
+            </em2>
             <br><br>
           </div> -->
 
@@ -428,17 +421,16 @@
           <hr>
           <div>
             <p><small> 2021年02月21日</small></p>
-            <i class="fas fa-headphones-alt"></i> Girl (Mixed) / Neon Bunny, Children’s Corner
+            <h4>Girl (Mixed) / Neon Bunny, Children’s Corner<i class="fas fa-headphones-alt"></i></h4>
+            <i class="far fa-file-audio file"></i><a href="https://amzn.to/2Nx37Sn" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="https://amzn.to/2Nx37Sn" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-            <br>
-            <em3>
+            <em2>
               時間： 2:43
               <br>
               ジャンル： ダンス・エレクトロニカ
               <br>
               レーベル： Kitsuné Musique
-            </em3>
+            </em2>
             <br><br>
           </div> -->
 
@@ -447,17 +439,16 @@
           <hr>
           <div>
             <p><small> 2021年02月20日</small></p>
-            <i class="fas fa-headphones-alt"></i> Tonight / Little People
+            <h4>Tonight / Little People<i class="fas fa-headphones-alt"></i></h4>
+            <i class="far fa-file-audio file"></i><a href="https://amzn.to/3jXB1w0" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="https://amzn.to/3jXB1w0" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-            <br>
-            <em3>
+            <em2>
               時間： 	3:53
               <br>
               ジャンル： エレクトロニカ
               <br>
               レーベル： Youth and Progress Recordings
-            </em3>
+            </em2>
             <br><br>
           </div> -->
 
@@ -466,94 +457,103 @@
           <hr>
           <div>
             <p><small> 2021年02月19日</small></p>
-            <i class="fas fa-headphones-alt"></i> Myself / Duñe, Twenty9
+            <h4>Myself / Duñe, Twenty9<i class="fas fa-headphones-alt"></i></h4>
+            <i class="far fa-file-audio file"></i><a href="https://amzn.to/2ZjoMAc" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="https://amzn.to/2ZjoMAc" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-            <br>
-            <em3>
+            <em2>
               時間： 2:47
               <br>
               ジャンル： ダンス・エレクトロニカ
               <br>
               レーベル： Roche Musique
-            </em3>
+            </em2>
             <br><br>
           </div> -->
 
-          <!-- <div id="20210218"></div>
-          <!- 5 A.M. / Kartell ->
+         
+
+         
+
+          <h2>今日の1曲<i class="fas fa-music"></i></h2>
+
+           <div id="20210218"></div>
+          <!-- <!- 5 A.M. / Kartell -> -->
           <hr>
           <div>
             <p><small> 2021年02月18日</small></p>
-            <i class="fas fa-headphones-alt"></i> 5 A.M. / Kartell
+            <h4>5 A.M. / Kartell<i class="fas fa-headphones-alt"></i></h4>
+            <i class="far fa-file-audio file"></i><a href="https://amzn.to/3qhqvC1" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="https://amzn.to/3qhqvC1" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-            <br>
-            <em3>
+            <em2>
               時間： 4:06
               <br>
               ジャンル： ダンス・エレクトロニカ
               <br>
               レーベル： Roche Musique
-            </em3>
+            </em2>
             <br><br>
-          </div> -->
+          </div>
+           
+          
 
-          <!-- <div id="20210217"></div>
-          <!- Everything Must Change (Aicube Vocal Mix) [feat. Fonogenico] / Ayur ->
           <hr>
+          <div class="accbox">
+          今日までの1曲<i class="fas fa-music"></i><br>
+          <input type="checkbox" id="select-music" class="cssacc" />
+          <label for="select-music">OPEN</label>
+
+          <div class="accshow">
+
+          <div id="20210217"></div>
+          <!-- <!- Everything Must Change (Aicube Vocal Mix) [feat. Fonogenico] / Ayur -> -->
           <div>
             <p><small> 2021年02月17日</small></p>
-            <i class="fas fa-headphones-alt"></i> Everything Must Change (Aicube Vocal Mix) [feat. Fonogenico] / Ayur
+            <h4>Everything Must Change (Aicube Vocal Mix) [feat. Fonogenico] / Ayur<i class="fas fa-headphones-alt"></i></h4>
+            <i class="far fa-file-audio file"></i><a href="https://amzn.to/37b57a7" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="https://amzn.to/37b57a7" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-            <br>
-            <em3>
+            <em2>
               時間： 5:14
               <br>
               ジャンル： ダンス・エレクトロニカ
               <br>
               レーベル： FILE RECORDS INC.
-            </em3>
+            </em2>
             <br><br>
-          </div> -->
+          </div>
 
-          <!-- <div id="20210216"></div>
-          <!- Niet II / Maika Loubté ->
-          <hr>
+          <div id="20210216"></div>
+          <!-- <!- Niet II / Maika Loubté -> -->
           <div>
-            <p><small> 2021年02月16日</small></p>
-            <i class="fas fa-headphones-alt"></i> Niet II / Maika Loubté
+            <p><small>2021年02月16日</small></p>
+            <h4> Niet II / Maika Loubté <i class="fas fa-headphones-alt"></i></h4>
+            <i class="far fa-file-audio file"></i><a href="https://amzn.to/3pmS37y" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play "></i>
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="https://amzn.to/3pmS37y" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-            <br>
-            <em3>
+            <em2>
               時間： 4:44
               <br>
               ジャンル： エレクトロニカ
               <br>
               レーベル： WATER RECORDS
-            </em3>
+            </em2>
             <br><br>
-          </div> -->
+          </div>
+          <hr>
 
 
         <div id="20210215"></div>
           <!-- <!- Shooting Stars / Bag Raiders -> -->
-          <hr>
           <div>
             <p><small> 2021年02月15日</small></p>
-            <i class="fas fa-headphones-alt"></i> Shooting Stars / Bag Raiders
+            <h4>Shooting Stars / Bag Raiders<i class="fas fa-headphones-alt"></i></h4>
+            <i class="far fa-file-audio file"></i><a href="" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-            <br>
-            <em3>
+            <em2>
               時間： 3:47
               <br>
               ジャンル： エレクトロ・ポップス
               <br>
               レーベル： MODULAR
-            </em3>
+            </em2>
             <br><br>
           </div>
 
@@ -562,17 +562,16 @@
           <hr>
           <div>
             <p><small> 2021年02月14日</small></p>
-            <i class="fas fa-headphones-alt"></i> Something For Your M.I.N.D. / スーパーオーガニズム
+            <h4>Something For Your M.I.N.D. / スーパーオーガニズム<i class="fas fa-headphones-alt"></i></h4>
+            <i class="far fa-file-audio file"></i><a href="https://amzn.to/3tQag0Y" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="https://amzn.to/3tQag0Y" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-            <br>
-            <em3>
+            <em2>
               時間： 2:45
               <br>
               ジャンル： オルタナティヴ・ロック
               <br>
               レーベル： Domino Recording Co
-            </em3>
+            </em2>
             <br><br>
           </div>
 
@@ -581,17 +580,16 @@
           <hr>
           <div>
             <p><small> 2021年02月13日</small></p>
-            <i class="fas fa-headphones-alt"></i> Begin (feat. Wales) / Shallou
+            <h4>Begin (feat. Wales) / Shallou<i class="fas fa-headphones-alt"></i></h4>
+            <i class="far fa-file-audio file"></i><a href="https://amzn.to/3793Pwm" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="https://amzn.to/3793Pwm" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-            <br>
-            <em3>
+            <em2>
               時間： 4:02
               <br>
               ジャンル： エレクトロニカ
               <br>
               レーベル：  Shallou
-            </em3>
+            </em2>
             <br><br>
           </div>
           
@@ -600,17 +598,16 @@
           <hr>
           <div>
             <p><small> 2021年02月12日</small></p>
-            <i class="fas fa-headphones-alt"></i> Full Circle / George FitzGerald and Boxed In
+            <h4>Full Circle / George FitzGerald and Boxed In<i class="fas fa-headphones-alt"></i></h4>
+            <i class="far fa-file-audio file"></i><a href="https://amzn.to/3tRZ97C" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="https://amzn.to/3tRZ97C" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-            <br>
-            <em3>
+            <em2>
               時間： 	4:52
               <br>
               ジャンル： ダンス・エレクトロニカ
               <br>
               レーベル： Double Six Records
-            </em3>
+            </em2>
             <br><br>
           </div>
 
@@ -619,17 +616,16 @@
           <hr>
           <div>
             <p><small> 2021年02月11日</small></p>
-            <i class="fas fa-headphones-alt"></i> Hang Up (Single ver.) / Young Juvenile Youth
+            <h4>Hang Up (Single ver.) / Young Juvenile Youth<i class="fas fa-headphones-alt"></i></h4>
+            <i class="far fa-file-audio file"></i><a href="https://amzn.to/2MK4r4C" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="https://amzn.to/2MK4r4C" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-            <br>
-            <em3>
+            <em2>
               時間： 4:17
               <br>
               ジャンル： ダンス・エレクトロニカ
               <br>
               レーベル：  Underground Gallery
-            </em3>
+            </em2>
             <br><br>
           </div>
 
@@ -638,17 +634,16 @@
           <hr>
           <div>
             <p><small> 2021年02月10日</small></p>
-            <i class="fas fa-headphones-alt"></i> Naboo / Hot Since 82, Miss Kittin 
+            <h4>Naboo / Hot Since 82, Miss Kittin <i class="fas fa-headphones-alt"></i></h4>
+            <i class="far fa-file-audio file"></i><a href="https://amzn.to/3p6lACq" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="https://amzn.to/3p6lACq" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-            <br>
-            <em3>
+            <em2>
               時間： 5:13
               <br>
               ジャンル： ダンス・エレクトロニカ
               <br>
               レーベル： Knee Deep In Sound
-            </em3>
+            </em2>
             <br><br>
           </div>
 
@@ -657,17 +652,16 @@
           <hr>
           <div>
             <p><small> 2021年02月09日</small></p>
-            <i class="fas fa-headphones-alt"></i> The Yancey / Glenn Astro 
+            <h4>The Yancey / Glenn Astro <i class="fas fa-headphones-alt"></i></h4>
+            <i class="far fa-file-audio file"></i><a href="https://amzn.to/3oYaJKZ" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="https://amzn.to/3oYaJKZ" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-            <br>
-            <em3>
+            <em2>
               時間： 4:29
               <br>
               ジャンル： エレクトロニカ
               <br>
               レーベル： Tartelet Records
-            </em3>
+            </em2>
             <br><br>
           </div>
 
@@ -676,17 +670,16 @@
           <hr>
           <div>
             <p><small> 2021年02月08日</small></p>
-            <i class="fas fa-headphones-alt"></i> His Rope / Burial & Four Tet & Thom Yorke
+            <h4>His Rope / Burial & Four Tet & Thom Yorke<i class="fas fa-headphones-alt"></i></h4>
+            <i class="far fa-file-audio file"></i><a href="https://amzn.to/2N4Y8YS" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="https://amzn.to/2N4Y8YS" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-            <br>
-            <em3>
+            <em2>
               時間： 5:32
               <br>
               ジャンル： エレクトロニカ
               <br>
               レーベル： XL Recordings
-            </em3>
+            </em2>
             <br><br>
           </div>
 
@@ -695,17 +688,16 @@
           <hr>
           <div>
             <p><small> 2021年02月07日</small></p>
-            <i class="fas fa-headphones-alt"></i> Unknown Tongues / Jlin
+            <h4>Unknown Tongues / Jlin<i class="fas fa-headphones-alt"></i></h4>
+            <i class="far fa-file-audio file"></i><a href="https://amzn.to/36RWWPT" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="https://amzn.to/36RWWPT" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-            <br>
-            <em3>
+            <em2>
               時間： 3:26
               <br>
               ジャンル： ダンス・エレクトロニカ
               <br>
               レーベル： Planet Mu
-            </em3>
+            </em2>
             <br><br>
           </div>
 
@@ -715,17 +707,16 @@
           <hr>
           <div>
             <p><small> 2021年02月06日</small></p>
-            <i class="fas fa-headphones-alt"></i> Oh No / Jessy Lanza 
+            <h4>Oh No / Jessy Lanza <i class="fas fa-headphones-alt"></i></h4>
+            <i class="far fa-file-audio file"></i><a href="https://amzn.to/3tslt7y" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="https://amzn.to/3tslt7y" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-            <br>
-            <em3>
+            <em2>
               時間： 4:41
               <br>
               ジャンル： ダンス・エレクトロニカ
               <br>
               レーベル： Plugz
-            </em3>
+            </em2>
             <br><br>
           </div>
 
@@ -734,17 +725,16 @@
           <hr>
           <div>
             <p><small> 2021年02月05日</small></p>
-            <i class="fas fa-headphones-alt"></i> Stop & Go (Up the Wall Dub) / The Galleria 
+            <h4>Stop & Go (Up the Wall Dub) / The Galleria <i class="fas fa-headphones-alt"></i></h4>
+            <i class="far fa-file-audio file"></i><a href="https://amzn.to/2Mk3S1d" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="https://amzn.to/2Mk3S1d" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-            <br>
-            <em3>
+            <em2>
               時間： 6:15
               <br>
               ジャンル： ダンス・エレクトロニカ
               <br>
               レーベル： Environ
-            </em3>
+            </em2>
             <br><br>
           </div>
 
@@ -753,17 +743,16 @@
           <hr>
           <div>
             <p><small> 2021年02月04日</small></p>
-            <i class="fas fa-headphones-alt"></i> Blessed / Smerz 
+            <h4>Blessed / Smerz <i class="fas fa-headphones-alt"></i></h4>
+            <i class="far fa-file-audio file"></i><a href="https://amzn.to/39HI60b" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="https://amzn.to/39HI60b" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-            <br>
-            <em3>
+            <em2>
               時間： 3:07
               <br>
               ジャンル： ダンス・エレクトロニカ
               <br>
               レーベル： XL Recordings
-            </em3>
+            </em2>
             <br><br>
           </div>
 
@@ -773,17 +762,16 @@
           <hr>
           <div>
             <p><small> 2021年02月03日</small></p>
-            <i class="fas fa-headphones-alt"></i> Sunny's Time (Logic1000 Remix) / カリブー 
+            <h4>Sunny's Time (Logic1000 Remix) / カリブー <i class="fas fa-headphones-alt"></i></h4>
+            <i class="far fa-file-audio file"></i><a href="https://amzn.to/2L367VO" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="https://amzn.to/2L367VO" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-            <br>
-            <em3>
+            <em2>
               時間： 3:57
               <br>
               ジャンル： ダンス・エレクトロニカ
               <br>
               レーベル： PLANCHA
-            </em3>
+            </em2>
             <br><br>
           </div>
 
@@ -792,17 +780,16 @@
           <hr>
           <div>
             <p><small> 2021年02月02日</small></p>
-            <i class="fas fa-headphones-alt"></i> Can you / park hye jin
+            <h4>Can you / park hye jin<i class="fas fa-headphones-alt"></i></h4>
+            <i class="far fa-file-audio file"></i><a href="https://amzn.to/3cmtVPF" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="https://amzn.to/3cmtVPF" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-            <br>
-            <em3>
+            <em2>
               時間： 3:39
               <br>
               ジャンル： ダンス・エレクトロニカ
               <br>
               レーベル： Ninja Tune
-            </em3>
+            </em2>
             <br><br>
           </div>
 
@@ -811,17 +798,16 @@
           <hr>
           <div>
             <p><small> 2021年02月01日</small></p>
-            <i class="fas fa-headphones-alt"></i> Wait on Me EP / Felipe Gordon 
+            <h4>Wait on Me EP / Felipe Gordon <i class="fas fa-headphones-alt"></i></h4>
+            <i class="far fa-file-audio file"></i><a href="" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-            <br>
-            <em3>
+            <em2>
               時間： 5:44
               <br>
               ジャンル： ダンス・ディープハウス
               <br>
               レーベル： Toy Tonics
-            </em3>
+            </em2>
             <br><br>
           </div>
 
@@ -832,17 +818,16 @@
           <hr>
           <div>
             <p><small> 2021年01月31日</small></p>
-            <i class="fas fa-headphones-alt"></i> Talkin' Bout It / Young Franco feat. KLP 
+            <h4>Talkin' Bout It / Young Franco feat. KLP <i class="fas fa-headphones-alt"></i></h4>
+            <i class="far fa-file-audio file"></i><a href="https://amzn.to/3t9mVvB" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
             <br><br>
-            <i class="far fa-file-audio"></i> <a href="https://amzn.to/3t9mVvB" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-            <br>
-            <em3>
+            <em2>
               時間： 4:00
               <br>
               ジャンル： ダンス、ハウス
               <br>
               レーベル： TheSoundYouNeed
-            </em3>
+            </em2>
             <br><br>
           </div>
 
@@ -853,17 +838,16 @@
         <hr>
         <div>
           <p><small> 2021年01月30日</small></p>
-          <i class="fas fa-headphones-alt"></i> American Boy (Amazon Original) / イヤーズ＆イヤーズ
+          <h4>American Boy (Amazon Original) / イヤーズ＆イヤーズ<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/39t63bc" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/39t63bc" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間： 3:41
             <br>
             ジャンル： ポップス、エレクトロニカ
             <br>
             レーベル： Polydor Records
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -872,17 +856,16 @@
         <hr>
         <div>
           <p><small> 2021年01月29日</small></p>
-          <i class="fas fa-headphones-alt"></i> Collage (KDA vs Lady Blackbird) [Radio Edit] / KDA & Lady Blackbird
+          <h4>Collage (KDA vs Lady Blackbird) [Radio Edit] / KDA & Lady Blackbird<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間： 3:28
             <br>
             ジャンル：ダンス・エレクトロニカ > ハウス
             <br>
             レーベル： Foundation Music
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -891,17 +874,16 @@
         <hr>
         <div>
           <p><small> 2021年01月28日</small></p>
-          <i class="fas fa-headphones-alt"></i> KNOWU / YOHLU
+          <h4>KNOWU / YOHLU<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/3ok2KHD" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/3ok2KHD" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間： 3:24
             <br>
             ジャンル： SOUL/R&B
             <br>
             レーベル： BOAT
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -910,17 +892,16 @@
         <hr>
         <div>
           <p><small> 2021年01月27日</small></p>
-          <i class="fas fa-headphones-alt"></i> No More Sunshine / Last Electro
+          <h4>No More Sunshine / Last Electro<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/3sS0qLB" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/3sS0qLB" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間： 3:35
             <br>
             ジャンル：ダンス・エレクトロニカ
             <br>
             レーベル： junonsaisai records
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -929,17 +910,16 @@
         <hr>
         <div>
           <p><small> 2021年01月26日</small></p>
-          <i class="fas fa-headphones-alt"></i> My Girl / Kan Sano
+          <h4>My Girl / Kan Sano<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/3c7ONtY" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/3c7ONtY" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間： 4:25
             <br>
             ジャンル： J-POP
             <br>
             レーベル： origami PRODUCTIONS
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -948,17 +928,16 @@
         <hr>
         <div>
           <p><small> 2021年01月25日</small></p>
-          <i class="fas fa-headphones-alt"></i> Pretty People / Jeremy Jones feat. Mr. Campbell, Elyssa Nicole
+          <h4>Pretty People / Jeremy Jones feat. Mr. Campbell, Elyssa Nicole<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/3c7DzG2" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/3c7DzG2" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間： 4:14
             <br>
             ジャンル：ヒップホップ、ポップス
             <br>
             レーベル： Darling Recordings
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -967,17 +946,16 @@
         <hr>
         <div>
           <p><small> 2021年01月24日</small></p>
-          <i class="fas fa-headphones-alt"></i> circus / showmore
+          <h4>circus / showmore<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/3qZeWQ3" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/3qZeWQ3" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間： 5:14
             <br>
             ジャンル：J-POP
             <br>
             レーベル： newscope records
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -987,17 +965,16 @@
         <hr>
         <div>
           <p><small> 2021年01月23日</small></p>
-          <i class="fas fa-headphones-alt"></i> LE GONG / Maika Loubte
+          <h4>LE GONG / Maika Loubte<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/3p1lMnx" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/3p1lMnx" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間：3:07
             <br>
             ジャンル：ダンス・エレクトロニカ
             <br>
             レーベル：AWDR/LR2
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -1006,17 +983,16 @@
         <hr>
         <div>
           <p><small> 2021年01月22日</small></p>
-          <i class="fas fa-headphones-alt"></i> Talk / ディスクロージャー & カリード
+          <h4>Talk / ディスクロージャー & カリード<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/2KAOn3R" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/2KAOn3R" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間： 3:17
             <br>
             ジャンル：ダンス・エレクトロニカ
             <br>
             レーベル：Universal-Island Records Ltd.
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -1025,17 +1001,16 @@
         <hr>
         <div>
           <p><small> 2021年01月21日</small></p>
-          <i class="fas fa-headphones-alt"></i> Stay on the Light / AOKI takamasa
+          <h4>Stay on the Light / AOKI takamasa<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/35VYO9R" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/35VYO9R" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間： 5:35
             <br>
             ジャンル：エレクトロニカ
             <br>
             レーベル： commmons
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -1045,17 +1020,16 @@
         <hr>
         <div>
           <p><small> 2021年01月20日</small></p>
-          <i class="fas fa-headphones-alt"></i> apoptosis / Caelum
+          <h4>apoptosis / Caelum<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/35VAc0G" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/35VAc0G" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間： 5:14
             <br>
             ジャンル：ダンス・エレクトロニカ
             <br>
             レーベル： p*dis
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -1064,17 +1038,16 @@
         <hr>
         <div>
           <p><small> 2021年01月19日</small></p>
-          <i class="fas fa-headphones-alt"></i> SKYSCRAPER / AAAMYYY
+          <h4>SKYSCRAPER / AAAMYYY<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/38SuUoE" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/38SuUoE" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間： 5:20
             <br>
             ジャンル：ダンス・エレクトロニカ
             <br>
             レーベル： AAAMYYY
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -1083,17 +1056,16 @@
         <hr>
         <div>
           <p><small> 2021年01月18日</small></p>
-          <i class="fas fa-headphones-alt"></i> Your Closet / 80KIDZ & YonYon
+          <h4>Your Closet / 80KIDZ & YonYon<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/3ssrqRv" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/3ssrqRv" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間： 4:32
             <br>
             ジャンル：ダンス・エレクトロニカ・ロック
             <br>
             レーベル： PARK
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -1103,17 +1075,16 @@
         <hr>
         <div>
           <p><small> 2021年01月17日</small></p>
-          <i class="fas fa-headphones-alt"></i> Tacit / Kizkiwa
+          <h4>Tacit / Kizkiwa<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/3nSZGC6" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/3nSZGC6" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間： 2:24
             <br>
             ジャンル：ヒップホップ
             <br>
             レーベル： Sony Music Labels Inc.
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -1123,17 +1094,16 @@
         <hr>
         <div>
           <p><small> 2021年01月16日</small></p>
-          <i class="fas fa-headphones-alt"></i> dreamin' / 53 Thieves
+          <h4>dreamin' / 53 Thieves<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/3slOUI9" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/3slOUI9" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間： 3:27
             <br>
             ジャンル：ヒップホップ
             <br>
             レーベル： Majestic Casual Records
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -1142,17 +1112,16 @@
         <hr>
         <div>
           <p><small> 2021年01月15日</small></p>
-          <i class="fas fa-headphones-alt"></i> YOU feat. AAAMYYY & Itto / TSUBAME
+          <h4>YOU feat. AAAMYYY & Itto / TSUBAME<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/2XqbnWh" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/2XqbnWh" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間： 4:23
             <br>
             ジャンル：ヒップホップ
             <br>
             レーベル： OMAKE CLUB
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -1161,17 +1130,16 @@
         <hr>
         <div>
           <p><small> 2021年01月14日</small></p>
-          <i class="fas fa-headphones-alt"></i> & nico (Album ver.) / UKR
+          <h4>& nico (Album ver.) / UKR<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/3oEG7yz" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/3oEG7yz" target="blank" rel="noopener">Listen</a> <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間： 3:38
             <br>
             ジャンル：ヒップホップ
             <br>
             レーベル： OMAKE CLUB
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -1180,18 +1148,17 @@
         <hr>
         <div>
           <p><small> 2021年01月13日</small></p>
-          <i class="fas fa-headphones-alt"></i> Love Strong / TAAR
+          <h4>Love Strong / TAAR<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/2LfU9bH" target="blank" rel="noopener">PLAY</a>
+        <i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/2LfU9bH" target="blank" rel="noopener">Listen</a>
-          <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間： 5:09
             <br>
             ジャンル：ダンス・エレクトロニカ
             <br>
             レーベル： PARK
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -1200,18 +1167,17 @@
         <hr>
         <div>
           <p><small> 2021年01月12日</small></p>
-          <i class="fas fa-headphones-alt"></i> Reason in Disguise / Ezra Collective
+          <h4>Reason in Disguise / Ezra Collective<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/38k5Cj0" target="blank" rel="noopener">PLAY</a>
+        <i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/38k5Cj0" target="blank" rel="noopener">Listen</a>
-          <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間： 3:41
             <br>
             ジャンル：ジャズ・フュージョン
             <br>
             レーベル： Enter The Jungle
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -1220,18 +1186,17 @@
         <hr>
         <div>
           <p><small> 2021年01月11日</small></p>
-          <i class="fas fa-headphones-alt"></i> All to You / Sabrina Claudio
+          <h4>All to You / Sabrina Claudio<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/2XlUV9n" target="blank" rel="noopener">PLAY</a>
+        <i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/2XlUV9n" target="blank" rel="noopener">Listen</a>
-          <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間： 3:23
             <br>
             ジャンル：R＆B
             <br>
             レーベル： SC Entertainment
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -1240,18 +1205,17 @@
         <hr>
         <div>
           <p><small> 2021年01月10日</small></p>
-          <i class="fas fa-headphones-alt"></i> Soft Universe / オーロラ
+          <h4>Soft Universe / オーロラ<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/39e7ZTD" target="blank" rel="noopener">PLAY</a>
+        <i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/39e7ZTD" target="blank" rel="noopener">Listen</a>
-          <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間： 3:59
             <br>
             ジャンル：ポップス
             <br>
             レーベル： Decca (UMO)
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -1259,18 +1223,17 @@
         <hr>
         <div>
           <p><small> 2021年01月09日</small></p>
-          <i class="fas fa-headphones-alt"></i> F_A_R / toe
+          <h4>F_A_R / toe<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/35l4ee9" target="blank" rel="noopener">PLAY</a>
+        <i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/35l4ee9" target="blank" rel="noopener">Listen</a>
-          <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間： 5:40
             <br>
             ジャンル：ロック
             <br>
             レーベル： Machupicchu INDUSTRIAS
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -1278,19 +1241,18 @@
         <hr>
         <div>
           <p><small> 2021年01月08日</small></p>
-          <i class="fas fa-headphones-alt"></i> owari no kisetsu / rei harakami
+          <h4>owari no kisetsu / rei harakami<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/3nd59Dy" target="blank" rel="noopener">PLAY</a>
+        <i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/3nd59Dy" target="blank" rel="noopener">Listen</a>
-          <i class="fas fa-fast-forward"></i>
-          <br>
 
-          <em3>
+          <em2>
             時間： 3:19
             <br>
             ジャンル：ダンス・エレクトロニカ
             <br>
             レーベル： rings
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -1298,18 +1260,17 @@
         <hr>
         <div>
           <p><small> 2021年01月07日</small></p>
-          <i class="fas fa-headphones-alt"></i> どうしよう / Tempalay
+          <h4>どうしよう / Tempalay<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/3nioxir" target="blank" rel="noopener">PLAY</a>
+        <i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/3nioxir" target="blank" rel="noopener">Listen</a>
-          <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間： 3:41
             <br>
             ジャンル：ロック
             <br>
             レーベル： SPACE SHOWER NETWORKS INC.
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -1318,18 +1279,17 @@
         <hr>
         <div>
           <p><small> 2021年01月06日</small></p>
-          <i class="fas fa-headphones-alt"></i> Wonderland (Seiho Remix) / iri
+          <h4>Wonderland (Seiho Remix) / iri<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/3nnNTf3" target="blank" rel="noopener">PLAY</a>
+        <i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/3nnNTf3" target="blank" rel="noopener">Listen</a>
-          <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間： 4:01
             <br>
             ジャンル：J-POP
             <br>
             レーベル： Colourful Records
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -1339,18 +1299,17 @@
         <hr>
         <div>
           <p><small> 2021年01月05日</small></p>
-          <i class="fas fa-headphones-alt"></i> Nighttime (mixed by SASAKI) / re:plus
+          <h4>Nighttime (mixed by SASAKI) / re:plus<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/2Ln3ONi" target="blank" rel="noopener">PLAY</a>
+        <i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/2Ln3ONi" target="blank" rel="noopener">Listen</a>
-          <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間： 3:47
             <br>
             ジャンル：ヒップホップ
             <br>
             レーベル： GOON TRAX
-          </em3>
+          </em2>
           <br><br>
         </div>
 
@@ -1359,18 +1318,17 @@
         <hr>
         <div>
           <p><small> 2021年01月04日</small></p>
-          <i class="fas fa-headphones-alt"></i> COLD (Quavius Remix) / The fin. & 小袋成彬
+          <h4>COLD (Quavius Remix) / The fin. & 小袋成彬<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/359oxuO" target="blank" rel="noopener">PLAY</a>
+        <i class="fas fa-play play"></i>
           <br><br>
-          <i class="far fa-file-audio"></i> <a href="https://amzn.to/359oxuO" target="blank" rel="noopener">Listen</a>
-          <i class="fas fa-fast-forward"></i>
-          <br>
-          <em3>
+          <em2>
             時間： 5:48
             <br>
             ジャンル：ダンス・エレクトロニカ
             <br>
             レーベル： HIP LAND MUSIC
-          </em3>
+          </em2>
           <br><br>
         </div>
         <hr>
@@ -1386,6 +1344,7 @@
 
   <?php include('parts/footer.php'); ?>
   <script src="js/menu.js"></script>
+  <script src="js/openAndClose.js"></script>
 </body>
 
 </html>

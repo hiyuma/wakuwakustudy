@@ -69,8 +69,7 @@
 
                      <br><br>
                      <em4>※現在、このWEBサイトは独学にて作成中のため、無意味・未完成箇所が複数あります。
-                            <br>　急にデザインが変わることがあります。
-                     </em4>
+                            <br>　急にデザインが変わることがあります。</em4>
                      <br><br>
                      <div class="line">STUDY LIST <i class="fas fa-pencil-alt"></i></div>
                      <div class="items"><span style="font-weight: normal;"><?php include('parts/weekly.php'); ?></span>
@@ -81,13 +80,13 @@
 
                                    <div class="accshow2">
                                           <li>PROGRAMMING</li>
-                                          <div class="info-children"><span>WEBアプリケーション開発（PHP / AWS )</span></div>
+                                          <div class="info-children"><span>WEBアプリケーション開発（PHP / AWS ）</span></div>
                                           <div class="info-children"><span>修学済：HTML / CSS / JavaScript / Java / JSP / Servlet / MySQL / Linux / Git</span></div>
                                           <li>ENGLISH</li>
                                           <div class="info-children"><span>Dictation ( スタディサプリ ) </span></div>
                                           <div class="info-children"><span>Word / Listening / Writing ( スタディサプリ ) / 
-                                                        Listening ( NHK即レス英会話 , MOVIES )</span></div>
-                                          <div class="info-children"><span>Online Conversation ( Native Camp )</span></div>
+                                                        Listening ( NHK即レス英会話 , MOVIES ）</span></div>
+                                          <div class="info-children"><span>Online Conversation ( Native Camp ）</span></div>
                                           <li>INVESTMENT</li>
                                           <div class="info-children"><span>LINE証券 / LINEスマート投資 / つみたてNISA</span>
                                           </div>
@@ -104,8 +103,21 @@
 
                             <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+                            <li>2021年02月17日</li>
+                            <div class="info-children"><span><a href="gallery.php">PHOTO</a> 更新（クルージングパーティ）</span></div>
+
+                            <li>2021年02月16日</li>
+                            <div class="info-children">
+                            <span><a href="movie.php">MOVIE</a> 更新（ヘアスプレー）</span></div>
+
+                            <li>2021年02月16日</li>
+                            <div class="info-children"><span><a href="avocado.php">AVOCADO</a> 更新</span></div>
+
+                            <li>2021年02月16日</li>
+                            <div class="info-children"><span><a href="music.php">MUSIC</a> デザイン変更</span></div>
+
                             <li>2021年02月15日</li>
-                            <div class="info-children"><span><a href="video.php"> VIDEO</a> 更新(TVアニメ「鬼滅の刃」遊郭編)</span>
+                            <div class="info-children"><span><a href="video.php"> VIDEO</a> 更新（TVアニメ「鬼滅の刃」遊郭編）</span>
                             </div>
 
                             <li>2021年02月14日</li>
@@ -154,7 +166,7 @@
                             <li>2021年02月02日</li>
                             <div class="info-children">
                                    <span><a href="english-daily-conversation.php">ENGLISH</a>
-                                          更新(CVS中級/脱落音)</span></div>
+                                          更新（CVS中級/脱落音）</span></div>
 
                             <li>2021年02月02日</li>
                             <div class="info-children"><span><a href="/jspractice/nekochan.php">ねこちゃんSOS 修正</a></span></div>
@@ -166,12 +178,12 @@
                             <li>2021年02月01日</li>
                             <div class="info-children">
                                    <span><a href="english-daily-conversation.php">ENGLISH</a>
-                                          参考動画追加(CVS)</span></div>
+                                          参考動画追加(CVS）</span></div>
                                           
                             <li>2021年02月01日</li>
                             <div class="info-children">
                                    <span><a href="english-daily-conversation.php">ENGLISH</a>
-                                          更新(CVS中級/脱落音)</span></div>
+                                          更新（CVS中級/脱落音）</span></div>
 
                             <li>2021年01月31日</li>
                             <div class="info-children"><span><a href="diary.php">DIARY</a> 更新</span></div>
@@ -189,12 +201,12 @@
                             <li>2021年01月30日</li>
                             <div class="info-children">
                                    <span><a href="english-daily-conversation.php">ENGLISH</a>
-                                          更新(CVS中級/脱落音)</span>
+                                          更新（CVS中級/脱落音）</span>
                             </div>
 
                             <li>2021年01月28日</li>
                             <div class="info-children">
-                                   <span><a href="questionnaire.php">アンケート機能</a> 作成(PHP)</span>
+                                   <span><a href="questionnaire.php">アンケート機能</a> 作成(PHP）</span>
                             </div>
 
                             <li>2021年01月26日</li>
@@ -204,7 +216,7 @@
 
                             <li>2021年01月25日</li>
                             <div class="info-children">
-                                   <span><a href="movie.php">MOVIE</a> 更新(アヒルと鴨のコインロッカー)</span>
+                                   <span><a href="movie.php">MOVIE</a> 更新（アヒルと鴨のコインロッカー）</span>
                             </div>
 
                             <li>2021年01月24日</li>
@@ -216,7 +228,7 @@
                             <li>2021年01月24日</li>
                             <div class="info-children">
                                    <span><a href="english-daily-conversation.php">ENGLISH</a>
-                                          更新(CVS中級/脱落音)</span>
+                                          更新（CVS中級/脱落音）</span>
                             </div>
 
                             <li>2021年01月23日</li>
@@ -237,25 +249,25 @@
                             <li>2021年01月20日</li>
                             <div class="info-children">
                                    <span><a href="english-daily-conversation.php">ENGLISH</a>
-                                          更新(CVS中級/脱落音)</span>
+                                          更新（CVS中級/脱落音）</span>
                             </div>
 
                             <li>2021年01月19日</li>
                             <div class="info-children">
                                    <span><a href="english-daily-conversation.php">ENGLISH</a>
-                                          更新(CVS中級/脱落音)</span>
+                                          更新（CVS中級/脱落音）</span>
                             </div>
 
                             <li>2021年01月17日</li>
                             <div class="info-children">
-                                   <span><a href="english-daily-conversation.php">ENGLISH</a> 更新(CVS
-                                          中級/脱落音)</span>
+                                   <span><a href="english-daily-conversation.php">ENGLISH</a> 更新（CVS
+                                          中級/脱落音）</span>
                             </div>
 
                             <li>2021年01月16日</li>
                             <div class="info-children">
-                                   <span><a href="english-daily-conversation.php">ENGLISH</a> 更新(CVS
-                                          中級/脱落音)</span>
+                                   <span><a href="english-daily-conversation.php">ENGLISH</a> 更新（CVS
+                                          中級/脱落音）</span>
                             </div>
 
                             <li>2021年01月16日</li>
@@ -268,35 +280,35 @@
                             <div class="info-children"><span><a href="diary.php">DIARY</a> 更新</span></div>
 
                             <li>2021年01月13日</li>
-                            <div class="info-children"><span><a href="english-daily-conversation.php">ENGLISH</a> 更新(CVS
-                                          中級/脱落音)</span></div>
+                            <div class="info-children"><span><a href="english-daily-conversation.php">ENGLISH</a> 更新（CVS
+                                          中級/脱落音）</span></div>
 
                             <li>2021年01月13日</li>
-                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新(WORD)</span>
+                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新（WORD）</span>
                             </div>
 
                             <li>2021年01月10日</li>
                             <div class="info-children">
-                                   <span><a href="english-daily-conversation.php">ENGLISH</a> 更新(CVS
-                                          中級/脱落音)</span>
+                                   <span><a href="english-daily-conversation.php">ENGLISH</a> 更新（CVS
+                                          中級/脱落音）</span>
                             </div>
 
                             <li>2021年01月10日</li>
                             <div class="info-children">
-                                   <span><a href="movie.php">MOVIE</a> 更新(しあわせのパン)</span>
+                                   <span><a href="movie.php">MOVIE</a> 更新（しあわせのパン）</span>
                             </div>
 
                             <li>2021年01月10日</li>
                             <div class="info-children">
-                                   <span><a href="movie.php">MOVIE</a> 更新(秒速5センチメートル)</span>
+                                   <span><a href="movie.php">MOVIE</a> 更新（秒速5センチメートル）</span>
                             </div>
 
                             <li>2021年01月09日</li>
                             <div class="info-children"><span><a href="english-daily-conversation.php">
-                                                 ENGLISH</a> 更新(CVS 中級(脱落音))</span></div>
+                                                 ENGLISH</a> 更新（CVS 中級(脱落音)）</span></div>
                             <li>2021年01月08日</li>
                             <div class="info-children"><span><a href="english-daily-conversation.php">
-                                                 ENGLISH</a> 更新(CVS 中級(脱落音))</span></div>
+                                                 ENGLISH</a> 更新（CVS 中級(脱落音)）</span></div>
                             <li>2021年01月08日</li>
                             <div class="info-children"><span>sitemap.xml 更新</span></div>
                             <li>2021年01月08日</li>
@@ -307,7 +319,7 @@
                             <div class="info-children"><span><a href="#recommend">推し</a> 追加</span></div>
                             <li>2021年01月05日</li>
                             <div class="info-children"><span><a href="english-daily-conversation.php">
-                                                 ENGLISH</a> 更新(CVS 中級(脱落音))</span></div>
+                                                 ENGLISH</a> 更新（CVS 中級(脱落音)）</span></div>
                             <li>2021年01月04日</li>
                             <div class="info-children"><span><a href="music.php">MUSIC</a> 追加</span></div>
 
@@ -330,7 +342,7 @@
                             </div>
                             <li>2021年01月03日</li>
                             <div class="info-children">
-                                   <span><a href="movie.php">MOVIE</a> 更新(新感染 ファイナル・エクスプレス)</span>
+                                   <span><a href="movie.php">MOVIE</a> 更新（新感染 ファイナル・エクスプレス）</span>
                             </div>
                             <li>2021年01月01日</li>
                             <div class="info-children">
@@ -339,47 +351,47 @@
 
                             <li>12月31日</li>
                             <div class="info-children"><span> BACKGROUND GRADATION COLOR 変更(CSS
-                                          2COLOR→3COLOR)</span></div>
+                                          2COLOR→3COLOR）</span></div>
                             <li>12月31日</li>
-                            <div class="info-children"><span> BACK PHOTO 更新(CSS Media Queries)</span></div>
+                            <div class="info-children"><span> BACK PHOTO 更新（CSS Media Queries）</span></div>
                             <li>12月31日</li>
-                            <div class="info-children"><span> SLIDER PHOTO 更新(jQuery)</span></div>
+                            <div class="info-children"><span> SLIDER PHOTO 更新（jQuery）</span></div>
                             <li>12月31日</li>
                             <div class="info-children"><span> NEWS 変更</span></div>
                             <li>12月31日</li>
                             <div class="info-children"><span><a href="english-daily-conversation.php">
-                                                 ENGLISH</a> 更新(CVS 中級(脱落音))</span></div>
+                                                 ENGLISH</a> 更新（CVS 中級(脱落音)）</span></div>
                             <li>12月30日</li>
                             <div class="info-children"><span><a href="english-daily-conversation.php">
-                                                 ENGLISH</a> 更新(CVS 中級(脱落音))</span></div>
+                                                 ENGLISH</a> 更新（CVS 中級(脱落音)）</span></div>
                             <li>12月29日</li>
-                            <div class="info-children"><span><a href="movie.php">MOVIE</a> 更新(偽りなき者)</span>
+                            <div class="info-children"><span><a href="movie.php">MOVIE</a> 更新（偽りなき者）</span>
                             </div>
                             <li>12月28日</li>
                             <div class="info-children"><span><a href="english-daily-conversation.php">
-                                                 ENGLISH</a> 更新(CVS 中級(脱落音))</span></div>
+                                                 ENGLISH</a> 更新（CVS 中級(脱落音)）</span></div>
                             <li>12月28日</li>
-                            <div class="info-children"><span><a href="movie.php">MOVIE</a> 更新(シザーハンズ)</span>
+                            <div class="info-children"><span><a href="movie.php">MOVIE</a> 更新（シザーハンズ）</span>
                             </div>
                             <li>12月27日</li>
                             <div class="info-children"><span><a href="smt.php"> スマート投資</a> 更新</span></div>
                             <li>12月27日</li>
                             <div class="info-children"><span><a href="english-daily-conversation.php">
-                                                 ENGLISH</a> 更新(CVS 初級(脱落音）)</span></div>
+                                                 ENGLISH</a> 更新（CVS 初級(脱落音））</span></div>
                             <li>12月25日</li>
                             <div class="info-children"><span><a href="english-daily-conversation.php">
-                                                 ENGLISH</a> 更新(CVS)</span></div>
+                                                 ENGLISH</a> 更新（CVS）</span></div>
                             <li>12月23日</li>
-                            <div class="info-children"><span><a href="video.php"> VIDEO</a> 更新(ダンスの理由)</span>
+                            <div class="info-children"><span><a href="video.php"> VIDEO</a> 更新（ダンスの理由）</span>
                             </div>
                             <li>12月23日</li>
                             <div class="info-children"><span><a href="english-daily-conversation.php">
-                                                 ENGLISH</a> 更新(CVS)</span></div>
+                                                 ENGLISH</a> 更新（CVS）</span></div>
                             <li>12月23日</li>
-                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新(WORD)</span>
+                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新（WORD）</span>
                             </div>
                             <li>12月22日</li>
-                            <div class="info-children"><span><a href="movie.php">MOVIE</a> 更新(新聞記者)</span></div>
+                            <div class="info-children"><span><a href="movie.php">MOVIE</a> 更新（新聞記者）</span></div>
                             <li>12月20日</li>
                             <div class="info-children"><span><a href="smt.php"> スマート投資</a> 更新</span></div>
                             <li>12月19日</li>
@@ -390,120 +402,120 @@
                             <li>12月16日</li>
                             <div class="info-children"><span><a href="avocado.php"> AVOCADO</a> 更新</span></div>
                             <li>11月15日</li>
-                            <div class="info-children"><span><a href="movie.php">MOVIE</a> 更新(舟を編む)</span></div>
+                            <div class="info-children"><span><a href="movie.php">MOVIE</a> 更新（舟を編む）</span></div>
                             <li>12月13日</li>
                             <div class="info-children"><span>メニューボタン<a href="movie.php">MOVIE</a>追加</span></div>
                             <li>12月13日</li>
                             <div class="info-children"><span><a href="smt.php"> スマート投資</a> 更新</span></div>
                             <li>11月13日</li>
-                            <div class="info-children"><span><a href="movie.php">MOVIE</a> 更新(セバスチャン・サルガド
-                                          地球へのラブレター)</span></div>
+                            <div class="info-children"><span><a href="movie.php">MOVIE</a> 更新（セバスチャン・サルガド
+                                          地球へのラブレター）</span></div>
                             <li>12月10日</li>
                             <div class="info-children"><span><a href="gallery.php"> PHOTO</a>
-                                          更新(OPENボタン設置)</span></div>
+                                          更新（OPENボタン設置）</span></div>
                             <li>12月10日</li>
-                            <div class="info-children"><span>独自<a href="error/404.php">ERRORページ</a>作成(404/403/500)</span></div>
+                            <div class="info-children"><span>独自<a href="error/404.php">ERRORページ</a>作成(404/403/500）</span></div>
                             <li>12月10日</li>
                             <div class="info-children"><span><a href="jspractice/index.php">WORK INFO</a>
                                           更新</span></div>
                             <li>12月10日</li>
-                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新(CVS)</span>
+                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新（CVS）</span>
                             </div>
                             <li>12月09日</li>
-                            <div class="info-children"><span><a href="gallery.php"> PHOTO</a> 更新(長野県イベント)</span>
+                            <div class="info-children"><span><a href="gallery.php"> PHOTO</a> 更新（長野県イベント）</span>
                             </div>
                             <li>12月09日</li>
                             <div class="info-children"><span><a href="about.php">PROFILE</a> 更新</span></div>
                             <li>12月07日</li>
-                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新(WORD)</span>
+                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新（WORD）</span>
                             </div>
                             <li>12月06日</li>
                             <div class="info-children"><span><a href="smt.php"> スマート投資</a> 更新</span></div>
                             <li>12月03日</li>
-                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新(CVS)</span>
+                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新（CVS）</span>
                             </div>
                             <li>12月01日</li>
-                            <div class="info-children"><span><a href="gallery.php"> PHOTO</a> 更新(大田黒公園)</span>
+                            <div class="info-children"><span><a href="gallery.php"> PHOTO</a> 更新（大田黒公園）</span>
                             </div>
                             <li>12月01日</li>
-                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新(CVS)</span>
+                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新（CVS）</span>
                             </div>
                             <li>11月30日</li>
-                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新(CVS)</span>
+                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新（CVS）</span>
                             </div>
                             <li>11月29日</li>
                             <div class="info-children"><span><a href="smt.php"> スマート投資</a> 更新</span></div>
                             <li>11月29日</li>
                             <div class="info-children"><span><a href="diary.php">DIARY</a> 更新</span></div>
                             <li>11月27日</li>
-                            <div class="info-children"><span><a href="movie.php">MOVIE</a> 更新(インターステラー)</span>
+                            <div class="info-children"><span><a href="movie.php">MOVIE</a> 更新（インターステラー）</span>
                             </div>
                             <li>11月27日</li>
-                            <div class="info-children"><span><a href="movie.php">MOVIE</a> 更新(風をつかまえた少年)</span>
+                            <div class="info-children"><span><a href="movie.php">MOVIE</a> 更新（風をつかまえた少年）</span>
                             </div>
                             <li>11月22日</li>
-                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新(CVS)</span>
+                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新（CVS）</span>
                             </div>
                             <li>11月20日</li>
-                            <div class="info-children"><span><a href="gallery.php"> PHOTO</a> 更新(和田堀公園)</span>
+                            <div class="info-children"><span><a href="gallery.php"> PHOTO</a> 更新（和田堀公園）</span>
                             </div>
                             <li>11月20日</li>
-                            <div class="info-children"><span><a href="gallery.php"> PHOTO</a> 更新(鎌倉旅)</span>
+                            <div class="info-children"><span><a href="gallery.php"> PHOTO</a> 更新（鎌倉旅）</span>
                             </div>
                             <li>11月20日</li>
-                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新(CVS)</span>
+                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新（CVS）</span>
                             </div>
                             <li>11月20日</li>
                             <div class="info-children"><span><a href="smt.php"> スマート投資</a> 更新</span></div>
                             <li>11月17日</li>
-                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新(CVS)</span>
+                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新（CVS）</span>
                             </div>
                             <li>10月17日</li>
                             <div class="info-children"><span><a href="diary.php">DIARY</a> 更新</span></div>
                             <li>11月17日</li>
-                            <div class="info-children"><span><a href="movie.php">MOVIE</a> 更新(きっと、うまくいく)</span>
+                            <div class="info-children"><span><a href="movie.php">MOVIE</a> 更新（きっと、うまくいく）</span>
                             </div>
                             <li>11月17日</li>
-                            <div class="info-children"><span><a href="movie.php">MOVIE</a> 更新(グリーンブック)</span>
+                            <div class="info-children"><span><a href="movie.php">MOVIE</a> 更新（グリーンブック）</span>
                             </div>
                             <li>11月15日</li>
                             <div class="info-children"><span><a href="avocado.php"> AVOCADO</a> 更新</span></div>
                             <li>11月11日</li>
-                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新(CVS)</span>
+                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新（CVS）</span>
                             </div>
                             <li>11月10日</li>
                             <div class="info-children"><span><a href="smt.php"> スマート投資</a> 更新</span></div>
                             <li>11月09日</li>
-                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新(CVS)</span>
+                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新（CVS）</span>
                             </div>
                             <li>11月08日</li>
-                            <div class="info-children"><span><a href="movie.php">MOVIE</a> 更新(List)</span></div>
+                            <div class="info-children"><span><a href="movie.php">MOVIE</a> 更新（List）</span></div>
                             <li>11月06日</li>
-                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新(CVS)</span>
+                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新（CVS）</span>
                             </div>
                             <li>11月05日</li>
-                            <div class="info-children"><span><a href="gallery.php"> PHOTO</a> 更新(鋸山旅)</span>
+                            <div class="info-children"><span><a href="gallery.php"> PHOTO</a> 更新（鋸山旅）</span>
                             </div>
                             <li>11月04日</li>
-                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新(CVS)</span>
+                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新（CVS）</span>
                             </div>
                             <li>11月03日</li>
-                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新(CVS)</span>
+                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新（CVS）</span>
                             </div>
                             <li>11月02日</li>
-                            <div class="info-children"><span><a href="movie.php">MOVIE</a> 更新(鬼滅の刃)</span></div>
+                            <div class="info-children"><span><a href="movie.php">MOVIE</a> 更新（鬼滅の刃）</span></div>
                             <li>11月01日</li>
-                            <div class="info-children"><span><a href="gallery.php"> PHOTO</a> 更新(福島旅)</span>
+                            <div class="info-children"><span><a href="gallery.php"> PHOTO</a> 更新（福島旅）</span>
                             </div>
                             <li>10月30日</li>
-                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新(Word)</span>
+                            <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新（Word）</span>
                             </div>
                             <li>10月29日</li>
                             <div class="info-children"><span><a href="smt.php"> スマート投資</a> 更新</span></div>
                             <li>10月27日</li>
                             <div class="info-children"><span><a href="english.php"> ENGLISH</a> 更新</span></div>
                             <li>10月26日</li>
-                            <div class="info-children"><span><a href="gallery.php"> PHOTO</a> 更新(京都旅)</span>
+                            <div class="info-children"><span><a href="gallery.php"> PHOTO</a> 更新（京都旅）</span>
                             </div>
                             <li>10月26日</li>
                             <div class="info-children"><span><a href="movie.php">MOVIE</a> 更新</span></div>
@@ -760,17 +772,17 @@
                             <li>04月22日</li>
                             <div class="info-children"><span>FontAwesome5追加</span></div>
                             <li>04月21日</li>
-                            <div class="info-children"><span>デザイン変更(2カラムへ)</span></div>
+                            <div class="info-children"><span>デザイン変更(2カラムへ）</span></div>
                             <li>04月19日</li>
                             <div class="info-children"><span>iphone対応完了</span></div>
                             <li>04月17日</li>
-                            <div class="info-children"><span>デザイン変更(グラ・透過)</span></div>
+                            <div class="info-children"><span>デザイン変更(グラ・透過）</span></div>
                             <li>04月16日</li>
                             <div class="info-children"><span>CSSで白ロゴ作成</span></div>
                             <li>04月11日</li>
                             <div class="info-children"><span>レスポンシブ対応</span></div>
                             <li>04月10日</li>
-                            <div class="info-children"><span>TOP画作成(ペンタブ)</span></div>
+                            <div class="info-children"><span>TOP画作成(ペンタブ）</span></div>
                             <li>04月05日</li>
                             <div class="info-children"><span>ABOUT追加</span></div>
                             <li>04月02日</li>
@@ -778,7 +790,7 @@
                             <li>03月28日</li>
                             <div class="info-children"><span>コンテンツページ追加</span></div>
                             <li>03月24日</li>
-                            <div class="info-children"><span>1カラム作成(PC閲覧用)</span></div>
+                            <div class="info-children"><span>1カラム作成(PC閲覧用）</span></div>
                             <li>03月23日</li>
                             <div class="info-children"><span>サーバー申込</span></div>
                             <li>03月22日</li>
@@ -849,10 +861,10 @@
                      <ul class="news">
                             <div class="line">新型コロナウイルス <i class="fas fa-virus-slash"></i></div>
                             <li><i class="far fa-file-alt"></i><a href="https://www.nikkei.com/article/DGXZQODG026OW0S1A200C2000000/" target="blank" rel="noopener">
-                            知っておきたいコロナワクチン接種　手順や副作用は？</a></li>
+                            知っておきたいコロナワクチン接種　手順や副作用は？</a></li><br>
 
 
-                            <!-- 2021年02月XX日
+                                   <!-- 2021年02月XX日
                                    <li><i class="far fa-file-alt"></i><a
                                           href="" target="blank" rel="noopener">
                                           </a></li>
@@ -864,7 +876,31 @@
                                           </a></li>
                                    <hr> -->
 
-                            2021年02月15日
+                                   2021年02月17日
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG172JW0X10C21A2000000/" target="blank" rel="noopener">
+                                          東京都、新たに378人感染　新型コロナ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG164BB0W1A210C2000000/" target="blank" rel="noopener">
+                                          コロナワクチン、国内接種開始　医師ら4万人先行</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQOFK107S60Q1A210C2000000/" target="blank" rel="noopener">
+                                          COCOA重大バグ放置　厚労省のずさんなテスト実態</a></li>
+                                   <hr>
+
+                                   2021年02月16日
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG163XA0W1A210C2000000/" target="blank" rel="noopener">
+                                          東京都、新たに350人感染　新型コロナ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQOGM151IE0V10C21A2000000/" target="blank" rel="noopener">
+                                          ワクチン後もコロナは消えない</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODF163IK0W1A210C2000000/" target="blank" rel="noopener">
+                                          日銀総裁「先行きなお慎重」　ワクチン浸透でも気緩めず</a></li>
+                                   <hr>
+
+                                   2021年02月15日
                                    <li><i class="far fa-file-alt"></i><a
                                           href="https://www.nikkei.com/article/DGXZQODG152FU0V10C21A2000000/" target="blank" rel="noopener">
                                           東京都、新たに266人感染　新型コロナ</a></li>
