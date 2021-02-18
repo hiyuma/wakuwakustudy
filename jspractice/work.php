@@ -69,6 +69,13 @@
               <div>WORK INFO <i class="fas fa-info-circle"></i></div>
               <br>
 
+              <li>2021年02月17日</li>
+              <div class="info-children">
+                <span>・<a href="gallery.php">PHOTO</a> 更新</span>
+                  <div class="info-children">PHP(while文)/CSS(flex/flex-wrap/justify-content)利用。
+                  </div>
+                </span>
+              </div>
               <li>2021年02月04日</li>
               <div class="info-children">
                 <span>・<a href="#judgment">数字判定入力フォーム</a>作成
