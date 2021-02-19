@@ -13,18 +13,13 @@
   <link rel="shortcut icon" href="favicon.ico" />
   <link rel="stylesheet" href="mystyle.css">
   <link rel="stylesheet" href="cal.css">
-  <link rel="stylesheet" href="css/lightgallery.css">
+  <link rel="stylesheet" href="js/lightgallery/css/lightgallery.css">
 
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <div id="page_top">
     <a href="#"></a>
   </div>
   <script src="https://kit.fontawesome.com/6256a7882a.js" crossorigin="anonymous"></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  <script src="js/lightgallery.min.js"></script>
-  <script src="js/lg-utils.js"></script>
-  <script src="js/lg-thumbnail.min.js"></script>
-  <script src="js/lg-fullscreen.min.js"></script>
 </head>
 
 <body>
@@ -50,7 +45,10 @@
           <img id="top-img" src="gallery/top/gallery.png" alt="">
         </p>
 
-        <p>京都、福島、青森、鎌倉、鋸山など自転車旅を中心に随時掲載していく予定です。</p>
+        <p>京都、福島、青森、鎌倉、鋸山など自転車旅を中心に随時掲載していく予定です。
+          <br><br>
+          <em2>※フォトを開く際に、時々JavaScriptの動作によるバグが発生していたため、プログラムを再構築しました。再度バグなどを発見された方は、もしよろしければ、ご報告いただけると幸いです。</em2>
+        </p>
 
         <div class="schedule_wrapper">
           <h3><i class="fas fa-list-ul"></i>Gallery List</h3>
@@ -697,154 +695,13 @@
 
           <div class="accshow">
             <div id="lightgallery4" class="album">
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (1).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (1)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (2).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (2)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (3).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (3)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (4).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (4)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (5).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (5)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (6).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (6)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (7).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (7)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (8).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (8)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (9).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (9)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (10).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (10)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (11).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (11)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (12).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (12)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (13).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (13)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (14).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (14)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (15).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (15)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (16).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (16)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (17).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (17)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (18).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (18)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (19).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (19)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (20).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (20)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (21).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (21)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (22).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (22)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (23).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (23)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (24).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (24)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (25).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (25)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (26).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (26)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (27).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (27)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (28).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (28)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (29).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (29)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (30).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (30)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (31).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (31)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (32).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (32)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (33).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (33)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (34).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (34)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (35).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (35)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (36).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (36)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (37).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (37)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (38).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (38)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (39).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (39)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (40).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (40)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (41).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (41)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (42).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (42)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (43).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (43)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (44).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (44)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (45).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (45)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (46).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (46)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (47).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (47)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (48).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (48)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (49).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (49)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (50).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (50)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (51).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (51)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (52).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (52)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (53).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (53)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (54).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (54)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (55).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (55)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (56).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (56)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (57).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (57)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (58).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (58)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (59).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (59)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (60).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (60)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (61).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (61)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (62).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (62)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (63).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (63)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (64).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (64)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (65).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (65)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (66).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (66)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (67).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (67)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (68).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (68)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (69).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (69)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (70).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (70)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (71).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (71)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (72).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (72)small.jpg" alt=""></a>
-              <a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (73).jpg" target="blank">
-                <img src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (73)small.jpg" alt=""></a>
-
-
+              <?php
+              $x = 1;
+              while ($x < 73) {
+                echo '<a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (' . $x . ').jpg" target="blank"><img id="photoGallery" src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (' . $x . ')small.jpg" alt=""></a>';
+                $x++;
+              }
+              ?>
             </div>
           </div>
         </div>
@@ -1239,9 +1096,9 @@
           陸上トラックや、バスケットゴール、サッカー場、野球場、テニスコート、つり堀など、様々な施設があります。
           <br><br>
           春は桜、秋は紅葉が楽しめるお気に入りの公園です。
-          </p>
-          <div id="route-line"></div>
-        
+        </p>
+        <div id="route-line"></div>
+
 
         <div class="accbox">
           <input type="checkbox" id="wadahori" class="cssacc" />
@@ -1344,7 +1201,7 @@
         <p>大田黒公園は、音楽評論家の”大田黒元雄”氏が住んでいた屋敷跡地に、杉並区が日本庭園を整備して、昭和56年10月1日に開園した公園です。
           <br><br>
           毎年秋に、自転車で紅葉ライトアップを観に行っています。
-          </p>
+        </p>
         <div id="route-line"></div>
 
         <div class="accbox">
@@ -1422,32 +1279,81 @@
   <script src="js/openAndClose.js"></script>
   <script src="js/href.js"></script>
 
-  <script>
-    lightGallery(document.getElementById('lightgallery0'));
+  <script src="js/jquery-3.5.1.min.js"></script>
+  <script src="js/lightgallery/js/lightgallery.min.js"></script>
+  <script src="js/lightgallery/js/lightgallery-all.min.js"></script>
+  <script src="js/lightgallery"></script>
+
+  <script type="text/javascript">
+    var $lg0 = $('#lightgallery0');
+    $lg0.lightGallery();
+    $lg0.on('onCloseAfter.lg', function(event) {
+      $lg0.data('lightgallery').destroy(true);
+      $lg0.lightGallery();
+    });
   </script>
-  <script>
-    lightGallery(document.getElementById('lightgallery'));
+
+  <script type="text/javascript">
+    var $lg1 = $('#lightgallery1');
+    $lg1.lightGallery();
+    $lg1.on('onCloseAfter.lg', function(event) {
+      $lg1.data('lightgallery').destroy(true);
+      $lg1.lightGallery();
+    });
   </script>
-  <script>
-    lightGallery(document.getElementById('lightgallery2'));
+
+  <script type="text/javascript">
+    var $lg2 = $('#lightgallery2');
+    $lg2.lightGallery();
+    $lg2.on('onCloseAfter.lg', function(event) {
+      $lg2.data('lightgallery').destroy(true);
+      $lg2.lightGallery();
+    });
   </script>
-  <script>
-    lightGallery(document.getElementById('lightgallery3'));
+
+  <script type="text/javascript">
+    var $lg3 = $('#lightgallery3');
+    $lg3.lightGallery();
+    $lg3.on('onCloseAfter.lg', function(event) {
+      $lg3.data('lightgallery').destroy(true);
+      $lg3.lightGallery();
+    });
   </script>
-  <script>
-    lightGallery(document.getElementById('lightgallery8'));
+
+  <script type="text/javascript">
+    var $lg4 = $('#lightgallery4');
+    $lg4.lightGallery();
+    $lg4.on('onCloseAfter.lg', function(event) {
+      $lg4.data('lightgallery').destroy(true);
+      $lg4.lightGallery();
+    });
   </script>
-  <script>
-    lightGallery(document.getElementById('lightgallery4'));
+  
+  <script type="text/javascript">
+    var $lg5 = $('#lightgallery5');
+    $lg5.lightGallery();
+    $lg5.on('onCloseAfter.lg', function(event) {
+      $lg5.data('lightgallery').destroy(true);
+      $lg5.lightGallery();
+    });
   </script>
-  <script>
-    lightGallery(document.getElementById('lightgallery5'));
+
+  <script type="text/javascript">
+    var $lg6 = $('#lightgallery6');
+    $lg6.lightGallery();
+    $lg6.on('onCloseAfter.lg', function(event) {
+      $lg6.data('lightgallery').destroy(true);
+      $lg6.lightGallery();
+    });
   </script>
-  <script>
-    lightGallery(document.getElementById('lightgallery6'));
-  </script>
-  <script>
-    lightGallery(document.getElementById('lightgallery7'));
+
+  <script type="text/javascript">
+    var $lg7 = $('#lightgallery7');
+    $lg7.lightGallery();
+    $lg7.on('onCloseAfter.lg', function(event) {
+      $lg7.data('lightgallery').destroy(true);
+      $lg7.lightGallery();
+    });
   </script>
 
 </body>

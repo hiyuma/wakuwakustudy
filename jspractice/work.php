@@ -69,6 +69,14 @@
               <div>WORK INFO <i class="fas fa-info-circle"></i></div>
               <br>
 
+              <li>2021年02月18日</li>
+              <div class="info-children">
+                <span>・<a href="gallery.php">PHOTO</a> lightGallery更新</span>
+                  <div class="info-children">jQuery/CSS利用、lightGallery-all.js/CSS追加。
+                  </div>
+                </span>
+              </div>
+
               <li>2021年02月17日</li>
               <div class="info-children">
                 <span>・<a href="gallery.php">PHOTO</a> 更新</span>
@@ -76,6 +84,7 @@
                   </div>
                 </span>
               </div>
+
               <li>2021年02月04日</li>
               <div class="info-children">
                 <span>・<a href="#judgment">数字判定入力フォーム</a>作成
