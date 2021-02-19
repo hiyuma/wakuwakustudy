@@ -103,6 +103,12 @@
 
                             <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+                            <li>2021年02月18日</li>
+                            <div class="info-children"><span><a href="gallery.php">PHOTO</a> lightGallery修正</span></div>
+
+                            <li>2021年02月17日</li>
+                            <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（繰り返し処理(while文)）</a> 更新</span></div>
+
                             <li>2021年02月17日</li>
                             <div class="info-children"><span><a href="gallery.php">PHOTO</a> 更新（クルージングパーティ）</span></div>
 
@@ -875,6 +881,18 @@
                                           href="" target="blank" rel="noopener">
                                           </a></li>
                                    <hr> -->
+
+                                   2021年02月18日
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG184MC0Y1A210C2000000/" target="blank" rel="noopener">
+                                          東京都、新たに445人感染　新型コロナ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODB130MZ0T10C21A2000000/" target="blank" rel="noopener">
+                                          コロナワクチン承認、「日本人データ」で遅れ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODF124K50S1A210C2000000/" target="blank" rel="noopener">
+                                          コロナ宿泊施設、利用3割どまり　自宅療養増に拍車</a></li>
+                                   <hr>
 
                                    2021年02月17日
                                    <li><i class="far fa-file-alt"></i><a

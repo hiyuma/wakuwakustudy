@@ -400,7 +400,6 @@
 
         <!-- <div id="202102XX"></div>
           <!- XX ->
-          <hr>
           <div>
             <p><small> 2021年02月XX日</small></p>
             <h4> / <i class="fas fa-headphones-alt"></i></h4>
@@ -418,7 +417,7 @@
 
         <!-- <div id="20210221"></div>
           <!- Girl (Mixed) / Neon Bunny, Children’s Corner ->
-          <hr>
+          
           <div>
             <p><small> 2021年02月21日</small></p>
             <h4>Girl (Mixed) / Neon Bunny, Children’s Corner<i class="fas fa-headphones-alt"></i></h4>
@@ -436,7 +435,7 @@
 
            <!-- <div id="20210220"></div>
           <!-  Tonight / Little People ->
-          <hr>
+          
           <div>
             <p><small> 2021年02月20日</small></p>
             <h4>Tonight / Little People<i class="fas fa-headphones-alt"></i></h4>
@@ -452,9 +451,17 @@
             <br><br>
           </div> -->
 
-           <!-- <div id="20210219"></div>
-          <!- Myself / Duñe, Twenty9 ->
-          <hr>
+          
+
+         
+
+         
+
+          <h2>今日の1曲<i class="fas fa-music"></i></h2>
+
+          <div id="20210219"></div>
+          <!-- <!- Myself / Duñe, Twenty9 -> -->
+          
           <div>
             <p><small> 2021年02月19日</small></p>
             <h4>Myself / Duñe, Twenty9<i class="fas fa-headphones-alt"></i></h4>
@@ -468,17 +475,20 @@
               レーベル： Roche Musique
             </em2>
             <br><br>
-          </div> -->
+          </div>
 
-         
+           
 
-         
-
-          <h2>今日の1曲<i class="fas fa-music"></i></h2>
-
-           <div id="20210218"></div>
-          <!-- <!- 5 A.M. / Kartell -> -->
           <hr>
+          <div class="accbox">
+          今日までの1曲<i class="fas fa-music"></i><br>
+          <input type="checkbox" id="select-music" class="cssacc" />
+          <label for="select-music">OPEN</label>
+
+          <div class="accshow">
+
+          <div id="20210218"></div>
+          <!-- <!- 5 A.M. / Kartell -> -->
           <div>
             <p><small> 2021年02月18日</small></p>
             <h4>5 A.M. / Kartell<i class="fas fa-headphones-alt"></i></h4>
@@ -493,16 +503,6 @@
             </em2>
             <br><br>
           </div>
-           
-          
-
-          <hr>
-          <div class="accbox">
-          今日までの1曲<i class="fas fa-music"></i><br>
-          <input type="checkbox" id="select-music" class="cssacc" />
-          <label for="select-music">OPEN</label>
-
-          <div class="accshow">
 
           <div id="20210217"></div>
           <!-- <!- Everything Must Change (Aicube Vocal Mix) [feat. Fonogenico] / Ayur -> -->
