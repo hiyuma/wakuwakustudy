@@ -215,7 +215,7 @@
             <p id="td"><a href="https://amzn.to/37f5Yq3">Amazon
                 Prime Video</a></p>
             <p id="th">評価</p>
-            <p id="td">4.1(/5.0)</p>
+            <p id="td">4.4(/5.0)</p>
 
             <div id="line"></div>
             <div class="accbox">
