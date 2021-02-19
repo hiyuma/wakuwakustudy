@@ -20,7 +20,6 @@
     <a href="#"></a>
   </div>
   <script src="https://kit.fontawesome.com/6256a7882a.js" crossorigin="anonymous"></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   <script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js"></script>
   <link rel="stylesheet" href="pre.css">
 </head>
@@ -48,27 +47,30 @@
           <img id="top-img" src="gallery/top/techtop.png" alt="">
         </p>
         <br>
-        <p>IT関連の技術的な日記を書くかもしれないし、書かないかもしれないです。</p>
+        <p>IT関連の技術的な日記を書くかもしれないし、書かないかもしれないです。
+        <br><br>
+        <em2>※2021年2月現在、フリーランス活動と資格試験勉強中のため、更新頻度が低くなっています。</em2>
+        </p>
         <br>
         <div class="schedule_wrapper">
-          <h3><i class="far fa-list-alt"></i>　Technical diary list</h3>
+          <h3><i class="far fa-list-alt"></i>Technical diary list</h3>
           <!-- list -->
           <div id="schedule0" class="schedule_list">
             <ol reversed>
-              <li><a href="#20210214"> 2021年02月14日 SEO「サイトマップの作成と追加」</a></li>
-              <li><a href="#20210210"> 2021年02月10日 HTML/CSS「ソースコードの埋め込み」</a></li>
-              <li><a href="#20210209"> 2021年02月09日 PHP「現在日時の所得」</a></li>
-              <li><a href="#20210208"> 2021年02月08日 PHP「入力値の継承」</a></li>
-              <li><a href="#20210206"> 2021年02月06日 CSS「リストデザイン変更」</a></li>
-              <li><a href="#20210205"> 2021年02月05日 CSS「スクロールバーデザイン変更」</a></li>
+              <li><a href="#20210218"> 2021年02月18日 PHP③「繰り返し処理(while文)」</a></li>
+              <li><a href="#20210214"> 2021年02月14日 SEO①「サイトマップの作成と追加」</a></li>
+              <li><a href="#20210210"> 2021年02月10日 HTML/CSS①「ソースコードの埋め込み」</a></li>
+              <li><a href="#20210209"> 2021年02月09日 PHP②「現在日時の所得」</a></li>
+              <li><a href="#20210208"> 2021年02月08日 PHP①「入力値の継承」</a></li>
+              <li><a href="#20210206"> 2021年02月06日 CSS②「リストデザイン変更」</a></li>
+              <li><a href="#20210205"> 2021年02月05日 CSS①「スクロールバーデザイン変更」</a></li>
               <li> <a href="#recommend"> <i class="fab fa-amazon"></i> しらひゅー推し</a></li>
               <!-- <li> <a href="#amazon"> <i class="fab fa-amazon"></i>　RELATIONS</a></li> -->
             </ol>
           </div>
         </div>
 
-
-        <!-- id=0007 -->
+        <!-- id=0008 -->
          <!-- <div id="202102XX"></div>
         <br>
         <p id="avocado">2021年02月XX日 <i class="fas fa-laptop-code"></i>XML</p>
@@ -78,11 +80,11 @@
 
           <p><img src="gallery/techimg" alt=""></p>
 
-          <input type="checkbox" id="0007" class="cssacc" />
+          <input type="checkbox" id="0008" class="cssacc" />
 
-          <label for="0007"><span><i class="fas fa-book"></i>READ</span></label>
+          <label for="0008"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
-            <h3></a></h3>
+            <h3></h3>
             <p>
             <br><br>
             <br><br>
@@ -92,6 +94,79 @@
           </div>
         </div>
         <br> -->
+
+
+        <!-- id=0007 -->
+         <div id="20210218"></div>
+        <br>
+        <p id="avocado">2021年02月18日 <i class="fas fa-laptop-code"></i>PHP</p>
+        <h2 id="title">「繰り返し処理(while文)」</h2>
+
+        <div class="accbox">
+
+          <p><img src="gallery/techimg/20210218/galleryphotoimg1.jpg" alt="写真を順番に並べる"></p>
+
+          <input type="checkbox" id="0007" class="cssacc" />
+
+          <label for="0007"><span><i class="fas fa-book"></i>READ</span></label>
+          <div class="accshow">
+            <h3>while文とは？</h3>
+            <p><mark><strong>while文とは、JavaやPHPなどのプログラミングで、繰り返し処理をする時に使う方法の一つです。</strong></mark>
+            <br><br>
+            英語の”while”は、「～する間」、「～と同時に」、「ところが一方」のように訳します。
+            <br><br>
+            プログラミングでは、「～する間」の意味で、必ず条件を提示して利用します。
+            <br><br>
+            今回、例として<a href="https://developershirai.com/gallery.php">PHOTO</a>ページの写真掲載を挙げます。
+            <br><br>
+            多数掲載していますが、手動でHTMLを書いていくのは大変です。
+            <p><img src="gallery/techimg/20210218/galleryphotoNaganoPartyImg.jpg" alt="HTMLでimgを並べる"></p>
+            写真のように、枚数分(写真の場合は73枚分)のファイル名を順番に記述することになります。
+            <br><br>
+            これが、かなり辛い作業になっていました。
+            <br><br>
+            手間を省くため、事前に数字部分のみ異なるようにファイル名を変更しています。
+            <br><br>
+            その方が数字を書き換えるだけで良いので、HTML/CSSの独学を始めた頃の僕の中では、Visual Studio Codeの助けもあり、とても効率的でした。
+            <br><br>
+            しかし、最近、本サイトをHTMLからPHPへ移行しましたので、PHPを生かした処理に記述を変更することにしました。
+
+            <h3>while文の書き方は？</h3>
+            <p><strong><mark>PHPにおいてのwhile文の書き方は、他のプログラミング言語のそれと流れは同じです。</strong></mark></p>
+            <p><img src="gallery/techimg/20210218/phpwhileDone.jpg" alt="HTMLでimgを並べる"></p>
+            <ul id="while">
+            <h4>while文の処理流れ(上写真の場合)</h4>
+            <li>① 変数に写真１枚目の数字を代入</li>
+            <li>② while(条件式)でいつまで繰り返し処理を行うか条件を指定する</li>
+            <li>③ while(条件式)がTRUEであれば(x&lt;87であれば)、処理を実行</li>
+            <li>④ echoの''を出力する</li>
+            <li>⑤ 変数に1をプラスする</li>
+            <li>⑥ while(条件式)がFALSEにならない限り(x>=87になるまで)繰り返し処理を行う</li>
+            <li>⑦ while(条件式)がFALSEになった場合は処理を終了する</li>
+            </ul>
+            という、流れになります。
+            <br><br>
+            それでは、先ほど、手動で記述していた<a href="https://developershirai.com/gallery.php#2013%E9%95%B7%E9%87%8E">長野県パーティ</a>をPHPのwhile文に変更しました。
+
+            <pre class="prettyprint linenums">
+            
+            $x = 1;
+              while ($x < 73) {
+                echo '&lt;a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (' . $x . ').jpg" target="blank">&lt;img id="photoGallery" src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (' . $x . ')small.jpg" alt="">&lt;/a>';
+                $x++;
+              }
+              
+            </pre>
+
+            スッキリしました。
+            <br><br>
+            しかも、先にJavaを勉強したので、PHPの記述が簡単すぎてダブルで感動しました。
+            <br><br>
+            まだまだ、大量に写真をストックしているけれど、これで写真を掲載する時間がないなんて、言いたくならなくなるかもしれません。
+            </p>
+          </div>
+        </div>
+        <br>
 
          <!-- id=0006 -->
          <div id="20210214"></div>
