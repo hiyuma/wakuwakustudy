@@ -103,11 +103,14 @@
 
                             <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+                            <li>2021年02月21日</li>
+                            <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（lightGalleryの使い方 / jQuery）</a> 更新</span></div>
+
                             <li>2021年02月18日</li>
                             <div class="info-children"><span><a href="gallery.php">PHOTO</a> lightGallery修正</span></div>
 
                             <li>2021年02月17日</li>
-                            <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（繰り返し処理(while文)）</a> 更新</span></div>
+                            <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（繰り返し処理 / PHP）</a> 更新</span></div>
 
                             <li>2021年02月17日</li>
                             <div class="info-children"><span><a href="gallery.php">PHOTO</a> 更新（クルージングパーティ）</span></div>
@@ -120,7 +123,7 @@
                             <div class="info-children"><span><a href="avocado.php">AVOCADO</a> 更新</span></div>
 
                             <li>2021年02月16日</li>
-                            <div class="info-children"><span><a href="music.php">MUSIC</a> デザイン変更</span></div>
+                            <div class="info-children"><span><a href="music.php">MUSIC</a> 更新</span></div>
 
                             <li>2021年02月15日</li>
                             <div class="info-children"><span><a href="video.php"> VIDEO</a> 更新（TVアニメ「鬼滅の刃」遊郭編）</span>
@@ -881,6 +884,65 @@
                                           href="" target="blank" rel="noopener">
                                           </a></li>
                                    <hr> -->
+                                   2021年02月23日
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG231IO0T20C21A2000000/" target="blank" rel="noopener">
+                                          東京都、新たに275人感染　新型コロナ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQOFB232SR0T20C21A2000000/" target="blank" rel="noopener">
+                                          首都圏4知事、緊急事態宣言の早期解除を要請せず</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG231Z60T20C21A2000000/" target="blank" rel="noopener">
+                                          関西と愛知の4府県、緊急事態解除要請　感染状況改善で</a></li>
+                                   <hr>
+
+                                   2021年02月22日
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG222NR0S1A220C2000000/" target="blank" rel="noopener">
+                                          東京都、新たに178人感染　3カ月ぶりの100人台</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODZ210LX0R20C21A2000000/" target="blank" rel="noopener">
+                                          緩む自粛効果　ランチ客急増、緊急事態宣言前上回る</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQOHC222RT0S1A220C2000000/" target="blank" rel="noopener">
+                                          関西3府県 宣言解除要請へ　「感染対策と経済両立」</a></li>
+                                   <hr>
+
+                                   2021年02月21日
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG210OW0R20C21A2000000/" target="blank" rel="noopener">
+                                          東京都、新たに272人感染　新型コロナ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODE210EJ0R20C21A2000000/" target="blank" rel="noopener">
+                                          高齢者ワクチン接種、河野氏「4月は限定的」　供給厳しく</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODZ106BQ0Q1A210C2000000/" target="blank" rel="noopener">
+                                          武田や第一三共、コロナワクチン治験へ　国内生産準備</a></li>
+                                   <hr>
+
+                                   2021年02月20日
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG201UL0Q1A220C2000000/" target="blank" rel="noopener">
+                                          東京都、新たに327人感染　新型コロナ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQOGN19DX60Z10C21A2000000/" target="blank" rel="noopener">
+                                          ファイザー製ワクチン、1回でも効果　一般冷凍も可能に</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODE201JY0Q1A220C2000000/" target="blank" rel="noopener">
+                                          ワクチン接種でじんましん　副作用の疑い、富山の病院</a></li>
+                                   <hr>
+
+                                   2021年02月19日
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG194AI0Z10C21A2000000/" target="blank" rel="noopener">
+                                          東京都、新たに353人感染　新型コロナ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQOHC181QI0Y1A210C2000000/" target="blank" rel="noopener">
+                                          大阪府「2月末で緊急事態解除を」　3府県で来週協議</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODE18CIO0Y1A210C2000000/" target="blank" rel="noopener">
+                                          ワクチン第2便は45万回分　地方に計234万回分計画</a></li>
+                                   <hr>
 
                                    2021年02月18日
                                    <li><i class="far fa-file-alt"></i><a
