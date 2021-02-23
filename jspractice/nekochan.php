@@ -284,7 +284,6 @@
         下の箱を開けて「おじさん」達から逃げ隠れている「ねこ」ちゃんを早く助けてあげましょう。
         <br>30秒以内にねこちゃんを助けられなかったらあなたの負けです。
         <br><br>...なにこれ。
-        <br><br>clearInterval()がなかなか思い通りに動作せず、いまだに完成していません。
         <br><br>
         <p>・アンケート(PHP)は<a href="https://developershirai.com/questionnaire.php" target="blank">こちら</a> <i class="far fa-edit"></i></p>
 
