@@ -243,6 +243,9 @@ h1.logo img{
 	line-height: 120px;
 	transform: rotate(1080deg);
 }
+pre.prettyprint{
+	overflow: auto;
+}
 
 /* .material-icons.rotate { 未使用
 	-webkit-animation: spin 1.5s linear infinite;
@@ -1592,11 +1595,13 @@ p#impression {
 	color: #747474;
 	letter-spacing: 2px;
 }
-#title{
+h2#title{
 	color: #747474;
 	letter-spacing: 3px;
 	font-weight: bold;
 	margin: 0 0 25px 0;
+	padding-left: 20px;
+	border-bottom: none;
 }
 
 #page_top {
@@ -1896,3 +1901,18 @@ p#impression {
 		width: 600px;
 	}
 }
+@media screen and (min-width: 1280px) {
+	body {
+		width: 1080px;
+		margin: 20px auto;
+	}
+		#aside {
+			float: right;
+			width: 260px;
+			min-height: 500px;
+		}
+		#article {
+			float: left;
+			width: 800px;
+		}
+	}
