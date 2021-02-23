@@ -297,216 +297,14 @@
 
           <div class="accshow">
             <div id="lightgallery6" class="album">
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18.jpg" target="blank">
+            <a href="gallery2/2011年 12月17日～24日福島/2020-10-18.jpg" target="blank">
                 <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(1).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(1)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(2).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(2)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(3).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(3)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(4).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(4)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(5).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(5)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(6).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(6)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(7).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(7)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(8).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(8)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(9).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(9)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(11).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(11)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(12).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(12)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(13).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(13)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(14).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(14)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(15).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(15)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(16).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(16)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(17).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(17)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(18).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(18)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(19).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(19)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(20).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(20)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(21).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(21)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(23).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(23)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(24).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(24)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(27).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(27)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(25).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(25)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(26).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(26)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(28).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(28)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(29).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(29)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(31).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(31)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(32).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(32)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(33).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(33)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(34).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(34)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(35).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(35)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(37).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(37)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(38).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(38)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(39).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(39)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(40).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(40)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(41).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(41)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(42).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(42)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(43).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(43)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(44).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(44)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(45).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(45)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(46).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(46)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(47).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(47)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(48).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(48)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(49).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(49)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(50).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(50)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(51).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(51)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(52).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(52)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(53).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(53)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(54).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(54)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(55).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(55)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(56).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(56)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(57).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(57)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(58).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(58)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(59).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(59)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(60).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(60)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(61).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(61)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(62).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(62)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(63).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(63)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(64).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(64)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(65).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(65)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(66).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(66)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(67).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(67)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(68).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(68)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(69).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(69)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(70).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(70)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(71).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(71)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(72).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(72)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(73).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(73)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(74).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(74)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(75).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(75)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(76).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(76)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(77).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(77)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(78).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(78)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(79).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(79)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(80).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(80)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(81).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(81)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(82).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(82)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(83).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(83)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(84).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(84)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(85).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(85)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(86).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(86)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(87).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(87)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(88).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(88)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(89).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(89)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(90).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(90)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(91).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(91)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(92).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(92)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(93).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(93)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(94).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(94)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(95).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(95)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(96).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(96)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(97).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(97)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(98).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(98)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(99).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(99)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(100).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(100)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(101).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(101)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(10).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(10)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(102).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(102)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(103).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(103)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(104).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(104)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(105).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(105)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(106).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(106)small.jpg" alt=""></a>
-              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18(107).jpg" target="blank">
-                <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(107)small.jpg" alt=""></a>
+            <?php  
+              for ($x = 1;$x < 108;$x++) {
+                echo '<a href="gallery2/2011年 12月17日～24日福島/2020-10-18(' . $x . ').jpg" target="blank"><img id="photoGallery" src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(' . $x . ')small.jpg" alt=""></a>';
+              }
+              ?>
+              
 
             </div>
           </div>
@@ -1091,11 +889,11 @@
           2014年～2020年 　東京都杉並区 和田堀公園　<span class="material-icons">local_florist</span></i>
         </p>
         <div id="route-line"></div>
-        <p>和田堀公園は、緑豊かなで広く、12もの橋にまたがる公園です。
+        <p>和田堀公園は、とっても広くて緑豊かな公園です。
           <br><br>
           陸上トラックや、バスケットゴール、サッカー場、野球場、テニスコート、つり堀など、様々な施設があります。
           <br><br>
-          春は桜、秋は紅葉が楽しめるお気に入りの公園です。
+          春は桜、秋は紅葉が楽しめるお気に入りなのです。
         </p>
         <div id="route-line"></div>
 
@@ -1106,7 +904,7 @@
           <label for="wadahori">OPEN</label>
 
           <div class="accshow">
-            <div id="lightgallery" class="album">
+            <div id="lightgallery1" class="album">
               <a href="gallery2/和田堀公園/和田堀公園 (1).jpg" target="blank">
                 <img src="gallery2/和田堀公園/resize/和田堀公園 (1)small.jpg" alt=""></a>
               <a href="gallery2/和田堀公園/和田堀公園 (2).jpg" target="blank">
@@ -1275,14 +1073,15 @@
 
   <?php include('parts/footer.php'); ?>
 
-  <script src="js/menu.js"></script>
-  <script src="js/openAndClose.js"></script>
-  <script src="js/href.js"></script>
+  
 
   <script src="js/jquery-3.5.1.min.js"></script>
   <script src="js/lightgallery/js/lightgallery.min.js"></script>
   <script src="js/lightgallery/js/lightgallery-all.min.js"></script>
   <script src="js/lightgallery"></script>
+  <script src="js/menu.js"></script>
+  <script src="js/openAndClose.js"></script>
+  <script src="js/href.js"></script>
 
   <script type="text/javascript">
     var $lg0 = $('#lightgallery0');
@@ -1353,6 +1152,15 @@
     $lg7.on('onCloseAfter.lg', function(event) {
       $lg7.data('lightgallery').destroy(true);
       $lg7.lightGallery();
+    });
+  </script>
+  
+  <script type="text/javascript">
+    var $lg8 = $('#lightgallery8');
+    $lg8.ligtGallery();
+    $lg8.on('onCloseAfter.lg', function(event) {
+      $lg8.data('lightgallery').destroy(true);
+      $lg8.lightGallery();
     });
   </script>
 
