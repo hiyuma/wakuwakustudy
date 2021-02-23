@@ -13,7 +13,7 @@
 
   <link rel="stylesheet" href="mystyle.css">
   <link rel="stylesheet" href="cal.css">
-  
+
 
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <div id="page_top">
@@ -48,8 +48,8 @@
         </p>
         <br>
         <p>IT関連の技術的な日記を書くかもしれないし、書かないかもしれないです。
-        <br><br>
-        <em2>※2021年2月現在、フリーランス活動と資格試験勉強中のため、更新頻度が低くなっています。</em2>
+          <br><br>
+          <em2>※2021年2月現在、フリーランス活動と資格試験勉強中のため、更新頻度が低くなっています。</em2>
         </p>
         <br>
         <div class="schedule_wrapper">
@@ -57,21 +57,22 @@
           <!-- list -->
           <div id="schedule0" class="schedule_list">
             <ol reversed>
-              <li><a href="#20210218"> 2021年02月18日 PHP③「繰り返し処理(while文)」</a></li>
-              <li><a href="#20210214"> 2021年02月14日 SEO①「サイトマップの作成と追加」</a></li>
-              <li><a href="#20210210"> 2021年02月10日 HTML/CSS①「ソースコードの埋め込み」</a></li>
-              <li><a href="#20210209"> 2021年02月09日 PHP②「現在日時の所得」</a></li>
-              <li><a href="#20210208"> 2021年02月08日 PHP①「入力値の継承」</a></li>
-              <li><a href="#20210206"> 2021年02月06日 CSS②「リストデザイン変更」</a></li>
-              <li><a href="#20210205"> 2021年02月05日 CSS①「スクロールバーデザイン変更」</a></li>
+              <li><a href="#20210221"> 2021年02月21日 JavaScript/jQuery ①「lightGalleryの使い方」</a></li>
+              <li><a href="#20210218"> 2021年02月18日 PHP ③「繰り返し処理(while文)」</a></li>
+              <li><a href="#20210214"> 2021年02月14日 SEO ①「サイトマップの作成と追加」</a></li>
+              <li><a href="#20210210"> 2021年02月10日 HTML/CSS ①「ソースコードの埋め込み」</a></li>
+              <li><a href="#20210209"> 2021年02月09日 PHP ②「現在日時の所得」</a></li>
+              <li><a href="#20210208"> 2021年02月08日 PHP ①「入力値の継承」</a></li>
+              <li><a href="#20210206"> 2021年02月06日 CSS ②「リストデザイン変更」</a></li>
+              <li><a href="#20210205"> 2021年02月05日 CSS ①「スクロールバーデザイン変更」</a></li>
               <li> <a href="#recommend"> <i class="fab fa-amazon"></i> しらひゅー推し</a></li>
               <!-- <li> <a href="#amazon"> <i class="fab fa-amazon"></i>　RELATIONS</a></li> -->
             </ol>
           </div>
         </div>
 
-        <!-- id=0008 -->
-         <!-- <div id="202102XX"></div>
+        <!-- id=0009 -->
+        <!-- <div id="202102XX"></div>
         <br>
         <p id="avocado">2021年02月XX日 <i class="fas fa-laptop-code"></i>XML</p>
         <h2 id="title">「」</h2>
@@ -80,9 +81,9 @@
 
           <p><img src="gallery/techimg" alt=""></p>
 
-          <input type="checkbox" id="0008" class="cssacc" />
+          <input type="checkbox" id="0009" class="cssacc" />
 
-          <label for="0008"><span><i class="fas fa-book"></i>READ</span></label>
+          <label for="0009"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <h3></h3>
             <p>
@@ -96,8 +97,116 @@
         <br> -->
 
 
+        <!-- id=0008 -->
+        <div id="20210221"></div>
+        <br>
+        <p id="avocado">2021年02月21日 <i class="fas fa-laptop-code"></i>JavaScript/jQuery</p>
+        <h2 id="title">「lightGalleryの使い方」</h2>
+
+        <div class="accbox">
+
+          <p><img src="gallery/techimg/20210220/LightGalleryScreenFuji.jpg" alt="lightGallery設置後"></p>
+
+          <input type="checkbox" id="0008" class="cssacc" />
+
+          <label for="0008"><span><i class="fas fa-book"></i>READ</span></label>
+          <div class="accshow">
+            <h3>”jQuery”とは？</h3>
+            <p><mark><strong>フロントエンド言語の”JavaScript”で記述できる内容をより短く簡単な記法で実現できる、”JavaScript”で作成されたライブラリです。</strong></mark>
+              <br><br>
+              本サイトでも、かなり利用しているライブラリで、”JavaScript”だと記述が長くなって複雑になることがある部分を、短く読みやすい記述で実行できます。
+              <br><br>
+              例えば、”JavaScript”で、コンソールに出力をしたい場合で考えます。
+            <pre class="prettyprint linenums">console.log(document.getElementByID(‘example’).getAttribute(‘class’));</pre>
+            ”jQuery”で記述すると、
+            <pre class="prettyprint linenums">console.log($(‘#example’).attr(‘class’));</pre>
+            これだけでも、実行結果も同じで記述量がだいぶ減ったことが分かります。
+            <br><br>
+            全て"JavaScript"で記述していたら、時間がもったいないので、ライブラリで使える部分は、jQueryで記述していきたいですね。
+
+            <h3>”lightGallery”とは？</h3>
+            <mark><strong>”lightGallery”とは、lightbox系（サムネイル画像をクリックしてモーダルウィンドウを開き、拡大して表示）のjQueryプラグインです。</strong></mark>
+            <br><br>
+            レスポンシブ対応で、画像や動画、iframe要素なども利用できる、高機能な画像ギャラリーを簡単に実装できます。
+            <br><br>
+            本サイトでは、<a href="https://developershirai.com/gallery.php">PHOTO</a>のページの写真それぞれに、この”lightGallery”を実行させるようにプログラム組んでいます。
+            <br><br>
+            例として、”lightGallery”を使わず、通常のの写真表示は、
+            <p><img src="gallery/techimg/20210220/NoneLightGallery.jpg" alt="lightGallery設置前"></p>
+            のように、表示する以外の機能はありません。
+            <br><br>
+            ”lightGallery”を使った場合の写真
+            <p><img src="gallery/techimg/20210220/LightGalleryScreenFuji.jpg" alt="lightGallery設置後"></p>
+            のように、表示する以外に、スマートフォンでのスワイプ操作対応、写真を下に並べる、拡大縮小、次や前の写真へ移動など、様々な機能が使えます。
+            <h3>”lightGallery”の設置方法は？</h3>
+            ”lightGallery”は、個人利用の範囲であれば、オープンソースとして利用できます。
+            <br><br>
+            ”lightGallery”の設置方法では、ローカルファイルか、CDNどちらでも可能ですが、今回は、
+            ローカルファイルで画像ギャラリーに対して設置する方法を紹介します。
+            <ul id="while">
+              <li>①GitHubから「lightgallery」をダウンロード</li>
+              <li>②lightGallery-master > dist フォルダ(css、fonts、img、js)を配置</li>
+              <li>③HTMLマークアップ</li>
+              <li>④JavaScript(jQuery)の記述</li>
+            </ul>
+            <h3>①GitHubから「lightgallery」をダウンロード</h3>
+            <a href="https://github.com/sachinchoolur/lightgallery.js/">公式サイト(GitHub)</a>からZIPファイルをダウンロードします。
+            <p><img src="gallery/techimg/20210220/lightgalleryGitHub.jpg" alt="lightGalleryGitHub"></p>
+            <h3>②lightGallery-master > dist フォルダ(css、fonts、img、js)を配置</h3>
+            ZIP解凍後、「lightGallery-masterdist」フォルダの中にcss、fonts、img、jsの4つのフォルダがあるので、4つとも任意の場所へ移動します。
+            <br><br>
+            僕は、新規で"lightgallery"フォルダを作成して、その中に配置しています。
+            <h3>③HTMLマークアップ(CSS)</h3>
+            "lightGallery"は、ファイルを追加して、拡張することが出来ます。
+            <br><br>
+            今回は、機能を指定せずに、全ての機能を利用する簡単な方法で進めていきます。
+            <br><br>
+            まずは、CSSをHTMLの&lt;head>内に記述します。
+            <pre class="prettyprint linenums">&lt;head>
+ .....          
+&lt;link rel="stylesheet" href="path/lightGallery/lightgallery.css" />
+ .....
+&lt;/head>
+</pre>
+            また、画像は基本的に以下のよう記述します。
+            <pre class="prettyprint linenums">&lt;div id="lightgallery">
+  &lt;a href="img/img1.jpg">
+      &lt;img src="img/thumb1.jpg" />
+  &lt;/a>
+  &lt;a href="img/img2.jpg">
+      &lt;img src="img/thumb2.jpg" />
+  &lt;/a>
+.....
+&lt;/div></pre>
+
+            <h3>④JavaScript(jQuery)の記述</h3>
+            次は、&lt;body>の閉じタグ手前で、&lt;script>&lt;/script>を記述して読み込ませます。
+            <br><br>
+            head内に記述しても利用できますが、ユーザのHTML表示に遅延が起こる可能性があるので、最後に読み込ませた方が良い場合もあります。
+            <br><br>
+            jQueryを先に読み込ませないと、lightGalleryは利用できないので、順番に注意しましょう。
+
+            <pre class="prettyprint linenums">&lt;body>
+  .....
+    &lt;!-- 必ずjQuery を最初に読み込みます -->
+    &lt;script src="http://code.jquery.com/jquery-3.5.1.min.js">&lt;/script> 
+    &lt;!-- lightGalleryを読み込みます -->
+    &lt;script src="js/lightgallery.min.js">&lt;/script>
+    &lt;!-- HTMLのid "lightGallery"を指定して実行します -->
+    &lt;script>$("#lightgallery").lightGallery();&lt;/script>
+&lt;/body>  
+</pre>
+            以上で、”lightGallery”の基本的な設置が完了です。
+            <br><br>
+            多少、カスタムや”lightGallery”複数設置などもできますので、試してみるときっと楽しめるでしょう。
+            </p>
+          </div>
+        </div>
+        <br>
+
+
         <!-- id=0007 -->
-         <div id="20210218"></div>
+        <div id="20210218"></div>
         <br>
         <p id="avocado">2021年02月18日 <i class="fas fa-laptop-code"></i>PHP</p>
         <h2 id="title">「繰り返し処理(while文)」</h2>
@@ -112,14 +221,16 @@
           <div class="accshow">
             <h3>while文とは？</h3>
             <p><mark><strong>while文とは、JavaやPHPなどのプログラミングで、繰り返し処理をする時に使う方法の一つです。</strong></mark>
-            <br><br>
-            英語の”while”は、「～する間」、「～と同時に」、「ところが一方」のように訳します。
-            <br><br>
-            プログラミングでは、「～する間」の意味で、必ず条件を提示して利用します。
-            <br><br>
-            今回、例として<a href="https://developershirai.com/gallery.php">PHOTO</a>ページの写真掲載を挙げます。
-            <br><br>
-            多数掲載していますが、手動でHTMLを書いていくのは大変です。
+              <br><br>
+              英語の”while”は、「～する間」、「～と同時に」、「ところが一方」のように訳します。
+              <br><br>
+              繰り返し処理としては、”while文”よりも"for文"の方が有名ですが、今回は敢えて”while”をご紹介します。
+              <br><br>
+              プログラミングでは、「～する間」の意味で、必ず条件を提示して利用します。
+              <br><br>
+              今回、例として<a href="https://developershirai.com/gallery.php">PHOTO</a>ページの写真掲載を挙げます。
+              <br><br>
+              多数掲載していますが、手動でHTMLを書いていくのは大変です。
             <p><img src="gallery/techimg/20210218/galleryphotoNaganoPartyImg.jpg" alt="HTMLでimgを並べる"></p>
             写真のように、枚数分(写真の場合は73枚分)のファイル名を順番に記述することになります。
             <br><br>
@@ -135,31 +246,32 @@
             <p><strong><mark>PHPにおいてのwhile文の書き方は、他のプログラミング言語のそれと流れは同じです。</strong></mark></p>
             <p><img src="gallery/techimg/20210218/phpwhileDone.jpg" alt="HTMLでimgを並べる"></p>
             <ul id="while">
-            <h4>while文の処理流れ(上写真の場合)</h4>
-            <li>① 変数に写真１枚目の数字を代入</li>
-            <li>② while(条件式)でいつまで繰り返し処理を行うか条件を指定する</li>
-            <li>③ while(条件式)がTRUEであれば(x&lt;87であれば)、処理を実行</li>
-            <li>④ echoの''を出力する</li>
-            <li>⑤ 変数に1をプラスする</li>
-            <li>⑥ while(条件式)がFALSEにならない限り(x>=87になるまで)繰り返し処理を行う</li>
-            <li>⑦ while(条件式)がFALSEになった場合は処理を終了する</li>
+              <h4>while文の処理流れ(上写真の場合)</h4>
+              <li>① 変数に写真１枚目の数字を代入</li>
+              <li>② while(条件式)でいつまで繰り返し処理を行うか条件を指定する</li>
+              <li>③ while(条件式)がTRUEであれば(x&lt;87であれば)、処理を実行</li>
+              <li>④ echoの''を出力する</li>
+              <li>⑤ 変数に1をプラスする</li>
+              <li>⑥ while(条件式)がFALSEにならない限り(x>=87になるまで)繰り返し処理を行う</li>
+              <li>⑦ while(条件式)がFALSEになった場合は処理を終了する</li>
             </ul>
             という、流れになります。
             <br><br>
             それでは、先ほど、手動で記述していた<a href="https://developershirai.com/gallery.php#2013%E9%95%B7%E9%87%8E">長野県パーティ</a>をPHPのwhile文に変更しました。
 
-            <pre class="prettyprint linenums">
-            
-            $x = 1;
+            <pre class="prettyprint linenums">$x = 1;
               while ($x < 73) {
                 echo '&lt;a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (' . $x . ').jpg" target="blank">&lt;img id="photoGallery" src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (' . $x . ')small.jpg" alt="">&lt;/a>';
                 $x++;
-              }
-              
-            </pre>
+              }</pre>
 
             スッキリしました。
             <br><br>
+            ちなみに、"for文"だともう少しスッキリするので、記述方法を簡単に紹介しておきます。
+            <pre class="prettyprint linenums">
+            for ($x = 1;$x < 108;$x++) {
+                echo '&lt;a href="gallery2/2011年 12月17日～24日福島/2020-10-18(' . $x . ').jpg" target="blank">&lt;img id="photoGallery" src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(' . $x . ')small.jpg" alt="">&lt;/a>';
+              }</pre>
             しかも、先にJavaを勉強したので、PHPの記述が簡単すぎてダブルで感動しました。
             <br><br>
             まだまだ、大量に写真をストックしているけれど、これで写真を掲載する時間がないなんて、言いたくならなくなるかもしれません。
@@ -168,8 +280,8 @@
         </div>
         <br>
 
-         <!-- id=0006 -->
-         <div id="20210214"></div>
+        <!-- id=0006 -->
+        <div id="20210214"></div>
         <br>
         <p id="avocado">2021年02月14日 <i class="fas fa-laptop-code"></i>SEO施策</p>
         <h2 id="title">「サイトマップの作成と追加」</h2>
@@ -184,28 +296,29 @@
           <div class="accshow">
             <h3>1.サイトマップとは？</h3>
             <p><mark><strong>サイトマップとは、Webサイト（ドメイン内）のページリンクをまとめたリストのことです。</mark></strong>
-            <br><br>
-            そのWebサイトには、どのようなページがあるのか、ファイル情報など、Webサイトの内容をわかりやすく伝える役割をしています。
-            <br><br>
-            本Webサイトは、僕が独学で1から作成したため、まとまりのない内容になっていますが、通常は、このサイトマップを考えた構成で設計し作成していくのが良いでしょう。
-            <br><br>
-            特に、SEO施策を気にするのであれば、検索エンジンに正しく認識されることが重要です。
-            <br><br>
-            Googleが"サイトマップが必要かどうか"について、以下の様に説明しています。
-            <br><br>
-            <ul>
-            <h4>サイトマップが必要かどうか</h4>
-            <p>サイトの各ページが適切にリンクされていれば、Google は通常、サイトのほとんどのページを検出できます。
               <br><br>
-              その場合でも、大規模なサイト、複雑なサイト、専門性の高いファイルのクロールを改善する手段としてサイトマップが役立ちます。</p>
-            <h4>次の場合にサイトマップが必要になることがあります。</h4>
-            
-            <li>サイトのサイズが非常に大きい。</li>
-            <li>サイトにどこからもリンクされていない、または適切にリンクされていないコンテンツ ページのアーカイブが大量にある。</li>
-            <li>サイトが新しく、外部からのリンクが少ない。</li>
-            <li>サイトに動画や画像などのリッチメディア コンテンツが多数含まれている、またはサイトが Google ニュースに表示されている。</li>
-            <br>
-            <em3>出典：<a href="https://developers.google.com/search/docs/advanced/sitemaps/overview?hl=ja&visit_id=637488909103191118-449890832&rd=1">上級者向け SEO施策/サイトマップについて | google検索セントラル</a></em3>
+              そのWebサイトには、どのようなページがあるのか、ファイル情報など、Webサイトの内容をわかりやすく伝える役割をしています。
+              <br><br>
+              本Webサイトは、僕が独学で1から作成したため、まとまりのない内容になっていますが、通常は、このサイトマップを考えた構成で設計し作成していくのが良いでしょう。
+              <br><br>
+              特に、SEO施策を気にするのであれば、検索エンジンに正しく認識されることが重要です。
+              <br><br>
+              Googleが"サイトマップが必要かどうか"について、以下の様に説明しています。
+              <br><br>
+            <ul>
+              <h4>サイトマップが必要かどうか</h4>
+              <p>サイトの各ページが適切にリンクされていれば、Google は通常、サイトのほとんどのページを検出できます。
+                <br><br>
+                その場合でも、大規模なサイト、複雑なサイト、専門性の高いファイルのクロールを改善する手段としてサイトマップが役立ちます。
+              </p>
+              <h4>次の場合にサイトマップが必要になることがあります。</h4>
+
+              <li>サイトのサイズが非常に大きい。</li>
+              <li>サイトにどこからもリンクされていない、または適切にリンクされていないコンテンツ ページのアーカイブが大量にある。</li>
+              <li>サイトが新しく、外部からのリンクが少ない。</li>
+              <li>サイトに動画や画像などのリッチメディア コンテンツが多数含まれている、またはサイトが Google ニュースに表示されている。</li>
+              <br>
+              <em3>出典：<a href="https://developers.google.com/search/docs/advanced/sitemaps/overview?hl=ja&visit_id=637488909103191118-449890832&rd=1">上級者向け SEO施策/サイトマップについて | google検索セントラル</a></em3>
             </ul>
             ちなみに、本サイトはサイズが小さいですし、SEO施策を気にして作成していないので、必要ないでしょう。
             <br><br>
@@ -228,7 +341,7 @@
             「Google XML Sitemaps」や、フリーのWebアプリで作成できます。
 
             <h4>”XMLサイトマップ”の作成方法</h4>
-            
+
             今回は、サイトマップを作成してくれる自動生成ツール<a href="http://www.sitemapxml.jp/" target="_blank">sitemap.xml Editor</a>を使いました。
             <p><img src="gallery/techimg/20210214/sitemapCreate.jpg" alt="sitemap.xml Editor2"></p>
             特に理由がなければ、写真のように選択肢を変えずにサイトマップを作成します。
@@ -287,16 +400,16 @@
           <p><img src="gallery/techimg/sourcecodeimg.jpg" alt="ソースコードの埋め込みTOP"></p>
 
           <input type="checkbox" id="0004" class="cssacc" />
-          
+
           <label for="0004"><span><i class="fas fa-book"></i>READ</span></label>
 
           <div class="accshow">
             <p>プログラミングを学んでいる人は皆さん、インターネット検索で情報を得ようとしたことがあると思います。
-            <br><br>
-            企業サイトや個人サイトなど、ソースコードが埋め込まれた記事を読んだことがあると思います。
-            <br><br>
-            今回は、３つの方法を紹介します。
-            <br><br>
+              <br><br>
+              企業サイトや個人サイトなど、ソースコードが埋め込まれた記事を読んだことがあると思います。
+              <br><br>
+              今回は、３つの方法を紹介します。
+              <br><br>
             <h3>1．Code Pen</a></h3>
             よく見かけるのは、ソースコードと実行結果を表示してくれるWEBアプリ<a href="https://codepen.io/pen/">「Code Pen」</a>です。
             <br><br>
@@ -305,9 +418,9 @@
             ちなみに、Result(実行結果)の「ソースコードの埋め込み」をクリックするとカウントダウンされ、0になった時にアラートが表示されるプログラミングを記述しています。
             <br>
             <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="hiyuma" data-slug-hash="rNWMmOQ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="rNWMmOQ">
-            <span>See the Pen <a href="https://codepen.io/hiyuma/pen/rNWMmOQ">
-            rNWMmOQ</a> by MARC JACOBS (<a href="https://codepen.io/hiyuma">@hiyuma</a>)
-            on <a href="https://codepen.io">CodePen</a>.</span>
+              <span>See the Pen <a href="https://codepen.io/hiyuma/pen/rNWMmOQ">
+                  rNWMmOQ</a> by MARC JACOBS (<a href="https://codepen.io/hiyuma">@hiyuma</a>)
+                on <a href="https://codepen.io">CodePen</a>.</span>
             </p><br>
             <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
             タブ選択で、HTML、CSS、JSと実行結果、それぞれ、この画面内ですべて確認できるツールです。
@@ -358,7 +471,7 @@
             スペースや改行がそのまま反映されるなど、
             コードを表記しやすい表記に変わります。
             </code></pre>
-            
+
             <br><br>
             プログラミングコードらしいフォントというかなんというか、良く見たことある感じになりました。
             <br><br>
@@ -371,7 +484,7 @@
             以下のscriptを使うことで、CDNをスクリプトとスタイルシートの読み込みを共に一括して行えます。
 
             <pre class="prettyprint linenums">&lt;script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"&gt;&lt;/script&gt;</pre>
-            
+
             <br><br>
             あとは、bodyの表示したい場所にタグ&lt;pre class="prettyprint linenums">&lt;/pre>を入れて、コードで記述します。
             <br><br>
@@ -383,9 +496,7 @@
             <br><br>
             あとは、&lt;pre class="prettyprint linenums">&lt;/pre>の間にコードを入れて、以下のように表記できます。
 
-              <pre class="prettyprint linenums">
-var count = 10;
-
+            <pre class="prettyprint linenums">var count = 10;
 function countDown() {
   console.log('count');
   if (count !== 0) {
@@ -397,8 +508,7 @@ function countDown() {
     alert("0秒になりました。OKを押してください。");
     count = 10;
   }
-}
-            </pre>
+}</pre>
             この方法だと、テキストエディターが少し散らかりやすいので、あまりオススメはできないです。
             <br><br>
             1番目に紹介した「Code Pen」が一番コードと結果がわかりやすく表記できそうです。
