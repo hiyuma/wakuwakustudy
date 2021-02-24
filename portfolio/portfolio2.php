@@ -9,7 +9,6 @@
 
 </head>
 <body>
-<!-- navbar 配置 -->
 <header>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <a class="navbar-brand" href="#">ポートフォリオ 2 by Hiyuma Shirai</a>
@@ -31,8 +30,8 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="../portfolio1/portfolio1.html">ポートフォリオ 1</a>
-          <a class="dropdown-item" href="">ポートフォリオ 3</a>
-          <a class="dropdown-item" href="../portfolio2/skytravel.html">ポートフォリオ 4</a>
+          <a class="dropdown-item" href="">ポートフォリオ 2</a>
+          <a class="dropdown-item" href="../portfolio2/skytravel.html">ポートフォリオ 3</a>
           <div class="dropdown-divider"></div>
           <a class="dropdown-item" href="#">その他</a>
         </div>

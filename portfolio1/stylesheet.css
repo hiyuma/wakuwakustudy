@@ -14,12 +14,12 @@ a {
   text-align: center;
 }
 
-.container {
+.container-br {
   width: 1170px;
   padding: 0 15px;
   margin: 0 auto;
 }
-.container img{
+.container-br img{
   width: 200px;
   height: 200px;
   opacity: 0.8;
