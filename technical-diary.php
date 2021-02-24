@@ -44,7 +44,7 @@
       <section id="techsection">
         <div class="line">TECHNICAL DIARY</div>
         <p>
-          <img id="top-img" src="gallery/top/techtop.png" alt="">
+          <img id="top-img" src="gallery/top/techtop.jpg" alt="">
         </p>
         <br>
         <p>IT関連の技術的な日記を書くかもしれないし、書かないかもしれないです。

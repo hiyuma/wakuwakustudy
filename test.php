@@ -64,7 +64,7 @@
     <header>
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
         <div class="container-sm">
-          <a class="navbar-brand" href="#">しらひゅーのわくわくスタディ</a>
+          <a class="navbar-brand" href="#">しらひゅーのわくわくスタディ Bootstrap</a>
           <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#Navber"
             aria-controls="Navber" aria-expanded="false" aria-label="ナビゲーションの切替">
             <span class="navbar-toggler-icon"></span>
