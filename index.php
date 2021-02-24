@@ -103,8 +103,11 @@
 
                             <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+                            <li>2021年02月24日</li>
+                            <div class="info-children"><span> <a href="https://developershirai.com/portfolio1/portfolio1.html">TEST PAGE ( HTML/CSS,JavaScript,jQuery )</a> 更新</span></div>
+
                             <li>2021年02月21日</li>
-                            <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（lightGalleryの使い方 / jQuery）</a> 更新</span></div>
+                            <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（ lightGalleryの使い方 / jQuery ）</a> 更新</span></div>
 
                             <li>2021年02月18日</li>
                             <div class="info-children"><span><a href="gallery.php">PHOTO</a> lightGallery修正</span></div>
@@ -830,8 +833,7 @@
                                    </a></li>
                             <li><i class="fas fa-code"></i> <a href="#programming">PROGRAMMING</a>
                             </li>
-                            <li><i class="far fa-sticky-note"></i> <a href="test.php">TEST
-                                          PAGE</a></li>
+                            <li><i class="far fa-sticky-note"></i> <a href="portfolio1/portfolio1.html">TEST PAGE</a></li>
                             <li><i class="fab fa-youtube"></i> <a href="video.php">VIDEO</a></li>
                             <li><i class="fas fa-laptop-code"></i> <a href="jspractice/index.php">WORK</a></li>
                             <li> <span><i class="far fa-edit"></i> <a href="questionnaire.php">アンケート</a></span></li>
@@ -884,6 +886,17 @@
                                           href="" target="blank" rel="noopener">
                                           </a></li>
                                    <hr> -->
+                                   2021年02月24日
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG242D70U1A220C2000000/" target="blank" rel="noopener">
+                                          東京都、新たに213人感染　新型コロナ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQOFB225G00S1A220C2000000/" target="blank" rel="noopener">
+                                          東北各県、観光・飲食店へ支援策　コロナ収束を見据え</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODZ242E70U1A220C2000000/" target="blank" rel="noopener">
+                                          武田薬品、米社ワクチン治験開始　21年後半に供給めざす</a></li>
+                                   <hr>
                                    2021年02月23日
                                    <li><i class="far fa-file-alt"></i><a
                                           href="https://www.nikkei.com/article/DGXZQODG231IO0T20C21A2000000/" target="blank" rel="noopener">

@@ -509,9 +509,13 @@
           </div>
           <hr> -->
 
+         
 
-           <!-- <div id="20210224"></div>
-          <!- AKIRA SENTIMENTAL / Last Electro ->
+
+        <h2>今日の1曲<i class="fas fa-music"></i></h2>
+
+        <div id="20210224"></div>
+          <!-- <!- AKIRA SENTIMENTAL / Last Electro -> -->
           <div>
             <p><small> 2021年02月24日</small></p>
             <h4>AKIRA SENTIMENTAL / Last Electro<i class="fas fa-headphones-alt"></i></h4>
@@ -526,17 +530,21 @@
             </em2>
             <br><br>
           </div>
-          <hr> -->
+          <hr>
 
-
-        
-
+       
          
 
+        
+        
+        <div class="accbox">
+          今日までの1曲<i class="fas fa-music"></i><br>
+          <input type="checkbox" id="select-music" class="cssacc" />
+          <label for="select-music">OPEN</label>
 
-        <h2>今日の1曲<i class="fas fa-music"></i></h2>
+          <div class="accshow">
 
-        <div id="20210223"></div>
+          <div id="20210223"></div>
           <!-- <!- Get Creative / lau.ra & Nova -> -->
           <div>
             <p><small> 2021年02月23日</small></p>
@@ -554,16 +562,6 @@
           </div>
           <hr>
 
-         
-
-        
-        
-        <div class="accbox">
-          今日までの1曲<i class="fas fa-music"></i><br>
-          <input type="checkbox" id="select-music" class="cssacc" />
-          <label for="select-music">OPEN</label>
-
-          <div class="accshow">
 
           <div id="20210222"></div>
           <!-- <!-Waiting / Midnight Pool Party -> -->
