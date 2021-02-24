@@ -1,0 +1,171 @@
+
+@charset "utf-8";
+
+body, h1, h2, p, ul {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	color: #383838;
+	font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "BIZ UDPGothic", Meiryo, sans-serif;
+	line-height: 1.4;
+	background: linear-gradient(45deg, rgba(255, 255, 255, 0.4), rgba(96, 150, 251, 0.4), rgba(255, 123, 123, 0.4)), url(gallery/top/back-s.jpg);
+}
+
+#container {
+	width: 960px;
+	margin: 0 auto;
+	padding: 0 10px;
+	background-color: #fff;
+	opacity: 0.85;
+}
+
+header {
+	margin-bottom: 10px;
+}
+
+#mainnav ul {
+	margin-bottom: 10px 0;
+	overflow: hidden; 
+}
+
+#mainnav ul li {
+	float: left;
+	background: #12529a;
+	margin-right: 5px;
+	width: 188px;
+	height: 54px;
+	line-height: 54px;
+	text-align: center;
+	list-style: none;
+}
+
+#mainnav ul li a {
+	color: #fff;
+	text-decoration: none;
+}
+
+#mainnav ul li a:hover {
+	display: block;
+	color: #fff;
+	background: #ffb876;
+}
+
+#mainnav ul li:last-child {
+	margin-right: 0;
+}
+
+#news {
+	width: 670px;
+	float: left;
+	margin: 10px 0;
+}
+
+#news dl {
+	border-top: dotted 1px #ccc;
+	padding: 15px 15px;
+}
+
+#news dt {
+	margin-top: 10px;
+	line-height: 1.8;
+	font-weight: bold;
+	color: #5d5d5d;
+}
+
+#news dd {
+	line-height: 1.6;
+	padding-bottom: 20px;
+	margin: 10px 0;
+	border-bottom: dotted 1px #ccc;
+}
+
+#news h2 {
+	text-align: center;
+	background-color: #33558a;
+	margin-bottom: 5px;
+	padding: 5px 0;
+	font-size: 16px;
+	color: #fff;
+}
+
+#sidepanel {
+	float: right;
+	width: 280px;
+	margin: 10px 0;
+}
+
+#sidepanel h2 {
+	text-align: center;
+	background-color: #ff6a14;
+	color: #fff;
+	padding: 5px 0;
+	font-size: 16px;
+}
+
+#sidepanel table {
+	width: 100%;
+	border-collapse: collapse;
+	line-height: 1.8;
+	font-weight: bold;
+	margin-bottom:5px;
+}
+
+#sidepanel th, td {
+	padding: 5px;
+	color: #ff7931;
+	border: solid 1px #ffa372;
+}
+
+#sidepanel th {
+	background: #ffe3c3;
+	text-align: left;
+}
+
+#ichioshi{
+	margin-top:10px;
+}
+
+
+#ichioshi h1 {
+	font-weight: bolder;
+	font-size: 18px;
+	padding: 10px;
+	text-align: center;
+	background-color: #2b73e7;
+	margin-bottom: 5px;
+	color: #fff;
+}
+
+#ichioshi .plan {
+	margin-top: 5px;
+	padding-bottom: 5px;
+	border-bottom: solid 1px #777;
+}
+
+#ichioshi .plan h2 {
+	margin: 15px 0;
+	font-size: 16px;
+	color: #ff5f5f;
+}
+
+#ichioshi .plan img {
+	padding: 3px;
+	border: solid 1px #777;
+}
+
+#ichioshi .plan .price {
+	margin: 15px 0;
+	font-weight: bold;
+	color: #00ce60;
+}
+
+footer {
+	clear: both;
+	margin-top: 10px;
+	color: #fff;
+	padding: 10px 0;
+	background-color: #3b89ff;
+	text-align: center;
+}

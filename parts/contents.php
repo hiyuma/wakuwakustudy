@@ -48,8 +48,8 @@
     <br><small>JavaScriptの練習用ページ。</small>
   </p>
 
-  <p id="test"><i class="fab fa-bootstrap"></i> <a href="https://developershirai.com/test.php">Bootstrap TEST PAGE
+  <p id="test"><i class="fab fa-bootstrap"></i> <a href="https://developershirai.com/portfolio1/portfolio1.html">TEST PAGE
       <i class="fas fa-angle-double-right"></i></a>
-    <br><small>フレームワークおためし。</small>
+    <br><small>WEBデザイン、Bootstrapなどなど。おためし。</small>
   </p>
 </ul>
