@@ -56,7 +56,7 @@
 
           <p>・「ねこちゃんおみくじ」は<a href="https://developershirai.com/jspractice/omikuji.php" target="blank">こちら</a><i class="fas fa-paw"></i></p>
 
-          <p>・おためしチャレンジページは<a href="../test.php" target="blank">こちら</a><i class="fas fa-laptop-code"></i></p>
+          <p>・おためしチャレンジページは<a href="https://developershirai.com/portfolio1/portfolio1.html">こちら</a><i class="fas fa-laptop-code"></i></p>
 
           <p>・JavaScript練習用ページ「ありあり」は<a href="../puyo2/www/puyoforlaptop.php" target="blank">こちら</a><i class="fas fa-gamepad"></i></p>
           <br>
@@ -69,19 +69,27 @@
               <div>WORK INFO <i class="fas fa-info-circle"></i></div>
               <br>
 
+              <li>2021年02月24日</li>
+              <div class="info-children">
+                <span>・<a href="https://developershirai.com/portfolio1/portfolio1.html">TEST PAGE</a> 更新</span>
+              <div class="info-children">HTML/CSS、JavaScript、jQuery利用。
+              </div>
+                </span>
+              </div>
+
               <li>2021年02月18日</li>
               <div class="info-children">
                 <span>・<a href="gallery.php">PHOTO</a> lightGallery更新</span>
-                  <div class="info-children">jQuery/CSS利用、lightGallery-all.js/CSS追加。
-                  </div>
+                <div class="info-children">jQuery/CSS利用、lightGallery-all.js/CSS追加。
+                </div>
                 </span>
               </div>
 
               <li>2021年02月17日</li>
               <div class="info-children">
                 <span>・<a href="gallery.php">PHOTO</a> 更新</span>
-                  <div class="info-children">PHP(while文)/CSS(flex/flex-wrap/justify-content)利用。
-                  </div>
+                <div class="info-children">PHP(while文)/CSS(flex/flex-wrap/justify-content)利用。
+                </div>
                 </span>
               </div>
 
@@ -388,7 +396,7 @@
             <div class="box3" id="target4">🍖</div>
             <div class="box3" id="target5">🥗</div>
           </div>
-          
+
           <div id="countdown"></div>
           <div class="pushbtn">
             <p id="avocado"></p>
@@ -402,7 +410,7 @@
               <a id="count" class="startbtn" onclick="setTimeout('countDown()',0.1);">PUSH</a>
             </div>
           </div>
-          
+
           <div id="judgment"></div>
           <div id="number">
             <p id="avocado"></p>
@@ -413,7 +421,9 @@
               <em4>※正負/偶数奇数の判定です。</em4>
             </p>
             <form action="work.php#judgment" method="post">
-              <p><input type="number" name="num" placeholder="数字を入力してください" value="<?php if( !empty($_POST['num']) ){ echo $_POST['num']; } ?>"></p>
+              <p><input type="number" name="num" placeholder="数字を入力してください" value="<?php if (!empty($_POST['num'])) {
+                                                                                    echo $_POST['num'];
+                                                                                  } ?>"></p>
 
               <div id="submitAria">
                 <input type="submit" value="判定" class="submitButton">

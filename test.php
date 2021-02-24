@@ -6,8 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name=”robots” content=”index”>
-    <meta name="description"
-      content="長野県出身、元美容師/イベントオーガナイザーのしらひゅー(白井　飛友馬)が、WEB制作・デザイン・開発などのプログラミング言語(PHP/Java/JSP/Servlet/HTML/CSS/JavaScriptなど)や英語(TOEIC・日常英会話)、投資、アボカド栽培などを学ぶために作成したWEBサイトです。ここは、Javaなどプログラミングを学ぶページです。特に面白味はないです。" />
+    <meta name="description" content="長野県出身、元美容師/イベントオーガナイザーのしらひゅー(白井　飛友馬)が、WEB制作・デザイン・開発などのプログラミング言語(PHP/Java/JSP/Servlet/HTML/CSS/JavaScriptなど)や英語(TOEIC・日常英会話)、投資、アボカド栽培などを学ぶために作成したWEBサイトです。ここは、Javaなどプログラミングを学ぶページです。特に面白味はないです。" />
     <meta name="keywords" content="プログラミング,フレームワーク,HTML/CSS,Bootstrap">
 
     <title>しらひゅーのわくわくスタディ For TEST</title>
@@ -43,14 +42,14 @@
       }
     </style>
     <script>
-      document.addEventListener('DOMContentLoaded', function () {
-        $('button').on('click', function () {
+      document.addEventListener('DOMContentLoaded', function() {
+        $('button').on('click', function() {
           $(this)
             .find('.fa')
             .toggleClass('fa-angle-down')
             .toggleClass('fa-angle-right');
         });
-        $('button.hanzawa').on('click', function () {
+        $('button.hanzawa').on('click', function() {
           $('.naoki').toggleClass('open').toggleClass('close');
         });
 
@@ -64,9 +63,8 @@
     <header>
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
         <div class="container-sm">
-          <a class="navbar-brand" href="#">しらひゅーのわくわくスタディ Bootstrap</a>
-          <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#Navber"
-            aria-controls="Navber" aria-expanded="false" aria-label="ナビゲーションの切替">
+          <a class="navbar-brand" href="#">しらひゅーのわくわくスタディ</a>
+          <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#Navber" aria-controls="Navber" aria-expanded="false" aria-label="ナビゲーションの切替">
             <span class="navbar-toggler-icon"></span>
           </button>
 
@@ -79,11 +77,12 @@
                 <a class="nav-link" href="aboutsite.php">ABOUT</a>
               </li>
               <li class="nav-item dropdown">
-                <a href="#" class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown"
-                  aria-haspopup="true" aria-expanded="false">
+                <a href="#" class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   MENU
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="../portfolio1/portfolio1.html">ポートフォリオ1へ</a>
+                  <a class="dropdown-item" href="../portfolio/portfolio2.php">ポートフォリオ2へ</a>
                   <a class="dropdown-item" href="jspractice/nekochan.php">ねこちゃんSOS</a>
                   <a class="dropdown-item" href="jspractice/omikuji.php">ねこちゃんおみくじ</a>
                   <a class="dropdown-item" href="puyo2/www/puyoforlaptop.php">ありあり(TEST)</a>
@@ -96,8 +95,7 @@
               </li>
             </ul>
             <form class="form-inline my-2 my-lg-0">
-              <input type="search" class="form-control form-control-sm mr-sm-2" placeholder="search..."
-                aria-label="seach...">
+              <input type="search" class="form-control form-control-sm mr-sm-2" placeholder="search..." aria-label="seach...">
               <button type="submit" class="btn btn-outline-info btn-sm my-2 my-sm-0">SEARCH</button>
             </form>
           </div><!-- /.navbar-collapse -->
