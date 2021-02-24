@@ -570,7 +570,9 @@ button a.link {
 	color: rgb(136, 136, 136);
 }
 
-
+p#description{
+	margin: 15px;
+}
 
 .btn {
 	padding-bottom: 50px;
