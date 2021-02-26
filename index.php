@@ -104,6 +104,9 @@
                             <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
                             <li>2021年02月26日</li>
+                            <div class="info-children"><span> <a href="https://developershirai.com/portfolio1/portfolio1.html">TEST PAGE</a> 更新</span></div>
+
+                            <li>2021年02月26日</li>
                             <div class="info-children">
                             <span><a href="smt.php"> スマート投資</a> 更新</span></div>
 
