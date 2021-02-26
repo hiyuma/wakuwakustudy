@@ -103,6 +103,10 @@
 
                             <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+                            <li>2021年02月26日</li>
+                            <div class="info-children">
+                            <span><a href="smt.php"> スマート投資</a> 更新</span></div>
+
                             <li>2021年02月24日</li>
                             <div class="info-children"><span> <a href="https://developershirai.com/portfolio1/portfolio1.html">TEST PAGE ( HTML/CSS,JavaScript,jQuery )</a> 更新</span></div>
 
@@ -886,6 +890,28 @@
                                           href="" target="blank" rel="noopener">
                                           </a></li>
                                    <hr> -->
+                                   2021年02月26日
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG264MV0W1A220C2000000/" target="blank" rel="noopener">
+                                          東京都、新たに270人感染　新型コロナ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQOGD260TI0W1A220C2000000/" target="blank" rel="noopener">
+                                          日経平均急落、終値1202円安　4年8カ月ぶり下げ幅</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODE260IG0W1A220C2000000/" target="blank" rel="noopener">
+                                          緊急事態宣言、首都圏除く6府県で月末解除へ　政府方針</a></li>
+                                   <hr>
+                                   2021年02月25日
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG2568H0V20C21A2000000/" target="blank" rel="noopener">
+                                          東京都、新たに340人感染　新型コロナ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQOFK174FJ0X10C21A2000000/" target="blank" rel="noopener">
+                                          COCOAバグ放置　繰り返された「丸投げ」の実態</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQOGN250DP0V20C21A2000000/" target="blank" rel="noopener">
+                                          モデルナ、日本向けワクチン「計画通り」　6月4000万回</a></li>
+                                   <hr>
                                    2021年02月24日
                                    <li><i class="far fa-file-alt"></i><a
                                           href="https://www.nikkei.com/article/DGXZQODG242D70U1A220C2000000/" target="blank" rel="noopener">

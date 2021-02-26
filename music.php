@@ -472,8 +472,18 @@
           </div>
           <hr> -->
 
-          <!-- <div id="20210226"></div>
-          <!- She (feat. Barney Artist) [Mixed] / El Train ->
+          
+
+
+         
+
+         
+
+
+        <h2>今日の1曲<i class="fas fa-music"></i></h2>
+
+        <div id="20210226"></div>
+          <!-- <!- She (feat. Barney Artist) [Mixed] / El Train -> -->
           <div>
             <p><small> 2021年02月26日</small></p>
             <h4>She (feat. Barney Artist) [Mixed] / El Train<i class="fas fa-headphones-alt"></i></h4>
@@ -488,11 +498,19 @@
             </em2>
             <br><br>
           </div>
-          <hr> -->
+          <hr>
+        
+      
+        
+        <div class="accbox">
+          今日までの1曲<i class="fas fa-music"></i><br>
+          <input type="checkbox" id="select-music" class="cssacc" />
+          <label for="select-music">OPEN</label>
 
+          <div class="accshow">
 
-          <!-- <div id="20210225"></div>
-          <!- Moon / maeshima soshi ->
+          <div id="20210225"></div>
+          <!-- <!- Moon / maeshima soshi -> -->
           <div>
             <p><small> 2021年02月25日</small></p>
             <h4>Moon / maeshima soshi<i class="fas fa-headphones-alt"></i></h4>
@@ -507,14 +525,9 @@
             </em2>
             <br><br>
           </div>
-          <hr> -->
+          <hr>
 
-         
-
-
-        <h2>今日の1曲<i class="fas fa-music"></i></h2>
-
-        <div id="20210224"></div>
+          <div id="20210224"></div>
           <!-- <!- AKIRA SENTIMENTAL / Last Electro -> -->
           <div>
             <p><small> 2021年02月24日</small></p>
@@ -531,18 +544,6 @@
             <br><br>
           </div>
           <hr>
-
-       
-         
-
-        
-        
-        <div class="accbox">
-          今日までの1曲<i class="fas fa-music"></i><br>
-          <input type="checkbox" id="select-music" class="cssacc" />
-          <label for="select-music">OPEN</label>
-
-          <div class="accshow">
 
           <div id="20210223"></div>
           <!-- <!- Get Creative / lau.ra & Nova -> -->
