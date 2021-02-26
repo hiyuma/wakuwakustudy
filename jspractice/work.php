@@ -56,7 +56,7 @@
 
           <p>・「ねこちゃんおみくじ」は<a href="https://developershirai.com/jspractice/omikuji.php" target="blank">こちら</a><i class="fas fa-paw"></i></p>
 
-          <p>・おためしチャレンジページは<a href="https://developershirai.com/portfolio1/portfolio1.html">こちら</a><i class="fas fa-laptop-code"></i></p>
+          <p>・おためしチャレンジページ（BootStrap / JavaScript）は<a href="https://developershirai.com/portfolio1/portfolio1.html">こちら</a><i class="fas fa-laptop-code"></i></p>
 
           <p>・JavaScript練習用ページ「ありあり」は<a href="../puyo2/www/puyoforlaptop.php" target="blank">こちら</a><i class="fas fa-gamepad"></i></p>
           <br>
