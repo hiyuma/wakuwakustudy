@@ -2,33 +2,49 @@ body {
   margin: 0;
 }
 
+body:before {
+  min-width: 320px;
+  content: "";
+  display: block;
+  background: linear-gradient(45deg, rgba(255, 255, 255, 0.4), rgba(96, 150, 251, 0.4), rgba(255, 123, 123, 0.4));
+  line-height: 1.8em;
+  color: #383838;
+  background-size: cover;
+}
+
 a {
   text-decoration: none;
 }
 
 .top-wrapper {
-  padding: 180px 0 100px 0;
-  background-image: url(../gallery/top/techtop\ \(2\).jpg);
-  background-size: cover;
+  padding: 100px 0 50px 0;
+  background-image: url(../gallery/top/techtop-s.png);
+  background-color: rgba(255, 212, 212, 0.8);
+  background-blend-mode: lighten;
+  background-size:cover;
   color: white;
   text-align: center;
 }
 
-.container-br {
-  width: 1170px;
+.container {
+  width: 95%;
   padding: 0 15px;
   margin: 0 auto;
 }
-.container-br img{
-  width: 200px;
-  height: 200px;
-  opacity: 0.8;
+
+.container img {
+  width: 100%;
+  height: 100%;
+  opacity: 0.6;
 }
 
 .top-wrapper h1 {
   opacity: 0.7;
   font-size: 45px;
+  font-weight: bold;
   letter-spacing: 5px;
+  overflow-wrap: break-word;
+  text-shadow: 3px 3px 3px #929292;
 }
 
 .top-wrapper p {
@@ -39,16 +55,21 @@ a {
 }
 
 .signup {
-  background-color: #239b76;
+  background-color: #6fffd4;
+  margin-bottom: 20px;
+  box-shadow: 0px 1px 10px #1a7940;
 }
 
 .facebook {
   background-color: #3b5998;
-  margin-right: 10px;
+  margin-bottom: 30px;
+  box-shadow: 0px 1px 10px #1a3879;
 }
 
 .twitter {
   background-color: #55acee;
+  margin-bottom: 30px;
+  box-shadow: 0px 1px 10px #1a4679;
 }
 
 .btn {
@@ -68,50 +89,53 @@ a {
 }
 
 header {
-  height: 65px;
+  height: 50px;
   width: 100%;
-  background-color: rgba(34,49,52,0.9);
-  position :fixed;
+  background-color: rgba(87, 101, 104, 0.9);
+  position: fixed;
   top: 0;
   z-index: 10;
 }
 
-img.logo {
-  margin: 0;
-  width: 40px;
-  height: 60px;
-  opacity: 0.9;
+.header-left img.logo {
+  margin: 0 5px 5px 0;
+  width: 28px;
+  height: 30px;
+  opacity: 1;
 }
-img.footerlogo{
+
+img.footerlogo {
   margin: 0;
-  width: 45px;
-  height: 65px;
-  opacity: 0.9;
+  width: 35px;
+  height: 40px;
 }
-#header{
+
+#header {
   color: #ccc;
-  line-height: 65px;
+  line-height: 50px;
   font-weight: bold;
   font-size: small;
 }
+
 .header-left {
   float: left;
-  margin-right: 60px;
-  line-height: 65px;
+  padding-left: 0;
+  margin-right: 5px;
+  line-height: 50px;
 }
 
 .header-right {
   float: right;
-  background-color: rgba(255,255,255,0.3);
+  background-color: rgba(255, 255, 255, 0.3);
   transition: all 0.5s;
 }
 
 .header-right:hover {
-  background-color: rgba(255,255,255,0.5);
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 .header-right .login {
-  line-height: 65px;
+  line-height: 50px;
   padding: 0 25px;
   color: white;
   cursor: pointer;
@@ -119,6 +143,7 @@ img.footerlogo{
 }
 
 /*モーダル*/
+
 .signup-modal-wrapper {
   display: none;
   position: fixed;
@@ -126,26 +151,27 @@ img.footerlogo{
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(80, 80, 80, 0.6);
   z-index: 100;
 }
 
 .modal {
+  display: block;
   position: absolute;
   top: 20%;
-  left: 34%;
+  left: 10%;
   background-color: #e6ecf0;
   padding: 20px 0 40px;
   border-radius: 10px;
-  width: 450px;
+  width: 80%;
   height: auto;
   text-align: center;
 }
 
 .fa-times {
   position: absolute;
-  top: 12px;
-  right: 12px;
+  top: 10px;
+  right: 10px;
   color: rgba(128, 128, 128, 0.46);
   cursor: pointer;
 }
@@ -156,12 +182,14 @@ img.footerlogo{
 
 #signup-form h2 {
   color: #5f5d60;
+  font-size: 16px;
   letter-spacing: 1px;
   margin-bottom: 40px;
 }
 
 #signup-form input {
-  width: 320px;
+  width: 80%;
+  margin: 0 auto;
   margin-bottom: 20px;
   font-size: 12px;
   padding: 12px 12px;
@@ -171,17 +199,18 @@ img.footerlogo{
 
 #submit-btn {
   display: inline-block;
-  padding: 14px 140px;
-  background-color: #5dca88;
+  padding: 7px 25px;
+  background-color: #6fffd4;
   border: none;
   border-radius: 3px;
   color: white;
   margin: 10px auto;
   cursor: pointer;
+  box-shadow: 0px 1px 10px #1a7940;
 }
 
 .lesson-wrapper {
-  height: 500px;
+  height: 290px;
   padding-bottom: 80px;
   background-color: #f7f7f7;
   text-align: center;
@@ -191,6 +220,7 @@ img.footerlogo{
   padding-top: 60px;
   padding-bottom: 30px;
   color: #5f5d60;
+  
 }
 
 .heading h2 {
@@ -235,17 +265,17 @@ img.footerlogo{
 }
 
 #faq-list {
-  width: 500px;
+  width: 95%;
   margin: 0 auto;
   padding: 0;
   list-style: none;
 }
 
 .faq-list-item {
-  margin:10px;
-  border-bottom:1px solid #ccc;
-  position:relative;
-  cursor:pointer;
+  margin: 10px;
+  border-bottom: 1px solid #ccc;
+  position: relative;
+  cursor: pointer;
   text-align: left;
 }
 
@@ -254,21 +284,25 @@ img.footerlogo{
 }
 
 .faq-list-item span {
-  position:absolute;
-  top:0;
-  right:5px;
-  color:rgb(184, 184, 184);
-  font-size:14px;
+  position: absolute;
+  top: 0;
+  right: 5px;
+  color: rgb(184, 184, 184);
+  font-size: 14px;
 }
 
 .answer {
   font-size: 14px;
   padding: 5px 0px;
   margin-bottom: 15px;
-  display:none;
+  display: none;
 }
-.answer-open{
-  display:block;
+p.answer-p{
+  font-size: 12px;
+}
+
+.answer-open {
+  display: block;
 }
 
 .message-wrapper {
@@ -283,9 +317,9 @@ img.footerlogo{
 
 .message {
   padding: 15px 40px;
-  background-color: #5dca88;
+  background-color: #6fffd4;
   cursor: pointer;
-  box-shadow: 0px 7px #1a7940;
+  box-shadow: 0px 1px 10px #1a7940;
 }
 
 .message:active {
@@ -305,4 +339,107 @@ footer p {
 
 footer {
   padding-top: 30px;
+}
+
+@media screen and (min-width: 600px) {
+  header {
+    height: 65px;
+    width: 100%;
+  }
+  .header-left {
+    line-height: 65px;
+  }
+  .header-right {
+    line-height: 65px;
+  }
+  .header-right .login{
+    line-height: 65px;
+  }
+  img.footerlogo {
+    margin: 0;
+    width: 40px;
+    height: 45px;
+    opacity: 0.9;
+  }
+  .header-left img.logo {
+    width: 35px;
+    height: 40px;
+    margin-bottom: 5px;
+  }
+  
+  
+  #header {
+    line-height: 65px;
+  }
+  
+  .top-wrapper {
+    padding: 180px 0 100px 0;
+    background-image: url(../gallery/top/techtop-m.png);
+    background-size:cover;
+  }
+  .lesson-wrapper {
+    height: 500px;
+  }
+  .header-left {
+    float: left;
+    margin-right: 60px;
+    line-height: 65px;
+  }
+  .signup {
+    background-color: #6fffd4;
+  }
+  .facebook {
+    background-color: #46629e;
+    margin-right: 30px;
+  }
+  .twitter {
+    background-color: #60b4f5;
+  }
+  #faq-list {
+    width: 50%;
+  }
+
+  .modal {
+    width: 40%;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+  }
+
+  #signup-form h2 {
+    color: #5f5d60;
+    font-size: 20px;
+    letter-spacing: 1px;
+    margin-bottom: 40px;
+  }
+  
+  #signup-form input {
+    width: 75%;
+  }
+  
+  #submit-btn {
+    margin-top: 20px;
+    padding: 13px 35px;
+  }
+  .fa-times {
+    position: absolute;
+    top: 14px;
+    right: 14px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .top-wrapper {
+    background-image: url(../gallery/top/techtop-l.png);
+  }
+  .modal {
+    width: 28%;
+    position: absolute;
+    top: 20%;
+    left: 36%;
+  }
+  #submit-btn {
+    margin-top: 30px;
+    padding: 14px 40px;
+  }
+
 }
