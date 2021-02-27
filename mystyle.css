@@ -1114,6 +1114,7 @@ ul.news {
 	width: auto;
 	height: 400px;
 	overflow-y: scroll;
+	margin-bottom: 0;
 }
 
 ul.news li {
