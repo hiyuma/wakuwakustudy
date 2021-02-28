@@ -55,6 +55,7 @@
           <!-- list -->
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li><a href="#20210228"> 2021年02月28日　「月が綺麗ですね」</a></li>
               <li><a href="#20210212"> 2021年02月12日　「至便」</a></li>
               <li><a href="#20210131"> 2021年01月31日　「消息」</a></li>
               <li><a href="#20210113"> 2021年01月13日　「理を料る」</a></li>
@@ -98,6 +99,157 @@
         <p>Move to this first article<a href="#first"><span class="material-icons">south</span></a></p>
 
 
+        <!-- テンプレ <div id="202102XX"></div>
+        <br>
+        <p id="avocado"><strong>　2021年0X月XX日 「」</strong></p>
+        <div class="accbox">
+          <input type="checkbox" id="XXX" class="cssacc" />
+
+          <label for="XXX"><span><i class="fas fa-book"></i>READ</span></label>
+          <div class="accshow">
+            <p><img src="gallery/diary" alt=""></p>
+            
+            <em3>写真：</em3>
+            <p>
+            <br><br>
+            </p>
+            <br><br>
+          </div>
+        </div> -->
+
+        <div id="20210228"></div>
+        <br>
+        <p id="avocado"><strong>　2021年02月28日 「月が綺麗ですね」</strong></p>
+        <div class="accbox">
+          <input type="checkbox" id="月が綺麗ですね" class="cssacc" />
+
+          <label for="月が綺麗ですね"><span><i class="fas fa-book"></i>READ</span></label>
+          <div class="accshow">
+            <p><img src="gallery/diary/diary20210228/diary20210228SnowMoon.jpg" alt=""></p>
+            
+            <em3>写真：2月27日夜の満月</em3>
+            <p>iPhoneSE2で撮影しました。
+              <br><br>
+              ここで、いつかの日記に満月をキレイに撮影したいから、方法を調べるなんてことを書いてた気がします。
+              <p><img src="gallery/diary/diary20210228/4in1 スマホ用カメラレンズ (1).jpg" alt=""></p>
+              <p><img src="gallery/diary/diary20210228/4in1 スマホ用カメラレンズ (2).jpg" alt=""></p>
+              <em3>写真：<a href="https://amzn.to/3pZCxiA">スマホ用22倍望遠レンズ4点セット</a></em3>
+              <br><br>
+              いつだったか、思い出せないほどに遅くなったけれど、今更、買いました。
+              <p><img src="gallery/diary/diary20210228/4in1 スマホ用カメラレンズ.jpg" alt=""></p>
+              25倍のマイクロレンズと、235°の魚眼レンズと、0.62倍の広角レンズ、脚立付きです。
+              <br><br>
+              素材感とかも安っぽくなくて約3000円とはコスパよきです。
+              
+              <p><img src="gallery/diary/diary20210228/4in1 スマホ用カメラレンズ (3).jpg" alt=""></p>
+              <em3>写真：広角レンズ</em3>
+              <p><img src="gallery/diary/diary20210228/4in1 スマホ用カメラレンズ (4).jpg" alt=""></p>
+              <em3>写真：広角レンズなし</em3>
+              <p><img src="gallery/diary/diary20210228/4in1 スマホ用カメラレンズ (5).jpg" alt=""></p>
+              <em3>写真：うちのアボカド新葉</em3>
+              <p><img src="gallery/diary/diary20210228/4in1 スマホ用カメラレンズ (7).jpg" alt=""></p>
+              <em3>写真：うちのアボカド葉脈</em3>
+              <p><img src="gallery/diary/diary20210228/4in1 スマホ用カメラレンズ (6).jpg" alt=""></p>
+              <em3>写真：魚眼レンズ</em3>
+              <br><br>
+              <a href="https://amzn.to/3pZCxiA">スマホ用22倍望遠レンズ4点セット</a>。よきよきな買い物ができました。
+              <br><br>
+              ところで...。
+              <br><br>
+              2月の満月を”Snow Moon”と呼ぶなんて初耳でした。
+              <br><br>
+              友人から入った情報で知ったのですが、調べてみるとアメリカで呼ばれているそうです。
+              <br><br>
+              Twitterでも、スノームーンの話題を見かけました。
+              <br><br>
+              「寒さが厳しく、大地の多くが雪に覆われる季節」だからとのこと。
+              <br><br>
+              他の月は、どのような呼び方をしてるのか調べてみました。
+            <table id="techdiary">
+              <tr>
+                <th>月</th>
+                <th>英語</th>
+                <th>日本語</th>
+              </tr>
+              <tr>
+                <td>1月</td>
+                <td>Wolf Moon</td>
+                <td>狼月</td>
+              </tr>
+              <tr>
+                <td>2月</td>
+                <td>Snow Moon</td>
+                <td>雪月</td>
+              </tr>
+              <tr>
+                <td>3月</td>
+                <td>Worm Moon</td>
+                <td>芋虫月</td>
+              </tr>
+              <tr>
+                <td>4月</td>
+                <td>Pink Moon</td>
+                <td>桃色月</td>
+              </tr>
+              <tr>
+                <td>5月</td>
+                <td>Flower Moon</td>
+                <td>花月</td>
+              </tr>
+              <tr>
+                <td>6月</td>
+                <td>Strawberry Moon</td>
+                <td>苺月</td>
+              </tr>
+              <tr>
+                <td>7月</td>
+                <td>Buck Moon</td>
+                <td>男鹿月</td>
+              </tr>
+              <tr>
+                <td>8月</td>
+                <td>Sturgeon Moon</td>
+                <td>チョウザメ月</td>
+              </tr>
+              <tr>
+                <td>9月</td>
+                <td>Harvest Moon</td>
+                <td>収穫月</td>
+              </tr>
+              <tr>
+                <td>10月</td>
+                <td>Hunter's Moon</td>
+                <td>狩猟月</td>
+              </tr>
+              <tr>
+                <td>11月</td>
+                <td>Beaver Moon</td>
+                <td>ビーバー月</td>
+              </tr>
+              <tr>
+                <td>12月</td>
+                <td>Cold Moon</td>
+                <td>寒月</td>
+              </tr>
+            </table>
+              うん、ツッコみどころがあります。
+              <br><br>
+              アメリカの先住民は季節を把握するために名付けたようなので、ネーミングに納得です。
+              <br><br>
+              日本にも、古来から伝わる呼び方は多々ありますよね。
+              <br><br>
+              昔の風習や環境を思い浮かべられます。
+              <br><br>
+              満月がきれいに見えるようになって、とっても満足です。
+              <br><br>
+            </p>
+            <br><br>
+
+
+          </div>
+        </div>
+
+
         <div id="20210212"></div>
         <br>
         <p id="avocado"><strong>　2021年02月12日 「至便」</strong></p>
@@ -111,16 +263,16 @@
             <em3>写真：シリコンスチーマー</em3>
             <br><br>
             <p>話題のメトレフランセの<a href="https://amzn.to/376xYwg">シリコンスチーマー</a>を購入しました。
-            <br><br>
-            調理器具としては、ここ数年で最も感動しました。
-            <br><br>
-            既に10回以上は使っていますが、とっても便利で丈夫、使いやすいです。
-            <br><br>
-            この冬の時期は、やはり鍋が美味しいです。
-            <br><br>
-            このシリコンスチーマーは、電子レンジもオーブン使用もできてしまい、食洗器もOK、冷凍庫での保存もできてしまう優れモノです。
-            <br><br>
-            さっそく、豚キムチ鍋を作ってみました。
+              <br><br>
+              調理器具としては、ここ数年で最も感動しました。
+              <br><br>
+              既に10回以上は使っていますが、とっても便利で丈夫、使いやすいです。
+              <br><br>
+              この冬の時期は、やはり鍋が美味しいです。
+              <br><br>
+              このシリコンスチーマーは、電子レンジもオーブン使用もできてしまい、食洗器もOK、冷凍庫での保存もできてしまう優れモノです。
+              <br><br>
+              さっそく、豚キムチ鍋を作ってみました。
             <p><img src="gallery/diary/シリコンスチーマー (7).jpg" alt="豚キムチ鍋"></p>
             それとコンソメトマト鍋うどんも作りました。
             <p><img src="gallery/diary/シリコンスチーマー (6).jpg" alt="トマト鍋"></p>
@@ -178,60 +330,60 @@
             <em3>写真：Moufidaちゃんからのお手紙（2枚目：1枚目の翻訳）</em3>
             <br><br>
             <p>Moufidaちゃんから、2回目のお手紙が届きました。
-            <br><br>
-            誰？と思った方は、よろしければ、<a href="https://developershirai.com/diary.php#20200718">こちら</a>をご覧くださいませ。
-            <br><br>
-            Moufidaちゃんお米が好きなのですね。
-            <br><br>
-            お米はトーゴ産なのでしょうか。
-            <br><br>
-            早速、お返事を送りました。
-            <br><br>
-            長い文章だと削られるようなので、説明などをある程度省きました。
-            <br><br>
-            好きな食べ物の質問には、お米とポテトサラダが好きだと書き、作ったポテトサラダの写真を添付しておきました。
-            <br><br>
-            今知りましたが、マイページなどから自分が送った手紙の内容確認できないのですね。
-            <br><br>
-            さて、話は変わります。
-            <br><br>
-            残念ながら、トーゴでも、徐々に新型コロナウイルス感染拡大しているようです。
-            <br><br>
-            とはいえ、現在の新規感染者が50人前後とのことです。
-            <br><br>
-            日本に比べると圧倒的に少ないですが、増加傾向です。
-            <br><br>
-            それ故に、かなり心配をしていましたが、お手紙が届いたことで少しホッとしました。
-            <br><br>
-            アフリカでは、早めに変異ウイルスが確認されているため、急拡大していかないかと心配しています。
-            <br><br>
-            トーゴでは、医療設備も整っていないとのことです。
-            <br><br>
-            日本は、整っていると思えますが、連携が上手く取れておらず、何をするにも非効率で、後手に回っている印象です。
-            <br><br>
-            慎重さが良い場合もありますが、感染症に関しては先手を取りたいところですよね。
-            <br><br>
-            さらに、強制力のない緊急事態宣言では、効果も薄い様子です。
-            <br><br>
-            本日の東京都新規感染者数は、”633”人でした。
-            <br><br>
-            連日1000人以下となっているも、緊急事態宣言下では一度も500人以下になっていません。           
-            <br><br>
-            家族のいる長野県、北海道も感染者が減少傾向であるため、このまま東京が減少し、収まることを祈りつつ、自粛生活を継続していきます。
-            <br><br>
-            この様なご時世だからこそ、連絡さえ取れれば、会えなくても生きているんだなと、安心することがあります。
-            <br><br>
-            2021年に入ってからサイドワーク、勉強と、より忙しく過ごしていますが、やはり外出はしたいものです。
-            <br><br>
-            友人らとの話では、行きたい場所がたくさんあります。
-            <br><br>
-            せめて、緊急事態宣言が解除されるまでは不要不急の外出をしません。
-            <br><br>
-            感染対策をしっかりしておけば良いって思っていたら、それは違います。
-            <br><br>
-            完全な感染対策は1人ではできません。
-            <br><br>
-            命には変えられません、力を合わせて乗り越えましょう。
+              <br><br>
+              誰？と思った方は、よろしければ、<a href="https://developershirai.com/diary.php#20200718">こちら</a>をご覧くださいませ。
+              <br><br>
+              Moufidaちゃんお米が好きなのですね。
+              <br><br>
+              お米はトーゴ産なのでしょうか。
+              <br><br>
+              早速、お返事を送りました。
+              <br><br>
+              長い文章だと削られるようなので、説明などをある程度省きました。
+              <br><br>
+              好きな食べ物の質問には、お米とポテトサラダが好きだと書き、作ったポテトサラダの写真を添付しておきました。
+              <br><br>
+              今知りましたが、マイページなどから自分が送った手紙の内容確認できないのですね。
+              <br><br>
+              さて、話は変わります。
+              <br><br>
+              残念ながら、トーゴでも、徐々に新型コロナウイルス感染拡大しているようです。
+              <br><br>
+              とはいえ、現在の新規感染者が50人前後とのことです。
+              <br><br>
+              日本に比べると圧倒的に少ないですが、増加傾向です。
+              <br><br>
+              それ故に、かなり心配をしていましたが、お手紙が届いたことで少しホッとしました。
+              <br><br>
+              アフリカでは、早めに変異ウイルスが確認されているため、急拡大していかないかと心配しています。
+              <br><br>
+              トーゴでは、医療設備も整っていないとのことです。
+              <br><br>
+              日本は、整っていると思えますが、連携が上手く取れておらず、何をするにも非効率で、後手に回っている印象です。
+              <br><br>
+              慎重さが良い場合もありますが、感染症に関しては先手を取りたいところですよね。
+              <br><br>
+              さらに、強制力のない緊急事態宣言では、効果も薄い様子です。
+              <br><br>
+              本日の東京都新規感染者数は、”633”人でした。
+              <br><br>
+              連日1000人以下となっているも、緊急事態宣言下では一度も500人以下になっていません。
+              <br><br>
+              家族のいる長野県、北海道も感染者が減少傾向であるため、このまま東京が減少し、収まることを祈りつつ、自粛生活を継続していきます。
+              <br><br>
+              この様なご時世だからこそ、連絡さえ取れれば、会えなくても生きているんだなと、安心することがあります。
+              <br><br>
+              2021年に入ってからサイドワーク、勉強と、より忙しく過ごしていますが、やはり外出はしたいものです。
+              <br><br>
+              友人らとの話では、行きたい場所がたくさんあります。
+              <br><br>
+              せめて、緊急事態宣言が解除されるまでは不要不急の外出をしません。
+              <br><br>
+              感染対策をしっかりしておけば良いって思っていたら、それは違います。
+              <br><br>
+              完全な感染対策は1人ではできません。
+              <br><br>
+              命には変えられません、力を合わせて乗り越えましょう。
             </p><br><br>
           </div>
         </div>
@@ -1589,19 +1741,24 @@
           <br>
       </section>
 
-          <?php include('parts/contents.php'); ?>
+      <?php include('parts/contents.php'); ?>
 
     </div>
 
 
     <div id="aside">
-    <?php include('parts/prof.php'); ?>
+      <?php include('parts/prof.php'); ?>
 
 
       <div id="widget3" class="diary-relations">
         <p>
           <em4><i class="fab fa-amazon"></i>　DIARY RELATIONS</em4>
         </p>
+
+        <hr>
+        <p>02月28日</p>
+        <iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B0859DBY1P&linkId=f78ec4210f1d3d7911b86845d1331485&bc1=ffdede&amp;lt1=_blank&fc1=ffffff&lc1=ffffff&bg1=ffdede&f=ifr">
+        </iframe>
 
         <hr>
         <p>01月13日</p>
