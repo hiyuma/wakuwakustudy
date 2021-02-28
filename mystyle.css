@@ -1,7 +1,7 @@
 ﻿body {
 	margin: 0;
 	padding: 85px 0 30px;
-	color: #383838;
+	color: #424242;
 	font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "BIZ UDPGothic", Meiryo, sans-serif;
 }
 
@@ -1235,16 +1235,18 @@ section#techsection{
 }
 
 section#techsection img{
-	border: 5px solid #e6e6e6;
+	border: 0px 1px 5px solid #e6e6e6;
 	max-width: 100%;
+	box-shadow: 0px 1px 10px #b3b3b3;
 }
 section#techsection .accshow img{
-	border: 5px solid #e6e6e6;
+	border: 5px solid #e7e6e6;
 	max-width: 100%;
 }
 section#techsection p img#top-img{
 	min-width: 100%;
-	border:none
+	border:none;
+	box-shadow:none;
 }
 section#techsection .accshow a{
 	color: rgb(100, 100, 100);
@@ -1256,15 +1258,19 @@ section#techsection h2{
 	font-size: 1.2rem;
 	color: #868686;
 	letter-spacing: 2px;
+	text-shadow: 1px 1px 3px #b1b1b1;
 }
 section#techsection h3{
-	margin-top: 30px;
+	margin-top: 40px;
+	padding-bottom: 5px;
 	color: #838383;
 	border-bottom: solid 1px #9c9c9c;
 	letter-spacing: 2px;
+	text-indent: 1em;
+	text-shadow: 1px 1px 3px #b1b1b1;
 }
 section#techsection h4{
-	margin-top: 20px;
+	margin-top: 30px;
 	color: #959595;
 	border-left: solid 7px #9c9c9c;
 	padding-left: 15px;
@@ -1804,7 +1810,7 @@ h2#title{
 	}
 	section#techsection img{
 		border: 5px solid #e6e6e6;
-		max-width: 50%;
+		max-width: 80%;
 	}
 }
 
