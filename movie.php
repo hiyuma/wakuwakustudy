@@ -1936,7 +1936,7 @@
   </main>
 
   <?php include('parts/footer.php'); ?>
-  <script src="js/menu.js"></script>
+  <?php include('parts/footerJs.php'); ?>
   <script src="js/closeButtonAndReadMore.js"></script>
 </body>
 

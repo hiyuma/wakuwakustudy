@@ -20,8 +20,24 @@
        <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
        <script src="https://kit.fontawesome.com/6256a7882a.js" crossorigin="anonymous"></script>
        <script src="js/jquery-3.5.1.min.js"></script>
-       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
        <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+       <script type="text/javascript">
+              $(document).ready(function() {
+                     $('.slider').bxSlider({
+                            randomStart: true,
+                            auto: true,
+                            pause: 6000,
+                     });
+              });
+              $(function() {
+                     $('a').each(function() {
+                            if ($(this).prop('href') == window.location.href) {
+                                   $(this).addClass('active');
+                                   $(this).parents('li').addClass('active');
+                            }
+                     });
+              });
+       </script>
 
 </head>
 
@@ -102,6 +118,9 @@
                      <ul class="info">
 
                             <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
+
+                            <li>2021年02月28日</li>
+                            <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（ JavaScript/jQuery ②「スクロールトップ/アニメーション」 ）</a> 更新</span></div>
 
                             <li>2021年02月26日</li>
                             <div class="info-children"><span> <a href="https://developershirai.com/portfolio1/portfolio1.html">TEST PAGE</a> 更新</span></div>
@@ -3523,26 +3542,8 @@
        </main>
 
        <?php include('parts/footer.php'); ?>
-
-       <script type="text/javascript">
-              $(document).ready(function() {
-                     $('.slider').bxSlider({
-                            randomStart: true,
-                            auto: true,
-                            pause: 6000,
-                     });
-              });
-              $(function() {
-                     $('a').each(function() {
-                            if ($(this).prop('href') == window.location.href) {
-                                   $(this).addClass('active');
-                                   $(this).parents('li').addClass('active');
-                            }
-                     });
-              });
-       </script>
-       <script src="js/menu.js"></script>
-
+       <?php include('parts/footerJs.php'); ?>
+       
 </body>
 
 </html>

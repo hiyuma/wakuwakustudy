@@ -1709,11 +1709,10 @@
 
   <?php include('parts/footer.php'); ?>
 
-
-  <script src="js/myscript.js"></script>
   <script src="js/jquery-3.5.1.min.js"></script>
+  <?php include('parts/footerJs.php'); ?>
   <script src="js/jquery.easing.1.3.js"></script>
-  <script src="js/menu.js"></script>
+  <script src="js/myscript.js"></script>
   <script src="js/href.js"></script>
   <script src="js/ReadAndClose.js"></script>
   <script src="js/cal.js"></script>

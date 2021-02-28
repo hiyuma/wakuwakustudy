@@ -1072,14 +1072,12 @@
   </main>
 
   <?php include('parts/footer.php'); ?>
-
   
-
   <script src="js/jquery-3.5.1.min.js"></script>
+  <?php include('parts/footerJs.php'); ?>
   <script src="js/lightgallery/js/lightgallery.min.js"></script>
   <script src="js/lightgallery/js/lightgallery-all.min.js"></script>
   <script src="js/lightgallery"></script>
-  <script src="js/menu.js"></script>
   <script src="js/openAndClose.js"></script>
   <script src="js/href.js"></script>
 

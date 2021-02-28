@@ -43,7 +43,7 @@
                <p>このサイトは、リモートワーク中の <a href="about.php"
                      target="blank">しらひゅー</a> が1から制作、日々更新中。
                      <br><br>
-                     2020年3月22日から独学と同時にこのサイトを制作開始。
+                     2020年3月22日から、独学開始と同時にこのサイトを制作開始。
                      <br><br>
                      WEBサイト制作・デザイン・アプリ開発などプログラミングの知識・技術をメインに習得していきます。
                   <br><br>
@@ -77,8 +77,7 @@
          </div>
       </main>
       <?php include('parts/footer.php'); ?>
-
-      <script src="js/menu.js"></script>
+      <?php include('parts/footerJs.php'); ?>
       <script src="js/href.js"></script>
 
    </body>

@@ -37,9 +37,8 @@
     <div id="btn">引く</div>
   </main>
   <?php include('../parts/footer.php'); ?>
-
+  <?php include('../parts/footerJs.php'); ?>
   <script src="js/omikuji.js"></script>
-  <script src="../js/menu.js"></script>
 </body>
 
 </html>

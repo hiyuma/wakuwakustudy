@@ -516,10 +516,9 @@
     </div>
   </main>
 
-  <footer>
-    <?php include('../parts/footer.php'); ?>
-  </footer>
-  <script src="../js/menu.js"></script>
+  <?php include('../parts/footer.php'); ?>
+  <?php include('../parts/footerJs.php'); ?>
+
   <script src="../js/href.js"></script>
   <script src="../js/numberResultShow.js"></script>
   <script src="js/count.js"></script>

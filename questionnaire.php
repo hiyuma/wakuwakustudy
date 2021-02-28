@@ -302,6 +302,7 @@
 
     });
   </script>
+  <?php include('parts/footerJs.php'); ?>
 
 
 </body>

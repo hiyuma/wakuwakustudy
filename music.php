@@ -422,8 +422,13 @@
           </div>
           <hr> -->
 
-    <!-- <div id="20210228"></div>
-          <!- Vulnerable / Midnight Pool Party ->
+    
+
+
+    <h2>今日の1曲<i class="fas fa-music"></i></h2>
+
+    <div id="20210228"></div>
+          <!-- <!- Vulnerable / Midnight Pool Party -> -->
           <div>
             <p><small> 2021年02月28日</small></p>
             <h4>Vulnerable / Midnight Pool Party<i class="fas fa-headphones-alt"></i></h4>
@@ -438,38 +443,33 @@
             </em2>
             <br><br>
           </div>
-          <hr> -->
+          <hr>
 
 
-    <h2>今日の1曲<i class="fas fa-music"></i></h2>
+        <div class="accbox">
+          今日までの1曲<i class="fas fa-music"></i><br>
+          <input type="checkbox" id="select-music" class="cssacc" />
+          <label for="select-music">OPEN</label>
 
-    <div id="20210227"></div>
-    <!-- <!- Where You Are / Jimpster, Khalil Anthony-> -->
-    <div>
-      <p><small> 2021年02月27日</small></p>
-      <h4>Where You Are / Jimpster, Khalil Anthony<i class="fas fa-headphones-alt"></i></h4>
-      <i class="far fa-file-audio file"></i><a href="https://amzn.to/2ZB54jN" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
-      <br><br>
-      <em2>
-        時間： 6:09
-        <br>
-        ジャンル： ハウス・ディープハウス
-        <br>
-        レーベル： Freerange Records
-      </em2>
-      <br><br>
-    </div>
-    <hr>
+          <div class="accshow">
 
-
-
-
-    <div class="accbox">
-      今日までの1曲<i class="fas fa-music"></i><br>
-      <input type="checkbox" id="select-music" class="cssacc" />
-      <label for="select-music">OPEN</label>
-
-      <div class="accshow">
+          <div id="20210227"></div>
+        <!-- <!- Where You Are / Jimpster, Khalil Anthony-> -->
+        <div>
+          <p><small> 2021年02月27日</small></p>
+          <h4>Where You Are / Jimpster, Khalil Anthony<i class="fas fa-headphones-alt"></i></h4>
+          <i class="far fa-file-audio file"></i><a href="https://amzn.to/2ZB54jN" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+          <br><br>
+          <em2>
+            時間： 6:09
+            <br>
+            ジャンル： ハウス・ディープハウス
+            <br>
+            レーベル： Freerange Records
+          </em2>
+          <br><br>
+        </div>
+        <hr>
 
         <div id="20210226"></div>
         <!-- <!- She (feat. Barney Artist) [Mixed] / El Train -> -->
@@ -1479,7 +1479,7 @@
   </main>
 
   <?php include('parts/footer.php'); ?>
-  <script src="js/menu.js"></script>
+  <?php include('parts/footerJs.php'); ?>
   <script src="js/openAndClose.js"></script>
 </body>
 

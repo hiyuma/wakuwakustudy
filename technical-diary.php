@@ -57,6 +57,7 @@
           <!-- list -->
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li><a href="#20210228"> 2021年02月28日 JavaScript/jQuery ②「スクロールトップ/アニメーション」</a></li>
               <li><a href="#20210221"> 2021年02月21日 JavaScript/jQuery ①「lightGalleryの使い方」</a></li>
               <li><a href="#20210218"> 2021年02月18日 PHP ③「繰り返し処理(while文)」</a></li>
               <li><a href="#20210214"> 2021年02月14日 SEO ①「サイトマップの作成と追加」</a></li>
@@ -71,19 +72,20 @@
           </div>
         </div>
 
-        <!-- id=0009 -->
-        <!-- <div id="202102XX"></div>
+        <!--テンプレート id=00XX -->
+        <!-- <div id="202103XX"></div>
         <br>
-        <p id="avocado">2021年02月XX日 <i class="fas fa-laptop-code"></i>XML</p>
+        <p id="avocado">2021年03月XX日 <i class="fas fa-laptop-code"></i>XML</p>
         <h2 id="title">「」</h2>
+        
 
         <div class="accbox">
 
           <p><img src="gallery/techimg" alt=""></p>
 
-          <input type="checkbox" id="0009" class="cssacc" />
+          <input type="checkbox" id="00XX" class="cssacc" />
 
-          <label for="0009"><span><i class="fas fa-book"></i>READ</span></label>
+          <label for="00XX"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <h3></h3>
             <p>
@@ -95,6 +97,100 @@
           </div>
         </div>
         <br> -->
+
+
+
+        <!-- id=0009 -->
+        <div id="20210228"></div>
+        <br>
+        <p id="avocado">2021年02月28日 <i class="fas fa-laptop-code"></i>jQuery</p>
+        <h2 id="title">「スクロールトップ/アニメーション」</h2>
+
+        <div class="accbox">
+
+          <p><img src="gallery/techimg/20210228/TOPbutton.jpg" alt="TOPへ戻るボタン"></p>
+
+          <input type="checkbox" id="0009" class="cssacc" />
+
+          <label for="0009"><span><i class="fas fa-book"></i>READ</span></label>
+          <div class="accshow">
+            <h3>jQuery"scrollTop"とは？</h3>
+            <p>”jQuery”は、JavaScriptを簡易な記述で利用できる多機能なライブラリです。
+              <br><br>
+              その機能の1つに”scrollTop”があります。
+              <br><br>
+              <strong><mark>”scrollTop”は、WEBサイトの座標を取得することやイベント設定などができます。</strong></mark>
+              <br><br>
+              さらに、アニメーション処理も追加できます。
+              <br><br>
+              今では、ほとんどのWEBサイトには、「Topへ戻る」や「▲」のようなページ一番上まで戻るボタンが設置されています。
+              <br><br>
+              その一番上に戻るまでに、アニメーションを加えているWEBサイトも多いです。
+              <br><br>
+              また、一番上では、「Topへ戻る」ボタンが消えて、少ししたにスクロールすると現れるようにすることもできます。
+              <br><br>
+              本サイトは、独学始めてから、すぐ右下にTOPへ戻る「▲」ボタンを設置していましたが、アニメーション効果は付けていませんでした。
+              <br><br>
+              一応、付けておいた方がユーザビリティ向上するかなと思い、今更ながらプログラムしてみました。
+            </p>
+
+            <h3>jQuery"scrollTop"の使い方は？</h3>
+
+            <p><strong><mark>"scrollTop"の基本的な使い方は、スクロール座標を、”HTML要素”を対象に取得し、引数の「値」を指定します。</strong></mark>
+            <pre class="prettyprint linenums">HTML要素.scrollTop( 値 )</pre>
+            この引数は、省略可能です。
+            <br><br>
+            省略した場合は、HTML要素の位置を取得することになります。
+            <br><br>
+            "scrollTop"記述方法は、様々あります。
+            <br><br>
+            まず、プログラムされていない場合を確認しておきます。
+            <br><br>
+            例で記述したHTMLの「For example」や「一番上へスクロール」を押すと、下の”Result”のように動作します。
+            <br>
+            <p class="codepen" data-height="303" data-theme-id="dark" data-default-tab="html,result" data-user="hiyuma" data-slug-hash="ExNEgeb" style="height: 303px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="ExNEgeb">
+              <span>See the Pen <a href="https://codepen.io/hiyuma/pen/ExNEgeb">
+                  ExNEgeb</a> by MARC JACOBS (<a href="https://codepen.io/hiyuma">@hiyuma</a>)
+                on <a href="https://codepen.io">CodePen</a>.</span>
+            </p>
+            <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+            <br>
+            瞬間移動です。これは、これですごいことだと思っています。
+            <br><br>
+            では次に、jQueryを記述して、スクロール移動を見えるようにします。
+            <br><br>
+            ”Result”で動作確認をしてみるとスクロールにアニメーションが付いているのが分かります。
+            <br>
+
+            <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="hiyuma" data-slug-hash="dyOmOaP" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Scroll Top / Animation Example">
+              <span>See the Pen <a href="https://codepen.io/hiyuma/pen/dyOmOaP">
+                  Scroll Top / Animation Example</a> by MARC JACOBS (<a href="https://codepen.io/hiyuma">@hiyuma</a>)
+                on <a href="https://codepen.io">CodePen</a>.</span>
+            </p>
+            <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+            <br>
+            アニメーション効果があった方が、”今”を生きている感じがします。(?)
+            <br><br>
+            そして、本サイトのTOPへ戻る「▲」ボタンを座標150以上(一番上から座標150まで表示させない)例を記述してみました。
+            <br>
+            <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="hiyuma" data-slug-hash="eYBMgva" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="scrollTop() example">
+              <span>See the Pen <a href="https://codepen.io/hiyuma/pen/eYBMgva">
+                  scrollTop() example</a> by MARC JACOBS (<a href="https://codepen.io/hiyuma">@hiyuma</a>)
+                on <a href="https://codepen.io">CodePen</a>.</span>
+            </p>
+            <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+            <br>
+            "scrollTop"でWEBサイトの座標を取得し、if文で条件分岐し「”座標 > 150"なら▲ボタンをフェイドインする。そうでないならフェイドアウトする」命令をしていることになります。
+            </p>
+            <h3>jQuery"scrollTop"の使い方は？</h3>
+            <p>他にもCSSで簡単にアニメーションさせられる”ScrollTrigger”や、横スクロールでイベント発生させる方法など、スクロール関連の記述は多いです。
+            <br><br>
+            ユーザビリティ向上のためにも、スクロールイベント、アニメーションを使えるようになっておきます。
+            <br><br>
+            </p>
+          </div>
+        </div>
+        <br>
 
 
         <!-- id=0008 -->
@@ -760,14 +856,13 @@ function countDown() {
     </div>
 
   </main>
-
+  
   <?php include('parts/footer.php'); ?>
-
-
+  
   <script src="js/myscript.js"></script>
   <script src="js/jquery-3.5.1.min.js"></script>
+  <?php include('parts/footerJs.php'); ?>
   <script src="js/jquery.easing.1.3.js"></script>
-  <script src="js/menu.js"></script>
   <script src="js/href.js"></script>
   <script src="js/ReadAndClose.js"></script>
   <script src="js/cal.js"></script>

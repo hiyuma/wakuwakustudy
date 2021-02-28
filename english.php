@@ -3231,8 +3231,7 @@
 			</div>
 		</main>
     <?php include('parts/footer.php'); ?>
-
-		<script src="js/menu.js"></script>
+		<?php include('parts/footerJs.php'); ?>
 	</body>
 
 </html>

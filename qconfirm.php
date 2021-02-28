@@ -302,18 +302,7 @@ table td{
 
 
   <?php include('parts/footer.php'); ?>
-
-  <script type="text/javascript">
-    $(function() {
-      $('a').each(function() {
-        if ($(this).prop('href') == window.location.href) {
-          $(this).addClass('active');
-          $(this).parents('li').addClass('active');
-        }
-      });
-    });
-  </script>
-  <script src="js/menu.js"></script>
+  <?php include('parts/footerJs.php'); ?>
 
 
 </body>
