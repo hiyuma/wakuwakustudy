@@ -893,6 +893,17 @@
                                           href="" target="blank" rel="noopener">
                                           </a></li>
                                    <hr> -->
+                                   2021年02月27日
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG271UX0X20C21A2000000/" target="blank" rel="noopener">
+                                          東京都、新たに337人感染　新型コロナ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQOFB245160U1A220C2000000/" target="blank" rel="noopener">
+                                          緊急事態宣言対象外の自治体、観光促進策の再開相次ぐ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://style.nikkei.com/article/DGXMZO68950480Z00C21A2000000" target="blank" rel="noopener">
+                                          コロナワクチン代替策で注目、モノクローナル抗体とは</a></li>
+                                   <hr>
                                    2021年02月26日
                                    <li><i class="far fa-file-alt"></i><a
                                           href="https://www.nikkei.com/article/DGXZQODG264MV0W1A220C2000000/" target="blank" rel="noopener">
