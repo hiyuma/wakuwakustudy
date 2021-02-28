@@ -120,6 +120,9 @@
                             <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
                             <li>2021年02月28日</li>
+                            <div class="info-children"><span><a href="diary.php">DIARY（月が綺麗ですね）</a> 更新</span></div>
+
+                            <li>2021年02月28日</li>
                             <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（ JavaScript/jQuery ②「スクロールトップ/アニメーション」 ）</a> 更新</span></div>
 
                             <li>2021年02月26日</li>
@@ -166,7 +169,7 @@
                             <span><a href="smt.php"> スマート投資</a> 更新</span></div>
 
                             <li>2021年02月12日</li>
-                            <div class="info-children"><span><a href="diary.php">DIARY</a> 更新</span></div>
+                            <div class="info-children"><span><a href="diary.php">DIARY（至便）</a> 更新</span></div>
 
                             <li>2021年02月10日</li>
                             <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（ソースコードの埋め込み）</a> 更新</span>
@@ -901,7 +904,7 @@
                             知っておきたいコロナワクチン接種　手順や副作用は？</a></li><br>
 
 
-                                   <!-- 2021年02月XX日
+                                   <!-- 2021年03月XX日
                                    <li><i class="far fa-file-alt"></i><a
                                           href="" target="blank" rel="noopener">
                                           </a></li>
@@ -912,6 +915,18 @@
                                           href="" target="blank" rel="noopener">
                                           </a></li>
                                    <hr> -->
+
+                                   2021年02月28日
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQODG281DA0Y1A220C2000000/" target="blank" rel="noopener">
+                                          東京都、新たに329人感染　新型コロナ</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQOFB270MB0X20C21A2000000/" target="blank" rel="noopener">
+                                          緊急事態解除の6府県、時短要請は夜9時までに緩和</a></li>
+                                   <li><i class="far fa-file-alt"></i><a
+                                          href="https://www.nikkei.com/article/DGXZQOGN2703K0X20C21A2000000/" target="blank" rel="noopener">
+                                          米で初の1回接種ワクチン承認　J&J、年10億人分供給へ</a></li>
+                                   <hr>
                                    2021年02月27日
                                    <li><i class="far fa-file-alt"></i><a
                                           href="https://www.nikkei.com/article/DGXZQODG271UX0X20C21A2000000/" target="blank" rel="noopener">
