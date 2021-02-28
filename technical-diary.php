@@ -140,6 +140,8 @@
             <pre class="prettyprint linenums">HTML要素.scrollTop( 値 )</pre>
             この引数は、省略可能です。
             <br><br>
+            値は、WEBサイトの座標で、例えば”scrollTop( 800 )”なら、座標800(ページ1番上が基準0で下へ800の場所)へスクロールさせます。
+            <br><br>
             省略した場合は、HTML要素の位置を取得することになります。
             <br><br>
             "scrollTop"記述方法は、様々あります。
@@ -147,7 +149,7 @@
             まず、プログラムされていない場合を確認しておきます。
             <br><br>
             例で記述したHTMLの「For example」や「一番上へスクロール」を押すと、下の”Result”のように動作します。
-            <br>
+            <br><br>
             <p class="codepen" data-height="303" data-theme-id="dark" data-default-tab="html,result" data-user="hiyuma" data-slug-hash="ExNEgeb" style="height: 303px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="ExNEgeb">
               <span>See the Pen <a href="https://codepen.io/hiyuma/pen/ExNEgeb">
                   ExNEgeb</a> by MARC JACOBS (<a href="https://codepen.io/hiyuma">@hiyuma</a>)
@@ -160,7 +162,7 @@
             では次に、jQueryを記述して、スクロール移動を見えるようにします。
             <br><br>
             ”Result”で動作確認をしてみるとスクロールにアニメーションが付いているのが分かります。
-            <br>
+            <br><br>
 
             <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="hiyuma" data-slug-hash="dyOmOaP" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Scroll Top / Animation Example">
               <span>See the Pen <a href="https://codepen.io/hiyuma/pen/dyOmOaP">
@@ -171,8 +173,13 @@
             <br>
             アニメーション効果があった方が、”今”を生きている感じがします。(?)
             <br><br>
+            アニメーションのスクロールスピードは、以下の”1500ms”のように指定できます。
+            <pre class="prettyprint linenums">speed = 1500;</pre>
+            <br><br>
+            もちろん、僕が上記に記述したみたいに、わざわざ変数に格納しなくても使えます。
+            <br><br>
             そして、本サイトのTOPへ戻る「▲」ボタンを座標150以上(一番上から座標150まで表示させない)例を記述してみました。
-            <br>
+            <br><br>
             <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="hiyuma" data-slug-hash="eYBMgva" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="scrollTop() example">
               <span>See the Pen <a href="https://codepen.io/hiyuma/pen/eYBMgva">
                   scrollTop() example</a> by MARC JACOBS (<a href="https://codepen.io/hiyuma">@hiyuma</a>)
@@ -184,9 +191,9 @@
             </p>
             <h3>jQuery"scrollTop"の使い方は？</h3>
             <p>他にもCSSで簡単にアニメーションさせられる”ScrollTrigger”や、横スクロールでイベント発生させる方法など、スクロール関連の記述は多いです。
-            <br><br>
-            ユーザビリティ向上のためにも、スクロールイベント、アニメーションを使えるようになっておきます。
-            <br><br>
+              <br><br>
+              ユーザビリティ向上のためにも、スクロールイベント、アニメーションを使えるようになっておきます。
+              <br><br>
             </p>
           </div>
         </div>
@@ -856,9 +863,9 @@ function countDown() {
     </div>
 
   </main>
-  
+
   <?php include('parts/footer.php'); ?>
-  
+
   <script src="js/myscript.js"></script>
   <script src="js/jquery-3.5.1.min.js"></script>
   <?php include('parts/footerJs.php'); ?>
