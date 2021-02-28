@@ -1220,7 +1220,7 @@ ol#gallery-list li a {
 table#techdiary{
 	width: 100%;
 	border: solid 0.5px #a5a5a5;
-	margin: 0 auto;
+	margin: 30px auto;
 	padding: 0px;
 	text-align: center;
 	border-radius: 5px;
@@ -1258,7 +1258,7 @@ section#techsection h2{
 	font-size: 1.2rem;
 	color: #868686;
 	letter-spacing: 2px;
-	text-shadow: 1px 1px 3px #b1b1b1;
+	text-shadow: 0px 1px 3px #b1b1b1;
 }
 section#techsection h3{
 	margin-top: 40px;
@@ -1267,7 +1267,7 @@ section#techsection h3{
 	border-bottom: solid 1px #9c9c9c;
 	letter-spacing: 2px;
 	text-indent: 1em;
-	text-shadow: 1px 1px 3px #b1b1b1;
+	text-shadow: 0px 1px 3px #b1b1b1;
 }
 section#techsection h4{
 	margin-top: 30px;
