@@ -40,7 +40,7 @@
     <div id="article">
 
 
-      <section>
+      <section class="slide-in-animation">
         <h1 class="line">MUSIC</h1>
         <p id="top-img-p">
           <img id="top-img" src="gallery/top/music.jpg" alt="小物">
@@ -54,8 +54,6 @@
           クラブミュージック系は音響、特に低音域が良い環境で聞いて欲しいです。
           <br><br>
           常に音の全体を聴きたいと思い、曲に合わせたイコライジングを考えてしまいます。基本的に、インスト(Instrumental)系を好んでいます。
-          <br><br>
-          ここでは、部屋で筋トレ、ステップダンスする時、または、外の景色を観ながらのパン＆コーヒータイムで聞くことが多くなってるため、しばらくはダンス系、メロウ系選曲が多めになりそうな予感がします。
           <br><br>
           掲載曲が溜まってきましたら、リスト化する予定です。
         </p>
@@ -404,30 +402,42 @@
           </div>
           <hr> -->
 
-    <!-- <div id="20210301"></div>
-          <!- XX ->
-          <div>
-            <p><small> 2021年03月01日</small></p>
-            <h4> / <i class="fas fa-headphones-alt"></i></h4>
-            <i class="far fa-file-audio file"></i><a href="X" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
-            <br><br>
-            <em2>
-              時間： X
-              <br>
-              ジャンル： X
-              <br>
-              レーベル： X
-            </em2>
-            <br><br>
-          </div>
-          <hr> -->
+    
 
     
 
 
     <h2>今日の1曲<i class="fas fa-music"></i></h2>
 
-    <div id="20210228"></div>
+
+    <div id="20210301"></div>
+          <!-- <!- No Longer, Not Yet / The Unperson -> -->
+          <div>
+            <p><small> 2021年03月01日</small></p>
+            <h4>No Longer, Not Yet / The Unperson<i class="fas fa-headphones-alt"></i></h4>
+            <i class="far fa-file-audio file"></i><a href="https://amzn.to/37XRFql" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+            <br><br>
+            <em2>
+              時間： 5:52
+              <br>
+              ジャンル： エレクトロニカ
+              <br>
+              レーベル： Negative Space [Ma] Records
+            </em2>
+            <br><br>
+          </div>
+          <hr>
+
+    
+
+        <div class="accbox">
+          今日までの1曲<i class="fas fa-music"></i><br>
+          <input type="checkbox" id="select-music" class="cssacc" />
+          <label for="select-music">OPEN</label>
+
+          <div class="accshow">
+
+          <div id="20210228"></div>
           <!-- <!- Vulnerable / Midnight Pool Party -> -->
           <div>
             <p><small> 2021年02月28日</small></p>
@@ -445,13 +455,6 @@
           </div>
           <hr>
 
-
-        <div class="accbox">
-          今日までの1曲<i class="fas fa-music"></i><br>
-          <input type="checkbox" id="select-music" class="cssacc" />
-          <label for="select-music">OPEN</label>
-
-          <div class="accshow">
 
           <div id="20210227"></div>
         <!-- <!- Where You Are / Jimpster, Khalil Anthony-> -->
