@@ -26,50 +26,66 @@ body:before {
 	background: rgba(255, 255, 255, 0.6);
 	width: 17px;
 }
+
 ::-webkit-scrollbar-track {
-border-radius: 17px;
-box-shadow: inset 1px 1px 1px rgba(255, 255, 255, 0.8);
-}
-::-webkit-scrollbar-thumb {
-background: linear-gradient(-45deg, rgba(179, 179, 179, 0.6), 
-rgba(200, 200, 200, 0.9), rgba(238, 238, 238, 0.8));
-border-radius: 17px;
-border: solid 1px rgba(255, 255, 255, 0.6);
+	border-radius: 17px;
+	box-shadow: inset 1px 1px 1px rgba(255, 255, 255, 0.8);
 }
 
-#ChristmasTree {
-	margin: 30px auto;
+::-webkit-scrollbar-thumb {
+	background: linear-gradient(-45deg, rgba(179, 179, 179, 0.6), rgba(200, 200, 200, 0.9), rgba(238, 238, 238, 0.8));
+	border-radius: 17px;
+	border: solid 1px rgba(255, 255, 255, 0.6);
 }
 
 #top {
 	text-align: center;
 }
+#top img {
+		animation: SlideInTop 1s ;
+	}
+	
+	@keyframes SlideInTop {
+		0% {
+			opacity: 0;
+			transform: translateY(64px);
+		}
+		100% {
+			opacity: 1;
+			transform: translateY(0);
+		}
+	}
 
 i {
 	padding: 0 8px;
 }
-i.play{
+
+i.play {
 	padding-left: 10px;
-	font-size:10px;
+	font-size: 10px;
 }
-i.file{
+
+i.file {
 	padding-left: 0;
 }
-i.menuButton{
+
+i.menuButton {
 	vertical-align: middle;
+	padding: 0;
 }
-#puyo-menu button{
+
+#puyo-menu button {
 	text-align: center;
 }
 
-
-section h1{
+section h1 {
 	margin-top: 40px;
 	font-size: 1.3rem;
 	color: #666666;
 	letter-spacing: 2px;
 }
-section h2{
+
+section h2 {
 	margin-top: 30px;
 	font-size: 1.2rem;
 	color: #868686;
@@ -77,14 +93,14 @@ section h2{
 	border-bottom: solid 1px #9c9c9c;
 }
 
-
-section h3{
+section h3 {
 	margin-top: 30px;
 	color: #838383;
 	border-bottom: solid 1px #9c9c9c;
 	letter-spacing: 1px;
 }
-section h4{
+
+section h4 {
 	margin-top: 20px;
 	color: #959595;
 	border-left: solid 7px #9c9c9c;
@@ -116,6 +132,10 @@ section h4{
 	width: 70%;
 }
 
+.prof i {
+	padding: 0 3px;
+}
+
 .prof em3 a {
 	color: #383838;
 }
@@ -136,6 +156,7 @@ section h4{
 	border-radius: 15px;
 	width: 100%;
 	opacity: 0.9;
+	animation: SlideInAll 0.8s ;
 }
 
 .bx-wrapper {
@@ -146,6 +167,7 @@ section h4{
 	box-shadow: none !important;
 	border: none !important;
 	background: none !important;
+	animation: SlideInAll 0.8s ;
 }
 
 .bxslider img {
@@ -159,9 +181,10 @@ img {
 	height: auto;
 	border-radius: 10px;
 }
+
 section .accshow .album {
 	justify-content: space-evenly;
-  display: flex;
+	display: flex;
 	flex-wrap: wrap;
 }
 
@@ -227,12 +250,14 @@ header h1 {
 	transition: all 2s;
 	user-select: none;
 }
+
 h1.logo {
 	margin: 40px auto 20px;
 }
-h1.logo img{
+
+h1.logo img {
 	width: 50%;
-	vertical-align:middle;
+	vertical-align: middle;
 }
 
 .logo:hover {
@@ -243,7 +268,8 @@ h1.logo img{
 	line-height: 120px;
 	transform: rotate(1080deg);
 }
-pre.prettyprint{
+
+pre.prettyprint {
 	overflow: auto;
 }
 
@@ -277,7 +303,21 @@ pre.prettyprint{
 	background: linear-gradient(-45deg, rgba(202, 202, 202, 0.6), rgba(255, 252, 224, 0.9), rgba(211, 253, 236, 0.8));
 	color: rgb(114, 114, 114);
 	cursor: pointer;
+	
+	animation: SlideInMenu 1s ;
 }
+
+	@keyframes SlideInMenu {
+		0% {
+			opacity: 0;
+			transform: translateY(300px);
+		}
+		100% {
+			opacity: 1;
+			transform: translateY(0);
+		}
+	}
+
 
 .openMenu {
 	position: fixed;
@@ -570,7 +610,7 @@ button a.link {
 	color: rgb(136, 136, 136);
 }
 
-p#description{
+p#description {
 	margin: 15px;
 }
 
@@ -649,7 +689,8 @@ button.showResult {
 	border-radius: 50%;
 	width: 80%;
 }
-#top-img-p{
+
+#top-img-p {
 	text-align: center;
 	margin: 20px auto;
 }
@@ -748,8 +789,21 @@ nav.header {
 	height: auto;
 	top: 0;
 	left: 0;
-	z-index: 21
+	z-index: 21;
+	animation: SlideInNav 1.2s ;
 }
+
+	@keyframes SlideInNav {
+		0% {
+			opacity: 0;
+			transform: translateY(500px);
+		}
+		100% {
+			opacity: 1;
+			transform: translateY(0);
+		}
+	}
+
 
 nav ul {
 	margin: 0;
@@ -828,8 +882,6 @@ div.wakuwaku {
 div.wakuwaku img {
 	border: 1px solid #ffe0d6;
 }
-
-
 
 em1 {
 	line-height: 1.6em;
@@ -934,7 +986,20 @@ section {
 	justify-content: center;
 	padding: 0;
 	text-align: center;
+	animation: SlideInAll 1s ;
 }
+
+	@keyframes SlideInAll {
+		0% {
+			opacity: 0;
+			transform: translateY(500px);
+		}
+		100% {
+			opacity: 1;
+			transform: translateY(0);
+		}
+	}
+
 
 #widget hr {
 	width: 80%;
@@ -1102,9 +1167,10 @@ ul.info li {
 
 ul.info li::before {
 	font-family: "Font Awesome 5 Free";
-	content: "\f0da";
+	content: "\f0f3";
 	color: #696868;
 	font-weight: bold;
+	font-size: 13px;
 	position: absolute;
 	left: 1em;
 }
@@ -1125,7 +1191,7 @@ ul.news li {
 
 ul.news hr {
 	margin-top: 38px;
-	font-weight:lighter;
+	font-weight: lighter;
 	color: #bdbdbd;
 }
 
@@ -1211,13 +1277,11 @@ ol#gallery-list li a {
 	font-weight: bold;
 }
 
-
-
 .table-question {
 	width: 100%;
 }
 
-table#techdiary{
+table#techdiary {
 	width: 100%;
 	border: solid 0.5px #a5a5a5;
 	margin: 30px auto;
@@ -1226,41 +1290,47 @@ table#techdiary{
 	border-radius: 5px;
 	border-collapse: collapse;
 }
-table#techdiary th,td{
+
+table#techdiary th, td {
 	border: solid 0.5px #a5a5a5;
 	font-size: smaller;
 }
-section#techsection{
+
+section#techsection {
 	margin: 0 auto;
 }
 
-section#techsection img{
+section#techsection img {
 	border: 0px 1px 5px solid #e6e6e6;
 	max-width: 100%;
 	box-shadow: 0px 1px 10px #b3b3b3;
 }
-section#techsection .accshow img{
+
+section#techsection .accshow img {
 	border: 5px solid #e7e6e6;
 	max-width: 100%;
 }
-section#techsection p img#top-img{
+
+section#techsection p img#top-img {
 	min-width: 100%;
-	border:none;
-	box-shadow:none;
+	border: none;
+	box-shadow: none;
 }
-section#techsection .accshow a{
+
+section#techsection .accshow a {
 	color: rgb(100, 100, 100);
 	background: linear-gradient(transparent 40%, #ffc5c5 10%);
 }
 
-section#techsection h2{
+section#techsection h2 {
 	margin-top: 10px;
 	font-size: 1.2rem;
 	color: #868686;
 	letter-spacing: 2px;
 	text-shadow: 0px 1px 3px #b1b1b1;
 }
-section#techsection h3{
+
+section#techsection h3 {
 	margin-top: 40px;
 	padding-bottom: 5px;
 	color: #838383;
@@ -1269,24 +1339,27 @@ section#techsection h3{
 	text-indent: 1em;
 	text-shadow: 0px 1px 3px #b1b1b1;
 }
-section#techsection h4{
+
+section#techsection h4 {
 	margin-top: 30px;
 	color: #959595;
 	border-left: solid 7px #9c9c9c;
 	padding-left: 15px;
 }
 
-section#techsection ul{
+section#techsection ul {
 	list-style-position: inside;
 }
-section#techsection ul li{
-	list-style:disc;
+
+section#techsection ul li {
+	list-style: disc;
 	color: #666666;
 	margin-left: 20px;
 	line-height: 2.0;
 }
-section#techsection ul#while li{
-	list-style:none;
+
+section#techsection ul#while li {
+	list-style: none;
 }
 
 mark {
@@ -1441,6 +1514,21 @@ h3#movies-title {
 #movie-impressions {
 	display: block;
 	clear: both;
+}
+
+
+
+.slide-in-animation{
+	opacity : 0;
+	visibility: hidden;
+	transition: 1s;
+	transform: translateY(100px);
+}
+/*アニメーション要素までスクロールした時のスタイル*/
+.slide-in-active{
+	opacity: 1;
+	visibility: visible;
+	transform: translateY(0);
 }
 
 /* accbox ------------------------------------------------------*/
@@ -1604,7 +1692,8 @@ p#impression {
 	color: #747474;
 	letter-spacing: 2px;
 }
-h2#title{
+
+h2#title {
 	color: #747474;
 	letter-spacing: 3px;
 	font-weight: bold;
@@ -1808,7 +1897,7 @@ h2#title{
 	#widget3 {
 		padding: 10px;
 	}
-	section#techsection img{
+	section#techsection img {
 		border: 5px solid #e6e6e6;
 		max-width: 80%;
 	}
@@ -1910,18 +1999,19 @@ h2#title{
 		width: 600px;
 	}
 }
+
 @media screen and (min-width: 1280px) {
 	body {
 		width: 1080px;
 		margin: 20px auto;
 	}
-		#aside {
-			float: right;
-			width: 260px;
-			min-height: 500px;
-		}
-		#article {
-			float: left;
-			width: 800px;
-		}
+	#aside {
+		float: right;
+		width: 260px;
+		min-height: 500px;
 	}
+	#article {
+		float: left;
+		width: 800px;
+	}
+}

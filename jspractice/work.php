@@ -16,7 +16,7 @@
   </div>
 
   <script src="https://kit.fontawesome.com/6256a7882a.js" crossorigin="anonymous"></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="js/jquery.easing.1.3.js"></script>
   <div id="page_top"><a href="#"></a></div>
 
@@ -37,7 +37,7 @@
 
     <div id="article">
 
-      <div id="work">
+      <div id="work" class="slide-in-animation">
         <div id="section">
           <h1 class="line">WORK SPACE</h1>
           <p id="top-img-p">

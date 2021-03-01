@@ -101,7 +101,7 @@
     <?php include('parts/facebook_twitter_button.php'); ?>
 
     <div id="article">
-      <section>
+      <section class="slide-in-animation">
 
         <h1 class="line">アンケート<i class="far fa-edit"></i></h1>
         

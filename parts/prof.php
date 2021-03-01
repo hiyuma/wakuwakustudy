@@ -1,4 +1,4 @@
-<div id="section" class="prof">
+<div id="section" class="prof slide-in-animation">
   <div class="line">ADMINISTRATOR</div>
 
   <p><a href="https://developershirai.com/about.php"><img src="https://developershirai.com/gallery/nekotemari.gif" alt="猫カフェ"></a></p>

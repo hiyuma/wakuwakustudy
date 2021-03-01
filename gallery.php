@@ -50,7 +50,7 @@
           <em2>※フォトを開く際に、時々JavaScriptの動作によるバグが発生していたため、プログラムを再構築しました。再度バグなどを発見された方は、もしよろしければ、ご報告いただけると幸いです。</em2>
         </p>
 
-        <div class="schedule_wrapper">
+        <div class="schedule_wrapper ">
           <h3><i class="fas fa-list-ul"></i>Gallery List</h3>
           <div id="schedule0" class="schedule_list">
             <ol reversed>

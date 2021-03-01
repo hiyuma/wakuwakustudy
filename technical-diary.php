@@ -32,7 +32,7 @@
 
 
   <header>
-    <h1 class="logo">録</h1>
+    <h1 class="logo slide-in-animation">録</h1>
   </header>
 
   <?php include('parts/menuButton.php'); ?>
@@ -41,7 +41,7 @@
 
   <main>
     <div id="article">
-      <section id="techsection">
+      <section id="techsection" class="slide-in-animation">
         <div class="line">TECHNICAL DIARY</div>
         <p>
           <img id="top-img" src="gallery/top/techtop.jpg" alt="">

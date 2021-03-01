@@ -39,7 +39,7 @@
 
   <main>
     <div id="article">
-      <section>
+      <section class="slide-in-animation">
         <div class="line">DIARY</div>
         <p id="top-img-p">
           <image id="top-img" src="gallery/top/diary3.png" alt="">

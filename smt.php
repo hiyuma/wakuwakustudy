@@ -39,7 +39,7 @@
 
    <main>
       <div id="article">
-         <section>
+         <section class="slide-in-animation">
             <h1 class="line">LINEスマート投資</h1>
             <p id="top-img-p">
                <image id="top-img" src="gallery/top/smt.png" alt="">

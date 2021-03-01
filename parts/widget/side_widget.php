@@ -1,6 +1,6 @@
 <div id="recommend"></div>
 
-<div id="widget3" class="recommended">
+<div id="widget3" class="recommended slide-in-animation">
   <p> しらひゅー今季オススメ商品 </p>
   <hr>
   <iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B0859DBY1P&linkId=f78ec4210f1d3d7911b86845d1331485&bc1=ffdede&amp;lt1=_blank&fc1=ffffff&lc1=ffffff&bg1=ffdede&f=ifr"></iframe>
@@ -34,7 +34,7 @@
   </iframe>
 </div>
 
-<div id="widget3" class="switch">
+<div id="widget3" class="switch slide-in-animation">
   <p>時間に限りがある為
     <br>買うのを我慢している
   </p>
@@ -43,7 +43,7 @@
   </iframe>
 </div>
 
-<div id="widget3" class="a8">
+<div id="widget3" class="a8 slide-in-animation">
 
   <a href="https://px.a8.net/svt/ejp?a8mat=3BOCPF+9LBFN6+1WP2+674EP" rel="nofollow">
     <img border="0" width="120" height="60" alt="" src="https://www26.a8.net/svt/bgt?aid=201010515580&wid=001&eno=01&mid=s00000008903001041000&mc=1"></a>
@@ -67,16 +67,16 @@
   <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=3BOFU5+7BR2JE+1JUK+61Z81" alt="">
 </div>
 
-<div id="widget3" class="kaimin muji">
+<div id="widget3" class="kaimin muji slide-in-animation">
   <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=21&l=ur1&category=homekitchen&banner=1NB7AKK59M1WYQTVDHR2&f=ifr&linkID=451a6a0a66ce05df3e107787d100902d&t=hiyuma-22&tracking_id=hiyuma-22" width="125" height="125" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
   <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=21&l=ur1&category=homekitchen&banner=1118RRKGRGP6E53AWF02&f=ifr&linkID=4c1584b22751fff367dd07f4f2d15704&t=hiyuma-22&tracking_id=hiyuma-22" width="125" height="125" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 </div>
 
-<div id="widget3" class="newlife 214">
+<div id="widget3" class="newlife 214 slide-in-animation">
   <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=21&l=ur1&category=seasons&banner=19V1W74AERWFQE61V102&f=ifr&linkID=343127fbf4d2f1596bee67918b29d55f&t=hiyuma-22&tracking_id=hiyuma-22" width="125" height="125" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
   <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=21&l=ur1&category=seasons&banner=1ND1EDK3G72PR8RM7582&f=ifr&linkID=cd5377118077b36de8010a41add4b796&t=hiyuma-22&tracking_id=hiyuma-22" width="125" height="125" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 </div>
 
-<div id="widget3" class="pantri">
+<div id="widget3" class="pantri slide-in-animation">
   <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=294&l=ur1&category=amazonrotate&f=ifr&linkID=6f54d9751c82c3788c8aca8f1c21db08&t=hiyuma-22&tracking_id=hiyuma-22" width="225" height="100" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 </div>

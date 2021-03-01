@@ -1,4 +1,4 @@
-<ul class="contents">
+<ul class="contents slide-in-animation">
   <div class="line">CONTENTS</div>
 
 

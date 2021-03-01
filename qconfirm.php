@@ -64,7 +64,7 @@ table td{
     <?php include('parts/facebook_twitter_button.php'); ?>
 
     <div id="article">
-      <section>
+      <section class="slide-in-animation">
 
         <p class="line">アンケート結果</p>
         <?php

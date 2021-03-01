@@ -71,7 +71,7 @@
               <?php include('parts/facebook_twitter_button.php'); ?>
 
               <div id="article">
-                     <section>
+                     <section class="slide-in-animation">
                             <?php
                             $textfile = '../log/log.txt';
                             
