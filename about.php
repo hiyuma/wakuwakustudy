@@ -36,7 +36,7 @@
 
   <main>
     <div id="article">
-      <section>
+      <section class="slide-in-animation">
 
         <h1 class="line">ABOUT</h1>
         <div id="about">
@@ -55,7 +55,7 @@
           <h3>PROFILE</h3>
           <p>長野県中野市出身。東京都在住。
             <br><br>
-            リモートワーカー。サイドジョブ。
+            リモートワーカー。WEB制作、WEB開発、テクニカルサポート。
             <br><br>
             新聞配達7年間、他アルバイト、中高サッカー部、大学受験とせわしい学生生活を過ごすも、大学進学せず、夢であった美容師を目指し美容師専門学校入学。東京都北区赤羽へ上京。
             <br><br>
@@ -67,7 +67,8 @@
             <br><br>
             日本の少子高齢化、風営法改正とデジタル化の流れをきっかけに、IT人材の需要増、供給減を憂慮し、趣味としての美容師を続けながらもIT通信業へ転職を決意。
             <br><br>
-            4年間の通信機器テクニカルサポート経験の中、東京事業所にて4カ月連続の業務成績トップ表彰を獲得するなど努力を重ねる。さらなるスキルアップを求め、WEBサイト制作・デザイン・アプリ開発などを中心に英語も含めて独学中(2020年11月現在)。
+            4年間の通信機器テクニカルサポート経験の中、東京事業所にて4カ月連続の業務成績トップ表彰を獲得するなど努力を重ねる。
+            さらなるスキルアップを求め、WEBサイト制作・デザイン・アプリ開発などを中心に英語も含めて独学中(2021年3月現在)。
             <br><br>
             3Dプリンター、アボカド栽培、筋トレ、サッカー、映画、音楽、絵、自転車など趣味多め。音痴で目が乾きやすく、プリケツのちょっと変わった人。
             <br><br>
@@ -75,20 +76,32 @@
             <br><br>
             2019年からプラン・スポンサーシップ参加中。2020年5月から時々UberEats配達で運動不足解消。
             <br><br>
-            <mark>2020年4月からWEBサイト制作、業務管理WEBアプリ開発、サーバー構築、ネットワーク構築、パソコンやスマートフォン、IoTなどの通信機器の操作設定・トラブルシューティングのサポートなど実施中。</mark>
+            <mark>WEBサイト制作、業務管理WEBアプリ開発、サーバー構築、ネットワーク構築、パソコンやスマートフォン、IoTなどの通信機器の操作設定・トラブルシューティングのサポートなど実施中。</mark>
             <br><br>
-            ※お仕事のご依頼はお手数ですが、<span class="material-icons">
-              email
-            </span>”<a href="mailto:info@developershirai.com">info@developershirai.com</a>” へ、または<i class="fab fa-twitter"></i> ”<a class="link" href="https://twitter.com/hiyuma" target="blank" rel="noopener">Twitter</a>” から「お仕事依頼」と記載の上、依頼内容と共にご連絡をお願い致します。
+
+          <div id="job-detail">
+            <span class="box-title">※お仕事のご依頼 受付中</span>
+
+            <p>お仕事のご相談も含め、お手数ですが、
+            <br>
+            <span class="material-icons">email</span>”<a href="mailto:info@developershirai.com">info@developershirai.com</a>”
+            <br>
+            または、<i class="fab fa-twitter"></i> ”<a class="link" href="https://twitter.com/hiyuma" target="blank" rel="noopener">Twitter</a>” へ
+            <br><br>
+            「お仕事依頼」などと、記載をしていただいた上で、ご依頼内容（例：WEBサイト制作の場合は、希望のページ枚数・予算・納期・参考になるHPのURL）
+            <br><br>
+            と共に、ご連絡をお願い致します。相談ベースでもかまいませんので、お気軽にお問い合わせください。
             <br><br>
             現在、パソコンの遠隔サポートも対応しています。（要予約）
-            <br>※営業日:10:00～23:00 休業：不定期 / 年末年始：12月28日～1月3日
             <br><br>
-            2020年6月、HTML/CSS/Javascriptを修了後、
-            <br>
-            英語や投資に関する学びを継続しながら、PHP、Java、MySQL、JSP/Servlet、LINUX,Git、SpringなどWEBアプリ開発関係をメインで修学中。
-            <br>
-            そして、新型コロナウイルスと闘う日々。
+            ※受付時間:10:00～23:00 休日：不定期 / 年末年始：12月28日～1月3日
+            </p>
+          </div>
+          2020年6月、HTML/CSS/Javascriptを修了後は、
+          <br>
+          英語や投資に関する学びを継続しながら、PHP、Java、MySQL、JSP/Servlet、Linux、Gitなど、WEB制作、WEBアプリ開発関係をメインで修学中。
+          <br>
+          そして、自粛生活、新型コロナウイルスと闘う日々。
           </p>
 
           <hr>
