@@ -1,7 +1,10 @@
-<div id="aside">
+
   <ul class="info slide-in-animation">
 
     <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
+
+    <li>2021年03月01日</li>
+    <div class="info-children"><span>スクロールイベント・スライドインアニメーション（ CSS / jQuery ） 追加</span></div>
 
     <li>2021年02月28日</li>
     <div class="info-children"><span><a href="diary.php">DIARY（月が綺麗ですね）</a> 更新</span></div>
