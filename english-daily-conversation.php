@@ -38,7 +38,7 @@
 
     <main>
       <div id="article">
-        <section>
+        <section class="slide-in-animation">
           <h1 class="line"><i class="fas fa-language"></i>ENGLISH DAILY CONVERSATION</h1>
           <P>
               このページでは、学習中の日常英会話・リスニングで利用している<a href="https://px.a8.net/svt/ejp?a8mat=3BOCPH+BLYC7U+3AQG+ZQ80I" rel="nofollow">	スタディサプリ ENGLISH ( 新日常英会話コース ) </a>を参考に、よく使いそうな、応用の効くだろう表現を抜粋しながら作成しています。
@@ -53,6 +53,8 @@
               href="https://eigosapuri.jp/toeic/?vos=evalstsstopx0000001&fed=ppstp1906003">スタディサプリ ENGLISH ( TOEIC対策 ) </a>も、ぜひ一緒に使ってみてください。
               <br><br>
               使いやすく、目的に合った内容を探すこともできますし、とてもオススメです。
+
+              <em2>※IT系資格試験勉強のため、3月8日以降に更新予定です。</em2>
           </P>
 
           <table id="english-heading">

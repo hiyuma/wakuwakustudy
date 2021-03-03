@@ -37,7 +37,7 @@
   <main>
 
     <div id="article">
-      <section>
+      <section class="slide-in-animation">
         <h1 class="line">VIDEOS</h1>
         <p id="top-img-p">
           <img id="top-img" src="gallery/top/movie.png" alt="">

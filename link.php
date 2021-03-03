@@ -40,7 +40,7 @@
 
       <main>
          <div id="article">
-            <section>
+            <section class="slide-in-animation">
                <div class="line">LINK</div>
                <p>
                   <image src="gallery/jitensha.jpg" alt="自転車">

@@ -39,7 +39,7 @@
 
 		<main>
 			<div id="article">
-				<section>
+				<section class="slide-in-animation">
 					<h1 class="line"><i class="fas fa-language"></i>ENGLISH</h1>
 					<p id="top-img-p">
             <image id="top-img" src="gallery/top/english.jpg" alt="">
@@ -67,6 +67,8 @@
 						<em4>※画面サイズ（PCやスマホ、タブレットなど）によって英単語表のデザインが変わることがあります。
 							<br><br>
 							※PDF埋め込み部は閲覧する端末、ブラウザによって表示が変わる可能性があります。</em4>
+							
+					<em2>※IT系資格試験勉強のため、3月8日以降に更新予定です。</em2>
 					</p>
 					<br>
 					<hr>

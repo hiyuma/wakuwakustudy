@@ -100,6 +100,7 @@ section h3 {
 	letter-spacing: 1px;
 }
 
+
 section h4 {
 	margin-top: 20px;
 	color: #959595;
@@ -123,6 +124,29 @@ section h4 {
 	display: inline-flex;
 	vertical-align: middle;
 }
+#job-detail{
+    position: relative;
+    margin: 2em 0;
+    padding: 0.5em 1em;
+    border: solid 1px #d8d8d8;
+		box-shadow: 1px 1px 3px #858585;
+    border-radius: 8px;
+}
+#job-detail .box-title {
+    margin: 0 auto;
+    padding: 10px;
+    line-height: 1;
+    font-size: 19px;
+    color: #6e6e6e;
+    font-weight: bold;
+		background-color: rgba(255, 245, 254, 0.8);
+		border-radius: 8px;
+}
+#job-detail p {
+    margin-top: 20px; 
+    padding: 0;
+}
+
 
 .prof {
 	text-align: center;
@@ -253,7 +277,20 @@ header h1 {
 
 h1.logo {
 	margin: 40px auto 20px;
+	animation: SlideDownLogo 3s ;
 }
+
+@keyframes SlideDownLogo {
+	0% {
+		opacity: 0;
+		transform: translateY(-300px);
+	}
+	100% {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+
 
 h1.logo img {
 	width: 50%;
@@ -1162,17 +1199,19 @@ ul .info-children {
 
 ul.info li {
 	border-top: dotted 0.7px #c0bfbf;
+	padding-top: 10px;
 	text-indent: 1em;
+	word-wrap: break-word;
 }
 
 ul.info li::before {
 	font-family: "Font Awesome 5 Free";
 	content: "\f0f3";
-	color: #696868;
+	color: #8a8a8a;
 	font-weight: bold;
 	font-size: 13px;
 	position: absolute;
-	left: 1em;
+	left: 0.7em;
 }
 
 ul.news {
@@ -2000,7 +2039,7 @@ h2#title {
 	}
 }
 
-@media screen and (min-width: 1280px) {
+@media screen and (min-width: 1480px) {
 	body {
 		width: 1080px;
 		margin: 20px auto;

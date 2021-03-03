@@ -35,7 +35,7 @@
 
   <main>
     <div id="article">
-      <section>
+      <section class="slide-in-animation">
         <h1 class="line">アボカド成長日記</h1>
         <p id="top-img-p">
           <img id="top-img" src="gallery/avocado/avocado.jpeg" alt="アボカド">

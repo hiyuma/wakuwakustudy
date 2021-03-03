@@ -39,7 +39,7 @@
   <main>
 
     <div id="article">
-      <section>
+      <section class="slide-in-animation">
 
         <h1 class="line">MOVIES</h1>
         <p id="top-img-p">
