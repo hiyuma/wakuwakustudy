@@ -120,10 +120,9 @@
             <p>
               <em4>※正負/偶数奇数の判定です。</em4>
             </p>
-            <form action="work.php#judgment" method="post">
+            <form action="#judgment" method="post">
               <p><input type="number" name="num" placeholder="数字を入力してください" value="<?php if (!empty($_POST['num'])) {
-                                                                                    echo $_POST['num'];
-                                                                                  } ?>"></p>
+              echo $_POST['num'];} ?>"></p>
 
               <div id="submitAria">
                 <input type="submit" value="判定" class="submitButton">
@@ -136,14 +135,33 @@
             <div class="comment">5:Comment<i class="far fa-comment-dots"></i></div>
             <em2>
               今回、”判定結果を表示する”ボタンは、addClassとremoveClassを使っています。
-              <br>
+              <br><br>
               PHPにて、変数のNULL判定する場合は、is_null, isset, emptyなどの関数を使うと思いますが、ここでは is_null で対応しています。
-              <br>
+              <br><br>
               その過程で、NULL型をintにキャストすると”0”になることが分かりました。全く想定していなかったのでデバッグで発見時に驚きました。
-              <br>
+              <br><br>
               if文を途中で抜けるために"goto"文を使っています。"goto"文は、一般的に可読性を損なうため、利用避けた方が良いと言われていますが、検証のために利用しました。
               <br>
             </em2>
+
+
+            <!-- <div id="binaryNum">
+            <p id="avocado"></p>
+            <p>
+            <em2>6:数字を入力してください。10進数を2進数に変換して表示します。(PHP)</em2>
+
+            <form action="#binaryNum" method="post">
+              <p><input type="number" name="binaryNum" placeholder="数字を入力してください" value="<?php if (!empty($_POST['binaryNum'])) {
+                echo $_POST['binaryNum'];} ?>"></p>
+
+              <div id="submitAria">
+                <input type="submit" value="変換" class="submitButton">
+              </div>
+            </form>
+
+           
+            </p>
+           </div> -->
           </div>
 
 
