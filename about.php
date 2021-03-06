@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name=”robots” content=”index”>
-  <meta name="description" content="長野県出身、元美容師/イベントオーガナイザーのしらひゅー(白井　飛友馬)が、WEB制作・デザイン・開発などのプログラミング言語(PHP/Java/JSP/Servlet/HTML/CSS/JavaScriptなど)や英語(TOEIC・日常英会話)、投資、アボカド栽培などを学ぶために作成したWEBサイトです。ここは、しらひゅーのわくわくスタディの管理者を紹介するページです。特に面白味はないです。" />
+  <meta name="description" content="長野県出身で元美容師のしらひゅー(白井 飛友馬)が、WEB制作・デザイン・開発などのプログラミング言語(PHP/Java/HTML/CSS/JavaScript等)やTOEIC・日常英会話、株投資、アボカド栽培などを学ぶために作成したWEBサイトです。ここではサイトの管理者を紹介します。" />
   <meta name="keywords" content="プログラミング,しらい　ひゆま,白井　飛友馬,独学">
   <title>しらひゅーのわくわくスタディ ABOUT</title>
   <link rel="shortcut icon" href="favicon.ico" />
