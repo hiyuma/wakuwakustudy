@@ -3,9 +3,9 @@
 
     <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
-    <li>2021年03月03日</li>
+    <!-- <li>2021年03月04日</li>
     <div class="info-children"><span><a href="jspractice/work.php">WORK(10進数2進数変換)</a> 更新</span>
-    </div>
+    </div> -->
 
     <li>2021年03月01日</li>
     <div class="info-children"><span>スクロールイベント・スライドインアニメーション（ CSS / jQuery ） 追加</span></div>
