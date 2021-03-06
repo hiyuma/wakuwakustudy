@@ -1555,15 +1555,13 @@ h3#movies-title {
 	clear: both;
 }
 
-
-
 .slide-in-animation{
 	opacity : 0;
 	visibility: hidden;
 	transition: 1s;
 	transform: translateY(100px);
 }
-/*アニメーション要素までスクロールした時のスタイル*/
+
 .slide-in-active{
 	opacity: 1;
 	visibility: visible;
@@ -1605,13 +1603,11 @@ h3#movies-title {
 	color: rgb(255, 153, 153);
 }
 
-/*チェックは隠す*/
 
 .accbox input {
 	display: none;
 }
 
-/*中身を非表示にしておく*/
 
 .accbox .accshow {
 	height: 0;
@@ -1621,7 +1617,6 @@ h3#movies-title {
 	transition: 5s;
 }
 
-/*クリックで中身表示*/
 
 .cssacc:checked+label+.accshow {
 	height: auto;
@@ -1631,8 +1626,6 @@ h3#movies-title {
 .accbox .accshow p {
 	margin: 15px 10px;
 }
-
-/*アイコンを入れ替える*/
 
 .cssacc:checked+label:after {
 	content: '\f106';
@@ -1672,13 +1665,10 @@ h3#movies-title {
 	background: linear-gradient(-45deg, rgba(255, 206, 206, 0.6), rgba(248, 223, 255, 0.6), rgba(229, 255, 251, 0.6));
 }
 
-/*チェックは隠す*/
-
 .accbox2 input {
 	display: none;
 }
 
-/*中身を非表示にしておく*/
 
 .accbox2 .accshow2 {
 	height: 0;
@@ -1688,7 +1678,6 @@ h3#movies-title {
 	transition: 5s;
 }
 
-/*クリックで中身表示*/
 
 .cssacc2:checked+label+.accshow2 {
 	height: auto;
@@ -1699,7 +1688,6 @@ h3#movies-title {
 	margin: 15px 10px;
 }
 
-/*アイコンを入れ替える*/
 
 .cssacc2:checked+label:after {
 	content: '\f106';
@@ -1741,6 +1729,7 @@ h2#title {
 	border-bottom: none;
 }
 
+
 #page_top {
 	width: 50px;
 	height: 50px;
@@ -1748,8 +1737,9 @@ h2#title {
 	right: 0;
 	bottom: 35px;
 	background: #fdfbfb;
-	opacity: 0.4;
+	opacity: 0.6;
 	border-radius: 50%;
+	z-index: 22;
 }
 
 #page_top a {
@@ -1775,6 +1765,7 @@ h2#title {
 	left: 0;
 	margin: auto;
 	text-align: center;
+	z-index: -1;
 }
 
 .hanako-message {

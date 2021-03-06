@@ -44,7 +44,7 @@
             <p id="top-img-p">
                <image id="top-img" src="gallery/top/smt.png" alt="">
             </p>
-            <p>LINEで手軽にできる<a href="https://lin.ee/wzMqnDA" target="blank">LINEスマート投資</a>。
+            <p>スマホのLINEで手軽にできる<a href="https://lin.ee/wzMqnDA" target="blank">LINEスマート投資</a>。
                <br><br>
                株式会社FOLIOが運営しています。<br>
                その投資の勉強レポートをゆるーく掲載していきます。
