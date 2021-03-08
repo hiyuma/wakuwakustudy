@@ -7,6 +7,14 @@
     <div class="info-children"><span><a href="jspractice/work.php">WORK(10進数2進数変換)</a> 更新</span>
     </div> -->
 
+    <!-- <li>2021年03月09日</li>
+    <div class="info-children"><span><a href="englishwordoftheday.php">ENGLISH</a> 今日の1フレーズ作成</span></div> -->
+
+    <li>2021年03月08日</li>
+    <div class="info-children">
+      <span><a href="smt.php"> スマート投資</a> 更新</span>
+    </div>
+
     <li>2021年03月01日</li>
     <div class="info-children"><span>スクロールイベント・スライドインアニメーション（ CSS / jQuery ） 追加</span></div>
 

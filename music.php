@@ -404,9 +404,107 @@
             <br><br>
           </div>
           <hr> -->
+        <!--テンプレ <div id="202103XX"></div>
+          <!- XX ->
+          <div>
+            <p><small> 2021年03月XX日</small></p>
 
-        <!-- <div id="20210307"></div>
-          <!- Widdit / LAVA LA RUE ->
+            <h4> / <i class="fas fa-headphones-alt"></i></h4>
+
+            <i class="far fa-file-audio file"></i>
+            <a href="X" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+            <br><br>
+            <em2>
+              時間： X
+              <br>
+              ジャンル： X
+              <br>
+              レーベル： X
+            </em2>
+            <br><br>
+          </div>
+          <hr> -->
+        <!--テンプレ <div id="202103XX"></div>
+          <!- XX ->
+          <div>
+            <p><small> 2021年03月XX日</small></p>
+
+            <h4> / <i class="fas fa-headphones-alt"></i></h4>
+
+            <i class="far fa-file-audio file"></i>
+            <a href="X" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+            <br><br>
+            <em2>
+              時間： X
+              <br>
+              ジャンル： X
+              <br>
+              レーベル： X
+            </em2>
+            <br><br>
+          </div>
+          <hr> -->
+
+
+        <!--テンプレ <div id="20210309"></div>
+          <!- XX ->
+          <div>
+            <p><small> 2021年03月09日</small></p>
+
+            <h4>Green & Gold / Lianne La Havas<i class="fas fa-headphones-alt"></i></h4>
+
+            <i class="far fa-file-audio file"></i>
+            <a href="https://amzn.to/30pDHcC" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+            <br><br>
+            <em2>
+              時間： 4:38
+              <br>
+              ジャンル： オルタナティヴ・ロック
+              <br>
+              レーベル： Warner Records
+            </em2>
+            <br><br>
+          </div>
+          <hr> -->
+
+        
+        <h2>今日の1曲<i class="fas fa-music"></i></h2>
+
+        <div id="20210308"></div>
+          <!-- <!- Nightrider [feat. Freddie Gibbs] [Explicit] / トム・ミッシュ & ユセフ・デイズ -> -->
+          <div>
+            <p><small> 2021年03月08日</small></p>
+
+            <h4>Nightrider [feat. Freddie Gibbs] [Explicit] / トム・ミッシュ & ユセフ・デイズ<i class="fas fa-headphones-alt"></i></h4>
+
+            <i class="far fa-file-audio file"></i>
+            <a href="https://amzn.to/3encoYH" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+            <br><br>
+            <em2>
+              時間： 5:01
+              <br>
+              ジャンル： オルタナティヴ・ロック
+              <br>
+              レーベル： Beyond The Groove / Blue Note Records
+            </em2>
+            <br><br>
+          </div>
+          <hr>
+
+        
+
+
+
+        <div class="accbox">
+          今日までの1曲<i class="fas fa-music"></i><br>
+          <input type="checkbox" id="select-music" class="cssacc" />
+          <label for="select-music">OPEN</label>
+
+          <div class="accshow">
+
+
+          <div id="20210307"></div>
+          <!-- <!- Widdit / LAVA LA RUE -> -->
           <div>
             <p><small> 2021年03月07日</small></p>
 
@@ -424,16 +522,9 @@
             </em2>
             <br><br>
           </div>
-          <hr> -->
+          <hr>
 
-        
-        
-        
-        
-        <h2>今日の1曲<i class="fas fa-music"></i></h2>]
-
-
-        <div id="20210306"></div>
+          <div id="20210306"></div>
           <!-- <!- 7/7 / TAAR -> -->
           <div>
             <p><small> 2021年03月06日</small></p>
@@ -453,20 +544,6 @@
             <br><br>
           </div>
           <hr>
-
-
-        
-
-
-
-
-
-        <div class="accbox">
-          今日までの1曲<i class="fas fa-music"></i><br>
-          <input type="checkbox" id="select-music" class="cssacc" />
-          <label for="select-music">OPEN</label>
-
-          <div class="accshow">
 
           <div id="20210305"></div>
         <!-- <!- Banane / 80KIDZ & Maika Loubté -> -->
