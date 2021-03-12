@@ -1319,7 +1319,9 @@ ol#gallery-list li a {
 .table-question {
 	width: 100%;
 }
-
+#tablelimit{
+	font-size: 11px;
+}
 table#techdiary {
 	width: 100%;
 	border: solid 0.5px #a5a5a5;
