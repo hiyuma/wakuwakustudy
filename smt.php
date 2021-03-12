@@ -44,68 +44,21 @@
             <p id="top-img-p">
                <image id="top-img" src="gallery/top/smt.png" alt="">
             </p>
-            <p>スマホのLINEで手軽にできる<a href="https://lin.ee/wzMqnDA" target="blank">LINEスマート投資</a>。
+            <p>初心者向けで、LINEで手軽に始められる<a href="https://lin.ee/wzMqnDA" target="blank">LINEスマート投資</a>。
                <br><br>
-               株式会社FOLIOが運営しています。<br>
-               その投資の勉強レポートをゆるーく掲載していきます。
+               株式会社FOLIOが運営しています。
                <br><br>
-               他、投資信託(積み立てNISA)、<a href="https://lin.ee/JbWjYyj" target="blank">LINE証券</a>も同時進行中。
+               初心者の私が投資の勉強レポートをゆるーく掲載していきます。
+               <br><br>
+               他、積み立てNISA、<a href="https://lin.ee/JbWjYyj" target="blank">LINE証券</a>も同時進行中。
                <br><br>
                LINEスマート投資の詳細は<a href="https://lin.ee/wzMqnDA" target="blank">こちら</a>
                <br><br>
                <em4>※LINEスマート投資は、230,000円スタートです。
-               <br>内容はあくまで個人的観測であり、勉強＆素人の独り言ですので予めご了承ください。
+                  <br>内容はあくまで個人的観測であり、勉強＆素人の独り言ですので予めご了承ください。
                </em4>
-               
+
             </p>
-
-            <h2 id="title">そもそも、株とは？</h2>
-
-            <div class="accbox">
-
-               <input type="checkbox" id="1" class="cssacc" />
-
-               <label for="1"><span><i class="fas fa-book"></i>READ</span></label>
-               <div class="accshow">
-                  <p>株とは、必要な事業資金を調達するために、企業が発行しているものです。
-                     <br><br>
-                     株を保有するということは、出資者となり、会社のオーナーの一人になるということです。
-                     <br><br>
-                     株は、企業の業績などにより、価値が変動します。
-                     <br><br>
-                     その変動を利用して、利益を得たり、株主優待を受けることもできます。
-                     <br><br>
-                     企業を応援することで、経済も活性化されますし、資産運用としても、とても魅力的な商品だと言えます。
-                  </p>
-               </div>
-            </div>
-
-            <h2 id="title">どうしたら、株取引できる？</h2>
-
-            <div class="accbox">
-
-               <input type="checkbox" id="2" class="cssacc" />
-
-               <label for="2"><span><i class="fas fa-book"></i>READ</span></label>
-               <div class="accshow">
-                  <p>株を買うためには、証券取引所を介する必要があります。
-                  <br><br>
-                  そのため、まずは、証券会社に口座開設する必要があります。
-                  <br><br>
-                  他の投資家が売りに出している株を買います。 
-                  <br><br>
-                  実店舗のある証券会社とネット証券会社に分かれます。
-                  <br><br>
-                  ネット証券は、手数料が安い、どこでも取引できる、システム障害が起きることがある、アドバイスや情報がもらえないなどの特徴があります。
-                  <br><br>
-                  ネット証券会社には、<a href="https://lin.ee/JbWjYyj" target="blank">LINE証券</a>、楽天証券、SBI証券、松井証券などがあり、それぞれ、手数料や扱う銘柄が異なります。
-                  </p>
-               </div>
-            </div>
-
-            <em4>株に関する記載は、随時更新中</em4>
-
-
 
             <div class="schedule_wrapper">
                <h3>Investment Info</h3>
@@ -158,7 +111,164 @@
                   </ol>
                </div>
             </div>
-            <p>Move to this first article<a href="#first"><span class="material-icons">south</span></a></p>
+
+            <h2>株を学ぶ</h2>
+            <div class="schedule_wrapper">
+               <h3 id="title">1.そもそも、株とは？</h3>
+
+               <div class="accbox">
+
+                  <input type="checkbox" id="1" class="cssacc" />
+
+                  <label for="1"><span>READ</span></label>
+                  <div class="accshow">
+                     <p>株とは、必要な事業資金を調達するために、企業が発行しているものです。
+                        <br><br>
+                        株を保有するということは、出資者となり、会社のオーナーの一人になるということです。
+                        <br><br>
+                        株は、企業の業績などにより、価値が変動します。
+                        <br><br>
+                        その変動を利用して、利益を得たり、株主優待を受けることもできます。
+                        <br><br>
+                        企業を応援することで、経済も活性化されますし、資産運用としても、とても魅力的な商品だと言えます。
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <br>
+
+            <div class="schedule_wrapper">
+               <h3 id="title">2.どうしたら、株取引できる？</h3>
+
+               <div class="accbox">
+
+                  <input type="checkbox" id="2" class="cssacc" />
+
+                  <label for="2"><span>READ</span></label>
+                  <div class="accshow">
+                     <p>株を買うためには、証券取引所を介する必要があります。
+                        <br><br>
+                        そのため、まずは、証券会社に口座開設する必要があります。
+                        <br><br>
+                        他の投資家が売りに出している株を買います。
+                        <br><br>
+                        実店舗のある証券会社とネット証券会社に分かれます。
+                        <br><br>
+                        ネット証券は、手数料が安い、どこでも取引できる、システム障害が起きることがある、アドバイスや情報がもらえないなどの特徴があります。
+                        <br><br>
+                        ネット証券会社には、<a href="https://lin.ee/JbWjYyj" target="blank">LINE証券</a>、楽天証券、SBI証券、松井証券などがあり、それぞれ、手数料や扱う銘柄が異なります。
+                     </p>
+
+                  </div>
+               </div>
+            </div>
+            <br>
+
+            <!-- <div class="schedule_wrapper">
+               <h3 id="title">3.どの証券会社を選べばよい？</h3>
+
+               <div class="accbox">
+
+                  <input type="checkbox" id="3" class="cssacc" />
+
+                  <label for="3"><span>READ</span></label>
+                  <div class="accshow">
+                     <p>初心者であれば、どの証券会社を選ぼうか、選び方に迷う方が多いのではないでしょうか。
+                        <br><br>
+                        投資経験があれば、それぞれの証券会社によって異なる”手数料”や”取扱商品”などを比べられます。
+                        <br><br>
+                        では、初心者が証券会社を選び、口座開設するにはどのような選び方が良いのでしょうか。
+                        <br><br>
+                        SMBC日興証券、野村證券などの「店舗型証券会社」は、手数料や窓口まで出向く手間はかかりますが、初心者には安心の口頭で対応してくれる担当者がいます。
+                        <br><br>
+                        アドバイスが欲しい時などにも豊富な知識量で応えてくれます。
+                        <br><br>
+                        ただ、窓口の担当者は、ノルマや会社の意向を汲んだ対応がありますので、こちらのメリットになるものばかりを提案してくれるわけではないので、注意が必要でしょう。
+                        <br><br>
+                        「ネット証券」は、自分で手続きや取引方法を調べて進めていかないといけないので、最初のハードルが高いです。
+                        <br><br>
+                        ですが、やはり、この進むネット化社会では、簡単に株取引ができるようになっています。
+                        <br><br>
+                        現在の代表的なネット証券会社の手数料や特徴を表にまとめてみました。
+                        
+
+                     <table id="techdiary">
+                     <tbody>
+                        <tr>
+                           <th rowspan="2">証券会社</th>
+                           <th colspan="4">売買手数料</th>
+                           <th rowspan="2">特徴</th>
+                        </tr>
+                        <tr id="tablelimit">
+                           <td>10万円まで</td>
+                           <td>50万円まで</td>
+                           <td>100万円まで</td>
+                           <td>300万円まで</td>
+                        </tr>
+
+                        <tr>
+                           <td>SBI証券</td>
+                           <td id="tablelimit">99円</td>
+                           <td id="tablelimit">275円</td>
+                           <td id="tablelimit">535円</td>
+                           <td id="tablelimit">1,013円</td>
+                           <td>2020年 ネット証券人気ランキング1位。関連情報の配信、取扱商品が豊富。世界10ヵ国に投資可能。バランスがよい。</td>
+                        </tr>
+                        <tr>
+                           <td>楽天証券</td>
+                           <td id="tablelimit">99円</td>
+                           <td id="tablelimit">275円</td>
+                           <td id="tablelimit">535円</td>
+                           <td id="tablelimit">1,013円</td>
+                           <td>楽天会員ならお得。楽天ポイントプログラムを利用でき、口座開設が簡単。会員でなくとも人気高。スマホアプリ「iSPEED」の評価高。</td>
+                        </tr>
+                        <tr>
+                           <td>auカブコム証券</td>
+                           <td id="tablelimit">99円</td>
+                           <td id="tablelimit">275円</td>
+                           <td id="tablelimit">1,089円</td>
+                           <td id="tablelimit">3,068円</td>
+                           <td>1日50万円以下の現物取引手数料無料。「カブナビ」「EVERチャート」などの専門性が高い分析ツール。</td>
+                        </tr>
+                        <tr>
+                           <td>LINE証券</td>
+                           <td id="tablelimit">99円(買付無料)</td>
+                           <td id="tablelimit">484円(買付無料)</td>
+                           <td id="tablelimit">869円(買付無料)</td>
+                           <td id="tablelimit">1,661円(買付無料)</td>
+                           <td>スマホ向け、初心者向けの手軽さ。1株単位で取引できる銘柄が豊富。最大7%オフの株のセール。</td>
+                        </tr>
+                        <tr>
+                           <td>松井証券</td>
+                           <td id="tablelimit">0円(定額制)</td>
+                           <td id="tablelimit">0円(定額制)</td>
+                           <td id="tablelimit">1,100円</td>
+                           <td id="tablelimit">3,300円</td>
+                           <td>デイトレーダーに人気高。50万以下なら手数料無料。信託報酬の一部が現金還元。</td>
+                        </tr>
+                        <tr>
+                           <td>マネックス証券</td>
+                           <td id="tablelimit">110円</td>
+                           <td id="tablelimit">495円</td>
+                           <td id="tablelimit">1100円</td>
+                           <td id="tablelimit">3,300円</td>
+                           <td>米国株数No.1。チャート画面や銘柄ツールがシンプル。</td>
+                        </tr>
+                       
+                        <tbody>
+                     </table>
+
+
+                     </p>
+
+                  </div>
+               </div>
+            </div> -->
+            <br>
+            ...続く。
+            <br>
+            <em4>株に関する記載は、随時更新していきます。</em4>
+            <br><br>
 
 
             <!-- id=0003 -->
@@ -187,11 +297,15 @@
                      <br><br>
                      LINE証券は、まだ初心者ということで、キャッシュポジション50％辺りで動かしていました。
                      <br><br>
-                     残念ながら、損益-5％辺りにいます。
+                     残念ながら、所有している株の中でも特にエムスリーの影響があり、損益は-5％辺りにいます。
+                     <br><br>
+                     早めに損切りしておくべきでした。ハイテク株は、下がる一方です。
                      <br><br>
                      株の勉強も少しずつ続けている中で、理解できてきたことも多く、もう少し踏み込んだ投資を勉強してみようと思います。
                      <br><br>
                      このページでは、投資用語や株価変動に対するレポートを続けていきます。
+                     <br><br>
+                     さらに、株の勉強を進められたら、SBI証券や楽天証券などの大きな収益を狙える証券会社へシフトチェンジして頑張りたいと思います。
                      <br><br>
                      LINEで手軽にできる<a href="https://lin.ee/wzMqnDA" target="blank">LINEスマート投資</a>は、初心者向けの投資に関するクイズもあります。
                      <br><br>
