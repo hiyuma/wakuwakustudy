@@ -126,45 +126,45 @@
           <label for="月が綺麗ですね"><span><i class="fas fa-book"></i>READ</span></label>
           <div class="accshow">
             <p><img src="gallery/diary/diary20210228/diary20210228SnowMoon.jpg" alt=""></p>
-            
+
             <em3>写真：2月27日夜の満月</em3>
             <p>iPhoneSE2で撮影しました。
               <br><br>
               ここで、いつかの日記に満月をキレイに撮影したいから、方法を調べるなんてことを書いてた気がします。
-              <p><img src="gallery/diary/diary20210228/4in1 スマホ用カメラレンズ (1).jpg" alt=""></p>
-              <p><img src="gallery/diary/diary20210228/4in1 スマホ用カメラレンズ (2).jpg" alt=""></p>
-              <em3>写真：<a href="https://amzn.to/3pZCxiA">スマホ用22倍望遠レンズ4点セット</a></em3>
-              <br><br>
-              いつだったか、思い出せないほどに遅くなったけれど、今更、買いました。
-              <p><img src="gallery/diary/diary20210228/4in1 スマホ用カメラレンズ.jpg" alt=""></p>
-              25倍のマイクロレンズと、235°の魚眼レンズと、0.62倍の広角レンズ、脚立付きです。
-              <br><br>
-              素材感とかも安っぽくなくて約3000円とはコスパよきです。
-              
-              <p><img src="gallery/diary/diary20210228/4in1 スマホ用カメラレンズ (3).jpg" alt=""></p>
-              <em3>写真：広角レンズ</em3>
-              <p><img src="gallery/diary/diary20210228/4in1 スマホ用カメラレンズ (4).jpg" alt=""></p>
-              <em3>写真：広角レンズなし</em3>
-              <p><img src="gallery/diary/diary20210228/4in1 スマホ用カメラレンズ (5).jpg" alt=""></p>
-              <em3>写真：うちのアボカド新葉</em3>
-              <p><img src="gallery/diary/diary20210228/4in1 スマホ用カメラレンズ (7).jpg" alt=""></p>
-              <em3>写真：うちのアボカド葉脈</em3>
-              <p><img src="gallery/diary/diary20210228/4in1 スマホ用カメラレンズ (6).jpg" alt=""></p>
-              <em3>写真：魚眼レンズ</em3>
-              <br><br>
-              <a href="https://amzn.to/3pZCxiA">スマホ用22倍望遠レンズ4点セット</a>。よきよきな買い物ができました。
-              <br><br>
-              ところで...。
-              <br><br>
-              2月の満月を”Snow Moon”と呼ぶなんて初耳でした。
-              <br><br>
-              友人から入った情報で知ったのですが、調べてみるとアメリカで呼ばれているそうです。
-              <br><br>
-              Twitterでも、スノームーンの話題を見かけました。
-              <br><br>
-              「寒さが厳しく、大地の多くが雪に覆われる季節」だからとのこと。
-              <br><br>
-              他の月は、どのような呼び方をしてるのか調べてみました。
+            <p><img src="gallery/diary/diary20210228/4in1 スマホ用カメラレンズ (1).jpg" alt=""></p>
+            <p><img src="gallery/diary/diary20210228/4in1 スマホ用カメラレンズ (2).jpg" alt=""></p>
+            <em3>写真：<a href="https://amzn.to/3pZCxiA">スマホ用22倍望遠レンズ4点セット</a></em3>
+            <br><br>
+            いつだったか、思い出せないほどに遅くなったけれど、今更、買いました。
+            <p><img src="gallery/diary/diary20210228/4in1 スマホ用カメラレンズ.jpg" alt=""></p>
+            25倍のマイクロレンズと、235°の魚眼レンズと、0.62倍の広角レンズ、脚立付きです。
+            <br><br>
+            素材感とかも安っぽくなくて約3000円とはコスパよきです。
+
+            <p><img src="gallery/diary/diary20210228/4in1 スマホ用カメラレンズ (3).jpg" alt=""></p>
+            <em3>写真：広角レンズ</em3>
+            <p><img src="gallery/diary/diary20210228/4in1 スマホ用カメラレンズ (4).jpg" alt=""></p>
+            <em3>写真：広角レンズなし</em3>
+            <p><img src="gallery/diary/diary20210228/4in1 スマホ用カメラレンズ (5).jpg" alt=""></p>
+            <em3>写真：うちのアボカド新葉</em3>
+            <p><img src="gallery/diary/diary20210228/4in1 スマホ用カメラレンズ (7).jpg" alt=""></p>
+            <em3>写真：うちのアボカド葉脈</em3>
+            <p><img src="gallery/diary/diary20210228/4in1 スマホ用カメラレンズ (6).jpg" alt=""></p>
+            <em3>写真：魚眼レンズ</em3>
+            <br><br>
+            <a href="https://amzn.to/3pZCxiA">スマホ用22倍望遠レンズ4点セット</a>。よきよきな買い物ができました。
+            <br><br>
+            ところで...。
+            <br><br>
+            2月の満月を”Snow Moon”と呼ぶなんて初耳でした。
+            <br><br>
+            友人から入った情報で知ったのですが、調べてみるとアメリカで呼ばれているそうです。
+            <br><br>
+            Twitterでも、スノームーンの話題を見かけました。
+            <br><br>
+            「寒さが厳しく、大地の多くが雪に覆われる季節」だからとのこと。
+            <br><br>
+            他の月は、どのような呼び方をしてるのか調べてみました。
             <table id="techdiary">
               <tr>
                 <th>月</th>
@@ -232,16 +232,16 @@
                 <td>寒月</td>
               </tr>
             </table>
-              うん、ツッコみどころがあります。
-              <br><br>
-              アメリカの先住民は季節を把握するために名付けたようなので、ネーミングに納得です。
-              <br><br>
-              日本にも、古来から伝わる呼び方は多々ありますよね。
-              <br><br>
-              昔の風習や環境を思い浮かべられます。
-              <br><br>
-              満月がきれいに見えるようになって、とっても満足です。
-              <br><br>
+            うん、ツッコみどころがあります。
+            <br><br>
+            アメリカの先住民は季節を把握するために名付けたようなので、ネーミングに納得です。
+            <br><br>
+            日本にも、古来から伝わる呼び方は多々ありますよね。
+            <br><br>
+            昔の風習や環境を思い浮かべられます。
+            <br><br>
+            満月がきれいに見えるようになって、とっても満足です。
+            <br><br>
             </p>
             <br><br>
 
