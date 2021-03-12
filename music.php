@@ -54,8 +54,6 @@
           クラブミュージック系は音響、特に低音域が良い環境で聞いて欲しいです。
           <br><br>
           常に音の全体を聴きたいと思い、曲に合わせたイコライジングを考えてしまいます。基本的に、インスト(Instrumental)系を好んでいます。
-          <br><br>
-          掲載曲が溜まってきましたら、リスト化する予定です。
         </p>
 
         <!-- <div class="schedule_wrapper">
@@ -404,30 +402,11 @@
             <br><br>
           </div>
           <hr> -->
-        <!--テンプレ <div id="202103XX"></div>
+
+          <!--テンプレ <div id="20210313"></div>
           <!- XX ->
           <div>
-            <p><small> 2021年03月XX日</small></p>
-
-            <h4> / <i class="fas fa-headphones-alt"></i></h4>
-
-            <i class="far fa-file-audio file"></i>
-            <a href="X" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
-            <br><br>
-            <em2>
-              時間： X
-              <br>
-              ジャンル： X
-              <br>
-              レーベル： X
-            </em2>
-            <br><br>
-          </div>
-          <hr> -->
-        <!--テンプレ <div id="202103XX"></div>
-          <!- XX ->
-          <div>
-            <p><small> 2021年03月XX日</small></p>
+            <p><small> 2021年03月13日</small></p>
 
             <h4> / <i class="fas fa-headphones-alt"></i></h4>
 
@@ -445,9 +424,102 @@
           </div>
           <hr> -->
 
+        
 
-        <!--テンプレ <div id="20210309"></div>
-          <!- XX ->
+
+        
+
+
+        
+
+
+        
+
+        
+        <h2>今日の1曲<i class="fas fa-music"></i></h2>
+
+        <div id="20210312"></div>
+          <!-- <!- バナナ・パンケーキ / ジャック・ジョンソン -> -->
+          <div>
+            <p><small> 2021年03月12日</small></p>
+
+            <h4>バナナ・パンケーキ / ジャック・ジョンソン<i class="fas fa-headphones-alt"></i></h4>
+
+            <i class="far fa-file-audio file"></i>
+            <a href="https://amzn.to/30slA5M" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+            <br><br>
+            <em2>
+              時間： 3:11
+              <br>
+              ジャンル： ロック
+              <br>
+              レーベル： Universal Music LLC
+            </em2>
+            <br><br>
+          </div>
+          <hr>
+
+        
+
+
+        
+
+
+        
+
+
+        <div class="accbox">
+          今日までの1曲<i class="fas fa-music"></i><br>
+          <input type="checkbox" id="select-music" class="cssacc" />
+          <label for="select-music">OPEN</label>
+
+          <div class="accshow">
+
+          <div id="20210311"></div>
+          <!-- <!- Better Than I Imagined [feat. H.E.R. & Meshell Ndegeocello] / ロバート・グラスパー -> -->
+          <div>
+            <p><small> 2021年03月11日</small></p>
+
+            <h4>Better Than I Imagined [feat. H.E.R. & Meshell Ndegeocello] / ロバート・グラスパー<i class="fas fa-headphones-alt"></i></h4>
+
+            <i class="far fa-file-audio file"></i>
+            <a href="https://amzn.to/38mUH7F" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+            <br><br>
+            <em2>
+              時間： 4:59
+              <br>
+              ジャンル： ジャズ・フュージョン
+              <br>
+              レーベル： Loma Vista Recordings
+            </em2>
+            <br><br>
+          </div>
+          <hr>
+
+
+          <div id="20210310"></div>
+          <!-- <!- プット・ユア・レコーズ・オン / コリーヌ・ベイリー・レイ -> -->
+          <div>
+            <p><small> 2021年03月10日</small></p>
+
+            <h4>プット・ユア・レコーズ・オン / コリーヌ・ベイリー・レイ<i class="fas fa-headphones-alt"></i></h4>
+
+            <i class="far fa-file-audio file"></i>
+            <a href="https://amzn.to/3btx1R7" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+            <br><br>
+            <em2>
+              時間： 3:37
+              <br>
+              ジャンル： ポップス
+              <br>
+              レーベル： EMI UK
+            </em2>
+            <br><br>
+          </div>
+          <hr>
+
+          <div id="20210309"></div>
+          <!-- <!- Green & Gold / Lianne La Havas -> -->
           <div>
             <p><small> 2021年03月09日</small></p>
 
@@ -465,12 +537,9 @@
             </em2>
             <br><br>
           </div>
-          <hr> -->
+          <hr>
 
-        
-        <h2>今日の1曲<i class="fas fa-music"></i></h2>
-
-        <div id="20210308"></div>
+          <div id="20210308"></div>
           <!-- <!- Nightrider [feat. Freddie Gibbs] [Explicit] / トム・ミッシュ & ユセフ・デイズ -> -->
           <div>
             <p><small> 2021年03月08日</small></p>
@@ -491,16 +560,6 @@
           </div>
           <hr>
 
-        
-
-
-
-        <div class="accbox">
-          今日までの1曲<i class="fas fa-music"></i><br>
-          <input type="checkbox" id="select-music" class="cssacc" />
-          <label for="select-music">OPEN</label>
-
-          <div class="accshow">
 
 
           <div id="20210307"></div>

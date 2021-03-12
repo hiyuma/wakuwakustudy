@@ -14,6 +14,10 @@
     <div class="info-children">
       <span><a href="smt.php"> スマート投資</a> 更新</span>
     </div>
+    <li>2021年03月08日</li>
+    <div class="info-children">
+      <span><a href="smt.php"> スマート投資</a> 「株を学ぶ」追加</span>
+    </div>
 
     <li>2021年03月01日</li>
     <div class="info-children"><span>スクロールイベント・スライドインアニメーション（ CSS / jQuery ） 追加</span></div>

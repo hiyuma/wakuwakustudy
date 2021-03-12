@@ -46,6 +46,82 @@
         </li>
 
     <hr> -->
+        2021年03月12日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG124F00S1A310C2000000/" target="blank" rel="noopener">
+                東京都、新たに304人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFK1062P0Q1A210C2000000/" target="blank" rel="noopener">
+                稼働率70%の経営　ビジネスチャンスに即座に対応</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODZ081AS0Y1A300C2000000/" target="blank" rel="noopener">
+                食品分野への投資マネー、「持続可能性」に照準</a>
+        </li>
+
+    <hr>
+        2021年03月11日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG116680R10C21A3000000/" target="blank" rel="noopener">
+                東京都で新たに335人感染　7日平均で前週比増</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG11CW60R10C21A3000000/" target="blank" rel="noopener">
+                中国がコロナワクチン提供　東京、北京両五輪参加者に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR10DYZ0Q1A310C2000000/" target="blank" rel="noopener">
+                英国型の変異ウイルス、イタリア・仏で猛威　致死率高く</a>
+        </li>
+
+    <hr>
+        2021年03月10日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG103HN0Q1A310C2000000/" target="blank" rel="noopener">
+                東京都、新たに340人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODE297LC0Z20C21A1000000/" target="blank" rel="noopener">
+                国産ワクチン開発、政府が支援　アジアに治験網</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODF05E570V00C21A3000000/" target="blank" rel="noopener">
+                患者データ提供、製薬目的なら同意不要　情報保護に特例</a>
+        </li>
+
+    <hr>
+        2021年03月09日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG093KK0Z00C21A3000000/" target="blank" rel="noopener">
+                東京都、新たに290人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODF090YH0Z00C21A3000000/" target="blank" rel="noopener">
+                ワクチン1瓶7回分採取、厚労相容認　インスリン注射器で</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGD268RV0W1A220C2000000/" target="blank" rel="noopener">
+                「上がるものなら何でも買う」　高まる個人の投機熱</a>
+        </li>
+
+    <hr>
 
      2021年03月08日
     
