@@ -22,6 +22,7 @@
   <script src="https://kit.fontawesome.com/6256a7882a.js" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js"></script>
   <link rel="stylesheet" href="pre.css">
+  <?php include('parts/mobileAmazon.php')?>
 </head>
 
 <body>
@@ -90,6 +91,39 @@
             <h3></h3>
             <p>
             <br><br>
+            <br><br>
+            <br><br>
+            <br><br>
+            </p>
+          </div>
+        </div>
+        <br> -->
+
+
+        <!--id=0010 -->
+        <!-- <div id="20210313"></div>
+        <br>
+        <p id="avocado">2021年03月13日 <i class="fas fa-laptop-code"></i>jQuery</p>
+        <h2 id="title">「スクロールイベント・スライドインアニメーション」</h2>
+
+
+        <div class="accbox">
+
+          <p><img src="gallery/techimg" alt=""></p>
+
+          <input type="checkbox" id="0010" class="cssacc" />
+
+          <label for="0010"><span><i class="fas fa-book"></i>READ</span></label>
+          <div class="accshow">
+            <h3></h3>
+            <p>
+              <br><br>
+            <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="hiyuma" data-slug-hash="eYBxPNM" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="eYBxPNM">
+              <span>See the Pen <a href="https://codepen.io/hiyuma/pen/eYBxPNM">
+                  eYBxPNM</a> by MARC JACOBS (<a href="https://codepen.io/hiyuma">@hiyuma</a>)
+                on <a href="https://codepen.io">CodePen</a>.</span>
+            </p>
+            <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
             <br><br>
             <br><br>
             <br><br>

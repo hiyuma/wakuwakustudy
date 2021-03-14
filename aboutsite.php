@@ -17,6 +17,7 @@
       </div>
       <script src="https://kit.fontawesome.com/6256a7882a.js" crossorigin="anonymous"></script>
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+      <?php include('parts/mobileAmazon.php')?>
    </head>
 
    <body>

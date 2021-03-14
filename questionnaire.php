@@ -80,6 +80,7 @@
     }
 
   </style>
+  <?php include('parts/mobileAmazon.php')?>
 </head>
 
 <body>

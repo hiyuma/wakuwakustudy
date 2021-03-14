@@ -19,6 +19,7 @@
    </div>
    <script src="https://kit.fontawesome.com/6256a7882a.js" crossorigin="anonymous"></script>
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+   <?php include('parts/mobileAmazon.php')?>
 </head>
 
 <body>
@@ -164,7 +165,7 @@
             </div>
             <br>
 
-            <!-- <div class="schedule_wrapper">
+            <div class="schedule_wrapper">
                <h3 id="title">3.どの証券会社を選べばよい？</h3>
 
                <div class="accbox">
@@ -190,80 +191,145 @@
                         ですが、やはり、この進むネット化社会では、簡単に株取引ができるようになっています。
                         <br><br>
                         現在の代表的なネット証券会社の手数料や特徴を表にまとめてみました。
-                        
+
 
                      <table id="techdiary">
-                     <tbody>
-                        <tr>
-                           <th rowspan="2">証券会社</th>
-                           <th colspan="4">売買手数料</th>
-                           <th rowspan="2">特徴</th>
-                        </tr>
-                        <tr id="tablelimit">
-                           <td>10万円まで</td>
-                           <td>50万円まで</td>
-                           <td>100万円まで</td>
-                           <td>300万円まで</td>
-                        </tr>
+                        <tbody>
+                           <tr>
+                              <th id="CoName">証券会社</th>
+                              <th id="fee" colspan="2">売買手数料</th>
+                              <th>特徴</th>
+                           </tr>
 
-                        <tr>
-                           <td>SBI証券</td>
-                           <td id="tablelimit">99円</td>
-                           <td id="tablelimit">275円</td>
-                           <td id="tablelimit">535円</td>
-                           <td id="tablelimit">1,013円</td>
-                           <td>2020年 ネット証券人気ランキング1位。関連情報の配信、取扱商品が豊富。世界10ヵ国に投資可能。バランスがよい。</td>
-                        </tr>
-                        <tr>
-                           <td>楽天証券</td>
-                           <td id="tablelimit">99円</td>
-                           <td id="tablelimit">275円</td>
-                           <td id="tablelimit">535円</td>
-                           <td id="tablelimit">1,013円</td>
-                           <td>楽天会員ならお得。楽天ポイントプログラムを利用でき、口座開設が簡単。会員でなくとも人気高。スマホアプリ「iSPEED」の評価高。</td>
-                        </tr>
-                        <tr>
-                           <td>auカブコム証券</td>
-                           <td id="tablelimit">99円</td>
-                           <td id="tablelimit">275円</td>
-                           <td id="tablelimit">1,089円</td>
-                           <td id="tablelimit">3,068円</td>
-                           <td>1日50万円以下の現物取引手数料無料。「カブナビ」「EVERチャート」などの専門性が高い分析ツール。</td>
-                        </tr>
-                        <tr>
-                           <td>LINE証券</td>
-                           <td id="tablelimit">99円(買付無料)</td>
-                           <td id="tablelimit">484円(買付無料)</td>
-                           <td id="tablelimit">869円(買付無料)</td>
-                           <td id="tablelimit">1,661円(買付無料)</td>
-                           <td>スマホ向け、初心者向けの手軽さ。1株単位で取引できる銘柄が豊富。最大7%オフの株のセール。</td>
-                        </tr>
-                        <tr>
-                           <td>松井証券</td>
-                           <td id="tablelimit">0円(定額制)</td>
-                           <td id="tablelimit">0円(定額制)</td>
-                           <td id="tablelimit">1,100円</td>
-                           <td id="tablelimit">3,300円</td>
-                           <td>デイトレーダーに人気高。50万以下なら手数料無料。信託報酬の一部が現金還元。</td>
-                        </tr>
-                        <tr>
-                           <td>マネックス証券</td>
-                           <td id="tablelimit">110円</td>
-                           <td id="tablelimit">495円</td>
-                           <td id="tablelimit">1100円</td>
-                           <td id="tablelimit">3,300円</td>
-                           <td>米国株数No.1。チャート画面や銘柄ツールがシンプル。</td>
-                        </tr>
-                       
+
+                           <tr>
+                              <td rowspan="4">SBI証券</td>
+                              <td id="tablelimit">10万円まで</td>
+                              <td id="tablelimit">99円</td>
+                              <td rowspan="4">2020年 ネット証券人気ランキング1位。関連情報の配信、取扱商品が豊富。世界10ヵ国に投資可能。バランスがよい。</td>
+                           </tr>
+                           <tr>
+                              <td id="tablelimit">50万円まで</td>
+                              <td id="tablelimit">275円</td>
+                           </tr>
+                           <tr>
+                              <td id="tablelimit">100万円まで</td>
+                              <td id="tablelimit">535円</td>
+                           </tr>
+                           <tr>
+                              <td id="tablelimit">300万円まで</td>
+                              <td id="tablelimit">1,013円</td>
+                           </tr>
+
+
+                           <tr>
+                              <td rowspan="4">楽天証券</td>
+                              <td id="tablelimit">10万円まで</td>
+                              <td id="tablelimit">99円</td>
+                              <td rowspan="4">楽天会員ならお得。楽天ポイントプログラムを利用でき、口座開設が簡単。会員でなくとも人気高。スマホアプリ「iSPEED」の評価高。</td>
+                           </tr>
+                           <tr>
+                              <td id="tablelimit">50万円まで</td>
+                              <td id="tablelimit">275円</td>
+                           </tr>
+                           <tr>
+                              <td id="tablelimit">100万円まで</td>
+                              <td id="tablelimit">535円</td>
+                           </tr>
+
+                           <tr>
+                              <td id="tablelimit">300万円まで</td>
+                              <td id="tablelimit">1,013円</td>
+                           </tr>
+
+                           <tr>
+                              <td rowspan="4">auカブコム証券</td>
+                              <td id="tablelimit">10万円まで</td>
+                              <td id="tablelimit">99円</td>
+                              <td rowspan="4">1日50万円以下の現物取引手数料無料。「カブナビ」「EVERチャート」などの専門性が高い分析ツール。</td>
+                           </tr>
+                           <tr>
+                              <td id="tablelimit">50万円まで</td>
+                              <td id="tablelimit">275円</td>
+                           </tr>
+                           <tr>
+                              <td id="tablelimit">100万円まで</td>
+                              <td id="tablelimit">1,089円</td>
+                           </tr>
+                           <tr>
+                              <td id="tablelimit">300万円まで</td>
+                              <td id="tablelimit">3,068円</td>
+                           </tr>
+
+                           <tr>
+                              <td rowspan="4">LINE証券</td>
+                              <td id="tablelimit">10万円まで</td>
+                              <td id="tablelimit">99円(買付無料)</td>
+                              <td rowspan="4">スマホ向け、初心者向けの手軽さ。1株単位で取引できる銘柄が豊富。最大7%オフの株のセール。</td>
+                           </tr>
+                           <tr>
+                              <td id="tablelimit">50万円まで</td>
+                              <td id="tablelimit">484円(買付無料)</td>
+                           <tr>
+                              <td id="tablelimit">100万円まで</td>
+                              <td id="tablelimit">869円(買付無料)</td>
+                           <tr>
+                              <td id="tablelimit">300万円まで</td>
+                              <td id="tablelimit">1,661円(買付無料)</td>
+                           </tr>
+                           <tr>
+
+                           <tr>
+                              <td rowspan="4">松井証券</td>
+                              <td id="tablelimit">10万円まで</td>
+                              <td id="tablelimit">0円(定額制)</td>
+                              <td rowspan="4">デイトレーダーに人気高。50万以下なら手数料無料。信託報酬の一部が現金還元。</td>
+                           </tr>
+                           <tr>
+                              <td id="tablelimit">50万円まで</td>
+                              <td id="tablelimit">0円(定額制)</td>
+                           </tr>
+                           <tr>
+                              <td id="tablelimit">100万円まで</td>
+                              <td id="tablelimit">1,100円</td>
+                           </tr>
+                           <tr>
+                              <td id="tablelimit">300万円まで</td>
+                              <td id="tablelimit">3,300円</td>
+                           </tr>
+
+                           <tr>
+                              <td rowspan="4">マネックス証券</td>
+                              <td id="tablelimit">10万円まで</td>
+                              <td id="tablelimit">110円</td>
+                              <td rowspan="4">米国株数No.1。チャート画面や銘柄ツールがシンプル。</td>
+                           </tr>
+                           <tr>
+                              <td id="tablelimit">50万円まで</td>
+                              <td id="tablelimit">495円</td>
+                           </tr>
+                           <tr>
+                              <td id="tablelimit">100万円まで</td>
+                              <td id="tablelimit">1100円</td>
+                           </tr>
+                           <tr>
+                              <td id="tablelimit">300万円まで</td>
+                              <td id="tablelimit">3,300円</td>
+                           </tr>
                         <tbody>
                      </table>
-
-
+                     以上、簡単にまとめてみました。
+                     <br><br>
+                     デイトレーダーは売買の回数が多いので手数料をとても気にしますし、そうでないなら、欲しい銘柄があるかないかで決めたり、
+                     <br><br>
+                     楽天やLINEの様にポイントプログラムが利用できるか、汎用性があるサービスなのかで決めることもあるでしょう。
+                     <br><br>
+                     2021年、この中では、まだ新しく、取り扱い銘柄が多くない「LINE証券」が初心者向けで、オールマイティな「SBI証券」が一番人気、「楽天証券」がそこに続いているといった状況だと推測されます。
                      </p>
 
                   </div>
                </div>
-            </div> -->
+            </div>
             <br>
             ...続く。
             <br>

@@ -38,7 +38,7 @@
                      });
               });
        </script>
-
+       <?php include('parts/mobileAmazon.php')?>
 </head>
 
 <body>

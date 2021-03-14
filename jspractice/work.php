@@ -19,6 +19,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="js/jquery.easing.1.3.js"></script>
   <div id="page_top"><a href="#"></a></div>
+  <?php include('parts/mobileAmazon.php')?>
 
 </head>
 <?php include('../parts/header.php') ?>
