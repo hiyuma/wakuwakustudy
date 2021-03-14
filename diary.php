@@ -20,6 +20,7 @@
   </div>
   <script src="https://kit.fontawesome.com/6256a7882a.js" crossorigin="anonymous"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <?php include('parts/mobileAmazon.php')?>
 </head>
 
 <body>
@@ -99,7 +100,7 @@
         <p>Move to this first article<a href="#first"><span class="material-icons">south</span></a></p>
 
 
-        <!-- テンプレ <div id="202102XX"></div>
+        <!-- テンプレ <div id="20210XXX"></div>
         <br>
         <p id="avocado"><strong>　2021年0X月XX日 「」</strong></p>
         <div class="accbox">
@@ -116,6 +117,72 @@
             <br><br>
           </div>
         </div> -->
+
+
+        <div id="20210313"></div>
+        <br>
+        <p id="avocado"><strong>　2021年03月13日 「チャオズ」</strong></p>
+        <div class="accbox">
+          <input type="checkbox" id="チャオズ" class="cssacc" />
+
+          <label for="チャオズ"><span><i class="fas fa-book"></i>READ</span></label>
+          <div class="accshow">
+            <p><img src="gallery/diary/Photos/餃子 (2).jpg" alt=""></p>
+            
+            <em3>写真：手作り餃子と麻婆豆腐</em3>
+            <p>やってみよう、やってみようと思っていた料理。
+              <br><br>
+              それが、餃子です。
+              <br><br>
+              餃子の皮を購入したのが今回初めてです。
+              <br><br>
+              やっと、念願叶って作れたことで達成感がありました。
+              <br><br>
+              今回使った材料はこちら。
+              
+              <p><img src="gallery/diary/Photos/餃子 (3).jpg" alt=""></p>
+            <div id="dotline"></div>
+            <h4>🍽 餃子</h4>
+            <p><i style="padding-left: 0;" class="fas fa-receipt"></i> 材料：（目分量）</p>
+            ①餃子の皮<br>
+            ②豚ひき肉<br>
+            ③ニラ<br>
+            ④大葉<br>
+            ⑤キャベツ<br>
+            ⑥ごま油<br>
+            ⑦サラダ油<br>
+            ⑧おろししょうが<br>
+            ⑨おろしにんにく<br>
+            ⑩酒<br>
+            ⑪しょうゆ<br>
+            ⑫塩こしょう<br>
+            <div id="dotline"></div>
+            <br>
+            大葉がポイントです。
+            <br><br>
+            この子が良き仕事をしてくれました。
+            <br><br>
+            ガツンとくる匂いの中で、時々、爽やかな香りを届けてくれていました。
+            <br><br>
+            大葉入れるのオススメです。
+            <br><br>
+            それにしても、餃子の皮で包むのが難しかった。
+            <br><br>
+            包み方を知らず適当にやっていたらうまくできなかったのでYouTube先生に教えてもらいました。
+            <br><br>
+            得意料理は「餃子」です。
+            <br><br>
+            と、言えるようになりたい。
+            <br><br>
+            そして、その1週間後、また同じ材料をAmazonフレッシュで注文し、餃子を作りました。
+            <br><br>
+            得意料理と言えるまでには、あと1回必要かなと感じています。
+            <br><br>
+            どうしても、漢字の「餃子」を見ると、鶴仙人の弟子の1人を連想してしまうんですよね。
+            </p>
+            <br><br>
+          </div>
+        </div>
 
         <div id="20210228"></div>
         <br>
@@ -409,9 +476,8 @@
             今回は、まずミネストローネを作りました。
             <br><br>
             <div id="dotline"></div>
-            🍽 ミネストローネ
-            <br><br>
-            <i class="fas fa-receipt"></i> 材料：（目分量）<br>
+            <h4>🍽 ミネストローネ</h4>
+            <p><i style="padding-left: 0;" class="fas fa-receipt"></i> 材料：（目分量）</p>
             ①トマトジュース<br>
             ②オリーブオイル<br>
             ③塩<br>
@@ -442,9 +508,8 @@
             お雑煮の様に出来上がり、こちらもとても美味しかったです。
             <br><br>
             <div id="dotline"></div>
-            🍽 お雑煮みたいなもの
-            <br><br>
-            <i class="fas fa-receipt"></i> 材料：（目分量）<br>
+            <h4>🍽 お雑煮みたいなもの</h4>
+            <p><i style="padding-left: 0;" class="fas fa-receipt"></i> 材料：（目分量）</p>
             ①ほんだし<br>
             ②水<br>
             ③塩<br>
