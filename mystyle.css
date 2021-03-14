@@ -1322,6 +1322,12 @@ ol#gallery-list li a {
 #tablelimit{
 	font-size: 11px;
 }
+#CoName{
+	width: 15%;
+}
+#fee{
+	width: 25%;
+}
 table#techdiary {
 	width: 100%;
 	border: solid 0.5px #a5a5a5;
