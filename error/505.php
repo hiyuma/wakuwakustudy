@@ -1,69 +1,69 @@
 <!DOCTYPE html>
 <html lang="ja">
 
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name=”robots” content=”index”>
-		<meta name="description"
-			content="長野県出身、元美容師/イベントオーガナイザーのしらひゅー(白井　飛友馬)が、WEB制作・デザイン・開発などのプログラミング言語(PHP/Java/JSP/Servlet/HTML/CSS/JavaScriptなど)や英語(TOEIC・日常英会話)、投資、アボカド栽培などを学ぶために作成したWEBサイトです。ここは、Javaなどプログラミングをゲーム作成を通して学ぶページです。特に面白味はないです。" />
-		<meta name="keywords" content="プログラミング,新型コロナ,Java">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name=”robots” content=”index”>
+  <meta name="description" content="長野県出身、元美容師/イベントオーガナイザーのしらひゅー(白井　飛友馬)が、WEB制作・デザイン・開発などのプログラミング言語(PHP/Java/JSP/Servlet/HTML/CSS/JavaScriptなど)や英語(TOEIC・日常英会話)、投資、アボカド栽培などを学ぶために作成したWEBサイトです。ここは、Javaなどプログラミングをゲーム作成を通して学ぶページです。特に面白味はないです。" />
+  <meta name="keywords" content="プログラミング,新型コロナ,Java">
 
-    <title>しらひゅーのわくわくスタディ ERROR505</title>
-    <link  rel = "shortcut icon"  href = "../favicon.ico" />
-    <link rel="stylesheet" href="../mystyle.css">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <div id="page_top">
-      <a href="#"></a>
-    </div>
-    <script src="https://kit.fontawesome.com/6256a7882a.js" crossorigin="anonymous"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  </head>
+  <title>しらひゅーのわくわくスタディ ERROR505</title>
+  <link rel="shortcut icon" href="../favicon.ico" />
+  <link rel="stylesheet" href="../mystyle.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <div id="page_top">
+    <a href="#"></a>
+  </div>
+  <script src="https://kit.fontawesome.com/6256a7882a.js" crossorigin="anonymous"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <?php include('parts/mobileAmazon.php') ?>
+</head>
 
-  <body>
-    <?php include('../parts/header.php') ?>
-
-
-    <?php include('../parts/widget/widget_mujirushi.php') ?>
+<body>
+  <?php include('../parts/header.php') ?>
 
 
-    <header>
-      <h1 class="logo">誤</h1>
-    </header>
+  <?php include('../parts/widget/widget_mujirushi.php') ?>
 
-    <?php include('../parts/menuButton.php'); ?>
+
+  <header>
+    <h1 class="logo">誤</h1>
+  </header>
+
+  <?php include('../parts/menuButton.php'); ?>
   <?php include('../parts/facebook_twitter_button.php'); ?>
 
-    <main>
+  <main>
 
-      <div id="article">
-        <ul>
-          <div class="line">ERROR500 SERVER ERROR</div>
-          <p>
-            <image id="top-img" src="../gallery/top/error404.png" alt="小物">
-          </p>
-          <p>サーバーエラーが発生しました。恐れ入りますが、しばらく時間を置いてから再度お試しください。
-            <br><br>
-            しらひゅーのわくわくスタディ <a href="../index.php">トップページ</a>へ。
-          </p>
-        </ul>
+    <div id="article">
+      <ul>
+        <div class="line">ERROR500 SERVER ERROR</div>
+        <p>
+          <image id="top-img" src="../gallery/top/error404.png" alt="小物">
+        </p>
+        <p>サーバーエラーが発生しました。恐れ入りますが、しばらく時間を置いてから再度お試しください。
+          <br><br>
+          しらひゅーのわくわくスタディ <a href="../index.php">トップページ</a>へ。
+        </p>
+      </ul>
 
 
 
-        <?php include('../parts/contents.php'); ?>
-      </div>
+      <?php include('../parts/contents.php'); ?>
+    </div>
 
-      <div id="aside">
-        <?php include('../parts/prof.php'); ?>
+    <div id="aside">
+      <?php include('../parts/prof.php'); ?>
 
-         <?php include('../parts/widget/side_widget.php'); ?>
-      </div>
-    </main>
+      <?php include('../parts/widget/side_widget.php'); ?>
+    </div>
+  </main>
 
-    <?php include('../parts/footer.php'); ?>
+  <?php include('../parts/footer.php'); ?>
 
-    <script src="../js/menu.js"></script>
-  </body>
+  <script src="../js/menu.js"></script>
+</body>
 
 </html>
