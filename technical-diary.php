@@ -75,8 +75,8 @@
         </div>
 
         <!--テンプレート id=00XX -->
-        <div id="202103XX"></div>
-        <!-- <div class="schedule_wrapper">
+        <!--<div id="202103XX"></div>
+         <div class="schedule_wrapper">
         <br>
         <p id="avocado">2021年03月XX日 <i class="fas fa-laptop-code"></i>XML</p>
         <h2 id="title">「」</h2>
