@@ -50,9 +50,10 @@
 						<br><br>
 						ここでは音声がないので、<i class="fas fa-mobile-alt"></i><a
 						href="https://eigosapuri.jp/toeic/?vos=evalstsstopx0000001&fed=ppstp1906003">スタディサプリENGLISH(TOEIC対策)</a>とともに、<i class="fas fa-mobile-alt"></i><a href="https://px.a8.net/svt/ejp?a8mat=3BOCPH+BLYC7U+3AQG+ZQ80I" rel="nofollow">	スタディサプリENGLISH（新日常英会話コース）</a><img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=3BOCPH+BLYC7U+3AQG+ZQ80I" alt="">をぜひ使ってみてください。毎日続けやすく、見やすいのでとてもおススメです。
-						<br>
-						<br>
+						<br><br>
 						現在は、新型コロナウイルス感染拡大の影響を受け、TOIEC試験受ける予定は延期となっています。TOEIC試験が人数制限の抽選式になっており、残念ながら3回連続で外れています。一旦、通常通りに試験受けられるまで、英会話へシフトします。
+						<br><br>
+						<i class="fas fa-arrow-circle-right"></i>やっと、TOEIC試験の抽選に当選しました。4月に受験する予定です。
 						<br><br>
 						TOEIC対策は、<i class="fas fa-mobile-alt"></i><a href="https://eigosapuri.jp/toeic/?vos=evalstsstopx0000001&fed=ppstp1906003">スタディサプリENGLISH</a>を利用しています。
 						<br><br>
@@ -69,7 +70,6 @@
 							<br><br>
 							※PDF埋め込み部は閲覧する端末、ブラウザによって表示が変わる可能性があります。</em4>
 							
-					<em2>※IT系資格試験勉強のため、3月8日以降に更新予定です。</em2>
 					</p>
 					<br>
 					<hr>
