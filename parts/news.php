@@ -46,121 +46,201 @@
         </li>
 
     <hr> -->
-        2021年03月12日
+        2021年03月XX日
     
         <li>
                 <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG163ZE0W1A310C2000000/" target="blank" rel="noopener">
+                東京で新たに300人感染、新型コロナ 8日連続で前週上回る</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR15C5S0V10C21A3000000/" target="blank" rel="noopener">
+                アストラゼネカ製ワクチン、欧州主要国も接種見合わせ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG222H20S1A220C2000000/" target="blank" rel="noopener">
+                コロナ下で遠隔授業受けた子、日本は最下位　民間調査</a>
+        </li>
+
+    <hr>
+
+        2021年03月15日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG152S60V10C21A3000000/" target="blank" rel="noopener">
+                        東京で新たに175人感染　新型コロナ、1週間平均1割増</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODF08AS90Y1A300C2000000/" target="blank" rel="noopener">
+                        知財、海外収入が急減　コロナ禍で4年ぶり赤字に</a>
+        </li>
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODE152UJ0V10C21A3000000/" target="blank" rel="noopener">
+                        緊急事態の解除「いま言える状況にない」　首相</a>
+        </li>
+
+        <hr>
+
+        2021年03月14日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG140KG0U1A310C2000000/" target="blank" rel="noopener">
+                        東京都、新たに239人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODE140R20U1A310C2000000/" target="blank" rel="noopener">
+                        コロナ困窮世帯への給付金、ふたり親にも　自民・世耕氏「来週にも対応策」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG117560R10C21A3000000/" target="blank" rel="noopener">
+                        病床不足の真相に迫る　「コロナ医療の病巣」まとめ読み</a>
+        </li>
+
+        <hr>
+        2021年03月13日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG131G70T10C21A3000000/" target="blank" rel="noopener">
+                        東京都、新たに330人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGH0501Q0V00C21A3000000/" target="blank" rel="noopener">
+                        表情、鍛えて明るく　コロナ禍対応で商品いろいろ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODE12DFU0S1A310C2000000/" target="blank" rel="noopener">
+                        インド製ワクチン増産支援　日米豪印、輸送まで一貫協力</a>
+        </li>
+
+        <hr>
+
+        2021年03月12日
+
+        <li>
+                <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQODG124F00S1A310C2000000/" target="blank" rel="noopener">
-                東京都、新たに304人感染　新型コロナ</a>
+                        東京都、新たに304人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOFK1062P0Q1A210C2000000/" target="blank" rel="noopener">
-                稼働率70%の経営　ビジネスチャンスに即座に対応</a>
+                        稼働率70%の経営　ビジネスチャンスに即座に対応</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQODZ081AS0Y1A300C2000000/" target="blank" rel="noopener">
-                食品分野への投資マネー、「持続可能性」に照準</a>
+                        食品分野への投資マネー、「持続可能性」に照準</a>
         </li>
 
-    <hr>
+        <hr>
         2021年03月11日
-    
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQODG116680R10C21A3000000/" target="blank" rel="noopener">
-                東京都で新たに335人感染　7日平均で前週比増</a>
+                        東京都で新たに335人感染　7日平均で前週比増</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQODG11CW60R10C21A3000000/" target="blank" rel="noopener">
-                中国がコロナワクチン提供　東京、北京両五輪参加者に</a>
+                        中国がコロナワクチン提供　東京、北京両五輪参加者に</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGR10DYZ0Q1A310C2000000/" target="blank" rel="noopener">
-                英国型の変異ウイルス、イタリア・仏で猛威　致死率高く</a>
+                        英国型の変異ウイルス、イタリア・仏で猛威　致死率高く</a>
         </li>
 
-    <hr>
+        <hr>
         2021年03月10日
-    
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQODG103HN0Q1A310C2000000/" target="blank" rel="noopener">
-                東京都、新たに340人感染　新型コロナ</a>
+                        東京都、新たに340人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQODE297LC0Z20C21A1000000/" target="blank" rel="noopener">
-                国産ワクチン開発、政府が支援　アジアに治験網</a>
+                        国産ワクチン開発、政府が支援　アジアに治験網</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQODF05E570V00C21A3000000/" target="blank" rel="noopener">
-                患者データ提供、製薬目的なら同意不要　情報保護に特例</a>
+                        患者データ提供、製薬目的なら同意不要　情報保護に特例</a>
         </li>
 
-    <hr>
+        <hr>
         2021年03月09日
-    
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQODG093KK0Z00C21A3000000/" target="blank" rel="noopener">
-                東京都、新たに290人感染　新型コロナ</a>
+                        東京都、新たに290人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQODF090YH0Z00C21A3000000/" target="blank" rel="noopener">
-                ワクチン1瓶7回分採取、厚労相容認　インスリン注射器で</a>
+                        ワクチン1瓶7回分採取、厚労相容認　インスリン注射器で</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGD268RV0W1A220C2000000/" target="blank" rel="noopener">
-                「上がるものなら何でも買う」　高まる個人の投機熱</a>
+                        「上がるものなら何でも買う」　高まる個人の投機熱</a>
         </li>
 
-    <hr>
+        <hr>
 
-     2021年03月08日
-    
+        2021年03月08日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQODG083YS0Y1A300C2000000/" target="blank" rel="noopener">
-                東京都、新たに116人感染　新型コロナ</a>
+                        東京都、新たに116人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQODF081K90Y1A300C2000000/" target="blank" rel="noopener">
-                2月の企業倒産3割減の446件　コロナ関連は114件に</a>
+                        2月の企業倒産3割減の446件　コロナ関連は114件に</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGV050BO0V00C21A3000000/" target="blank" rel="noopener">
-                パンデミックが広げる男女格差、脆弱な立場浮き彫りに Nikkei Asia「国際女性デー特集」より</a>
+                        パンデミックが広げる男女格差、脆弱な立場浮き彫りに Nikkei Asia「国際女性デー特集」より</a>
         </li>
 
-    <hr>
+        <hr>
 
 
         2021年03月07日
-        
-                <li>
-                        <i class="far fa-file-alt"></i>
-                        <a href="https://www.nikkei.com/article/DGXZQODG071D40X00C21A3000000/" target="blank" rel="noopener">
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG071D40X00C21A3000000/" target="blank" rel="noopener">
                         東京都、新たに237人感染　新型コロナ</a>
-                </li>
-                <li>
-                        <i class="far fa-file-alt"></i>
-                        <a href="https://www.nikkei.com/article/DGXZQOGD015740R00C21A3000000/" target="blank" rel="noopener">
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGD015740R00C21A3000000/" target="blank" rel="noopener">
                         株や住宅価格、警戒水準　迫るバブルの足音</a>
-                </li>
-                <li>
-                        <i class="far fa-file-alt"></i>
-                        <a href="https://www.nikkei.com/article/DGXZQOGH0493J0U1A300C2000000/" target="blank" rel="noopener">
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGH0493J0U1A300C2000000/" target="blank" rel="noopener">
                         コロナ下でも伸びた企業　身近な付加価値を説く</a>
-                </li>
+        </li>
 
         <hr>
 

@@ -19,6 +19,7 @@
   </div>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   <script src="https://kit.fontawesome.com/6256a7882a.js" crossorigin="anonymous"></script>
+  <?php include('parts/mobileAmazon.php') ?>
 </head>
 
 <body>
@@ -403,69 +404,57 @@
           </div>
           <hr> -->
 
-          <!--テンプレ <div id="20210313"></div>
+        <!--<div id="20210317"></div>
           <!- XX ->
           <div>
-            <p><small> 2021年03月13日</small></p>
+            <p><small> 2021年03月17日</small></p>
 
-            <h4> / <i class="fas fa-headphones-alt"></i></h4>
+            <h4>It's Only / Herbert<i class="fas fa-headphones-alt"></i></h4>
 
             <i class="far fa-file-audio file"></i>
-            <a href="X" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+            <a href="https://amzn.to/3vwZP3o" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
             <br><br>
             <em2>
-              時間： X
+              時間： 7:21
               <br>
-              ジャンル： X
+              ジャンル： ダンス・エレクトロニカ > ハウス
               <br>
-              レーベル： X
+              レーベル： Accidental Records Ltd
             </em2>
             <br><br>
           </div>
           <hr> -->
 
-        
 
 
-        
 
 
-        
 
 
-        
 
-        
+
         <h2>今日の1曲<i class="fas fa-music"></i></h2>
 
-        <div id="20210312"></div>
-          <!-- <!- バナナ・パンケーキ / ジャック・ジョンソン -> -->
-          <div>
-            <p><small> 2021年03月12日</small></p>
+        <div id="20210316"></div>
+        <!-- <!- Colourblind / Joe Hertz -> -->
+        <div>
+          <p><small> 2021年03月16日</small></p>
 
-            <h4>バナナ・パンケーキ / ジャック・ジョンソン<i class="fas fa-headphones-alt"></i></h4>
+          <h4>Colourblind / Joe Hertz<i class="fas fa-headphones-alt"></i></h4>
 
-            <i class="far fa-file-audio file"></i>
-            <a href="https://amzn.to/30slA5M" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
-            <br><br>
-            <em2>
-              時間： 3:11
-              <br>
-              ジャンル： ロック
-              <br>
-              レーベル： Universal Music LLC
-            </em2>
-            <br><br>
-          </div>
-          <hr>
-
-        
-
-
-        
-
-
-        
+          <i class="far fa-file-audio file"></i>
+          <a href="https://amzn.to/30zLuoz" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+          <br><br>
+          <em2>
+            時間： 4:26
+            <br>
+            ジャンル： ダンス・エレクトロニカ
+            <br>
+            レーベル： Juicebox Recordings
+          </em2>
+          <br><br>
+        </div>
+        <hr>
 
 
         <div class="accbox">
@@ -475,152 +464,237 @@
 
           <div class="accshow">
 
-          <div id="20210311"></div>
-          <!-- <!- Better Than I Imagined [feat. H.E.R. & Meshell Ndegeocello] / ロバート・グラスパー -> -->
-          <div>
-            <p><small> 2021年03月11日</small></p>
+            <div id="20210315"></div>
+            <!-- <!-Courtside / Triathalon -> -->
+            <div>
+              <p><small> 2021年03月15日</small></p>
 
-            <h4>Better Than I Imagined [feat. H.E.R. & Meshell Ndegeocello] / ロバート・グラスパー<i class="fas fa-headphones-alt"></i></h4>
+              <h4>Courtside / Triathalon<i class="fas fa-headphones-alt"></i></h4>
 
-            <i class="far fa-file-audio file"></i>
-            <a href="https://amzn.to/38mUH7F" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
-            <br><br>
-            <em2>
-              時間： 4:59
-              <br>
-              ジャンル： ジャズ・フュージョン
-              <br>
-              レーベル： Loma Vista Recordings
-            </em2>
-            <br><br>
-          </div>
-          <hr>
+              <i class="far fa-file-audio file"></i>
+              <a href="https://amzn.to/3rFBl5n" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 3:06
+                <br>
+                ジャンル： ポップス
+                <br>
+                レーベル： Triathalon
+              </em2>
+              <br><br>
+            </div>
+            <hr>
 
+            <div id="20210314"></div>
+            <!-- <!- Euphemism [Explicit] / Tash & Jon Vinyl -> -->
+            <div>
+              <p><small> 2021年03月14日</small></p>
 
-          <div id="20210310"></div>
-          <!-- <!- プット・ユア・レコーズ・オン / コリーヌ・ベイリー・レイ -> -->
-          <div>
-            <p><small> 2021年03月10日</small></p>
+              <h4>Euphemism [Explicit] / Tash & Jon Vinyl<i class="fas fa-headphones-alt"></i></h4>
 
-            <h4>プット・ユア・レコーズ・オン / コリーヌ・ベイリー・レイ<i class="fas fa-headphones-alt"></i></h4>
+              <i class="far fa-file-audio file"></i>
+              <a href="https://amzn.to/3bCUuzu" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 3:21
+                <br>
+                ジャンル： ポップス
+                <br>
+                レーベル： Hitmakers Entertainment, LLC
+              </em2>
+              <br><br>
+            </div>
+            <hr>
 
-            <i class="far fa-file-audio file"></i>
-            <a href="https://amzn.to/3btx1R7" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
-            <br><br>
-            <em2>
-              時間： 3:37
-              <br>
-              ジャンル： ポップス
-              <br>
-              レーベル： EMI UK
-            </em2>
-            <br><br>
-          </div>
-          <hr>
+            <div id="20210313"></div>
+            <!-- <!-Festival / トム・ミッシュ & ユセフ・デイズ -> -->
+            <div>
+              <p><small> 2021年03月13日</small></p>
 
-          <div id="20210309"></div>
-          <!-- <!- Green & Gold / Lianne La Havas -> -->
-          <div>
-            <p><small> 2021年03月09日</small></p>
+              <h4>Festival / トム・ミッシュ & ユセフ・デイズ<i class="fas fa-headphones-alt"></i></h4>
 
-            <h4>Green & Gold / Lianne La Havas<i class="fas fa-headphones-alt"></i></h4>
+              <i class="far fa-file-audio file"></i>
+              <a href="https://amzn.to/3qGoRcH" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 4:42
+                <br>
+                ジャンル： オルタナティヴ・ロック
+                <br>
+                レーベル： Beyond The Groove / Blue Note Records
+              </em2>
+              <br><br>
+            </div>
+            <hr>
 
-            <i class="far fa-file-audio file"></i>
-            <a href="https://amzn.to/30pDHcC" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
-            <br><br>
-            <em2>
-              時間： 4:38
-              <br>
-              ジャンル： オルタナティヴ・ロック
-              <br>
-              レーベル： Warner Records
-            </em2>
-            <br><br>
-          </div>
-          <hr>
+            <div id="20210312"></div>
+            <!-- <!- バナナ・パンケーキ / ジャック・ジョンソン -> -->
+            <div>
+              <p><small> 2021年03月12日</small></p>
 
-          <div id="20210308"></div>
-          <!-- <!- Nightrider [feat. Freddie Gibbs] [Explicit] / トム・ミッシュ & ユセフ・デイズ -> -->
-          <div>
-            <p><small> 2021年03月08日</small></p>
+              <h4>バナナ・パンケーキ / ジャック・ジョンソン<i class="fas fa-headphones-alt"></i></h4>
 
-            <h4>Nightrider [feat. Freddie Gibbs] [Explicit] / トム・ミッシュ & ユセフ・デイズ<i class="fas fa-headphones-alt"></i></h4>
-
-            <i class="far fa-file-audio file"></i>
-            <a href="https://amzn.to/3encoYH" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
-            <br><br>
-            <em2>
-              時間： 5:01
-              <br>
-              ジャンル： オルタナティヴ・ロック
-              <br>
-              レーベル： Beyond The Groove / Blue Note Records
-            </em2>
-            <br><br>
-          </div>
-          <hr>
-
+              <i class="far fa-file-audio file"></i>
+              <a href="https://amzn.to/30slA5M" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 3:11
+                <br>
+                ジャンル： ロック
+                <br>
+                レーベル： Universal Music LLC
+              </em2>
+              <br><br>
+            </div>
+            <hr>
 
 
-          <div id="20210307"></div>
-          <!-- <!- Widdit / LAVA LA RUE -> -->
-          <div>
-            <p><small> 2021年03月07日</small></p>
+            <div id="20210311"></div>
+            <!-- <!- Better Than I Imagined [feat. H.E.R. & Meshell Ndegeocello] / ロバート・グラスパー -> -->
+            <div>
+              <p><small> 2021年03月11日</small></p>
 
-            <h4>Widdit / LAVA LA RUE<i class="fas fa-headphones-alt"></i></h4>
+              <h4>Better Than I Imagined [feat. H.E.R. & Meshell Ndegeocello] / ロバート・グラスパー<i class="fas fa-headphones-alt"></i></h4>
 
-            <i class="far fa-file-audio file"></i>
-            <a href="https://amzn.to/3bQj3rF" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
-            <br><br>
-            <em2>
-              時間： 2:32
-              <br>
-              ジャンル： ヒップホップ
-              <br>
-              レーベル： NiNE8 COLLECTIVE
-            </em2>
-            <br><br>
-          </div>
-          <hr>
+              <i class="far fa-file-audio file"></i>
+              <a href="https://amzn.to/38mUH7F" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 4:59
+                <br>
+                ジャンル： ジャズ・フュージョン
+                <br>
+                レーベル： Loma Vista Recordings
+              </em2>
+              <br><br>
+            </div>
+            <hr>
 
-          <div id="20210306"></div>
-          <!-- <!- 7/7 / TAAR -> -->
-          <div>
-            <p><small> 2021年03月06日</small></p>
 
-            <h4>7/7 / TAAR<i class="fas fa-headphones-alt"></i></h4>
+            <div id="20210310"></div>
+            <!-- <!- プット・ユア・レコーズ・オン / コリーヌ・ベイリー・レイ -> -->
+            <div>
+              <p><small> 2021年03月10日</small></p>
 
-            <i class="far fa-file-audio file"></i>
-            <a href="https://amzn.to/3bbb7lL" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
-            <br><br>
-            <em2>
-              時間： 6:07
-              <br>
-              ジャンル： ダンス・エレクトロニカ
-              <br>
-              レーベル： PARK
-            </em2>
-            <br><br>
-          </div>
-          <hr>
+              <h4>プット・ユア・レコーズ・オン / コリーヌ・ベイリー・レイ<i class="fas fa-headphones-alt"></i></h4>
 
-          <div id="20210305"></div>
-        <!-- <!- Banane / 80KIDZ & Maika Loubté -> -->
-        <div>
-          <p><small> 2021年03月05日</small></p>
-          <h4>Banane / 80KIDZ & Maika Loubté<i class="fas fa-headphones-alt"></i></h4>
-          <i class="far fa-file-audio file"></i><a href="https://amzn.to/3r91rh4" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
-          <br><br>
-          <em2>
-            時間： 3:56
-            <br>
-            ジャンル： ダンス・エレクトロニカ
-            <br>
-            レーベル： PARK
-          </em2>
-          <br><br>
-        </div>
-        <hr>
+              <i class="far fa-file-audio file"></i>
+              <a href="https://amzn.to/3btx1R7" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 3:37
+                <br>
+                ジャンル： ポップス
+                <br>
+                レーベル： EMI UK
+              </em2>
+              <br><br>
+            </div>
+            <hr>
+
+            <div id="20210309"></div>
+            <!-- <!- Green & Gold / Lianne La Havas -> -->
+            <div>
+              <p><small> 2021年03月09日</small></p>
+
+              <h4>Green & Gold / Lianne La Havas<i class="fas fa-headphones-alt"></i></h4>
+
+              <i class="far fa-file-audio file"></i>
+              <a href="https://amzn.to/30pDHcC" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 4:38
+                <br>
+                ジャンル： オルタナティヴ・ロック
+                <br>
+                レーベル： Warner Records
+              </em2>
+              <br><br>
+            </div>
+            <hr>
+
+            <div id="20210308"></div>
+            <!-- <!- Nightrider [feat. Freddie Gibbs] [Explicit] / トム・ミッシュ & ユセフ・デイズ -> -->
+            <div>
+              <p><small> 2021年03月08日</small></p>
+
+              <h4>Nightrider [feat. Freddie Gibbs] [Explicit] / トム・ミッシュ & ユセフ・デイズ<i class="fas fa-headphones-alt"></i></h4>
+
+              <i class="far fa-file-audio file"></i>
+              <a href="https://amzn.to/3encoYH" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 5:01
+                <br>
+                ジャンル： オルタナティヴ・ロック
+                <br>
+                レーベル： Beyond The Groove / Blue Note Records
+              </em2>
+              <br><br>
+            </div>
+            <hr>
+
+
+
+            <div id="20210307"></div>
+            <!-- <!- Widdit / LAVA LA RUE -> -->
+            <div>
+              <p><small> 2021年03月07日</small></p>
+
+              <h4>Widdit / LAVA LA RUE<i class="fas fa-headphones-alt"></i></h4>
+
+              <i class="far fa-file-audio file"></i>
+              <a href="https://amzn.to/3bQj3rF" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 2:32
+                <br>
+                ジャンル： ヒップホップ
+                <br>
+                レーベル： NiNE8 COLLECTIVE
+              </em2>
+              <br><br>
+            </div>
+            <hr>
+
+            <div id="20210306"></div>
+            <!-- <!- 7/7 / TAAR -> -->
+            <div>
+              <p><small> 2021年03月06日</small></p>
+
+              <h4>7/7 / TAAR<i class="fas fa-headphones-alt"></i></h4>
+
+              <i class="far fa-file-audio file"></i>
+              <a href="https://amzn.to/3bbb7lL" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 6:07
+                <br>
+                ジャンル： ダンス・エレクトロニカ
+                <br>
+                レーベル： PARK
+              </em2>
+              <br><br>
+            </div>
+            <hr>
+
+            <div id="20210305"></div>
+            <!-- <!- Banane / 80KIDZ & Maika Loubté -> -->
+            <div>
+              <p><small> 2021年03月05日</small></p>
+              <h4>Banane / 80KIDZ & Maika Loubté<i class="fas fa-headphones-alt"></i></h4>
+              <i class="far fa-file-audio file"></i><a href="https://amzn.to/3r91rh4" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 3:56
+                <br>
+                ジャンル： ダンス・エレクトロニカ
+                <br>
+                レーベル： PARK
+              </em2>
+              <br><br>
+            </div>
+            <hr>
 
             <div id="20210304"></div>
             <!-- <!- When You Kill Me / Last Electro -> -->

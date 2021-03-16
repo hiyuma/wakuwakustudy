@@ -38,7 +38,7 @@
                      });
               });
        </script>
-       <?php include('parts/mobileAmazon.php')?>
+       <?php include('parts/mobileAmazon.php') ?>
 </head>
 
 <body>
@@ -85,7 +85,8 @@
 
                      <br><br>
                      <em4>※現在、このWEBサイトは独学にて作成中のため、無意味・未完成箇所が複数あります。
-                            <br>　急にデザインが変わることがあります。</em4>
+                            <br>　急にデザインが変わることがあります。
+                     </em4>
                      <br><br>
                      <div class="line">STUDY LIST <i class="fas fa-pencil-alt"></i></div>
                      <div class="items"><span style="font-weight: normal;"><?php include('parts/weekly.php'); ?></span>
@@ -100,19 +101,19 @@
                                           <div class="info-children"><span>修学済：HTML / CSS / JavaScript / Java / JSP / Servlet / MySQL / Linux / Git</span></div>
                                           <li>ENGLISH</li>
                                           <div class="info-children"><span>Dictation ( スタディサプリ ) </span></div>
-                                          <div class="info-children"><span>Word / Listening / Writing ( スタディサプリ ) / 
+                                          <div class="info-children"><span>Word / Listening / Writing ( スタディサプリ ) /
                                                         Listening ( NHK即レス英会話 , MOVIES ）</span></div>
                                           <div class="info-children"><span>Online Conversation ( Native Camp ）</span></div>
                                           <li>INVESTMENT</li>
                                           <div class="info-children"><span>LINE証券 / LINEスマート投資 / つみたてNISA</span>
                                           </div>
                                           <li>QUALIFICATION EXAM</li>
-                                          <div class="info-children"><span>TOEIC / 応用情報技術者</span></div>
+                                          <div class="info-children"><span>TOEIC(4月25日) / 応用情報技術者(未定)</span></div>
                                    </div>
                             </div>
                      </div>
               </ul>
-              
+
               <div id="aside">
                      <?php include('parts/info.php'); ?>
                      <?php include('parts/menuList.php'); ?>
@@ -413,7 +414,7 @@
 
        <?php include('parts/footer.php'); ?>
        <?php include('parts/footerJs.php'); ?>
-       
+
 </body>
 
 </html>

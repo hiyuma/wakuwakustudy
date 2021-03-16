@@ -9,6 +9,20 @@
 
     <!-- <li>2021年03月09日</li>
     <div class="info-children"><span><a href="englishwordoftheday.php">ENGLISH</a> 今日の1フレーズ作成</span></div> -->
+    
+    <li>2021年03月15日</li>
+    <div class="info-children"><span><a href="avocado.php">AVOCADO</a> 更新</span></div>
+
+    <li>2021年03月14日</li>
+    <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（ JavaScript/jQuery ③「JavaScript/jQuery ③「スクロールイベント・フェードイン」 ）</a> 更新</span></div>
+
+    <li>2021年03月14日</li>
+    <div class="info-children"><span><a href="diary.php">DIARY（チャオズ）</a> 更新</span></div>
+
+    <li>2021年03月13日</li>
+    <div class="info-children">
+      <span><a href="smt.php"> スマート投資</a> 「株を学ぶ」3.追加</span>
+    </div>
 
     <li>2021年03月08日</li>
     <div class="info-children">
@@ -16,7 +30,7 @@
     </div>
     <li>2021年03月08日</li>
     <div class="info-children">
-      <span><a href="smt.php"> スマート投資</a> 「株を学ぶ」追加</span>
+      <span><a href="smt.php"> スマート投資</a> 「株を学ぶ」1.2.追加</span>
     </div>
 
     <li>2021年03月01日</li>
