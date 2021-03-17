@@ -50,6 +50,25 @@
     
         <li>
                 <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG175I30X10C21A3000000/" target="blank" rel="noopener">
+                東京都、新たに409人感染　約1カ月ぶり400人超</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG176D20X10C21A3000000/" target="blank" rel="noopener">
+                東京都、21日まで「時短命令」へ　全国初</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODZ166400W1A310C2000000/" target="blank" rel="noopener">
+                働き方、「世界標準」なお遠く　賃上げの力強さ欠く</a>
+        </li>
+
+    <hr>
+        2021年03月XX日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQODG163ZE0W1A310C2000000/" target="blank" rel="noopener">
                 東京で新たに300人感染、新型コロナ 8日連続で前週上回る</a>
         </li>

@@ -404,22 +404,64 @@
           </div>
           <hr> -->
 
-        <!--<div id="20210317"></div>
+        <!-- <div id="20210321"></div>
           <!- XX ->
           <div>
-            <p><small> 2021年03月17日</small></p>
+            <p><small> 2021年03月21日</small></p>
 
-            <h4>It's Only / Herbert<i class="fas fa-headphones-alt"></i></h4>
+            <h4> / <i class="fas fa-headphones-alt"></i></h4>
 
             <i class="far fa-file-audio file"></i>
-            <a href="https://amzn.to/3vwZP3o" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+            <a href="X" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
             <br><br>
             <em2>
-              時間： 7:21
+              時間： X
               <br>
-              ジャンル： ダンス・エレクトロニカ > ハウス
+              ジャンル： X
               <br>
-              レーベル： Accidental Records Ltd
+              レーベル： X
+            </em2>
+            <br><br>
+          </div>
+          <hr> -->
+
+        <!-- <div id="20210320"></div>
+          <!- XX ->
+          <div>
+            <p><small> 2021年03月20日</small></p>
+
+            <h4> / <i class="fas fa-headphones-alt"></i></h4>
+
+            <i class="far fa-file-audio file"></i>
+            <a href="X" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+            <br><br>
+            <em2>
+              時間： X
+              <br>
+              ジャンル： X
+              <br>
+              レーベル： X
+            </em2>
+            <br><br>
+          </div>
+          <hr> -->
+
+        <!--<div id="20210318"></div>
+          <!- XX ->
+          <div>
+            <p><small> 2021年03月18日</small></p>
+
+            <h4> / <i class="fas fa-headphones-alt"></i></h4>
+
+            <i class="far fa-file-audio file"></i>
+            <a href="X" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+            <br><br>
+            <em2>
+              時間： X
+              <br>
+              ジャンル： X
+              <br>
+              レーベル： X
             </em2>
             <br><br>
           </div>
@@ -433,28 +475,32 @@
 
 
 
+
+
         <h2>今日の1曲<i class="fas fa-music"></i></h2>
 
-        <div id="20210316"></div>
-        <!-- <!- Colourblind / Joe Hertz -> -->
+        <div id="20210317"></div>
+        <!-- <!- It's Only / Herbert -> -->
         <div>
-          <p><small> 2021年03月16日</small></p>
+          <p><small> 2021年03月17日</small></p>
 
-          <h4>Colourblind / Joe Hertz<i class="fas fa-headphones-alt"></i></h4>
+          <h4>It's Only / Herbert<i class="fas fa-headphones-alt"></i></h4>
 
           <i class="far fa-file-audio file"></i>
-          <a href="https://amzn.to/30zLuoz" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+          <a href="https://amzn.to/3vwZP3o" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
           <br><br>
           <em2>
-            時間： 4:26
+            時間： 7:21
             <br>
-            ジャンル： ダンス・エレクトロニカ
+            ジャンル： ダンス・エレクトロニカ > ハウス
             <br>
-            レーベル： Juicebox Recordings
+            レーベル： Accidental Records Ltd
           </em2>
           <br><br>
         </div>
         <hr>
+
+
 
 
         <div class="accbox">
@@ -463,6 +509,27 @@
           <label for="select-music">OPEN</label>
 
           <div class="accshow">
+
+            <div id="20210316"></div>
+            <!-- <!- Colourblind / Joe Hertz -> -->
+            <div>
+              <p><small> 2021年03月16日</small></p>
+
+              <h4>Colourblind / Joe Hertz<i class="fas fa-headphones-alt"></i></h4>
+
+              <i class="far fa-file-audio file"></i>
+              <a href="https://amzn.to/30zLuoz" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 4:26
+                <br>
+                ジャンル： ダンス・エレクトロニカ
+                <br>
+                レーベル： Juicebox Recordings
+              </em2>
+              <br><br>
+            </div>
+            <hr>
 
             <div id="20210315"></div>
             <!-- <!-Courtside / Triathalon -> -->
