@@ -15,7 +15,7 @@ body:before {
 	z-index: -1;
 	width: 100%;
 	height: 100vh;
-	background: linear-gradient(45deg, rgba(255, 255, 255, 0.4), rgba(96, 150, 251, 0.4), rgba(255, 123, 123, 0.4)), url(gallery/top/back-s.jpg);
+	background: linear-gradient(45deg, rgba(255, 255, 255, 0.4), rgba(96, 150, 251, 0.4), rgba(255, 123, 123, 0.4)), url(gallery/top/bgimg-s.png);
 	line-height: 1.8em;
 	color: #383838;
 	background-size: cover;
@@ -1817,9 +1817,9 @@ h2#title {
 	body {
 		width: 730px;
 		margin: 10px auto;
-	}
+		}
 	body:before {
-		background: linear-gradient(45deg, rgba(255, 255, 255, 0.4), rgba(125, 145, 255, 0.4), rgba(255, 165, 219, 0.4)), url(gallery/top/back-m2.jpg);
+		background: linear-gradient(45deg, rgba(255, 255, 255, 0.4), rgba(125, 145, 255, 0.4), rgba(255, 165, 219, 0.4)), url(gallery/top/bgimg-m.png);
 		background-size: cover;
 	}
 	/* バーガーメニューボタン */
@@ -1971,7 +1971,7 @@ h2#title {
 		margin: 20px auto;
 	}
 	body:before {
-		background: linear-gradient(45deg, rgba(255, 255, 255, 0.4), rgba(104, 126, 255, 0.4), rgba(255, 152, 152, 0.4)), url(gallery/top/back-m2.jpg);
+		background: linear-gradient(45deg, rgba(255, 255, 255, 0.4), rgba(104, 126, 255, 0.4), rgba(255, 152, 152, 0.4)), url(gallery/top/bgimg-l.png);
 		background-size: cover;
 	}
 	/* バーガーメニューボタン */
