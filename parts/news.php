@@ -46,44 +46,103 @@
         </li>
 
     <hr> -->
-        2021年03月XX日
+
+    2021年03月20日
     
         <li>
                 <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG201B40Q1A320C2000000/" target="blank" rel="noopener">
+                東京都、新たに342人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODE189A50Y1A310C2000000/" target="blank" rel="noopener">
+                コロナ「第4波」防止は万全か　宣言解除へ、有識者に聞く</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFS201IM0Q1A320C2000000/" target="blank" rel="noopener">
+                定員50%内、来月19日から　1都3県の大規模イベント</a>
+        </li>
+
+    <hr>
+
+        2021年03月19日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG193VF0Z10C21A3000000/" target="blank" rel="noopener">
+                        東京都、新たに303人感染　4日連続で300人以上</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG196PT0Z10C21A3000000/" target="blank" rel="noopener">
+                        迫る宣言解除、花見の名所警戒　都知事「宴会自粛を」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGD196KA0Z10C21A3000000/" target="blank" rel="noopener">
+                        怖いのは「コロナ」よりインフレ 市場点描　注目リポートから</a>
+        </li>
+
+        <hr>
+        2021年03月18日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG183V70Y1A310C2000000/" target="blank" rel="noopener">
+                        東京都、新たに323人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODE1725H0X10C21A3000000/" target="blank" rel="noopener">
+                        「GoTo」2段階で緩和探る　感染見極め、まず県内旅行</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFS17DA40X10C21A3000000/" target="blank" rel="noopener">
+                        1都3県の緊急事態、21日で全面解除　首相が国会報告</a>
+        </li>
+
+        <hr>
+        2021年03月17日
+
+        <li>
+                <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQODG175I30X10C21A3000000/" target="blank" rel="noopener">
-                東京都、新たに409人感染　約1カ月ぶり400人超</a>
+                        東京都、新たに409人感染　約1カ月ぶり400人超</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQODG176D20X10C21A3000000/" target="blank" rel="noopener">
-                東京都、21日まで「時短命令」へ　全国初</a>
+                        東京都、21日まで「時短命令」へ　全国初</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQODZ166400W1A310C2000000/" target="blank" rel="noopener">
-                働き方、「世界標準」なお遠く　賃上げの力強さ欠く</a>
+                        働き方、「世界標準」なお遠く　賃上げの力強さ欠く</a>
         </li>
 
-    <hr>
-        2021年03月XX日
-    
+        <hr>
+        2021年03月16日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQODG163ZE0W1A310C2000000/" target="blank" rel="noopener">
-                東京で新たに300人感染、新型コロナ 8日連続で前週上回る</a>
+                        東京で新たに300人感染、新型コロナ 8日連続で前週上回る</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGR15C5S0V10C21A3000000/" target="blank" rel="noopener">
-                アストラゼネカ製ワクチン、欧州主要国も接種見合わせ</a>
+                        アストラゼネカ製ワクチン、欧州主要国も接種見合わせ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQODG222H20S1A220C2000000/" target="blank" rel="noopener">
-                コロナ下で遠隔授業受けた子、日本は最下位　民間調査</a>
+                        コロナ下で遠隔授業受けた子、日本は最下位　民間調査</a>
         </li>
 
-    <hr>
+        <hr>
 
         2021年03月15日
 
