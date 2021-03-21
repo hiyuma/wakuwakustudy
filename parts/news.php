@@ -46,6 +46,25 @@
         </li>
 
     <hr> -->
+        2021年03月21日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG2112G0R20C21A3000000/" target="blank" rel="noopener">
+                東京都、新たに256人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG17BJT0X10C21A3000000/" target="blank" rel="noopener">
+                コロナ禍、各地で卒業式　時短・屋外…1年越しの出席も</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFE0539Y0V00C21A3000000/" target="blank" rel="noopener">
+                コロナで孤立する在留外国人、訪日客減り失職者増える</a>
+        </li>
+
+    <hr>
 
     2021年03月20日
     
