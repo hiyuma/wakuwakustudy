@@ -56,6 +56,7 @@
           <!-- list -->
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li><a href="#20210320"> 2021年03月20日　「抽選」</a></li>
               <li><a href="#20210313"> 2021年03月13日　「チャオズ」</a></li>
               <li><a href="#20210228"> 2021年02月28日　「月が綺麗ですね」</a></li>
               <li><a href="#20210212"> 2021年02月12日　「至便」</a></li>
@@ -119,6 +120,48 @@
             <br><br>
           </div>
         </div> -->
+
+        <div id="20210320"></div>
+        <div class="schedule_wrapper">
+          <br>
+          <p id="avocado"><strong>　2021年03月20日 「抽選」</strong></p>
+          <div class="accbox">
+            <input type="checkbox" id="抽選" class="cssacc" />
+
+            <label for="抽選"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+              <p><img src="gallery/diary/diary20210320/20210315TOEIC1_LI.jpg" alt="TOEIC試験"></p>
+
+              <em3>写真：TOEIC抽選結果のメール</em3>
+              <p>やっと。
+                <br><br>
+                やっとなんです。
+                <br><br>
+                TOEIC試験の抽選に当選しました。
+                <br><br>
+                新型コロナウイルス感染拡大の影響で、1年ほど前から抽選になっていました。
+                <br><br>
+                本来は、申し込んで受験料を払うと誰でも受験できていたのですが、現在、受験人数は制限されています。
+                <br><br>
+                今回の申し込みで、抽選4回目の当選です。
+                <br><br>
+                モチベーションが保てなくなっていた時期もありました。
+                <br><br>
+                あと、1ヵ月しかないので、仕事や他の学習と合わせて上手く時間を使っていきます。
+                <br><br>
+                英語学習には、<a href="https://eigosapuri.jp/toeic/?vos=evalstsstopx0000001&fed=ppstp1906003">スタディサプリENGISH</a>を使っています。
+                <p><img src="gallery/diary/diary20210320/study.PNG" alt="スタディサプリENGLISH"></p>
+                <em3>写真：スタディサプリENGLISH連続学習記録更新</em3>
+                <br><br>
+                なんとなく、キリが良い連続50日で写真残しておけば良かった。
+                <br><br>
+                今は、朝はTOEIC過去問、お風呂で日常英会話のリスニングに時間を使っています。
+                <br><br>
+                まとまった英語学習の時間が取れない日もありますが、まずは600点以上を目指して学習に励んでいきます。
+              </p>
+            </div>
+          </div>
+        </div>
 
 
         <div id="20210313"></div>
@@ -187,6 +230,7 @@
             </div>
           </div>
         </div>
+
         <div id="20210228"></div>
         <div class="schedule_wrapper">
           <br>
