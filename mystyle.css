@@ -1331,6 +1331,31 @@ ol#gallery-list li a {
 	font-weight: bold;
 }
 
+section table#smt {
+	width: 100%;
+	border: solid 0.5px #a5a5a5;
+	margin: 30px auto;
+	padding: 0px;
+	text-align: center;
+	border-radius: 5px;
+	border-collapse: collapse;
+}
+
+section table#smt th, td {
+	border: solid 0.5px #a5a5a5;
+	font-size: smaller;
+}
+section table#smt th:first-child{
+	font-weight: bold;
+	width: 15%;
+}
+section table#smt th:nth-child(2){
+	font-weight:lighter;
+}
+section table#smt td{
+	padding: 10px;
+}
+
 .table-question {
 	width: 100%;
 }

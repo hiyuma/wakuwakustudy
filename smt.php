@@ -19,7 +19,7 @@
    </div>
    <script src="https://kit.fontawesome.com/6256a7882a.js" crossorigin="anonymous"></script>
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-   <?php include('parts/mobileAmazon.php')?>
+   <?php include('parts/mobileAmazon.php') ?>
 </head>
 
 <body>
@@ -193,7 +193,7 @@
                         現在の代表的なネット証券会社の手数料や特徴を表にまとめてみました。
 
 
-                     <table id="techdiary">
+                     <table id="smt">
                         <tbody>
                            <tr>
                               <th id="CoName">証券会社</th>
@@ -327,6 +327,103 @@
                      2021年、この中では、まだ新しく、取り扱い銘柄が多くない「LINE証券」が初心者向けで、オールマイティな「SBI証券」が一番人気、「楽天証券」がそこに続いているといった状況だと推測されます。
                      </p>
 
+                  </div>
+               </div>
+            </div>
+            <br>
+            <div class="schedule_wrapper">
+               <h3 id="title">4.株に関する基本用語一覧</h3>
+
+               <div class="accbox">
+
+                  <input type="checkbox" id="4" class="cssacc" />
+
+                  <label for="4"><span>READ</span></label>
+                  <div class="accshow">
+                     <p>株式投資する上で、株特有の単語がよく出てきます。
+                        <br><br>
+                        その中でも、これだけは知っておきたい単語を表にまとめてみました。
+                        <br><br>
+                        雰囲気でやっていると、よいタイミングが来ても逃すことがほとんどなので、事前に知っておくほうが、よいでしょう。
+                        <br><br>
+
+                     <table id="smt">
+                        <tbody>
+                           <tr>
+                              <th>用語</th>
+                              <th>説明</th>
+                           </tr>
+                           <tr>
+                              <td>日経平均株価</td>
+                              <td>日本経済新聞社が発表する株価指数。東証1部上場銘柄のうち、代表的な225銘柄をもとに計算。日本の株式市場の大きな動きを把握する代表的な指標。</td>
+                           </tr>
+                           <tr>
+                              <td>配当金</td>
+                              <td>会社の利益の一部を株主へ支払うお金。配当金額は会社によって異なる。1株あたり〇〇円。と表す。</td>
+                           </tr>
+                           <tr>
+                              <td>株主優待</td>
+                              <td>株式会社が一定数以上の株券を権利確定日に保有していた株主に与える優待制度。割引券や商品など。</td>
+                           </tr>
+                           <tr>
+                              <td>約定</td>
+                              <td>「やくじょう」株の売買が成立すること。約定のタイミングを計ることが大切。</td>
+                           </tr>
+                           <tr>
+                              <td>銘柄</td>
+                              <td>株における商品名。会社名。上場していなければ、銘柄なし。</td>
+                           </tr>
+                           <tr>
+                              <td>PER</td>
+                              <td>株価収益率(Price Earnings Ratioの略)。PERを基準に株を購入している。PERが高=株価が高い、PERが低=株価は安い。PER＝株価÷1株あたりの利益（EPS）</td>
+                           </tr>
+                           <tr>
+                              <td>EPS</td>
+                              <td>Earnings Per Shareの略。1株あたりの純利益。純利益÷発行済株式数</td>
+                           </tr>
+                           <tr>
+                              <td>損切</td>
+                              <td>損失が膨らむ前に約定する(売る)こと。とても重要。株取引の醍醐味。</td>
+                           </tr>
+                           <tr>
+                              <td>PBR</td>
+                              <td>株価純資産倍率。株が割高か割安かの判断基準。株価÷1株あたりの純資産（BPS）PERと比べるとそれほど重要ではない。</td>
+                           </tr>
+                           <tr>
+                              <td>BPS</td>
+                              <td>Book Value Per Share。1株あたり純資産。純資産÷発行済株式総数。</td>
+                           </tr>
+                           <tr>
+                              <td>信用取引</td>
+                              <td>現金や株式を担保として証券会社に預け、証券会社からお金を借りて株式を買ったり、株券を借りて売るなどの取引。株価下落時にも利益出すこともできる。</td>
+                           </tr>
+                           <tr>
+                              <td>空売り</td>
+                              <td>信用取引における取引の1つ。証券会社から株式を借りて売り、決済期日までに買い戻して株式を返却する。その差額で利益を得る取引。</td>
+                           </tr>
+                           <tr>
+                              <td>投資信託</td>
+                              <td>株式取引のプロに投資を任せる投資。知識がなくても投資ができる。少額から分散して、リスクを抑えられる。手数料高め。</td>
+                           </tr>
+                           <tr>
+                              <td>ETF</td>
+                              <td>Exchange Traded Fundsの略。上場投資信託。日経平均株価や東証株価指数（TOPIX）などの動きに連動する運用成果を目標に、東京証券取引所などの金融商品取引所に上場している投資信託。</td>
+                           </tr>
+                           <tr>
+                              <td>IPO</td>
+                              <td>Initial Public Offeringの略。新規公開株。株を投資家に売り出して、証券取引所に上場し、誰でも株取引ができるようにすること。</td>
+                           </tr>
+                           
+                           <tr>
+                              <td>指値注文</td>
+                              <td>待ち伏せ自動注文。設定した一定値まで株価が変動した時に、売買する注文予約を入れること。</td>
+                           </tr>                     
+                        </tbody>
+                     </table>
+                     この他にも株に関する用語は、数えきれないほどあります。
+                     <br><br>
+                     実際に投資をしながら、覚えるのが早いですが、先に基本を一通り学んでから投資をした方が、リスクを回避できるでしょう。
+                     </p>
                   </div>
                </div>
             </div>
