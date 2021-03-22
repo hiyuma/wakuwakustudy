@@ -74,7 +74,6 @@
               <?php include('parts/widget/widget_mujirushi.php'); ?>
 
               <?php include('parts/facebook_twitter_button.php'); ?>
-
               <ul class="studylist slide-in-animation">
                      <span><i class="fas fa-paw"></i><a href="jspractice/omikuji.php"> 今 日 の ね こ ち ゃ ん お み く じ
                             </a></span>
