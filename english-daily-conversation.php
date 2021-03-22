@@ -4095,60 +4095,236 @@
                   <th colspan="2" class="class">初級（同化音）</th>
                 </tr>
 
-                <!-- <tr>
+                <tr>
                   <td>355</td>
-                  <td></td>
+                  <td>Is the cake in your oven?</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">そのケーキはあなたのオーブンの中にありますか。</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">inのnとその後のyourが同化して「イニュア」のように聞こえます。</td>
                 </tr>
 
                 <tr>
                   <td>356</td>
-                  <td></td>
+                  <td>Did you see any animals on your hike?</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">ハイキングで何か動物を見ましたか。</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">onのnとその後のyourが同化して「オニュア」のように聞こえます。</td>
                 </tr>
 
                 <tr>
                   <td>357</td>
-                  <td></td>
+                  <td>I watched your DVD yesterday.</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">昨日、あなたのDVDを見ましたよ。</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">watchedのdとその後のyourが同化して「ワッチチュア」のように聞こえます。</td>
                 </tr>
 
                 <tr>
                   <td>358</td>
-                  <td></td>
+                  <td>Where did you buy that nice jacket?</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">あのすてきなジャケットをどこで買いましたか。</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">didのdとその後のyouが同化して「ディヂュ」のように聞こえます。</td>
                 </tr>
 
                 <tr>
                   <td>359</td>
-                  <td></td>
+                  <td>Can you eat peanuts?</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">ピーナツは食べられますか。</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
-                </tr> -->
+                  <td colspan="2">Canのnとその後のyouが同化して「キャニュ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>360</td>
+                  <td>Can’t you play the piano?</td>
+                </tr>
+                <tr>
+                  <td colspan="2">ピアノを弾けないのですか。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">Can’tのtとその後のyouが同化して「キャンチュ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>361</td>
+                  <td>Don’t you like ice-cream?</td>
+                </tr>
+                <tr>
+                  <td colspan="2">アイスクリームは好きではないですか。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">Don’tのtとその後のyouが同化して「ドンチュ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>362</td>
+                  <td>Aren’t you thirty years old?</td>
+                </tr>
+                <tr>
+                  <td colspan="2">あなたは30歳ではないのですか。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">Aren’tのtとその後のyouが同化して「アーンチュ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>363</td>
+                  <td>Don’t your parents live here?</td>
+                </tr>
+                <tr>
+                  <td colspan="2">あなたの両親はここに住んでいないのですか。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">Don’tのtとその後のyourが同化して「ドンチュア」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>364</td>
+                  <td>I’m sad you can’t join us.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">あなたに参加していただけず残念です。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">sadのdとその後のyouが同化して「サヂュ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>365</td>
+                  <td>My husband will drive you to the station.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">私の夫があなたを駅に車で送っていきます。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">driveのveとその後のyouが同化して「ドライヴュ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>366</td>
+                  <td>She’s visiting your mother today.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">彼女は今日あなたのお母さんを訪ねます。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">visitingのgとその後のyourが同化して「ヴィズィティンギュア」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>367</td>
+                  <td>They’re excited you’re coming to visit.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">あなたが来ることになっているので、彼らはわくわくしています。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">excitedのdとその後のyou’reが同化して「エクサイティッヂュア」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>368</td>
+                  <td>Surprise your girlfriend with a nice meal.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">すてきな料理でガールフレンドを驚かせなさい。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">Surpriseのseとその後のyourが同化して「サプライジュア」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>369</td>
+                  <td>That bee is chasing you.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">あの蜂はあなたを追いかけています。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">chasingのgとその後のyouが同化して「チェイスィンギュ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>370</td>
+                  <td>Could you go to the store for me?</td>
+                </tr>
+                <tr>
+                  <td colspan="2">私のためにその店に行っていただけますか？</td>
+                </tr>
+                <tr>
+                  <td colspan="2">Couldのdとその後のyouが同化して「クヂュ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>371</td>
+                  <td>Can you cook your own dinner tonight?</td>
+                </tr>
+                <tr>
+                  <td colspan="2">今日は自分で夕食を作ってくれますか。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">cookのkとその後のyourが同化して「クッキュア」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>372</td>
+                  <td>You go to a dentist when you have a toothache.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">歯が痛いときは歯医者に行きます。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">whenのnとその後のyouが同化して「ホウェニュ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>373</td>
+                  <td>I hope you feel better soon.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">あなたが早く良くなるよう願っています。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">hopeのpeとその後のyouが同化して「ホウピュ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>374</td>
+                  <td>What kind of noodles did you eat?</td>
+                </tr>
+                <tr>
+                  <td colspan="2">どんな種類の麺を食べましたか。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">didのdとその後のyouが同化して「ディヂュ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>375</td>
+                  <td>Don’t go into the house with your shoes on.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">靴を履いたままその家に入らないでください。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">withのthとその後のyourが同化して「ウィヂュア」のように聞こえます。</td>
+                </tr>
 
 
 
