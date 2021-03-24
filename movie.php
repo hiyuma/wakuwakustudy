@@ -20,7 +20,7 @@
   </div>
   <script src="https://kit.fontawesome.com/6256a7882a.js" crossorigin="anonymous"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  <?php include('parts/mobileAmazon.php')?>
+  <?php include('parts/mobileAmazon.php') ?>
 </head>
 
 <body>
@@ -75,6 +75,7 @@
           <h3>Appreciated list</h3>
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li> <a href="#Fukushima 50">Fukushima 50　☆4.4</a></li>
               <li> <a href="#ヘアスプレー">ヘアスプレー　☆4.4</a></li>
               <li> <a href="#アヒルと鴨のコインロッカー">アヒルと鴨のコインロッカー　☆3.8</a></li>
               <li> <a href="#しあわせのパン">しあわせのパン　☆3.9</a></li>
@@ -180,6 +181,96 @@
 
         <hr>
 
+        <!-- ※Don't forget to change the label 21 -->
+        <div id="Fukushima 50"></div>
+        <h3 id="movies-title"><strong>Fukushima 50</strong></h3>
+        <div id="movies">
+
+          <div id="movie-photo">
+            <img alt="Fukushima 50" src="https://d2ueuvlup6lbue.cloudfront.net/attachments/3e7ccceeb769ab8b824426d52c645226cf8c0bbc/store/fitpad/260/364/ffd0f7d20f23bb25e30f8724c3745c52b24c1250dd70056a2fd7fa2de26f/_.jpg" width="300" height="420">
+          </div>
+
+          <div id="movie-info">
+            <p id="th">監督</p>
+            <p id="td">若松節朗</p>
+            <p id="th">出演</p>
+            <p id="td">渡辺謙、佐藤浩市、吉岡秀隆、安田成美、緒形直人、火野正平、平田満、萩原聖人、吉岡里帆、斎藤工、アマンダ・バインズ</p>
+            <p id="th">ジャンル</p>
+            <p id="td">ドラマ</p>
+            <p id="th">上映日</p>
+            <p id="td">2020年03月06日</p>
+            <p id="th">製作国</p>
+            <p id="td">日本</p>
+            <p id="th">上映時間</p>
+            <p id="td">122分</p>
+          </div>
+
+
+          <div id="movie-impressions">
+            <hr>
+            <p id="impression"><a href="https://amzn.to/3cdlJRD">Fukushima 50</a>の感想 <i class="far fa-comment-dots"></i></p>
+            <div id="line"></div>
+
+            <p id="th">鑑賞日</p>
+            <p id="td">2021年03月11日</p>
+            <p id="th">鑑賞方法</p>
+            <p id="td"><a href="https://amzn.to/3cdlJRD">Amazon
+                Prime Video</a></p>
+            <p id="th">評価</p>
+            <p id="td">4.4(/5.0)</p>
+
+            <div id="line"></div>
+            <div class="accbox">
+              <input type="checkbox" id="label21" class="cssacc" />
+              <label for="label21">Summary</label>
+
+              <div class="accshow">
+                本作は、2011年3月11日午後2時46分に発生し、マグニチュード9.0、最大震度7という、日本の観測史上最大の地震となった東日本大震災時の福島第一原発事故を描く物語。
+                <br>
+                想像を超える被害をもたらした原発事故の現場：福島第一原子力発電所に残った地元福島出身の名もなき作業員たちは、世界のメディアから “Fukushima 50”（フクシマ フィフティ）と呼ばれました。
+                <br>世界中が注目した現場では何が起きていたのか？何が真実なのか？浮き彫りになる人間の強さと弱さ。
+                <br>
+                東日本壊滅の危機が迫る中、死を覚悟して発電所内に残った職員たちの知られざる“真実”が、今、遂に明らかになります。
+
+              </div>
+            </div>
+
+            <div id="line"></div>
+            「原子力 明るい未来の エネルギー」の実状とは。
+            <br><br>
+            防災を改めて考えさせられる東日本大震災から、まだ10年。
+
+
+            <div class="accbox">
+              <input type="checkbox" id="label21a" class="cssacc" />
+
+              <label for="label21a" class="closeButton">READ MORE</label>
+
+              <div class="accshow">
+                序盤のシーンから涙が溢れました。
+                <br><br>
+                新型コロナウイルス感染拡大も防災に似た危機感を持つべきだと思います。
+                <br><br>
+                個人的には、何かできることがないかと必死で福島へ向かった2011年。
+                <br><br>
+                あの時、人それぞれの闘いがあり、失った命があり、救われた命があり...。
+                <br><br>
+                乗り越えた人たちと会話した時に感じたのは、不安よりも希望でした。
+                <br><br>
+                この映画は、東日本大震災を知らない人にも何が起きていたのか伝えられるものです。
+                <br><br>
+                当時、報道されなかった福島第一原子力発電所事故で命をかけて対応していた皆さんのことをもっと知ってほしい。
+                <br><br>
+                大切な人を守るためには、過信せず、まずは自分を守れる準備をしておくべきことの大切さを思い知らされます。
+                <br><br>
+                今年も福島ではキレイな桜が咲くでしょう。
+              </div>
+            </div>
+            <i class="fas fa-video"></i> <a href="https://amzn.to/3cdlJRD">Fukushima 50</a>
+          </div>
+        </div>
+        <hr>
+
         <!-- ※Don't forget to change the label 20 -->
         <div id="ヘアスプレー"></div>
         <h3 id="movies-title"><strong>ヘアスプレー</strong></h3>
@@ -242,7 +333,7 @@
             <div class="accbox">
               <input type="checkbox" id="label20a" class="cssacc" />
 
-              <label for="labe20a" class="closeButton">READ MORE</label>
+              <label for="label20a" class="closeButton">READ MORE</label>
 
               <div class="accshow">
                 そして、日本でも、女性蔑視や人種などの差別が多く残っています。
@@ -268,7 +359,7 @@
                 あと、え、あの人がジョン・トラボルタだったの！？って全く気づきませんでした。
                 <br><br>
                 そんな感じで、とても満足できました。
-        
+
               </div>
             </div>
             <i class="fas fa-video"></i> <a href="https://amzn.to/37f5Yq3">ヘアスプレー</a>
