@@ -404,6 +404,48 @@
           </div>
           <hr> -->
 
+          <!--テンプレ <div id="20210328"></div>
+          <!- XX ->
+          <div>
+            <p><small> 2021年03月28日</small></p>
+
+            <h4> / <i class="fas fa-headphones-alt"></i></h4>
+
+            <i class="far fa-file-audio file"></i>
+            <a href="X" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+            <br><br>
+            <em2>
+              時間： X
+              <br>
+              ジャンル： X
+              <br>
+              レーベル： X
+            </em2>
+            <br><br>
+          </div>
+          <hr> -->
+
+          <!--テンプレ <div id="20210327"></div>
+          <!- XX ->
+          <div>
+            <p><small> 2021年03月27日</small></p>
+
+            <h4> / <i class="fas fa-headphones-alt"></i></h4>
+
+            <i class="far fa-file-audio file"></i>
+            <a href="X" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+            <br><br>
+            <em2>
+              時間： X
+              <br>
+              ジャンル： X
+              <br>
+              レーベル： X
+            </em2>
+            <br><br>
+          </div>
+          <hr> -->
+
         <!--テンプレ <div id="20210326"></div>
           <!- いのち（TOSHIKI HAYASHI (%C) remix） [feat. ラブリーサマーちゃん] / 泉まくら & TOSHIKI HAYASHI(%C) ->
           <div>
@@ -446,47 +488,7 @@
           </div>
           <hr> -->
 
-        <!--<div id="20210324"></div>
-          <!- エーデルワイス feat. MCpero / UKR ->
-          <div>
-            <p><small> 2021年03月24日</small></p>
 
-            <h4>エーデルワイス feat. MCpero / UKR<i class="fas fa-headphones-alt"></i></h4>
-
-            <i class="far fa-file-audio file"></i>
-            <a href="https://amzn.to/3s6LnN9" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
-            <br><br>
-            <em2>
-              時間： 5:08
-              <br>
-              ジャンル： ヒップホップ
-              <br>
-              レーベル： OMAKE CLUB
-            </em2>
-            <br><br>
-          </div>
-          <hr> -->
-
-        <!-- <div id="20210323"></div>
-          <!- Waves / TAAR ->
-          <div>
-            <p><small> 2021年03月23日</small></p>
-
-            <h4>Waves / TAAR<i class="fas fa-headphones-alt"></i></h4>
-
-            <i class="far fa-file-audio file"></i>
-            <a href="https://amzn.to/3cRVuip" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
-            <br><br>
-            <em2>
-              時間： 4:35
-              <br>
-              ジャンル： ダンス・エレクトロニカ
-              <br>
-              レーベル： PARK
-            </em2>
-            <br><br>
-          </div>
-          <hr> -->
 
 
 
@@ -497,18 +499,18 @@
 
         <h2>今日の1曲<i class="fas fa-music"></i></h2>
 
-        <div id="20210322"></div>
-        <!-- <!- GOOD NIGHT feat. おかもとえみ & Rachel / TSUBAME -> -->
+        <div id="20210324"></div>
+        <!-- <!- エーデルワイス feat. MCpero / UKR -> -->
         <div>
-          <p><small> 2021年03月22日</small></p>
+          <p><small> 2021年03月24日</small></p>
 
-          <h4>GOOD NIGHT feat. おかもとえみ & Rachel / TSUBAME<i class="fas fa-headphones-alt"></i></h4>
+          <h4>エーデルワイス feat. MCpero / UKR<i class="fas fa-headphones-alt"></i></h4>
 
           <i class="far fa-file-audio file"></i>
-          <a href="https://amzn.to/3tDp2qT" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+          <a href="https://amzn.to/3s6LnN9" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
           <br><br>
           <em2>
-            時間： 4:34
+            時間： 5:08
             <br>
             ジャンル： ヒップホップ
             <br>
@@ -521,15 +523,55 @@
 
 
 
-
-
-
         <div class="accbox">
           今日までの1曲<i class="fas fa-music"></i><br>
           <input type="checkbox" id="select-music" class="cssacc" />
           <label for="select-music">OPEN</label>
 
           <div class="accshow">
+
+            <div id="20210323"></div>
+            <!-- <!- Waves / TAAR -> -->
+            <div>
+              <p><small> 2021年03月23日</small></p>
+
+              <h4>Waves / TAAR<i class="fas fa-headphones-alt"></i></h4>
+
+              <i class="far fa-file-audio file"></i>
+              <a href="https://amzn.to/3cRVuip" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 4:35
+                <br>
+                ジャンル： ダンス・エレクトロニカ
+                <br>
+                レーベル： PARK
+              </em2>
+              <br><br>
+            </div>
+            <hr>
+
+            <div id="20210322"></div>
+            <!-- <!- GOOD NIGHT feat. おかもとえみ & Rachel / TSUBAME -> -->
+            <div>
+              <p><small> 2021年03月22日</small></p>
+
+              <h4>GOOD NIGHT feat. おかもとえみ & Rachel / TSUBAME<i class="fas fa-headphones-alt"></i></h4>
+
+              <i class="far fa-file-audio file"></i>
+              <a href="https://amzn.to/3tDp2qT" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 4:34
+                <br>
+                ジャンル： ヒップホップ
+                <br>
+                レーベル： OMAKE CLUB
+              </em2>
+              <br><br>
+            </div>
+            <hr>
+
 
             <div id="20210321"></div>
             <!-- <!- 孤独の発明 / toe -> -->

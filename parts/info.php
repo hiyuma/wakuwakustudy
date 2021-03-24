@@ -2,29 +2,28 @@
 
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
-  <!-- <li>2021年03月04日</li>
-    <div class="info-children"><span><a href="jspractice/work.php">WORK(10進数2進数変換)</a> 更新</span>
-    </div> -->
+  <li>2021年03月24日</li>
+  <div class="info-children">
+    <span><a href="english-daily-conversation.php">ENGLISH（CVS同化音初級）</a> 376～389追加</span>
+  </div>
 
-  <!-- <li>2021年03月09日</li>
-    <div class="info-children"><span><a href="english-word-of-the-day.php">ENGLISH</a> 今日の1フレーズ作成</span></div> -->
-
-    <!-- <li>2021年03月23日</li>
+  <li>2021年03月23日</li>
   <div class="info-children">
     <span><a href="movie.php">MOVIE</a> 更新（Fukushima 50）</span>
-  </div> -->
-   
-    <li>2021年03月22日</li>
+  </div>
+
+  <li>2021年03月22日</li>
   <div class="info-children">
     <span><a href="smt.php"> スマート投資</a> 「株を学ぶ」（4.株に関する基本用語一覧） 追加</span>
   </div>
 
-    <li>2021年03月21日</li>
+
+  <li>2021年03月21日</li>
   <div class="info-children">
     <span><a href="english-daily-conversation.php">ENGLISH（CVS同化音初級）</a> 355～375追加</span>
   </div>
 
-    <li>2021年03月20日</li>
+  <li>2021年03月20日</li>
   <div class="info-children"><span><a href="diary.php">DIARY（抽選）</a> 更新</span></div>
 
   <li>2021年03月16日</li>
@@ -50,7 +49,7 @@
   <div class="info-children">
     <span><a href="smt.php"> スマート投資</a> 更新</span>
   </div>
-  
+
   <li>2021年03月08日</li>
   <div class="info-children">
     <span><a href="smt.php"> スマート投資</a> 「株を学ぶ」1.2.追加</span>

@@ -46,6 +46,44 @@
         </li>
 
     <hr> -->
+        2021年03月24日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG244IA0U1A320C2000000/" target="blank" rel="noopener">
+                東京都、新たに420人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODZ244OI0U1A320C2000000/" target="blank" rel="noopener">
+                ソニー、賞与7カ月で回答　コロナ下でも過去最高に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFB2478K0U1A320C2000000/" target="blank" rel="noopener">
+                宮城で過去最多、171人感染確認</a>
+        </li>
+
+    <hr>
+        2021年03月23日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG233JK0T20C21A3000000/" target="blank" rel="noopener">
+                東京都、新たに337人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG231460T20C21A3000000/" target="blank" rel="noopener">
+                東京都の時短要請、4月21日まで継続検討　飲食店など</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOJC173O00X10C21A3000000/" target="blank" rel="noopener">
+                公示地価、九州・沖縄は上昇鈍化・下落相次ぐ</a>
+        </li>
+
+    <hr>
         2021年03月22日
     
         <li>
