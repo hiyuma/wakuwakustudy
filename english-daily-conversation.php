@@ -4326,6 +4326,160 @@
                   <td colspan="2">withのthとその後のyourが同化して「ウィヂュア」のように聞こえます。</td>
                 </tr>
 
+                <tr>
+                  <td>376</td>
+                  <td>We want to buy a new car.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">私たちは新車が欲しいです。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">wantとその後のtoは同化して「ワナ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>377</td>
+                  <td>The cleaners are going to collect the trash soon.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">掃除係がすぐにゴミを集めます。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">goingとその後のtoは同化して「ガナ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>378</td>
+                  <td>Can I stop you a minute?</td>
+                </tr>
+                <tr>
+                  <td colspan="2">ちょっと止まっていただけますか。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">stopのpとその後のyouが同化して「ストッピュ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>379</td>
+                  <td>Is your presentation finished?</td>
+                </tr>
+                <tr>
+                  <td colspan="2">あなたのプレゼンテーションは終わりましたか。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">Isのsとその後のyourが同化して「イジュア」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>380</td>
+                  <td>Your brother is as tall as you.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">あなたの弟[兄]はあなたと同じくらい背が高いですね。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">asのsとその後のyouが同化して「アジュ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>381</td>
+                  <td>We think you would be great for this job.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">あなたにはこの仕事がとても向いていると私たちは思います。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">thinkのkとその後のyouが同化して「スィンキュ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>382</td>
+                  <td>Stop using your phone in the classroom.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">教室で電話を使うのを止めなさい。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">usingのgとその後のyourが同化して「ユーズィンギュア」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>383</td>
+                  <td>Is he going to watch TV?</td>
+                </tr>
+                <tr>
+                  <td colspan="2">彼はテレビを見るつもりでしょうか。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">goingとその後のtoは同化して「ガナ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>384</td>
+                  <td>The dog won’t bite you.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">その犬はあなたにかみつきませんよ。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">biteのteとその後のyouが同化して「バイチュ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>385</td>
+                  <td>Can I help you with your work?</td>
+                </tr>
+                <tr>
+                  <td colspan="2">仕事を手伝いましょうか。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">helpのpとその後のyouが同化して「ヘルピュ」のように聞こえます。</td>
+                </tr>
+                
+                <tr>
+                  <td>386</td>
+                  <td>Watch out for the car on your left.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">左手の車に注意しなさい。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">onのnとその後のyourが同化して「オニュア」のように聞こえます。</td>
+                </tr>
+                
+                <tr>
+                  <td>387</td>
+                  <td>What time did you get up this morning?</td>
+                </tr>
+                <tr>
+                  <td colspan="2">今朝は何時に起きましたか。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">didのdとその後のyouが同化して「ディヂュ」のように聞こえます。</td>
+                </tr>
+                
+                <tr>
+                  <td>388</td>
+                  <td>Please put your hat on because it is sunny outside.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">外は日差しが強いので、帽子を被ってください。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">putのtとその後のyourが同化して「プチュア」のように聞こえます。</td>
+                </tr>
+                
+                <tr>
+                  <td>389</td>
+                  <td>The keyboard you’re playing is mine.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">あなたが演奏しているキーボードは私のです。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">keyboardのdとその後のyou’reが同化して「キーボーヂュア」のように聞こえます。</td>
+                </tr>
+                
 
 
                 <!-- コピー用 -->
