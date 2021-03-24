@@ -1516,6 +1516,7 @@ mark {
 
 h3#movies-title {
 	color: #535353;
+	border: none;
 }
 
 #movie-photo {
