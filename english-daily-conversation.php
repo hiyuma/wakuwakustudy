@@ -4088,7 +4088,7 @@
             </table>
 
 
-            <div id="begninner3"></div>
+            <div id="beginner3"></div>
             <table class="table">
               <tbody>
                 <tr>
