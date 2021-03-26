@@ -404,7 +404,7 @@
           </div>
           <hr> -->
 
-          <!--テンプレ <div id="20210328"></div>
+        <!--テンプレ <div id="20210328"></div>
           <!- XX ->
           <div>
             <p><small> 2021年03月28日</small></p>
@@ -425,7 +425,7 @@
           </div>
           <hr> -->
 
-          <!--テンプレ <div id="20210327"></div>
+        <!--テンプレ <div id="20210327"></div>
           <!- XX ->
           <div>
             <p><small> 2021年03月27日</small></p>
@@ -446,81 +446,30 @@
           </div>
           <hr> -->
 
-        <!--テンプレ <div id="20210326"></div>
-          <!- いのち（TOSHIKI HAYASHI (%C) remix） [feat. ラブリーサマーちゃん] / 泉まくら & TOSHIKI HAYASHI(%C) ->
-          <div>
-            <p><small> 2021年03月26日</small></p>
-
-            <h4>いのち（TOSHIKI HAYASHI (%C) remix） [feat. ラブリーサマーちゃん] / 泉まくら & TOSHIKI HAYASHI(%C)<i class="fas fa-headphones-alt"></i></h4>
-
-            <i class="far fa-file-audio file"></i>
-            <a href="https://amzn.to/2NxSmzE" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
-            <br><br>
-            <em2>
-              時間： 4:06
-              <br>
-              ジャンル： ヒップホップ
-              <br>
-              レーベル： 術ノ穴
-            </em2>
-            <br><br>
-          </div>
-          <hr> -->
-
-        <!--テンプレ <div id="20210325"></div>
-          <!- ALICE feat. kiki vivi lily / 中小企業 ->
-          <div>
-            <p><small> 2021年03月25日</small></p>
-
-            <h4>ALICE feat. kiki vivi lily / 中小企業<i class="fas fa-headphones-alt"></i></h4>
-
-            <i class="far fa-file-audio file"></i>
-            <a href="X" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
-            <br><br>
-            <em2>
-              時間： 3:13
-              <br>
-              ジャンル： ヒップホップ
-              <br>
-              レーベル： OMAKE CLUB
-            </em2>
-            <br><br>
-          </div>
-          <hr> -->
-
-
-
-
-
-
-
-
 
 
         <h2>今日の1曲<i class="fas fa-music"></i></h2>
 
-        <div id="20210324"></div>
-        <!-- <!- エーデルワイス feat. MCpero / UKR -> -->
+        <div id="20210326"></div>
+        <!-- <!- いのち（TOSHIKI HAYASHI (%C) remix） [feat. ラブリーサマーちゃん] / 泉まくら & TOSHIKI HAYASHI(%C) -> -->
         <div>
-          <p><small> 2021年03月24日</small></p>
+          <p><small> 2021年03月26日</small></p>
 
-          <h4>エーデルワイス feat. MCpero / UKR<i class="fas fa-headphones-alt"></i></h4>
+          <h4>いのち（TOSHIKI HAYASHI (%C) remix） [feat. ラブリーサマーちゃん] / 泉まくら & TOSHIKI HAYASHI(%C)<i class="fas fa-headphones-alt"></i></h4>
 
           <i class="far fa-file-audio file"></i>
-          <a href="https://amzn.to/3s6LnN9" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+          <a href="https://amzn.to/2NxSmzE" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
           <br><br>
           <em2>
-            時間： 5:08
+            時間： 4:06
             <br>
             ジャンル： ヒップホップ
             <br>
-            レーベル： OMAKE CLUB
+            レーベル： 術ノ穴
           </em2>
           <br><br>
         </div>
         <hr>
-
-
 
 
         <div class="accbox">
@@ -529,6 +478,48 @@
           <label for="select-music">OPEN</label>
 
           <div class="accshow">
+
+            <div id="20210325"></div>
+            <!-- <!- ALICE feat. kiki vivi lily / 中小企業 -> -->
+            <div>
+              <p><small> 2021年03月25日</small></p>
+
+              <h4>ALICE feat. kiki vivi lily / 中小企業<i class="fas fa-headphones-alt"></i></h4>
+
+              <i class="far fa-file-audio file"></i>
+              <a href="X" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 3:13
+                <br>
+                ジャンル： ヒップホップ
+                <br>
+                レーベル： OMAKE CLUB
+              </em2>
+              <br><br>
+            </div>
+            <hr>
+
+            <div id="20210324"></div>
+            <!-- <!- エーデルワイス feat. MCpero / UKR -> -->
+            <div>
+              <p><small> 2021年03月24日</small></p>
+
+              <h4>エーデルワイス feat. MCpero / UKR<i class="fas fa-headphones-alt"></i></h4>
+
+              <i class="far fa-file-audio file"></i>
+              <a href="https://amzn.to/3s6LnN9" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 5:08
+                <br>
+                ジャンル： ヒップホップ
+                <br>
+                レーベル： OMAKE CLUB
+              </em2>
+              <br><br>
+            </div>
+            <hr>
 
             <div id="20210323"></div>
             <!-- <!- Waves / TAAR -> -->
