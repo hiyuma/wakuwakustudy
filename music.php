@@ -383,10 +383,12 @@
         </div>
 
 
-        <!--テンプレ <div id="202103XX"></div>
+       
+
+        <!-- テンプレ<div id="202103X"></div>
           <!- XX ->
           <div>
-            <p><small> 2021年03月XX日</small></p>
+            <p><small> 2021年03月X日</small></p>
 
             <h4> / <i class="fas fa-headphones-alt"></i></h4>
 
@@ -404,68 +406,109 @@
           </div>
           <hr> -->
 
-        <!--テンプレ <div id="20210328"></div>
-          <!- XX ->
+        <!-- <div id="202103X"></div>
+          <!- Wave 1 / Com Truise ->
+          <div>
+            <p><small> 2021年03月X日</small></p>
+
+            <h4>Wave 1 / Com Truise<i class="fas fa-headphones-alt"></i></h4>
+
+            <i class="far fa-file-audio file"></i>
+            <a href="https://amzn.to/3tWAZYW" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+            <br><br>
+            <em2>
+              時間： 4:02
+              <br>
+              ジャンル： エレクトロニカ
+              <br>
+              レーベル： Ghostly International
+            </em2>
+            <br><br>
+          </div>
+          <hr> -->
+
+        <!-- <div id="202103X"></div>
+          <!- Talamak / トロ・イ・モワ ->
+          <div>
+            <p><small> 2021年03月X日</small></p>
+
+            <h4>Talamak / トロ・イ・モワ<i class="fas fa-headphones-alt"></i></h4>
+
+            <i class="far fa-file-audio file"></i>
+            <a href="https://amzn.to/3csGAAl" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+            <br><br>
+            <em2>
+              時間： 2:27
+              <br>
+              ジャンル： オルタナティヴ・ロック
+              <br>
+              レーベル： Company Studio
+            </em2>
+            <br><br>
+          </div>
+          <hr> -->
+
+           <!-- <div id="20210329"></div>
+          <!- Feel It All Around / Washed Out ->
+          <div>
+            <p><small> 2021年03月29日</small></p>
+
+            <h4>Feel It All Around / Washed Out<i class="fas fa-headphones-alt"></i></h4>
+
+            <i class="far fa-file-audio file"></i>
+            <a href="https://amzn.to/3swfrC0" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+            <br><br>
+            <em2>
+              時間： 3:12
+              <br>
+              ジャンル： エレクトロニカ
+              <br>
+              レーベル： Washed Out
+            </em2>
+            <br><br>
+          </div>
+          <hr> -->
+
+        <!-- <div id="20210328"></div>
+          <!- Gravity / Lusine ->
           <div>
             <p><small> 2021年03月28日</small></p>
 
-            <h4> / <i class="fas fa-headphones-alt"></i></h4>
+            <h4>Gravity / Lusine<i class="fas fa-headphones-alt"></i></h4>
 
             <i class="far fa-file-audio file"></i>
-            <a href="X" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+            <a href="https://amzn.to/39kfnxM" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
             <br><br>
             <em2>
-              時間： X
+              時間： 5:09
               <br>
-              ジャンル： X
+              ジャンル： エレクトロニカ
               <br>
-              レーベル： X
+              レーベル： Ghostly International
             </em2>
             <br><br>
           </div>
           <hr> -->
-
-        <!--テンプレ <div id="20210327"></div>
-          <!- XX ->
-          <div>
-            <p><small> 2021年03月27日</small></p>
-
-            <h4> / <i class="fas fa-headphones-alt"></i></h4>
-
-            <i class="far fa-file-audio file"></i>
-            <a href="X" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
-            <br><br>
-            <em2>
-              時間： X
-              <br>
-              ジャンル： X
-              <br>
-              レーベル： X
-            </em2>
-            <br><br>
-          </div>
-          <hr> -->
-
 
 
         <h2>今日の1曲<i class="fas fa-music"></i></h2>
 
-        <div id="20210326"></div>
-        <!-- <!- いのち（TOSHIKI HAYASHI (%C) remix） [feat. ラブリーサマーちゃん] / 泉まくら & TOSHIKI HAYASHI(%C) -> -->
+        <div id="20210327"></div>
+        <!-- <!- ワイド・オープン / ケミカル・ブラザーズ -> -->
         <div>
-          <p><small> 2021年03月26日</small></p>
+          <p><small> 2021年03月27日</small></p>
 
-          <h4>いのち（TOSHIKI HAYASHI (%C) remix） [feat. ラブリーサマーちゃん] / 泉まくら & TOSHIKI HAYASHI(%C)<i class="fas fa-headphones-alt"></i></h4>
+          <h4>ワイド・オープン / ケミカル・ブラザーズ<i class="fas fa-headphones-alt"></i></h4>
 
           <i class="far fa-file-audio file"></i>
-          <a href="https://amzn.to/2NxSmzE" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+          <a href="https://amzn.to/3cqOdqY" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
           <br><br>
           <em2>
-            時間： 4:06
+            時間： 5:53
             <br>
-            ジャンル： ヒップホップ
+            ジャンル： ダンス・エレクトロニカ
             <br>
-            レーベル： 術ノ穴
+            レーベル： EMI
           </em2>
           <br><br>
         </div>
@@ -478,6 +521,27 @@
           <label for="select-music">OPEN</label>
 
           <div class="accshow">
+
+            <div id="20210326"></div>
+            <!-- <!- いのち（TOSHIKI HAYASHI (%C) remix） [feat. ラブリーサマーちゃん] / 泉まくら & TOSHIKI HAYASHI(%C) -> -->
+            <div>
+              <p><small> 2021年03月26日</small></p>
+
+              <h4>いのち（TOSHIKI HAYASHI (%C) remix） [feat. ラブリーサマーちゃん] / 泉まくら & TOSHIKI HAYASHI(%C)<i class="fas fa-headphones-alt"></i></h4>
+
+              <i class="far fa-file-audio file"></i>
+              <a href="https://amzn.to/2NxSmzE" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 4:06
+                <br>
+                ジャンル： ヒップホップ
+                <br>
+                レーベル： 術ノ穴
+              </em2>
+              <br><br>
+            </div>
+            <hr>
 
             <div id="20210325"></div>
             <!-- <!- ALICE feat. kiki vivi lily / 中小企業 -> -->

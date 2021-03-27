@@ -75,6 +75,7 @@
                   <li> <a href="#beginner2"><i class="fas fa-globe"></i>初級（連結音）</a></li>
                   <li> <a href="#intermediate2"><i class="fas fa-globe"></i>中級（連結音）</a></li>
                   <li> <a href="#beginner3"><i class="fas fa-globe"></i>初級（同化音）</a></li>
+                  <li> <a href="#intermediate3"><i class="fas fa-globe"></i>中級（同化音）</a></li>
                   <li> <a href="#relations"><i class="fab fa-amazon"></i> RELATIONS</a></li>
                   <li> <a href="#recommend"><i class="fab fa-amazon"></i> しらひゅー推し</a></li>
                 </ol>
@@ -4478,6 +4479,125 @@
                 </tr>
                 <tr>
                   <td colspan="2">keyboardのdとその後のyou’reが同化して「キーボーヂュア」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>390</td>
+                  <td>Just try the best you can.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">ただ最善を尽くしてみてください。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">bestのtとその後のyouが同化して「ベスチュ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>391</td>
+                  <td>That’s a beautiful dress you’re wearing.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">あなたが着ているドレスは美しいですね。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">dressのsとその後のyouが同化して「ドレシュ」のように聞こえます。</td>
+                </tr>
+                <tr>
+                  <td>392</td>
+                  <td>Let me know when you’re ready.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">準備ができたら知らせてください。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">whenのnとその後のyou’reが同化して「ホウェニュア」のように聞こえます。</td>
+                </tr>
+              </tbody>
+            </table>
+
+
+                <div id="intermediate3"></div>
+            <table class="table">
+              <tbody>
+                <tr>
+                  <th colspan="2" class="class">中級（同化音）</th>
+                </tr>
+
+                <tr>
+                  <td>393</td>
+                  <td>Are these your car keys on the table?</td>
+                </tr>
+                <tr>
+                  <td colspan="2">テーブルの上にあるのはあなたの車の鍵ですか。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">theseのseとその後のyourが同化して「ジージュア」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>394</td>
+                  <td>If this is your car,you will need to move it.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">これがあなたの車なら移動する必要があります。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">isのsとその後のyourが同化して「イジュア」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>395</td>
+                  <td>Isn’t that your facility on the news?</td>
+                </tr>
+                <tr>
+                  <td colspan="2">ニュースに出ているのはあなたの施設ではないですか。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">thatのtとその後のyourが同化して「ザッチュア」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>396</td>
+                  <td>Watch out for the vehicle on your right.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">あなたの右側にある車に気を付けてください。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">onのnとその後のyourが同化して「オニュア」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>397</td>
+                  <td>Write your nationality in the top left box.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">上部左にある四角の中にあなたの国籍を記入してください。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">Writeのteとその後のyourが同化して「ライチュア」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>398</td>
+                  <td>The teacher has marked the exam you took.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">先生はあなたが受けた試験にマークをしました。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">examのmとその後のyouが同化して「イグザミュ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>399</td>
+                  <td>She wrote you an impressive reference letter.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">彼女はあなたに素晴らしい推薦状を書いてくれました。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">wroteのteとその後のyouが同化して「ローチュ」のように聞こえます。</td>
                 </tr>
                 
 

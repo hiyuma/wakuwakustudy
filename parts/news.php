@@ -46,6 +46,25 @@
         </li>
 
     <hr> -->
+        2021年03月27日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG270JX0X20C21A3000000/" target="blank" rel="noopener">
+                東京都、新たに430人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGKKZO70411400X20C21A3EA1000/" target="blank" rel="noopener">
+                地方で感染急拡大 宮城、複数指標ステージ4　全国2000人超す</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFH227ME0S1A120C2000000/" target="blank" rel="noopener">
+                「ノグチ」が救うガーナのコロナ　英世との縁、今も</a>
+        </li>
+
+    <hr>
         2021年03月26日
     
         <li>

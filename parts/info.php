@@ -2,14 +2,22 @@
 
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+  <li>2021年03月27日</li>
+  <div class="info-children">
+    <span><a href="english-daily-conversation.php">ENGLISH（CVS同化音中級）</a> 390～399 追加</span>
+  </div>
+
+  <li>2021年03月26日</li>
+  <div class="info-children"><span><a href="gallery.php">PHOTO</a>（新宿御苑）追加</span></div>
+
   <li>2021年03月24日</li>
   <div class="info-children">
-    <span><a href="english-daily-conversation.php">ENGLISH（CVS同化音初級）</a> 376～389追加</span>
+    <span><a href="english-daily-conversation.php">ENGLISH（CVS同化音初級）</a> 376～389 追加</span>
   </div>
 
   <li>2021年03月23日</li>
   <div class="info-children">
-    <span><a href="movie.php">MOVIE</a> 更新（Fukushima 50）</span>
+    <span><a href="movie.php">MOVIE</a>（Fukushima 50）追加</span>
   </div>
 
   <li>2021年03月22日</li>
@@ -24,7 +32,7 @@
   </div>
 
   <li>2021年03月20日</li>
-  <div class="info-children"><span><a href="diary.php">DIARY（抽選）</a> 更新</span></div>
+  <div class="info-children"><span><a href="diary.php">DIARY（抽選）</a> 追加</span></div>
 
   <li>2021年03月16日</li>
   <div class="info-children">
