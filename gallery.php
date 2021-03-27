@@ -20,7 +20,7 @@
     <a href="#"></a>
   </div>
   <script src="https://kit.fontawesome.com/6256a7882a.js" crossorigin="anonymous"></script>
-  <?php include('parts/mobileAmazon.php')?>
+  <?php include('parts/mobileAmazon.php') ?>
 </head>
 
 <body>
@@ -64,6 +64,7 @@
               <li> <a href="#2013青森">2013年11月 青森県(自転車旅)</a></li>
               <li> <a href="#和田堀公園">2014年～2020年 東京都杉並区 和田堀公園</a></li>
               <li> <a href="#大田黒公園">2020年11月 東京都杉並区 大田黒公園 紅葉ライトアップ</a></li>
+              <li> <a href="#新宿御苑">2021年03月 東京都 新宿御苑 </a></li>
               <li> <a href="#recommend"><i class="fab fa-amazon"></i>　しらひゅー推し</a></li>
             </ol>
           </div>
@@ -92,7 +93,7 @@
           <label for="京都">OPEN</label>
 
           <div class="accshow">
-            <div id="lightgallery7" class="album">
+            <div id="lightgallery1" class="album">
               <a href="gallery2/2008-4京都/2020-10-18.jpg" target="blank">
                 <img src="gallery2/2008-4京都/resize/2020-10-18small.jpg" alt=""></a>
               <a href="gallery2/2008-4京都/2020-10-18(1).jpg" target="blank">
@@ -295,16 +296,14 @@
           <label for="福島">OPEN</label>
 
           <div class="accshow">
-            <div id="lightgallery6" class="album">
-            <a href="gallery2/2011年 12月17日～24日福島/2020-10-18.jpg" target="blank">
+            <div id="lightgallery2" class="album">
+              <a href="gallery2/2011年 12月17日～24日福島/2020-10-18.jpg" target="blank">
                 <img src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18small.jpg" alt=""></a>
-            <?php  
-              for ($x = 1;$x < 108;$x++) {
+              <?php
+              for ($x = 1; $x < 108; $x++) {
                 echo '<a href="gallery2/2011年 12月17日～24日福島/2020-10-18(' . $x . ').jpg" target="blank"><img id="photoGallery" src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(' . $x . ')small.jpg" alt=""></a>';
               }
               ?>
-              
-
             </div>
           </div>
         </div>
@@ -328,7 +327,7 @@
           <label for="鋸山">OPEN</label>
 
           <div class="accshow">
-            <div id="lightgallery5" class="album">
+            <div id="lightgallery3" class="album">
               <a href="gallery2/2012年  11月 千葉県房総半島　鋸山の自転車旅/2020-10-18.jpg" target="blank"><img src="gallery2/2012年  11月 千葉県房総半島　鋸山の自転車旅/resize/2020-10-18small.jpg" alt=""></a>
               <a href="gallery2/2012年  11月 千葉県房総半島　鋸山の自転車旅/2020-10-18(1).jpg" target="blank"><img src="gallery2/2012年  11月 千葉県房総半島　鋸山の自転車旅/resize/2020-10-18(1)small.jpg" alt=""></a>
               <a href="gallery2/2012年  11月 千葉県房総半島　鋸山の自転車旅/2020-10-18(2).jpg" target="blank"><img src="gallery2/2012年  11月 千葉県房総半島　鋸山の自転車旅/resize/2020-10-18(2)small.jpg" alt=""></a>
@@ -531,7 +530,7 @@
           <label for="みなとみらい">OPEN</label>
 
           <div class="accshow">
-            <div id="lightgallery8" class="album">
+            <div id="lightgallery5" class="album">
               <?php
               $x = 1;
               while ($x < 88) {
@@ -565,7 +564,7 @@
           <label for="鎌倉">OPEN</label>
 
           <div class="accshow">
-            <div id="lightgallery3" class="album">
+            <div id="lightgallery6" class="album">
               <a href="gallery2/2013年9月18日 鎌倉/2020-10-18.jpg" target="blank">
                 <img src="gallery2/2013年9月18日 鎌倉/resize/2020-10-18small.jpg" alt=""></a>
               <a href="gallery2/2013年9月18日 鎌倉/2020-10-18(1).jpg" target="blank">
@@ -665,7 +664,7 @@
           <label for="aomori">OPEN</label>
 
           <div class="accshow">
-            <div id="lightgallery2" class="album">
+            <div id="lightgallery7" class="album">
               <a href="gallery2/2013-11青森/2013-11青森large/2013-11 (1).jpg" target="blank">
                 <img src="gallery2/2013-11青森/2013-11青森small/2013-11 (1)small.jpg" alt="奇跡の一本松"></a>
 
@@ -903,7 +902,7 @@
           <label for="wadahori">OPEN</label>
 
           <div class="accshow">
-            <div id="lightgallery1" class="album">
+            <div id="lightgallery8" class="album">
               <a href="gallery2/和田堀公園/和田堀公園 (1).jpg" target="blank">
                 <img src="gallery2/和田堀公園/resize/和田堀公園 (1)small.jpg" alt=""></a>
               <a href="gallery2/和田堀公園/和田堀公園 (2).jpg" target="blank">
@@ -1008,7 +1007,7 @@
 
           <!-- ※Don't forget to change the label -->
           <div class="accshow">
-            <div id="lightgallery0" class="album">
+            <div id="lightgallery9" class="album">
               <a href="gallery2/2020-1129 大田黒公園紅葉/ootaguro (1).jpg" target="blank">
                 <img src="gallery2/2020-1129 大田黒公園紅葉/resize/ootaguro (1)small.jpg" alt=""></a>
               <a href="gallery2/2020-1129 大田黒公園紅葉/ootaguro (2).jpg" target="blank">
@@ -1060,6 +1059,44 @@
         </div>
         <br><br><br>
 
+        <hr>
+        <div id="新宿御苑"></div>
+        <p><span class="material-icons">photo_camera</span>
+          2021年03月 東京都 新宿御苑　<span class="material-icons">local_florist</span></i>
+        </p>
+        <div id="route-line"></div>
+        <p>新宿御苑は、江戸時代に徳川家康の家臣・内藤清成が賜った大名屋敷がルーツといわれています。
+          <br>
+          明治維新後に国営の農事試験場が創設され、宮内省の御料地を経て、明治39年(1906)に皇室庭園として誕生しました。
+          <br>
+          国際外交拠点のパレスガーデンとして発展し、昭和24年(1949)に国民公園として一般に公開されました。
+          <br>
+          フランスの造園家のデザインによるヨーロッパ式の整形式庭園と風景式庭園、日本庭園を巧みに組み合わせた庭園は、明治時代の代表的近代西洋庭園であり、日本における数少ない風景式庭園の名作です。
+          <br><br>
+          <em3>出典：<a href="https://fng.or.jp/shinjuku/gyoen/">新宿御苑について</a></em3>
+        </p>
+        <div id="route-line"></div>
+
+        <div class="accbox">
+          <input type="checkbox" id="shinjukugyoen" class="cssacc" />
+
+          <label for="shinjukugyoen">OPEN</label>
+
+          <!-- ※Don't forget to change the label -->
+          <div class="accshow">
+            <div id="lightgallery0" class="album">
+              <?php
+              $x = 1;
+              while ($x < 16) {
+                echo '<a href="gallery2/2021年3月25日新宿御苑/20210326新宿御苑桜 (' . $x . ').jpg" target="blank"><img id="photoGallery" src="gallery2/2021年3月25日新宿御苑/resize/20210326新宿御苑桜 (' . $x . ')small.jpg" alt=""></a>';
+                $x++;
+              }
+              ?>
+            </div>
+          </div>
+        </div>
+        <br><br><br>
+
       </section>
       <?php include('parts/contents.php'); ?>
     </div>
@@ -1071,13 +1108,15 @@
   </main>
 
   <?php include('parts/footer.php'); ?>
-  
+
   <script src="js/jquery-3.5.1.min.js"></script>
   <?php include('parts/footerJs.php'); ?>
   <script src="js/lightgallery/js/lightgallery.min.js"></script>
   <script src="js/lightgallery/js/lightgallery-all.min.js"></script>
   <script src="js/openAndClose.js"></script>
   <script src="js/href.js"></script>
+
+
 
   <script type="text/javascript">
     var $lg0 = $('#lightgallery0');
@@ -1123,7 +1162,7 @@
       $lg4.lightGallery();
     });
   </script>
-  
+
   <script type="text/javascript">
     var $lg5 = $('#lightgallery5');
     $lg5.lightGallery();
@@ -1150,13 +1189,22 @@
       $lg7.lightGallery();
     });
   </script>
-  
+
   <script type="text/javascript">
     var $lg8 = $('#lightgallery8');
-    $lg8.ligtGallery();
+    $lg8.lightGallery();
     $lg8.on('onCloseAfter.lg', function(event) {
       $lg8.data('lightgallery').destroy(true);
       $lg8.lightGallery();
+    });
+  </script>
+
+  <script type="text/javascript">
+    var $lg9 = $('#lightgallery9');
+    $lg9.lightGallery();
+    $lg9.on('onCloseAfter.lg', function(event) {
+      $lg9.data('lightgallery').destroy(true);
+      $lg9.lightGallery();
     });
   </script>
 
