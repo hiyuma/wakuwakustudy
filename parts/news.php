@@ -46,6 +46,25 @@
         </li>
 
     <hr> -->
+        2021年03月28日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG280KQ0Y1A320C2000000/" target="blank" rel="noopener">
+                東京都、新たに313人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODE280KP0Y1A320C2000000/" target="blank" rel="noopener">
+                ワクチン接種証明「出入国の際に準備」　小林補佐官</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG19BCR0Z10C21A3000000/" target="blank" rel="noopener">
+                「大学生の実感やっと」1年遅れの入学式　再び延期も</a>
+        </li>
+
+    <hr>
         2021年03月27日
     
         <li>

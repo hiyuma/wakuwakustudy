@@ -383,7 +383,7 @@
         </div>
 
 
-       
+
 
         <!-- テンプレ<div id="202103X"></div>
           <!- XX ->
@@ -406,10 +406,10 @@
           </div>
           <hr> -->
 
-        <!-- <div id="202103X"></div>
+        <!-- <div id="20210331"></div>
           <!- Wave 1 / Com Truise ->
           <div>
-            <p><small> 2021年03月X日</small></p>
+            <p><small> 2021年03月31日</small></p>
 
             <h4>Wave 1 / Com Truise<i class="fas fa-headphones-alt"></i></h4>
 
@@ -427,10 +427,10 @@
           </div>
           <hr> -->
 
-        <!-- <div id="202103X"></div>
+        <!-- <div id="20210330"></div>
           <!- Talamak / トロ・イ・モワ ->
           <div>
-            <p><small> 2021年03月X日</small></p>
+            <p><small> 2021年03月30日</small></p>
 
             <h4>Talamak / トロ・イ・モワ<i class="fas fa-headphones-alt"></i></h4>
 
@@ -448,7 +448,7 @@
           </div>
           <hr> -->
 
-           <!-- <div id="20210329"></div>
+        <!-- <div id="20210329"></div>
           <!- Feel It All Around / Washed Out ->
           <div>
             <p><small> 2021年03月29日</small></p>
@@ -469,46 +469,26 @@
           </div>
           <hr> -->
 
-        <!-- <div id="20210328"></div>
-          <!- Gravity / Lusine ->
-          <div>
-            <p><small> 2021年03月28日</small></p>
-
-            <h4>Gravity / Lusine<i class="fas fa-headphones-alt"></i></h4>
-
-            <i class="far fa-file-audio file"></i>
-            <a href="https://amzn.to/39kfnxM" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
-            <br><br>
-            <em2>
-              時間： 5:09
-              <br>
-              ジャンル： エレクトロニカ
-              <br>
-              レーベル： Ghostly International
-            </em2>
-            <br><br>
-          </div>
-          <hr> -->
-
 
         <h2>今日の1曲<i class="fas fa-music"></i></h2>
 
-        <div id="20210327"></div>
-        <!-- <!- ワイド・オープン / ケミカル・ブラザーズ -> -->
-        <div>
-          <p><small> 2021年03月27日</small></p>
 
-          <h4>ワイド・オープン / ケミカル・ブラザーズ<i class="fas fa-headphones-alt"></i></h4>
+        <div id="20210328"></div>
+        <!-- <!- Gravity / Lusine -> -->
+        <div>
+          <p><small> 2021年03月28日</small></p>
+
+          <h4>Gravity / Lusine<i class="fas fa-headphones-alt"></i></h4>
 
           <i class="far fa-file-audio file"></i>
-          <a href="https://amzn.to/3cqOdqY" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+          <a href="https://amzn.to/39kfnxM" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
           <br><br>
           <em2>
-            時間： 5:53
+            時間： 5:09
             <br>
-            ジャンル： ダンス・エレクトロニカ
+            ジャンル： エレクトロニカ
             <br>
-            レーベル： EMI
+            レーベル： Ghostly International
           </em2>
           <br><br>
         </div>
@@ -521,6 +501,27 @@
           <label for="select-music">OPEN</label>
 
           <div class="accshow">
+
+            <div id="20210327"></div>
+            <!-- <!- ワイド・オープン / ケミカル・ブラザーズ -> -->
+            <div>
+              <p><small> 2021年03月27日</small></p>
+
+              <h4>ワイド・オープン / ケミカル・ブラザーズ<i class="fas fa-headphones-alt"></i></h4>
+
+              <i class="far fa-file-audio file"></i>
+              <a href="https://amzn.to/3cqOdqY" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 5:53
+                <br>
+                ジャンル： ダンス・エレクトロニカ
+                <br>
+                レーベル： EMI
+              </em2>
+              <br><br>
+            </div>
+            <hr>
 
             <div id="20210326"></div>
             <!-- <!- いのち（TOSHIKI HAYASHI (%C) remix） [feat. ラブリーサマーちゃん] / 泉まくら & TOSHIKI HAYASHI(%C) -> -->
