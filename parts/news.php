@@ -46,6 +46,44 @@
         </li>
 
     <hr> -->
+        2021年03月30日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                東京都、新たに364人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOJB3068J0Q1A330C2000000/" target="blank" rel="noopener">
+                兵庫県、コロナ感染176人　緊急事態解除後の最多更新</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG303FN0Q1A330C2000000/" target="blank" rel="noopener">
+                新型コロナの抗体保有、東京で1.35%　厚労省確定値</a>
+        </li>
+
+    <hr>
+        2021年03月29日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG292W50Z20C21A3000000/" target="blank" rel="noopener">
+                東京都、新たに234人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFD291LD0Z20C21A3000000/" target="blank" rel="noopener">
+                愛知、4月以降も時短要請を継続へ　東京・大阪と足並み</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFB045FP0U1A300C2000000/" target="blank" rel="noopener">
+                広がる「リモート就職」 新人サポートへ一部軌道修正も</a>
+        </li>
+
+    <hr>
         2021年03月28日
     
         <li>

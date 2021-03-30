@@ -427,72 +427,38 @@
           </div>
           <hr> -->
 
-        <!-- <div id="20210330"></div>
-          <!- Talamak / トロ・イ・モワ ->
-          <div>
-            <p><small> 2021年03月30日</small></p>
 
-            <h4>Talamak / トロ・イ・モワ<i class="fas fa-headphones-alt"></i></h4>
 
-            <i class="far fa-file-audio file"></i>
-            <a href="https://amzn.to/3csGAAl" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
-            <br><br>
-            <em2>
-              時間： 2:27
-              <br>
-              ジャンル： オルタナティヴ・ロック
-              <br>
-              レーベル： Company Studio
-            </em2>
-            <br><br>
-          </div>
-          <hr> -->
 
-        <!-- <div id="20210329"></div>
-          <!- Feel It All Around / Washed Out ->
-          <div>
-            <p><small> 2021年03月29日</small></p>
-
-            <h4>Feel It All Around / Washed Out<i class="fas fa-headphones-alt"></i></h4>
-
-            <i class="far fa-file-audio file"></i>
-            <a href="https://amzn.to/3swfrC0" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
-            <br><br>
-            <em2>
-              時間： 3:12
-              <br>
-              ジャンル： エレクトロニカ
-              <br>
-              レーベル： Washed Out
-            </em2>
-            <br><br>
-          </div>
-          <hr> -->
 
 
         <h2>今日の1曲<i class="fas fa-music"></i></h2>
 
-
-        <div id="20210328"></div>
-        <!-- <!- Gravity / Lusine -> -->
+        <div id="20210330"></div>
+        <!-- <!- Talamak / トロ・イ・モワ -> -->
         <div>
-          <p><small> 2021年03月28日</small></p>
+          <p><small> 2021年03月30日</small></p>
 
-          <h4>Gravity / Lusine<i class="fas fa-headphones-alt"></i></h4>
+          <h4>Talamak / トロ・イ・モワ<i class="fas fa-headphones-alt"></i></h4>
 
           <i class="far fa-file-audio file"></i>
-          <a href="https://amzn.to/39kfnxM" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+          <a href="https://amzn.to/3csGAAl" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
           <br><br>
           <em2>
-            時間： 5:09
+            時間： 2:27
             <br>
-            ジャンル： エレクトロニカ
+            ジャンル： オルタナティヴ・ロック
             <br>
-            レーベル： Ghostly International
+            レーベル： Company Studio
           </em2>
           <br><br>
         </div>
         <hr>
+
+
+
+
+
 
 
         <div class="accbox">
@@ -501,6 +467,49 @@
           <label for="select-music">OPEN</label>
 
           <div class="accshow">
+
+            <div id="20210329"></div>
+            <!-- <!- Feel It All Around / Washed Out -> -->
+            <div>
+              <p><small> 2021年03月29日</small></p>
+
+              <h4>Feel It All Around / Washed Out<i class="fas fa-headphones-alt"></i></h4>
+
+              <i class="far fa-file-audio file"></i>
+              <a href="https://amzn.to/3swfrC0" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 3:12
+                <br>
+                ジャンル： エレクトロニカ
+                <br>
+                レーベル： Washed Out
+              </em2>
+              <br><br>
+            </div>
+            <hr>
+
+            <div id="20210328"></div>
+            <!-- <!- Gravity / Lusine -> -->
+            <div>
+              <p><small> 2021年03月28日</small></p>
+
+              <h4>Gravity / Lusine<i class="fas fa-headphones-alt"></i></h4>
+
+              <i class="far fa-file-audio file"></i>
+              <a href="https://amzn.to/39kfnxM" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 5:09
+                <br>
+                ジャンル： エレクトロニカ
+                <br>
+                レーベル： Ghostly International
+              </em2>
+              <br><br>
+            </div>
+            <hr>
+
 
             <div id="20210327"></div>
             <!-- <!- ワイド・オープン / ケミカル・ブラザーズ -> -->

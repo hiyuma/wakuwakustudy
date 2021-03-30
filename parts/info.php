@@ -2,6 +2,11 @@
 
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+  <li>2021年03月29日</li>
+  <div class="info-children">
+    <span><a href="smt.php"> スマート投資</a> 「株を学ぶ」（5.チャートの見方）追加</span>
+  </div>
+
   <li>2021年03月27日</li>
   <div class="info-children">
     <span><a href="english-daily-conversation.php">ENGLISH（CVS同化音中級）</a> 390～399 追加</span>
