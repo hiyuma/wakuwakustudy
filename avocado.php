@@ -78,7 +78,8 @@
 
           <div id="schedule0" class="schedule_list">
             <ol reversed>
-              <li><a href="#20210315">　2021年03月15日　117.5cm</a></li>
+              <li><a href="#20210315">　2021年04月01日　114.2cm</a></li>
+              <li><a href="#20210315">　2021年03月15日　113.5cm</a></li>
               <li><a href="#20210216">　2021年02月16日　111.0cm</a></li>
               <li><a href="#20210116">　2021年01月16日　111.2cm</a></li>
               <li><a href="#20201216">　2020年12月16日　111.1cm</a></li>
@@ -1047,9 +1048,8 @@
               </p>
             </div>
           </div>
-
-
-        </div><!-- id="035" -->
+          </div>
+        <!-- id="035" -->
         <div class="schedule_wrapper">
           <div id="20210216"></div>
           <p id="avocado"><strong>2021年02月16日</strong></p>
@@ -1078,8 +1078,9 @@
               </p>
             </div>
           </div>
-
-        </div><!-- id="036" -->
+          </div>
+        
+        <!-- id="036" -->
         <div class="schedule_wrapper">
           <div id="20210315"></div>
           <p id="avocado"><strong>2021年03月15日</strong></p>
@@ -1096,7 +1097,7 @@
                 <br><br>
                 昨日、3月14日のホワイトデーは、桜が開花しました。
                 <br><br>
-                アボカドの背丈は、117.5cmと、新葉が開こうと伸びた分だけ高くなりました。
+                アボカドの背丈は、113.5cmと、新葉が開こうと伸びた分だけ高くなりました。
                 <br><br>
                 3月に入ってから、太陽の光に当たる時間が増えてきましたが、葉の変色はさらに進みました。
                 <br><br>
@@ -1106,6 +1107,37 @@
               </p>
             </div>
           </div>
+
+          <!-- id="036" -->
+        <div class="schedule_wrapper">
+          <div id="20210401"></div>
+          <p id="avocado"><strong>2021年04月01日</strong></p>
+          <p><img src="gallery/avocado/avo20210401 (1).jpg" alt="アボカド62"></p>
+          <div class="accbox">
+            <input type="checkbox" id="037" class="cssacc" />
+
+            <label for="037"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
+            <div class="accshow">
+              <p><img src="gallery/avocado/avo20210401 (2).jpg" alt="アボカド63"></p>
+              <p>2021年04月01日、東京都杉並区、9時現在の気温は15.3℃。
+                <br><br>
+                最高気温は19℃。
+                <br><br>
+                桜が異例の早さで満開になった今季は、アボカドも去年より早く新葉を開き始めました。
+                <br><br>
+                アボカドの高さは、114.2cmです。
+                <br><br>
+                新葉が開き始めると、枯れた葉が落ち始めました。
+                <br><br>
+                写真の通り、新葉が残っています。
+                <br><br>
+                今年は、このまま暑い夏になるのでしょうか。
+                <br><br>
+                また、去年の様に、梅雨明けの急な暑さで葉が枯れることがないように願います。
+              </p>
+            </div>
+          </div>
+        </div>
 
           <hr>
 
