@@ -46,6 +46,25 @@
         </li>
 
     <hr> -->
+        2021年03月31日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG313MA0R30C21A3000000/" target="blank" rel="noopener">
+                東京都、新たに414人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG305OP0Q1A330C2000000/" target="blank" rel="noopener">
+                パラ聖火リレー、880市区町村で採火　コロナ対策課題</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOHC314E30R30C21A3000000/" target="blank" rel="noopener">
+                大阪府「まん延防止措置」要請決定　対象は大阪市限定へ</a>
+        </li>
+
+    <hr>
         2021年03月30日
     
         <li>
