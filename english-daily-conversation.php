@@ -4599,6 +4599,237 @@
                 <tr>
                   <td colspan="2">wroteのteとその後のyouが同化して「ローチュ」のように聞こえます。</td>
                 </tr>
+
+                <tr>
+                  <td>400</td>
+                  <td>The gallery is displaying your artwork in the main hall.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">そのギャラリーはメインホールにあなたの作品を展示しています。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">displayingのgとその後のyourが同化して「ディスプレインギュア」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>401</td>
+                  <td>Could you contact the person in charge?</td>
+                </tr>
+                <tr>
+                  <td colspan="2">担当者に連絡を取っていただけませんか。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">Couldのdとその後のyouが同化して「クヂュ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>402</td>
+                  <td>I heard your telephone ringing just before.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">ちょっと前にあなたの電話が鳴っているのを聞きました。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">heardのdとその後のyourが同化して「ハーヂュア」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>403</td>
+                  <td>Which company usually delivers your packages?</td>
+                </tr>
+                <tr>
+                  <td colspan="2">通常はどの会社があなたの荷物を配送するのですか。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">deliversのsとその後のyourが同化して「デリヴァージュア」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>404</td>
+                  <td>I’d like you to help me move this car.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">この車を移動するのをあなたに手伝ってもらいたいのです。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">likeのkeとその後のyouが同化して「ライキュ」のように聞こえます 。</td>
+                </tr>
+
+                <tr>
+                  <td>405</td>
+                  <td>Their children will attend your party too.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">彼らの子供たちもあなたのパーティーに出席するつもりです。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">attendのdとその後のyourが同化して「アテンヂュア」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>406</td>
+                  <td>Is it your turn to pick up the visitors from the airport?</td>
+                </tr>
+                <tr>
+                  <td colspan="2">訪問客を空港に迎えにいくのはあなたの番ですか。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">itのtとその後のyourが同化して「イッチュア」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>407</td>
+                  <td>We prepared your favorite food to celebrate your birthday.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">あなたの誕生日を祝うためにあなたの好きな食べ物を準備しました。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">preparedのdとその後のyourが同化して「プリペアヂュア」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>408</td>
+                  <td>Where can you purchase tickets for musicals?</td>
+                </tr>
+                <tr>
+                  <td colspan="2">ミュージカルのチケットはどこで買えますか。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">canのnとその後のyouが同化して「キャニュ」のように聞こえます。</td>
+                </tr>
+
+                <tr>
+                  <td>409</td>
+                  <td>The bank sent you a reminder to change your pin number.</td>
+                </tr>
+                <tr>
+                  <td colspan="2">銀行が暗証番号変更の催促状をあなたに送りました。</td>
+                </tr>
+                <tr>
+                  <td colspan="2">sentのtとその後のyouが同化して「センチュ」のように聞こえます。</td>
+                </tr>
+
+                <!-- <tr>
+                  <td>410</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                
+                <tr>
+                  <td>411</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                
+                <tr>
+                  <td>412</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                
+                <tr>
+                  <td>413</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                
+                <tr>
+                  <td>414</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                
+                <tr>
+                  <td>415</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                
+                <tr>
+                  <td>416</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                
+                <tr>
+                  <td>417</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                
+                <tr>
+                  <td>418</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                
+                <tr>
+                  <td>419</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                
+                <tr>
+                  <td>420</td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"></td>
+                </tr> -->
                 
 
 
