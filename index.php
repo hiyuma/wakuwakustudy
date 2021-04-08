@@ -78,9 +78,6 @@
                      <span><i class="fas fa-paw"></i><a href="jspractice/omikuji.php"> 今 日 の ね こ ち ゃ ん お み く じ
                             </a></span>
                      <br>
-                     <span><i class="fas fa-headphones-alt"></i><a href="music.php"> 今 日 の 1 曲 </a></span>
-                     <br>
-                     <span><i class="far fa-edit"></i><a href="questionnaire.php"> ア ン ケ ー ト </a></span>
 
                      <br><br>
                      <em4>※現在、このWEBサイトは独学にて作成中のため、無意味・未完成箇所が複数あります。
