@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name=”robots” content=”index”>
-  <meta name="description" content="長野県出身、元美容師/イベントオーガナイザーのしらひゅー(白井　飛友馬)が、WEB制作・デザイン・開発などのプログラミング言語(PHP/Java/JSP/Servlet/HTML/CSS/JavaScriptなど)や英語(TOEIC・日常英会話)、投資、アボカド栽培などを学ぶために作成したWEBサイトです。ここは、好きな音楽、Youtubeを掲載していくページです。特に面白味はないです。" />
+  <meta name="description" content="長野県出身、元美容師/イベントオーガナイザーのしらひゅー(白井　飛友馬)が、WEB制作・デザイン・開発などのプログラミング言語(PHP/Java/JSP/Servlet/HTML/CSS/JavaScriptなど)や英語(TOEIC・日常英会話)、投資、アボカド栽培などを学ぶために作成したWEBサイトです。ここは、好きな音楽を掲載していくページです。" />
   <meta name="keywords" content="YouTube,音楽,Amazon,prime music">
 
   <title>しらひゅーのわくわくスタディ MUSIC</title>
@@ -46,8 +46,7 @@
         <p id="top-img-p">
           <img id="top-img" src="gallery/top/music.jpg" alt="小物">
         </p>
-        <p>毎日1曲ずつ。好きな音楽を毎日1曲ずつ。
-          <br><br>
+        <p>
           CHILL OUT、JAZZ、TECHNO、ELECTRO、HOUSE、R&B、AMBIENT、POP、ROCKなど。
           <br><br>
           千差万別。クラブDJ出演時は、DEEP HOUSE、TECHNO、ELECTRO系の選曲多。
@@ -385,10 +384,52 @@
 
 
 
-        <!-- テンプレ<div id="202103X"></div>
+        <!-- テンプレ<div id="202104X"></div>
           <!- XX ->
           <div>
-            <p><small> 2021年03月X日</small></p>
+            <p><small> 2021年04月X日</small></p>
+
+            <h4> / <i class="fas fa-headphones-alt"></i></h4>
+
+            <i class="far fa-file-audio file"></i>
+            <a href="X" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+            <br><br>
+            <em2>
+              時間： X
+              <br>
+              ジャンル： X
+              <br>
+              レーベル： X
+            </em2>
+            <br><br>
+          </div>
+          <hr> -->
+
+        <!-- <div id="20210409"></div>
+          <!- XX ->
+          <div>
+            <p><small> 2021年04月09日</small></p>
+
+            <h4> / <i class="fas fa-headphones-alt"></i></h4>
+
+            <i class="far fa-file-audio file"></i>
+            <a href="X" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+            <br><br>
+            <em2>
+              時間： X
+              <br>
+              ジャンル： X
+              <br>
+              レーベル： X
+            </em2>
+            <br><br>
+          </div>
+          <hr> -->
+
+        <!-- <div id="20210408"></div>
+          <!- XX ->
+          <div>
+            <p><small> 2021年04月X日</small></p>
 
             <h4> / <i class="fas fa-headphones-alt"></i></h4>
 
@@ -408,32 +449,31 @@
 
 
 
+        <h2>今日の1曲(終了)<i class="fas fa-music"></i></h2>
 
 
-
-
-        <h2>今日の1曲<i class="fas fa-music"></i></h2>
-
-        <div id="20210331"></div>
-        <!-- <!- Wave 1 / Com Truise -> -->
+        <div id="20210406"></div>
+        <!-- <!- Dimmur / Ametsub -> -->
         <div>
-          <p><small> 2021年03月31日</small></p>
+          <p><small> 2021年04月06日</small></p>
 
-          <h4>Wave 1 / Com Truise<i class="fas fa-headphones-alt"></i></h4>
+          <h4>Dimmur / Ametsub<i class="fas fa-headphones-alt"></i></h4>
 
           <i class="far fa-file-audio file"></i>
-          <a href="https://amzn.to/3tWAZYW" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+          <a href="https://amzn.to/2PnACrK" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
           <br><br>
           <em2>
-            時間： 4:02
+            時間： 4:11
             <br>
-            ジャンル： エレクトロニカ
+            ジャンル： ダンス・エレクトロニカ
             <br>
-            レーベル： Ghostly International
+            レーベル： nothings66
           </em2>
           <br><br>
         </div>
         <hr>
+
+
 
 
 
@@ -443,6 +483,133 @@
           <label for="select-music">OPEN</label>
 
           <div class="accshow">
+
+            <div id="20210405"></div>
+            <!-- <!- Is It Real / Maydien -> -->
+            <div>
+              <p><small> 2021年04月05日</small></p>
+
+              <h4>Is It Real / Maydien<i class="fas fa-headphones-alt"></i></h4>
+
+              <i class="far fa-file-audio file"></i>
+              <a href="X" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 3:08
+                <br>
+                ジャンル： ダンス・エレクトロニカ
+                <br>
+                レーベル： Roche Musique
+              </em2>
+              <br><br>
+            </div>
+            <hr>
+
+            <div id="20210404"></div>
+            <!-- <!- Pilot EP / Yves Tomas -> -->
+            <div>
+              <p><small> 2021年04月04日</small></p>
+
+              <h4>Pilot EP / Yves Tomas<i class="fas fa-headphones-alt"></i></h4>
+
+              <i class="far fa-file-audio file"></i>
+              <a href="https://amzn.to/3fviwi9" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 3:49
+                <br>
+                ジャンル： ダンス・エレクトロニカ > エレクトロニカ
+                <br>
+                レーベル： Rekids
+              </em2>
+              <br><br>
+            </div>
+            <hr>
+
+            <div id="20210403"></div>
+            <!-- <!- Replica (Matmos Edit) / ワンオートリックス・ポイント・ネヴァー -> -->
+            <div>
+              <p><small> 2021年04月03日</small></p>
+
+              <h4>Replica (Matmos Edit) / ワンオートリックス・ポイント・ネヴァー<i class="fas fa-headphones-alt"></i></h4>
+
+              <i class="far fa-file-audio file"></i>
+              <a href="https://amzn.to/3mhj2So" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 3:59
+                <br>
+                ジャンル： ダンス・エレクトロニカ
+                <br>
+                レーベル： Software Recording Co.
+              </em2>
+              <br><br>
+            </div>
+            <hr>
+
+            <div id="20210402"></div>
+            <!-- <!- Wena / Off The Meds -> -->
+            <div>
+              <p><small> 2021年04月02日</small></p>
+
+              <h4>Wena / Off The Meds<i class="fas fa-headphones-alt"></i></h4>
+
+              <i class="far fa-file-audio file"></i>
+              <a href="https://amzn.to/2PgqK3b" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 2:52
+                <br>
+                ジャンル： ダンス・エレクトロニカ > テクノ
+                <br>
+                レーベル： Studio Barnhus
+              </em2>
+              <br><br>
+            </div>
+            <hr>
+
+            <div id="20210401"></div>
+            <!-- <!- Lerzin / Al Wootton -> -->
+            <div>
+              <p><small> 2021年04月01日</small></p>
+
+              <h4>Lerzin / Al Wootton<i class="fas fa-headphones-alt"></i></h4>
+
+              <i class="far fa-file-audio file"></i>
+              <a href="https://amzn.to/3rAvo9f" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 4:57
+                <br>
+                ジャンル： ダンス・エレクトロニカ > テクノ
+                <br>
+                レーベル： Livity Sound Recordings
+              </em2>
+              <br><br>
+            </div>
+            <hr>
+
+            <div id="20210331"></div>
+            <!-- <!- Wave 1 / Com Truise -> -->
+            <div>
+              <p><small> 2021年03月31日</small></p>
+
+              <h4>Wave 1 / Com Truise<i class="fas fa-headphones-alt"></i></h4>
+
+              <i class="far fa-file-audio file"></i>
+              <a href="https://amzn.to/3tWAZYW" target="blank" rel="noopener">PLAY</a><i class="fas fa-play play"></i>
+              <br><br>
+              <em2>
+                時間： 4:02
+                <br>
+                ジャンル： エレクトロニカ
+                <br>
+                レーベル： Ghostly International
+              </em2>
+              <br><br>
+            </div>
+            <hr>
+
 
             <div id="20210330"></div>
             <!-- <!- Talamak / トロ・イ・モワ -> -->
