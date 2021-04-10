@@ -121,10 +121,10 @@
 
 
 
-                     <!-- echoset -->
+                     <!-- echoset
                      <div id="widget2" class="echo-set slide-in-animation">
                             <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=13&l=ur1&category=musicunlimited&banner=0W1M4BXB9SDGREJ2ZSR2&f=ifr&linkID=63415588d4d9bf58f87e490f57532ecd&t=hiyuma-22&tracking_id=hiyuma-22" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-                     </div>
+                     </div> -->
 
                      <ul id="programming" class="htmlcss slide-in-animation">
                             <div class="line">PROGRAMMING<i class="fas fa-laptop-code"></i></div>

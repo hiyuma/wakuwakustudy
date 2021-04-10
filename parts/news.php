@@ -46,6 +46,25 @@
         </li>
 
     <hr> -->
+        2021年04月09日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC090HK0Z00C21A4000000/" target="blank" rel="noopener">
+                東京都、新たに537人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN08DIB0Y1A400C2000000/" target="blank" rel="noopener">
+                米人口100年ぶり低い伸び　21年0.2%増、コロナと移民減</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA08D6D0Y1A400C2000000/" target="blank" rel="noopener">
+                まん延防止、3都府県追加　東京は5月11日まで</a>
+        </li>
+
+    <hr>
         2021年04月08日
     
         <li>
