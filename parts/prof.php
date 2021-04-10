@@ -22,11 +22,6 @@
   <div class="studylist">
     <span><i class="fas fa-paw"></i><a href="https://developershirai.com/jspractice/omikuji.php"><small>今日のねこちゃんおみくじ</small></a></span>
     <br>
-    <span><i class="fas fa-headphones-alt"></i><a href="https://developershirai.com/music.php"><small>今日の1曲</small></a></span>
-    <br>
-    <span><i class="far fa-edit"></i><a href="https://developershirai.com/questionnaire.php"><small>アンケート</small></a></span>
-  </div>
-
 
   <p>※お問い合わせは<span class="material-icons">
       email</span><a href="mailto:info@developershirai.com">こちら</a>からお願い致します。
