@@ -4710,126 +4710,126 @@
                   <td colspan="2">sentのtとその後のyouが同化して「センチュ」のように聞こえます。</td>
                 </tr>
 
-                <!-- <tr>
+                <tr>
                   <td>410</td>
-                  <td></td>
+                  <td>I accidentally deleted your email.</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">間違ってあなたのEメールを削除してしまいました。</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">deletedのdとその後のyourが同化して「ディリーティッヂュア」のように聞こえます。</td>
                 </tr>
                 
                 <tr>
                   <td>411</td>
-                  <td></td>
+                  <td>We can meet at your office if that’s more convenient.</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">もしその方が好都合でしたら、あなたのオフィスで会うことができます。</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">atのtとその後のyourが同化して「アッチュア」のように聞こえます。</td>
                 </tr>
                 
                 <tr>
                   <td>412</td>
-                  <td></td>
+                  <td>I liked your essay on culture and homesickness.</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">私はあなたの書いた文化とホームシックに関するエッセイが好きでした。</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">likedのtとその後のyourが同化して「ライクチュア」のように聞こえます。</td>
                 </tr>
                 
                 <tr>
                   <td>413</td>
-                  <td></td>
+                  <td>Who brought you those gorgeous flowers?</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">誰がそれらの豪華な花をあなたに持ってきたのですか。</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">broughtのtとその後のyouが同化して「ブローチュ」のように聞こえます。</td>
                 </tr>
                 
                 <tr>
                   <td>414</td>
-                  <td></td>
+                  <td>Can you cancel your meeting because we need people to help tomorrow?</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">明日は補助人員が必要なので、あなたの会合をキャンセルできますか。</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">cancelのlとその後のyourが同化して「キャンセリュア」のように聞こえます</td>
                 </tr>
                 
                 <tr>
                   <td>415</td>
-                  <td></td>
+                  <td>Can’t you ask that person for directions?</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">あの人に道を聞けませんか？</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">Can’tのtとその後のyouが同化して「キャンチュ」のように聞こえます。</td>
                 </tr>
                 
                 <tr>
                   <td>416</td>
-                  <td></td>
+                  <td>Don’t you ever listen to classical music?</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">あなたはクラシックを聞くことは全くないのですか。</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">Don’tのtとその後のyouが同化して「ドンチュ」のように聞こえます。</td>
                 </tr>
                 
                 <tr>
                   <td>417</td>
-                  <td></td>
+                  <td>I can’t believe you’re in your sixties.</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">あなたが60代だとは信じられません。</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">believeのveとその後のyou’reが同化して「ビリーヴュア」のように聞こえます。</td>
                 </tr>
                 
                 <tr>
                   <td>418</td>
-                  <td></td>
+                  <td>Weren’t you born in the northwest of the country?</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">あなたは国の北西部で生まれたのではないのですか。</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">Weren’tのtとその後のyouが同化して「ワーンチュ」のように聞こえます。</td>
                 </tr>
                 
                 <tr>
                   <td>419</td>
-                  <td></td>
+                  <td>I recall your house is opposite the temple.</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">あなたの家が寺院の向かい側だったと思い出します。</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">recallのllとその後のyourが同化して「リコーリュア」のように聞こえます。</td>
                 </tr>
                 
                 <tr>
                   <td>420</td>
-                  <td></td>
+                  <td>What date did the export company receive your package?</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
+                  <td colspan="2">輸出会社はあなたの荷物を何日に受領したのですか。</td>
                 </tr>
                 <tr>
-                  <td colspan="2"></td>
-                </tr> -->
+                  <td colspan="2">receiveのveとその後のyourが同化して「レスィーヴュア」のように聞こえます。</td>
+                </tr>
                 
 
 

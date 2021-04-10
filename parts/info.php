@@ -1,5 +1,10 @@
 <ul class="info slide-in-animation">
 
+  <li>2021年04月10日</li>
+  <div class="info-children">
+    <span><a href="english-daily-conversation.php">ENGLISH（CVS同化音中級）</a> 410～420 追加</span>
+  </div>
+
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
   <li>2021年04月09日</li>
   <div class="info-children">
