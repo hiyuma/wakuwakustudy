@@ -75,6 +75,7 @@
           <h3>Appreciated list</h3>
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li> <a href="#西の魔女が死んだ">西の魔女が死んだ　☆4.2</a></li>
               <li> <a href="#Fukushima 50">Fukushima 50　☆4.4</a></li>
               <li> <a href="#ヘアスプレー">ヘアスプレー　☆4.4</a></li>
               <li> <a href="#アヒルと鴨のコインロッカー">アヒルと鴨のコインロッカー　☆3.8</a></li>
@@ -179,6 +180,83 @@
           </div>
         </div>
 
+        <hr>
+
+        <!-- ※Don't forget to change the label 22 -->
+        <div id="西の魔女が死んだ"></div>
+        <h3 id="movies-title"><strong>西の魔女が死んだ</strong></h3>
+        <div id="movies">
+
+          <div id="movie-photo">
+            <img alt="西の魔女が死んだ" src="https://d2ueuvlup6lbue.cloudfront.net/attachments/0c34ba9ff734ade6fdf575e9083518f7028fd26f/store/fitpad/260/364/da242380ffeecb90ea54861009b581f9cc7ab4687991065695bcfb945e1e/_.jpg" width="300" height="420">
+          </div>
+
+          <div id="movie-info">
+            <p id="th">監督</p>
+            <p id="td">長崎俊一</p>
+            <p id="th">出演</p>
+            <p id="td">サチ・パーカー、高橋真悠、りょう、真実一路、諏訪太朗、大森南朋、高橋克実、木村祐一</p>
+            <p id="th">ジャンル</p>
+            <p id="td">ドラマ</p>
+            <p id="th">上映日</p>
+            <p id="td">2008年06月21日</p>
+            <p id="th">製作国</p>
+            <p id="td">日本</p>
+            <p id="th">上映時間</p>
+            <p id="td">115分</p>
+          </div>
+
+
+          <div id="movie-impressions">
+            <hr>
+            <p id="impression">西の魔女が死んだ</a>の感想 <i class="far fa-comment-dots"></i></p>
+            <div id="line"></div>
+
+            <p id="th">鑑賞日</p>
+            <p id="td">2021年04月08日</p>
+            <p id="th">鑑賞方法</p>
+            <p id="td">Amazon Prime Video</a></p>
+            <p id="th">評価</p>
+            <p id="td">4.2(/5.0)</p>
+
+            <div id="line"></div>
+            <div class="accbox">
+              <input type="checkbox" id="label22" class="cssacc" />
+              <label for="label22">Summary</label>
+
+              <div class="accshow">
+                梨木香歩原作の小説を映画化。中学に進学してまもなく学校に行けなくなったまいは、森で暮らす“西の魔女”ことイギリス人の祖母と過ごすことに。
+                <br>
+                魔女修行のような生活をしていくことで、楽しく生きる力を取り戻す姿を描く。
+              </div>
+            </div>
+
+            <div id="line"></div>
+            心に響く言葉と景色がたくさんありました。
+            <br><br>
+            「サボテンは、水の中に生える必要はないし、蓮の花は、空中では咲かない。シロクマがハワイより北極で生きる方を選んだからといって、だれがシロクマを責めますか。」
+
+
+            <div class="accbox">
+              <input type="checkbox" id="label22a" class="cssacc" />
+
+              <label for="label22a" class="closeButton">READ MORE</label>
+
+              <div class="accshow">
+                という言葉から、自分がどこで生きようと、なにをしていようとも、他人を気にしないで自分らしく生きていけばいい、時には逃げてもいいんだと、改めて思わされました。
+                <br><br>
+                また、「十分に生きるために、死ぬ準備をしているわけですね」
+                <br><br>
+                という言葉から、人は必ず死ぬ。だから、いつ死んでも後悔しないように生きていたいと、そう思いました。
+                <br><br>
+                森や花々の自然豊かな映像と、小鳥や木々の音が癒しを感じさせてくれます。
+                <br><br>
+                衝撃的なシーンもありましたが、現実よりも時間がゆっくり流れているような、そして、心が浄化したような気持ちにしてくれます。
+              </div>
+            </div>
+            <i class="fas fa-video"></i> <a href="https://www.amazon.co.jp/%E8%A5%BF%E3%81%AE%E9%AD%94%E5%A5%B3%E3%81%8C%E6%AD%BB%E3%82%93%E3%81%A0-%E3%82%B5%E3%83%81%E3%83%BB%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC/dp/B00FIWYK42/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E8%A5%BF%E3%81%AE%E9%AD%94%E5%A5%B3%E3%81%8C&qid=1617960243&s=instant-video&sr=1-1">西の魔女が死んだ</a>
+          </div>
+        </div>
         <hr>
 
         <!-- ※Don't forget to change the label 21 -->
