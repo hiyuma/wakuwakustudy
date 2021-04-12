@@ -46,6 +46,63 @@
         </li>
 
     <hr> -->
+        2021年04月12日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC122EL0S1A410C2000000/" target="blank" rel="noopener">
+                東京都、新たに306人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE0982E0Z00C21A4000000/" target="blank" rel="noopener">
+                「ひとまず安心」　高齢者ワクチン接種、自治体に緊張感</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODF095WL0Z00C21A4000000/" target="blank" rel="noopener">
+                長引くコロナ禍、のしかかる税・社保料2.8兆円の後払い</a>
+        </li>
+
+    <hr>
+        2021年04月11日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1119S0R10C21A4000000/" target="blank" rel="noopener">
+                東京都、新たに421人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOPT111S80R10C21A4000000/" target="blank" rel="noopener">
+                大阪の新規感染760人、兵庫は229人　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC112SU0R10C21A4000000/" target="blank" rel="noopener">
+                小池都知事「配分まで感染対策を」　高齢者ワクチン接種</a>
+        </li>
+
+    <hr>
+        2021年04月10日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC100ZW0Q1A410C2000000/" target="blank" rel="noopener">
+                東京都、新たに570人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF102FT0Q1A410C2000000/" target="blank" rel="noopener">
+                大阪府、10日の新規感染918人　過去最多</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE100X90Q1A410C2000000/" target="blank" rel="noopener">
+                まん延防止決定後、初の週末　旅行者に戸惑いも</a>
+        </li>
+
+    <hr>
         2021年04月09日
     
         <li>
