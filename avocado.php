@@ -78,7 +78,8 @@
 
           <div id="schedule0" class="schedule_list">
             <ol reversed>
-              <li><a href="#20210315">　2021年04月01日　114.2cm</a></li>
+              <li><a href="#20210415">　2021年04月15日　115.6cm</a></li>
+              <li><a href="#20210401">　2021年04月01日　114.2cm</a></li>
               <li><a href="#20210315">　2021年03月15日　113.5cm</a></li>
               <li><a href="#20210216">　2021年02月16日　111.0cm</a></li>
               <li><a href="#20210116">　2021年01月16日　111.2cm</a></li>
@@ -115,9 +116,6 @@
               <li><a href="#20190509">　2019年05月09日　未測定</a></li>
               <li><a href="#20190430">　2019年04月30日　未測定</a></li>
               <li><a href="#20190318">　2019年03月18日　栽培スタート</a></li>
-
-              <li><a href="#recommend">　<i class="fab fa-amazon"></i>　しらひゅー推し</a></li>
-              <li><a href="#amazon">　<i class="fab fa-amazon"></i>　AVOCADO RELATIONS</a></li>
             </ol>
           </div>
         </div>
@@ -1109,7 +1107,7 @@
             </div>
           </div>
 
-          <!-- id="036" -->
+          <!-- id="037" -->
           <div class="schedule_wrapper">
             <div id="20210401"></div>
             <p id="avocado"><strong>2021年04月01日</strong></p>
@@ -1140,6 +1138,31 @@
             </div>
           </div>
 
+          <!-- id="038" -->
+          <div class="schedule_wrapper">
+            <div id="20210401"></div>
+            <p id="avocado"><strong>2021年04月15日</strong></p>
+            <p><img src="gallery/avocado/avo20210415 (1).jpg" alt="アボカド65"></p>
+            <div class="accbox">
+              <input type="checkbox" id="038" class="cssacc" />
+
+              <label for="038"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
+              <div class="accshow">
+                <p><img src="gallery/avocado/avo20210415 (2).jpg" alt="アボカド66"></p>
+                <p>2021年04月15日、東京都杉並区11時現在の気温は13.1℃。
+                  <br><br>
+                  最高気温は18℃の予報です。
+                  <br><br>
+                  背丈は、115.6cmまで伸びました。
+                  <br><br>
+                  新葉が開き、大きくなっています。
+                  <br><br>
+                  色も緑が鮮やかで少し透明感もあるキレイな色になりました。F
+                </p>
+              </div>
+            </div>
+          </div>
+
           <hr>
 
           <br>...なんとかまだ続くかも。
@@ -1153,40 +1176,10 @@
       <?php include('parts/prof.php'); ?>
 
       <div id="amazon"></div>
-      <div id="widget3" class="avocadorelations">
-        <p>
-          <em4><i class="fab fa-amazon"></i>　AVOCADO RELATIONS</em4>
-        </p>
-        <hr>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B00GXYG05Q&linkId=366f8c14c32f4100f6bce7cac2264195&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B0034L0AK2&linkId=06043be8faffec04a56a0b335495c48e&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B00BTR0UJY&linkId=06a0cc2c924b77001687fb41ca2d37a6&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B003EII2FK&linkId=cb683f6a7499969692c0bd4242a1b670&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B01M9C2WZY&linkId=ac5c53a742deacdb648fb410373d30c0&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B07C2P9TBD&linkId=fe82dbc446236f0c6969457b49dc4c47&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B087D4Y4WX&linkId=4db51c7ce8690083cc5f0cea7e5cc00d&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B009HI1YBU&linkId=75267923e3c96f9f9621f7f31ce7ea83&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B009OVGTJC&linkId=2d5c5c96b0025449003687b7c7277fe9&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B0027WPD7O&linkId=465531299c4c4c152a441abf8ff2e467&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B001LOOR4E&linkId=254fd886878f9dfad258ad3ac7bb539b&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B08BYFRR2H&linkId=f9805c6c35e8f438adf097d21576946f&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B07DJ6WQHP&linkId=74ea133978a77a118dd66924433a1f27&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-      </div>
 
-      <?php include('parts/widget/side_widget.php'); ?>
+    </div>
+
+    <?php include('parts/widget/side_widget.php'); ?>
 
     </div>
   </main>
