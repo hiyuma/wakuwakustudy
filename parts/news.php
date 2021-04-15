@@ -46,6 +46,63 @@
         </li>
 
     <hr> -->
+        <!-- 2021年04月15日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                </a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC111OC0R10C21A4000000/" target="blank" rel="noopener">
+                新型コロナウイルスの起源　WHO、4つの仮説を検証</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUB131A60T10C21A4000000/" target="blank" rel="noopener">
+                ワクチン接種、投資先選別の軸　ポンドやドル上昇鮮明</a>
+        </li>
+
+    <hr> -->
+        2021年04月14日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC140J90U1A410C2000000/" target="blank" rel="noopener">
+                東京都、新たに591人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODL250V00V21C20A1000000/" target="blank" rel="noopener">
+                新型コロナ、国内感染51万6934人　新たに4305人確認</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF147KZ0U1A410C2000000/" target="blank" rel="noopener">
+                大阪府の新規感染1130人　2日連続で最多更新</a>
+        </li>
+
+    <hr>
+        2021年04月13日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC130L80T10C21A4000000/" target="blank" rel="noopener">
+                東京都、新たに510人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF133WB0T10C21A4000000/" target="blank" rel="noopener">
+                大阪府の新規感染者、初の1000人超　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM130D20T10C21A4000000/" target="blank" rel="noopener">
+                中国、3月の輸出30.6%増　米向け伸びコロナ前上回る</a>
+        </li>
+
+    <hr>
         2021年04月12日
     
         <li>

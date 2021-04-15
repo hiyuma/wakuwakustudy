@@ -4,6 +4,16 @@
 
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+  
+  <li>2021年04月15日</li>
+  <div class="info-children"><span><a href="diary.php">DIARY（儚さ）</a> 追加</span></div>
+
+  <li>2021年04月15日</li>
+  <div class="info-children"><span><a href="avocado.php">AVOCADO</a> 更新</span></div>
+
+  <li>2021年04月12日</li>
+  <div class="info-children"><span><a href="gallery.php">PHOTO</a>（和田堀公園 夜桜）追加</span></div>
+
 
   <li>2021年04月10日</li>
   <div class="info-children">
