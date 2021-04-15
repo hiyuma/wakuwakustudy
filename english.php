@@ -75,8 +75,8 @@
 				<table id="english-heading">
 					<tr>
 						<th>英単語</th>
-						<th>英文法</th>
-						<th><a href="english-daily-conversation.php" target="blank">英会話 <i class="fas fa-external-link-alt"></i></a></th>
+						<th><a href="english-memo.php">英文法</a><i class="fas fa-external-link-alt"></i></th>
+						<th><a href="english-daily-conversation.php">英会話</a><i class="fas fa-external-link-alt"></i></th>
 					</tr>
 					<tr>
 						<td>スタディサプリ利用</td>
@@ -3159,21 +3159,14 @@
 									<td>～を取り壊す　※destroy（～を破壊する）&nbsp;</td>
 								</tr>
 
-								<tr>
-									<td>593</td>
-									<td>&nbsp;</td>
-									<td>&nbsp;</td>
-								</tr>
-
-
 							</div>
 
 							<!-- コピー用 -->
-							<tr>
+							<!-- <tr>
 								<td>続</td>
 								<td>&nbsp;</td>
 								<td>&nbsp;</td>
-							</tr>
+							</tr> -->
 
 						</tbody>
 					</table>
@@ -3198,6 +3191,9 @@
 				<object data="English2.pdf" type="application/pdf" width="100%" height="400">
 					<iframe src="English2.pdf" width="100%" height="400"> </iframe>
 				</object>
+
+				<a href="english-daily-memo.php">英文法 Memo</a><i class="fas fa-external-link-alt"></i></th>
+				<th><a href="english-daily-conversation.php">英会話 Dictation</a><i class="fas fa-external-link-alt"></i></th>
 
 			</section>
 
