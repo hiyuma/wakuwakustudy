@@ -2065,42 +2065,7 @@
 
     <div id="aside">
       <?php include('parts/prof.php'); ?>
-
-      <!-- Fire TV stick -->
-      <div id="widget3">
-        <iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B07ZZY2DFW&linkId=83d4cd118861761101f73d040280f1de&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-      </div>
-
-
-      <!-- Fire TV stick 4k-->
-      <div id="widget3">
-        <iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B079QRQTCR&linkId=913272e597b278cc8ead28fbb9176ec4&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-      </div>
-
-      <!-- Fire TV 4k-->
-      <div id="widget3">
-        <iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B07MGK7TLH&linkId=6b14a91a9222ead8062d0e7f70bf9e7c&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-      </div>
-
-
-
-      <!-- プライムビデオ -->
-      <div id="widget3">
-        <a target="_blank" href="https://www.amazon.co.jp/s?i=instant-video&bbn=3985289051&rh=n:3985289051&ref=atv_cat_ra&_encoding=UTF8&linkCode=ib1&tag=hiyuma-22&linkId=5ce98741d88c0d7fdf8d7def5bd7a228&ref_=ihub_curatedcontent_0ae7809d-868c-41fd-a5ef-0b5fe1f1395e"><img alt="" src="https://m.media-amazon.com/images/G/09/Digital_Video/Assoc/20202H/DV_JP_Design_3183_NewTitles_Assoc_300x300.jpg" class="r-rp-content-card-image"></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=hiyuma-22&l=ib1&o=9" width="1" height="1" border="0" alt="" style="border:none !important; margin:5px !important;" />
-      </div>
-
-      <!-- プライムビデオ初回 -->
-      <div id="widget3">
-        <a target="_blank" href="https://www.amazon.co.jp/gp/video/primesignup/?_encoding=UTF8&linkCode=ib1&tag=hiyuma-22&linkId=cc4a3d1dd626f7d11cf1539832e1c3c3&ref_=ihub_curatedcontent_f7ed9e01-e99d-433e-b0be-d72744a6c259"><img alt="" src="https://m.media-amazon.com/images/G/09/Digital_Video/svod/2020H2/CrossSite/Assoc/DV_JP_3115_SVOD_Associate_300x250.jpg" class="r-rp-content-card-image"></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=hiyuma-22&l=ib1&o=9" width="1" height="1" border="0" alt="" style="border:none !important; margin:5px !important;" />
-      </div>
-
-      <div id="widget3">
-        <a target="_blank" href="https://www.amazon.co.jp/dp/B08H4XGHNZ?_encoding=UTF8&linkCode=ib1&tag=hiyuma-22&linkId=38f90d96d4f65120026b836bf5c3901b&ref_=ihub_curatedcontent_c78ba675-c117-4f6b-a30b-3d285701dc52"><img alt="" src="https://m.media-amazon.com/images/G/09/Digital_Video/svod/2020H2/StrategicTitles/PeepTime/Assoc/DV_JP_3098_PeepTime_Assoc_300x300.jpg" class="r-rp-content-card-image"></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=hiyuma-22&l=ib1&o=9" width="1" height="1" border="0" alt="" style="border:none !important; margin:5px !important;" />
-      </div>
-
+    </div>
 
       <?php include('parts/widget/side_widget.php'); ?>
   </main>

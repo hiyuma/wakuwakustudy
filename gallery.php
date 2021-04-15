@@ -62,7 +62,7 @@
               <li> <a href="#2013横浜みなとみらい">"NEW"<br>2013年08月 09EDGE CRUISE'13 横浜湾みなとみらいナイトクルージング </a></li>
               <li> <a href="#2013鎌倉">2013年09月 神奈川県鎌倉(自転車旅)</a></li>
               <li> <a href="#2013青森">2013年11月 青森県(自転車旅)</a></li>
-              <li> <a href="#和田堀公園">2014年～2020年 東京都杉並区 和田堀公園</a></li>
+              <li> <a href="#和田堀公園">2014年～ 東京都杉並区 和田堀公園</a></li>
               <li> <a href="#大田黒公園">2020年11月 東京都杉並区 大田黒公園 紅葉ライトアップ</a></li>
               <li> <a href="#新宿御苑">2021年03月 東京都 新宿御苑 </a></li>
               <li> <a href="#recommend"><i class="fab fa-amazon"></i>　しらひゅー推し</a></li>
@@ -903,87 +903,16 @@
 
           <div class="accshow">
             <div id="lightgallery8" class="album">
-              <a href="gallery2/和田堀公園/和田堀公園 (1).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (1)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (2).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (2)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (3).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (3)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (4).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (4)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (5).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (5)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (6).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (6)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (7).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (7)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (8).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (8)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (9).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (9)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (10).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (10)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (11).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (11)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (12).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (12)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (13).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (13)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (14).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (14)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (15).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (15)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (16).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (16)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (17).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (17)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (18).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (18)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (19).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (19)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (20).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (20)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (21).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (21)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (22).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (22)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (23).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (23)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (24).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (24)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (25).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (25)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (26).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (26)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (27).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (27)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (28).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (28)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (29).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (29)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (30).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (30)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (31).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (31)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (32).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (32)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (33).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (33)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (34).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (34)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (35).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (35)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (36).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (36)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (37).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (37)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (38).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (38)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (39).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (39)small.jpg" alt=""></a>
-              <a href="gallery2/和田堀公園/和田堀公園 (40).jpg" target="blank">
-                <img src="gallery2/和田堀公園/resize/和田堀公園 (40)small.jpg" alt=""></a>
+            <?php
+              $x = 40;
+              while ($x < 83) {
+                echo '<a href="gallery2/和田堀公園/和田堀公園 (' . $x . ').jpg" target="blank">
+                <img src="gallery2/和田堀公園/resize/和田堀公園 (' . $x . ')small.jpg" alt=""></a>';
+                $x++;
+              }
+              ?>
 
+          
             </div>
           </div>
         </div>

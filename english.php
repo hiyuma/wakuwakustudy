@@ -1,109 +1,107 @@
 <!DOCTYPE html>
 <html lang="ja">
 
-	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta name=”robots” content=”index”>
-		<meta name="description"
-			content="長野県出身、元美容師/イベントオーガナイザーのしらひゅー(白井　飛友馬)が、WEB制作・デザイン・開発などのプログラミング言語(PHP/Java/JSP/Servlet/HTML/CSS/JavaScriptなど)や英語(TOEIC・日常英会話)、投資、アボカド栽培などを学ぶために作成したWEBサイトです。ここは、TOEIC英単語、文法を学ぶページです。特に面白味はないです。" />
-		<meta name="keywords" content="英語,スタディサプリ,TOEIC,英単語,対策">
-		<title>しらひゅーのわくわくスタディ ENGLISH</title>
-		<link  rel = "shortcut icon"  href = "favicon.ico" />
-		<link rel="stylesheet" href="mystyle.css">
-		<link rel="stylesheet" href="english.css">
-		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-		<div id="page_top">
-			<a href="#"></a>
-			
-		</div>
-		<script src="https://kit.fontawesome.com/6256a7882a.js" crossorigin="anonymous"></script>
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-		<?php include('parts/mobileAmazon.php')?>
-	</head>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name=”robots” content=”index”>
+	<meta name="description" content="長野県出身、元美容師/イベントオーガナイザーのしらひゅー(白井　飛友馬)が、WEB制作・デザイン・開発などのプログラミング言語(PHP/Java/JSP/Servlet/HTML/CSS/JavaScriptなど)や英語(TOEIC・日常英会話)、投資、アボカド栽培などを学ぶために作成したWEBサイトです。ここは、TOEIC英単語、文法を学ぶページです。特に面白味はないです。" />
+	<meta name="keywords" content="英語,スタディサプリ,TOEIC,英単語,対策">
+	<title>しらひゅーのわくわくスタディ ENGLISH</title>
+	<link rel="shortcut icon" href="favicon.ico" />
+	<link rel="stylesheet" href="mystyle.css">
+	<link rel="stylesheet" href="english.css">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<div id="page_top">
+		<a href="#"></a>
+
+	</div>
+	<script src="https://kit.fontawesome.com/6256a7882a.js" crossorigin="anonymous"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<?php include('parts/mobileAmazon.php') ?>
+</head>
 
 
-	<body>
-  <?php include('parts/header.php') ?>
+<body>
+	<?php include('parts/header.php') ?>
 
-  <?php include('parts/widget/widget_mujirushi.php') ?>
+	<?php include('parts/widget/widget_mujirushi.php') ?>
 
 
-		<header>
-			<h1 class="logo">英</h1>
-		</header>
+	<header>
+		<h1 class="logo">英</h1>
+	</header>
 
-	
-		<?php include('parts/menuButton.php'); ?>
-  <?php include('parts/facebook_twitter_button.php'); ?>
 
-		<main>
-			<div id="article">
-				<section class="slide-in-animation">
-					<h1 class="line"><i class="fas fa-language"></i>ENGLISH</h1>
-					<p id="top-img-p">
-            <image id="top-img" src="gallery/top/english.jpg" alt="">
-          </p>
-					<p>
-						勉強中のTOEIC対策の英単語と英文法の簡易的なメモ書きをさらすだけのページでしたが、日常英会話も追加しました。不定期に更新しています。
+	<?php include('parts/menuButton.php'); ?>
+	<?php include('parts/facebook_twitter_button.php'); ?>
+
+	<main>
+		<div id="article">
+			<section class="slide-in-animation">
+				<h1 class="line"><i class="fas fa-language"></i>ENGLISH</h1>
+				<p id="top-img-p">
+					<image id="top-img" src="gallery/top/english.jpg" alt="">
+				</p>
+				<p>
+					勉強中のTOEIC対策の英単語と英文法の簡易的なメモ書きをさらすだけのページでしたが、日常英会話も追加しました。不定期に更新しています。
+					<br><br>
+					ここでは音声がないので、<i class="fas fa-mobile-alt"></i><a href="https://eigosapuri.jp/toeic/?vos=evalstsstopx0000001&fed=ppstp1906003">スタディサプリENGLISH(TOEIC対策)</a>とともに、<i class="fas fa-mobile-alt"></i><a href="https://px.a8.net/svt/ejp?a8mat=3BOCPH+BLYC7U+3AQG+ZQ80I" rel="nofollow"> スタディサプリENGLISH（新日常英会話コース）</a><img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=3BOCPH+BLYC7U+3AQG+ZQ80I" alt="">をぜひ使ってみてください。毎日続けやすく、見やすいのでとてもおススメです。
+					<br><br>
+					現在は、新型コロナウイルス感染拡大の影響を受け、TOIEC試験受ける予定は延期となっています。TOEIC試験が人数制限の抽選式になっており、残念ながら3回連続で外れています。一旦、通常通りに試験受けられるまで、英会話へシフトします。
+					<br><br>
+					<i class="fas fa-arrow-circle-right"></i>やっと、TOEIC試験の抽選に当選しました。4月に受験する予定です。
+					<br><br>
+					TOEIC対策は、<i class="fas fa-mobile-alt"></i><a href="https://eigosapuri.jp/toeic/?vos=evalstsstopx0000001&fed=ppstp1906003">スタディサプリENGLISH</a>を利用しています。
+					<br><br>
+					リスニング、ディクテーション、発音練習は、映画(字幕)や<i class="fas fa-mobile-alt"></i><a href="https://px.a8.net/svt/ejp?a8mat=3BOCPH+LYC7U+3AQG+ZQ80I" rel="nofollow"> スタディサプリENGLISH（新日常英会話コース）</a>、NHK <a href="https://www.nhk.jp/p/ts/NW5ZG11VRW/">おもてなし即レス英会話</a>、<a href="https://www.alc.co.jp/">アルク</a>のおもてなし英会話、キクタンなどで勉強中です。
+					<br><br>
+					2019年3月には、<a href="https://eikaiwa.dmm.com/">DMMオンライン英会話</a>を5回経験するも、自分の英語レベルが思っている以上に低いことを実感。
+					<br><br>
+					勉強を継続しつつも、2020年12月からオンライン <i class="fas fa-headset"></i><a href="https://www.rarejob.com/about/">レアジョブ英会話</a>を始めました。前回よりもリスニングもスピーキングもレベルが上がっていることを実感しています。
+
+					<br><br>
+					<em4>※画面サイズ（PCやスマホ、タブレットなど）によって英単語表のデザインが変わることがあります。
 						<br><br>
-						ここでは音声がないので、<i class="fas fa-mobile-alt"></i><a
-						href="https://eigosapuri.jp/toeic/?vos=evalstsstopx0000001&fed=ppstp1906003">スタディサプリENGLISH(TOEIC対策)</a>とともに、<i class="fas fa-mobile-alt"></i><a href="https://px.a8.net/svt/ejp?a8mat=3BOCPH+BLYC7U+3AQG+ZQ80I" rel="nofollow">	スタディサプリENGLISH（新日常英会話コース）</a><img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=3BOCPH+BLYC7U+3AQG+ZQ80I" alt="">をぜひ使ってみてください。毎日続けやすく、見やすいのでとてもおススメです。
-						<br><br>
-						現在は、新型コロナウイルス感染拡大の影響を受け、TOIEC試験受ける予定は延期となっています。TOEIC試験が人数制限の抽選式になっており、残念ながら3回連続で外れています。一旦、通常通りに試験受けられるまで、英会話へシフトします。
-						<br><br>
-						<i class="fas fa-arrow-circle-right"></i>やっと、TOEIC試験の抽選に当選しました。4月に受験する予定です。
-						<br><br>
-						TOEIC対策は、<i class="fas fa-mobile-alt"></i><a href="https://eigosapuri.jp/toeic/?vos=evalstsstopx0000001&fed=ppstp1906003">スタディサプリENGLISH</a>を利用しています。
-						<br><br>
-						リスニング、ディクテーション、発音練習は、映画(字幕)や<i class="fas fa-mobile-alt"></i><a href="https://px.a8.net/svt/ejp?a8mat=3BOCPH+LYC7U+3AQG+ZQ80I" rel="nofollow">	スタディサプリENGLISH（新日常英会話コース）</a>、NHK <a
-							href="https://www.nhk.jp/p/ts/NW5ZG11VRW/">おもてなし即レス英会話</a>、<a
-							href="https://www.alc.co.jp/">アルク</a>のおもてなし英会話、キクタンなどで勉強中です。
-							<br><br>
-							2019年3月には、<a href="https://eikaiwa.dmm.com/">DMMオンライン英会話</a>を5回経験するも、自分の英語レベルが思っている以上に低いことを実感。
-							<br><br>
-							勉強を継続しつつも、2020年12月からオンライン <i class="fas fa-headset"></i><a href="https://www.rarejob.com/about/">レアジョブ英会話</a>を始めました。前回よりもリスニングもスピーキングもレベルが上がっていることを実感しています。
-							
-							<br><br>
-						<em4>※画面サイズ（PCやスマホ、タブレットなど）によって英単語表のデザインが変わることがあります。
-							<br><br>
-							※PDF埋め込み部は閲覧する端末、ブラウザによって表示が変わる可能性があります。</em4>
-							
-					</p>
-					<br>
-					<hr>
+						※PDF埋め込み部は閲覧する端末、ブラウザによって表示が変わる可能性があります。
+					</em4>
+
+				</p>
+				<br>
+				<hr>
 
 
-					<table id="english-heading">
-						<tr>
-							<th>英単語</th>
-							<th>英文法</th>
-							<th><a href="english-daily-conversation.php" target="blank">英会話 <i class="fas fa-external-link-alt"></i></a></th>
-						</tr>
-						<tr>
-							<td>スタディサプリ利用</td>
-							<td>スタディサプリ利用</td>
-							<td class="popular">NHK即レス英会話、スタディサプリ新日常英会話利用</td>
-						</tr>
-						<tr>
-							<td><a href="#english-line3">PDF<span class="material-icons word">south</span></a></td>
-							<td><a href="#english-line2">PDF<span class="material-icons word">south</span></a></td>
-							<td><a href="english-daily-conversation.php" target="blank">CVS <i class="fas fa-external-link-alt"></i></a></td>
-						</tr>
-					</table>
+				<table id="english-heading">
+					<tr>
+						<th>英単語</th>
+						<th>英文法</th>
+						<th><a href="english-daily-conversation.php" target="blank">英会話 <i class="fas fa-external-link-alt"></i></a></th>
+					</tr>
+					<tr>
+						<td>スタディサプリ利用</td>
+						<td>スタディサプリ利用</td>
+						<td class="popular">NHK即レス英会話、スタディサプリ新日常英会話利用</td>
+					</tr>
+					<tr>
+						<td><a href="#english-line3">PDF<span class="material-icons word">south</span></a></td>
+						<td><a href="#english-line2">PDF<span class="material-icons word">south</span></a></td>
+						<td><a href="english-daily-conversation.php" target="blank">CVS <i class="fas fa-external-link-alt"></i></a></td>
+					</tr>
+				</table>
 
-					<p id="english-line1">英単語(TOEIC対策) </p>
-					<div id="english-table">
-						<table class="table">
-							<tbody>
-								<tr>
-									<th>ID</th>
-									<th>WORD&nbsp;</th>
-									<th>TRANSLATION&nbsp;</th>
-								</tr>
+				<p id="english-line1">英単語(TOEIC対策) </p>
+				<div id="english-table">
+					<table class="table">
+						<tbody>
+							<tr>
+								<th>ID</th>
+								<th>WORD&nbsp;</th>
+								<th>TRANSLATION&nbsp;</th>
+							</tr>
 
-								<div><!-- 1 -->
+							<div>
+								<!-- 1 -->
 								<tr>
 									<td>1</td>
 									<td>associate&nbsp;</td>
@@ -616,10 +614,11 @@
 									<td>overcome&nbsp;</td>
 									<td>乗り越える、克服する&nbsp;</td>
 								</tr>
-								</div>
-									
+							</div>
 
-								<div><!-- 100 -->
+
+							<div>
+								<!-- 100 -->
 								<tr>
 									<td>100</td>
 									<td>via&nbsp;</td>
@@ -1130,9 +1129,10 @@
 									<td>noted&nbsp;</td>
 									<td>有名な、著名な&nbsp;</td>
 								</tr>
-								</div>
+							</div>
 
-								<div><!-- 200 -->
+							<div>
+								<!-- 200 -->
 								<tr>
 									<td>200</td>
 									<td>quantity&nbsp;</td>
@@ -1637,9 +1637,10 @@
 									<td>inspiring&nbsp;</td>
 									<td>刺激的な、感動的な&nbsp;</td>
 								</tr>
-								</div>
+							</div>
 
-								<div><!-- 300 -->
+							<div>
+								<!-- 300 -->
 								<tr>
 									<td>300</td>
 									<td>accomplished&nbsp;</td>
@@ -2141,9 +2142,10 @@
 									<td>scenic&nbsp;</td>
 									<td>景色の良い、眺めのいい ※sceneの形容詞&nbsp;</td>
 								</tr>
-								</div>
+							</div>
 
-								<div><!-- 400 -->
+							<div>
+								<!-- 400 -->
 								<tr>
 									<td>400</td>
 									<td>disruption&nbsp;</td>
@@ -2648,9 +2650,10 @@
 									<td>～を単純化する&nbsp;</td>
 								</tr>
 
-								</div>
+							</div>
 
-								<div><!-- 500 -->
+							<div>
+								<!-- 500 -->
 								<tr>
 									<td>500</td>
 									<td>advocate&nbsp;</td>
@@ -2975,7 +2978,7 @@
 									<td>occupancy&nbsp;</td>
 									<td>占有、居住&nbsp;</td>
 								</tr>
-								
+
 								<tr>
 									<td>563</td>
 									<td>endorse&nbsp;</td>
@@ -3095,7 +3098,7 @@
 									<td>unprecedented&nbsp;</td>
 									<td>前例のない　※動詞precede「先に（pre）行く（cede=go）」&nbsp;</td>
 								</tr>
-							
+
 								<tr>
 									<td>583</td>
 									<td>liaison&nbsp;</td>
@@ -3163,78 +3166,55 @@
 								</tr>
 
 
-								</div>
+							</div>
 
-								<!-- コピー用 -->
-								<tr>
-									<td>続</td>
-									<td>&nbsp;</td>
-									<td>&nbsp;</td>
-								</tr>
+							<!-- コピー用 -->
+							<tr>
+								<td>続</td>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+							</tr>
 
-							</tbody>
-						</table>
-					</div>
-					<br>
-					<br>
-					<hr>
-					<p id="english-line3">英単語 ※PDF埋め込み</p>
-					<p id="pdf-link">
-						<a href="English1.pdf">PDFを表示(英単語)</a>
-					</p>
-					<object data="English1.pdf" type="application/pdf" width="100%" height="400">
-						<iframe src="English1.pdf" width="100%" height="400"> </iframe>
-					</object>
-					<br>
-					<hr>
-					<p id="english-line2">英文法 ※PDF埋め込み</p>
-					<p id="pdf-link">
-						<a href="English2.pdf">PDFを表示(英文法)</a>
-					</p>
-					<br>
-					<object data="English2.pdf" type="application/pdf" width="100%" height="400">
-						<iframe src="English2.pdf" width="100%" height="400"> </iframe>
-					</object>
-
-				</section>
-
-        <?php include('parts/contents.php'); ?>
-
-			</div>
-
-			<div id="aside">
-			<?php include('parts/prof.php'); ?>
-				<div id="widget3">
-					<a href="https://px.a8.net/svt/ejp?a8mat=3BOCPH+BLYBG2+3AQG+ZRALD" rel="nofollow">
-						<img border="0" width="300" height="250" alt=""
-						src="https://www26.a8.net/svt/bgt?aid=201010517702&wid=001&eno=01&mid=s00000015388006006000&mc=1"></a>
-						<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=3BOCPH+BLYBG2+3AQG+ZRALD" alt="">
-						<a href="https://px.a8.net/svt/ejp?a8mat=3BOCPF+A1ZLCQ+3AQG+NYP3L" rel="nofollow">
-							<img border="0" width="300" height="250" alt="" src="https://www25.a8.net/svt/bgt?aid=201010515608&wid=002&eno=01&mid=s00000015388004025000&mc=1"></a>
-							<img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=3BOCPF+A1ZLCQ+3AQG+NYP3L" alt="">
-						</div>
-						
-				<div id="widget3">
-					<iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"
-						src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B06ZZH4CKN&linkId=5ee72160bf69b9615340c05dc7deaede&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-					</iframe>
-					<iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"
-						src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B07XRRMPRT&linkId=b59f988d58c10490c28639563ee1151a&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-					</iframe>
-					<iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"
-						src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=4757430582&linkId=9fbfa4b602dba84604503f5893b43337&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-					</iframe>
-					<iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"
-						src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=490603358X&linkId=9a419a00381bcd3d671f8be6d452e695&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-					</iframe>
+						</tbody>
+					</table>
 				</div>
-						
-        <?php include('parts/widget/side_widget.php'); ?>
+				<br>
+				<br>
+				<hr>
+				<p id="english-line3">英単語 ※PDF埋め込み</p>
+				<p id="pdf-link">
+					<a href="English1.pdf">PDFを表示(英単語)</a>
+				</p>
+				<object data="English1.pdf" type="application/pdf" width="100%" height="400">
+					<iframe src="English1.pdf" width="100%" height="400"> </iframe>
+				</object>
+				<br>
+				<hr>
+				<p id="english-line2">英文法 ※PDF埋め込み</p>
+				<p id="pdf-link">
+					<a href="English2.pdf">PDFを表示(英文法)</a>
+				</p>
+				<br>
+				<object data="English2.pdf" type="application/pdf" width="100%" height="400">
+					<iframe src="English2.pdf" width="100%" height="400"> </iframe>
+				</object>
 
-			</div>
-		</main>
-    <?php include('parts/footer.php'); ?>
-		<?php include('parts/footerJs.php'); ?>
-	</body>
+			</section>
+
+			<?php include('parts/contents.php'); ?>
+
+		</div>
+
+		<div id="aside">
+			<?php include('parts/prof.php'); ?>
+
+
+			<?php include('parts/widget/side_widget.php'); ?>
+
+		</div>
+	</main>
+	<?php include('parts/footer.php'); ?>
+	<?php include('parts/footerJs.php'); ?>
+</body>
 
 </html>
