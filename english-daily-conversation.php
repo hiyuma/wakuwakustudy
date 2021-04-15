@@ -58,7 +58,7 @@
         <table id="english-heading">
           <tr>
             <th><a href="english.php">英単語</a><i class="fas fa-angle-double-right"></i></th>
-            <th><a href="english.php">英文法</a><i class="fas fa-angle-double-right"></i></th>
+            <th><a href="english-memo.php">英文法</a><i class="fas fa-angle-double-right"></i></th>
             <th>英会話</th>
           </tr>
         </table>
