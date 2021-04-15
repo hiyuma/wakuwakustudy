@@ -46,12 +46,12 @@
         </li>
 
     <hr> -->
-        <!-- 2021年04月15日
+        2021年04月15日
     
         <li>
                 <i class="far fa-file-alt"></i>
-                <a href="" target="blank" rel="noopener">
-                </a>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1514R0V10C21A4000000/" target="blank" rel="noopener">
+                東京都、新たに729人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
@@ -64,7 +64,7 @@
                 ワクチン接種、投資先選別の軸　ポンドやドル上昇鮮明</a>
         </li>
 
-    <hr> -->
+    <hr>
         2021年04月14日
     
         <li>
