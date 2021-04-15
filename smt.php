@@ -1847,17 +1847,9 @@
          <?php include('parts/prof.php'); ?>
          <div id="amazon"></div>
          <div id="widget3" class="investmentrelations">
-
-            <p><i class="fab fa-amazon"></i> INVESTMENT RELATIONS</p>
-            <hr>
-            <iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B07PB8SN3D&linkId=697fad646afaa3c88154ccadfa7e0d10&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-            </iframe>
-            <iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B00HF35RL2&linkId=8d12ef2c9c04b41877595b8c882740ad&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-            </iframe>
-            <iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B08BTSKYW5&linkId=8a0f5edde897c510be7ccf6f795f3449&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-            </iframe>
-            <iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B081SHDHM3&linkId=fed8bf094010097e485a07bc0e25e949&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-            </iframe>
+            <a href="https://px.a8.net/svt/ejp?a8mat=3BOCPF+9LBGEY+1WP2+5Z6WX" rel="nofollow">
+               <img border="0" width="120" height="600" alt="" src="https://www23.a8.net/svt/bgt?aid=201010515580&wid=002&eno=01&mid=s00000008903001004000&mc=1"></a>
+            <img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=3BOCPF+9LBGEY+1WP2+5Z6WX" alt="">
          </div>
 
          <?php include('parts/widget/side_widget.php'); ?>
