@@ -56,6 +56,7 @@
           <!-- list -->
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li><a href="#20210415"> 2021年04月15日　「儚さ」</a></li>
               <li><a href="#20210320"> 2021年03月20日　「抽選」</a></li>
               <li><a href="#20210313"> 2021年03月13日　「チャオズ」</a></li>
               <li><a href="#20210228"> 2021年02月28日　「月が綺麗ですね」</a></li>
@@ -89,9 +90,6 @@
               <li><a href="#20200505"> 2020年05月05日　「無」</a></li>
               <li><a href="#20200503"> 2020年05月03日　「うっぷん」</a></li>
               <li><a href="#20200322"> 2020年03月22日　「糸口」</a></li>
-
-              <li><a href="#recommend"> <i class="fab fa-amazon"></i> しらひゅー推し</a></li>
-              <li><a href="#amazon"> <i class="fab fa-amazon"></i> DIARY RELATIONS</a></li>
             </ol>
           </div>
         </div>
@@ -120,6 +118,51 @@
             <br><br>
           </div>
         </div> -->
+
+        <div id="20210415"></div>
+        <div class="schedule_wrapper">
+          <br>
+          <p id="avocado"><strong>　2021年04月15日 「儚さ」</strong></p>
+          <div class="accbox">
+            <input type="checkbox" id="儚さ" class="cssacc" />
+
+            <label for="儚さ"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+              <p><img src="gallery2/2021年3月25日新宿御苑/20210326新宿御苑桜 (6).jpg" alt="新宿御苑の桜"></p>
+
+              <em3>写真：新宿御苑の桜</em3>
+              <p>花見に行きました。
+                <br><br>
+                新宿御苑へ。
+                <br><br>
+                この日は、小雨であいにくの天気でした。
+                <br><br>
+                それでも、桜はキレイに咲き誇っていました。
+                <br><br>
+                新宿御苑は、江戸時代に徳川家康の家臣の内藤清成が賜った大名屋敷がルーツといわれています。
+              <p><img src="gallery2/2021年3月25日新宿御苑/20210326新宿御苑桜 (1).jpg" alt="新宿御苑の桜"></p>
+              <p><img src="gallery2/2021年3月25日新宿御苑/20210326新宿御苑桜 (2).jpg" alt="新宿御苑の桜"></p>
+              <p><img src="gallery2/2021年3月25日新宿御苑/20210326新宿御苑桜 (5).jpg" alt="新宿御苑の桜"></p>
+              <p><img src="gallery2/2021年3月25日新宿御苑/20210326新宿御苑桜 (14).jpg" alt="新宿御苑の桜"></p>
+                意外と、新宿御苑の日本庭園が素晴らしいことが知られていないように感じます。
+                <br><br>
+                ヨーロッパ式庭園や日本庭園などを組み合わせた庭園で、日本における数少ない風景式庭園の名作です。
+              <p><img src="gallery2/2021年3月25日新宿御苑/20210326新宿御苑桜 (15).jpg" alt="新宿御苑の桜"></p>
+              ドコモタワーもよく見えますね。
+                <br><br>
+                この日は、様々な場所、角度からドコモタワーを見ました。
+              <p><img src="gallery2/2021年3月25日新宿御苑/20210326新宿御苑桜 (12).jpg" alt="新宿御苑の桜"></p>
+                桜は、儚いからこそ美しいと言われますが、一度だけではなく何度も咲き誇ります。
+                <br><br>
+                人生こそ、一度きりのとても儚いものだなと思います。
+              <p><img src="gallery2/2021年3月25日新宿御苑/20210326新宿御苑桜 (10).jpg" alt="新宿御苑の桜"></p>
+              <p><img src="gallery2/2021年3月25日新宿御苑/20210326新宿御苑桜 (13).jpg" alt="新宿御苑の桜"></p>
+              <p><img src="gallery2/2021年3月25日新宿御苑/20210326新宿御苑桜 (3).jpg" alt="新宿御苑の桜"></p>
+                <br><br>
+              </p>
+            </div>
+          </div>
+        </div>
 
         <div id="20210320"></div>
         <div class="schedule_wrapper">
@@ -1891,115 +1934,6 @@
 
     <div id="aside">
       <?php include('parts/prof.php'); ?>
-
-
-      <div id="widget3" class="diary-relations">
-        <p>
-          <em4><i class="fab fa-amazon"></i>　DIARY RELATIONS</em4>
-        </p>
-
-        <hr>
-        <p>02月28日</p>
-        <iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B0859DBY1P&linkId=f78ec4210f1d3d7911b86845d1331485&bc1=ffdede&amp;lt1=_blank&fc1=ffffff&lc1=ffffff&bg1=ffdede&f=ifr">
-        </iframe>
-
-        <hr>
-        <p>01月13日</p>
-        <iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B00J7C1YE8&linkId=9658cc30ae1e607a362b9671d5dbfadf&bc1=ffdede&amp;lt1=_blank&fc1=ffffff&lc1=ffffff&bg1=ffdede&f=ifr">
-        </iframe>
-
-        <iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=B0062FIREI&linkId=dfdf520d5173618b4bbc957f5b9e4ba6&bc1=ffdede&amp;lt1=_blank&fc1=ffffff&lc1=ffffff&bg1=ffdede&f=ifr">
-        </iframe>
-
-        <hr>
-        <p>12月19日</p>
-        <iframe style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B006ZF7G2Y&linkId=8ed32abacd2d9c5832cfb9f91ac4dd5d&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-
-
-        <hr>
-        <p>11月17日</p>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B08G1KR74Q&linkId=21230e08c5bc6dbe45f85a22f42ddad3&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-
-        <hr>
-        <p>10月08日</p>
-
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B07N2ZXPRC&linkId=55a14ea3653aea0add1084d8fb565b05&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B07SHMNMYP&linkId=81d74fe011e5e2be24ab24114db81a95&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B013JVNFOY&linkId=322582e8152c28472a194a5e37cd0ffb&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-
-        <hr>
-        <p>10月02日</p>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B084RBV8G4&linkId=94db7041b2f12c8314c378824c1eb85c&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-
-        <hr>
-        <p>09月20日</p>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B084J4TR39&linkId=09ef604c106b115f5d38834767110275&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B085G2227B&linkId=41eac30281109581e2b2a7395dbc08d8&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B01N8SLVRN&linkId=92aaa82ea415066711b37629cac4e793&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B07JR6PVTD&linkId=d257c78f53379b5e23de4990f5baba50&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B07FY4GDDQ&linkId=c97af118b3a2c1757f7a3fd1707cca60&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-
-        <hr>
-
-        <p>06月25日</p>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B07RWRDCRB&linkId=7c1098c6e6fc60c1407b8bc858ea9861&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-
-        <hr>
-
-        <p>05月24日</p>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B085GB81H5&linkId=0c6f5957bbafc43df8f5fe49f3d5757b&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-
-        <hr>
-
-        <p>05月22日</p>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B07KT611TM&linkId=e33bc9242c495184241faf771a6707fc&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-
-        <hr>
-
-        <p>05月17日</p>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B07NVNP554&linkId=aacb45391c52a8f0429de3c0b9706e93&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-
-
-        <hr>
-
-        <p>05月09日</p>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B079R21K9J&linkId=7f14ecc03fa5bca26c8e5eab4a296d13&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B00VGPKW10&linkId=6221fefc13e811e73dfa77ce6bfb2de6&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B087S27C9R&linkId=7b3770e4089dca8518fac4cca87e39ac&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B019Y3DHM6&linkId=c324d640f59250fe568d53f470c46616&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B01DDIOASS&linkId=8743c62a52003ebde7d5e3885de7de61&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B087NHXX3N&linkId=48d418ea34b003774c08949316177182&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-        <hr>
-        <P>05月03日</P>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B08HLJSSJW&linkId=ef4299de9802ec226df68cb1e3ab9f29&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B00G63JP2O&linkId=b6dadfea581527c2c035a26ff31c7367&bc1=ffb0b0&lt1=_top&fc1=878787&lc1=ffffff&bg1=ffb0b0&f=ifr">
-        </iframe>
-
-
-      </div>
 
       <?php include('parts/widget/side_widget.php'); ?>
 
