@@ -333,179 +333,182 @@
                     (A) 形容詞「不安な、切望して」</td>
                 </tr>
 
-                <!-- 
+
                 <tr>
                   <td>9</td>
-                </tr>  
+                </tr>
 
                 <tr class="question">
                   <td>
-                    
+                    Flood barriers along the Lye River (　　) to help prevent another disaster like the one last year.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：constructed</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：are constructing</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：to be constructed</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：have been constructed</td>
                 </tr>
                 <tr class="answer">
-                <td>Answer</td>
+                  <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
-                </tr> -->
+                  <td>述語動詞constructの適切な形を選ぶ。空所の後ろには目的語となる名詞がないので、動詞は受動態になるとわかる。したがって、(D) have been constructedが適切。
+                    <br> (A) 過去形・過去分詞。(C) to不定詞は述語動詞にならない。
+                  </td>
+                </tr>
 
-                <!-- 
+
                 <tr>
                   <td>10</td>
-                </tr>  
+                </tr>
 
                 <tr class="question">
                   <td>
-                    
+                    As part of the marketing campaign, images of Newton Auto’s new model were projected on the front of their company headquarters.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：projecting</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：were projected</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：be projected</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：projected</td>
                 </tr>
                 <tr class="answer">
-                <td>Answer</td>
+                  <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
-                </tr> -->
+                  <td>述語動詞project 「～を投影する」の適切な形を選ぶ。空所の後ろには目的語となる名詞がないので、動詞は受動態の形になり、(B) were projectedが適切。
+                    (C) be projectedも受動態の形だが、主語のimages of Newton Auto's new model と一致しない。</td>
+                </tr>
 
-                <!-- 
+
                 <tr>
                   <td>11</td>
-                </tr>  
+                </tr>
 
                 <tr class="question">
                   <td>
-                    
+                    The company that specializes in job placement (　　) three factory workers today.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：send</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：sending</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：will send</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：had been sending</td>
                 </tr>
                 <tr class="answer">
-                <td>Answer</td>
+                  <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
-                </tr> -->
+                  <td>述語動詞sendの適切な形を選ぶ。文末にあるtoday「今日」という時間表現に合う(C) will sendが適切。(A)はこの文の主語が単数名詞であることから不適切。</td>
+                </tr>
 
-                <!-- 
+
                 <tr>
                   <td>12</td>
-                </tr>  
+                </tr>
 
                 <tr class="question">
                   <td>
-                    
+                    (　　) of the instructors at Charles Academia has at least ten years of teaching experience.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：Most</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：Every</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：Each</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：Much</td>
                 </tr>
                 <tr class="answer">
-                <td>Answer</td>
+                  <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
-                </tr> -->
+                  <td>主語の位置に入る適切な代名詞を選ぶ。述語動詞hasは三人称・単数・現在形なので、単数扱いで単独で主語になれる(C) Eachが適切。(B) Everyも単数扱いだが、単独で主語になることはできない。</td>
+                </tr>
 
-                <!-- 
+                
                 <tr>
                   <td>13</td>
                 </tr>  
 
                 <tr class="question">
                   <td>
-                    
+                  Every customer whose membership at Chime Digital Store is three years or more (　　) to receive a premium coupon at the counter.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：entitle</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：entitles</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：is entitled</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：are entitled</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
-                </tr> -->
+                <td>動詞entitleの適切な形を選ぶ。be entitled to doで「～する資格がある」。主語がEvery customerと単数形なので、(C) is entitledが適切。</td>
+                </tr>
 
-                <!-- 
+                
                 <tr>
                   <td>14</td>
                 </tr>  
 
                 <tr class="question">
                   <td>
-                    
+                  Employees at S&H Homestores were encouraged to arrange (　　) own pension plans after the company finished restructuring.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：their</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：they</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：them</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：theirs</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
-                </tr> -->
+                <td>＜one’s own + 名詞＞で「自分自身の～」という意味。したがって、所有格の(A)theirが適切。</td>
+                </tr>
 
                 <!-- 
                 <tr>
@@ -514,26 +517,26 @@
 
                 <tr class="question">
                   <td>
-                    
+                    The top prize was awarded to the promising new writer (　　) the fact that his book was severely criticized by some of the judges.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：although</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：because</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：due to</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：despite</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>空所の前は「一等賞は、その有望な新人作家に授与された」という意味。空所の後ろにはthe fact that his book was severely criticized by some of the judges「何人かの審査員によって彼の本が酷評されたという事実」という名詞句が続くので、空所には前置詞が入る。空所の前後は対照的な内容なので、前置詞(D)despite「～にもかかわらず」が適切。(A) 接続詞「～だけれども」、(B) 接続詞「～なので」、(C) 「～のために」</td>
                 </tr> -->
 
                 <!-- 
