@@ -46,6 +46,25 @@
         </li>
 
     <hr> -->
+        2021年04月16日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC163UI0W1A410C2000000/" target="blank" rel="noopener">
+                東京都、新たに667人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA160II0W1A410C2000000/" target="blank" rel="noopener">
+                「まん延防止」10都府県に拡大　政府諮問、5月11日まで　埼玉･千葉･神奈川･愛知を追加</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCA0872D0Y1A400C2000000/" target="blank" rel="noopener">
+                変異ウイルス世界で猛威　欧州8割超、「第4波」入りか</a>
+        </li>
+
+    <hr>
         2021年04月15日
     
         <li>
