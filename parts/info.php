@@ -4,6 +4,12 @@
 
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+  <li>2021年04月17日</li>
+  <div class="info-children"><span><a href="english-memo.php">英文法 Memo</a><i class="fas fa-external-link-alt"></i></th> 15～20追加</span></div>
+
+  <li>2021年04月17日</li>
+  <div class="info-children"><span><a href="english-memo.php">英単語 複合名詞</a><i class="fas fa-external-link-alt"></i></th> 593～追加</span></div>
+
   <li>2021年04月16日</li>
   <div class="info-children"><span><a href="english-memo.php">英文法 Memo</a><i class="fas fa-external-link-alt"></i></th> 9～14追加</span></div>
 

@@ -46,6 +46,25 @@
         </li>
 
     <hr> -->
+        2021年04月17日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1724Z0X10C21A4000000/" target="blank" rel="noopener">
+                東京都、新たに759人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA170H80X10C21A4000000/" target="blank" rel="noopener">
+                首相「状況見て判断」　大阪への緊急事態宣言めぐり</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN170740X10C21A4000000/" target="blank" rel="noopener">
+                新型コロナ死者、世界で300万人に迫る 変異型で増加</a>
+        </li>
+
+    <hr>
         2021年04月16日
     
         <li>
