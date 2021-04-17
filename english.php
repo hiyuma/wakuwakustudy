@@ -3159,6 +3159,48 @@
 									<td>～を取り壊す　※destroy（～を破壊する）&nbsp;</td>
 								</tr>
 
+									<tr>
+								<td>593</td>
+								<td>performance evaluation&nbsp;</td>
+								<td>業績評価&nbsp;</td>
+							</tr>
+
+							<tr>
+								<td>594</td>
+								<td>pay raise&nbsp;</td>
+								<td>昇給&nbsp;</td>
+							</tr>
+
+							<tr>
+								<td>595</td>
+								<td>constraction work&nbsp;</td>
+								<td>建設工事&nbsp;</td>
+							</tr>
+
+							<tr>
+								<td>596</td>
+								<td>cash reserves&nbsp;</td>
+								<td>手元資金、現金準備&nbsp;</td>
+							</tr>
+
+							<tr>
+								<td>597</td>
+								<td>registration form&nbsp;</td>
+								<td>登録用紙&nbsp;</td>
+							</tr>
+
+							<tr>
+								<td>598</td>
+								<td>customer satisfaction&nbsp;</td>
+								<td>顧客満足度&nbsp;</td>
+							</tr>
+
+							<tr>
+								<td>599</td>
+								<td>prime minister&nbsp;</td>
+								<td>総理大臣&nbsp;</td>
+							</tr>
+
 							</div>
 
 							<!-- コピー用 -->

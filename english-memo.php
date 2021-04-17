@@ -452,14 +452,14 @@
                   <td>主語の位置に入る適切な代名詞を選ぶ。述語動詞hasは三人称・単数・現在形なので、単数扱いで単独で主語になれる(C) Eachが適切。(B) Everyも単数扱いだが、単独で主語になることはできない。</td>
                 </tr>
 
-                
+
                 <tr>
                   <td>13</td>
-                </tr>  
+                </tr>
 
                 <tr class="question">
                   <td>
-                  Every customer whose membership at Chime Digital Store is three years or more (　　) to receive a premium coupon at the counter.
+                    Every customer whose membership at Chime Digital Store is three years or more (　　) to receive a premium coupon at the counter.
                   </td>
                 </tr>
                 <tr class="selection">
@@ -475,20 +475,20 @@
                   <td>D：are entitled</td>
                 </tr>
                 <tr class="answer">
-                <td>Answer</td>
+                  <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td>動詞entitleの適切な形を選ぶ。be entitled to doで「～する資格がある」。主語がEvery customerと単数形なので、(C) is entitledが適切。</td>
+                  <td>動詞entitleの適切な形を選ぶ。be entitled to doで「～する資格がある」。主語がEvery customerと単数形なので、(C) is entitledが適切。</td>
                 </tr>
 
-                
+
                 <tr>
                   <td>14</td>
-                </tr>  
+                </tr>
 
                 <tr class="question">
                   <td>
-                  Employees at S&H Homestores were encouraged to arrange (　　) own pension plans after the company finished restructuring.
+                    Employees at S&H Homestores were encouraged to arrange (　　) own pension plans after the company finished restructuring.
                   </td>
                 </tr>
                 <tr class="selection">
@@ -504,16 +504,16 @@
                   <td>D：theirs</td>
                 </tr>
                 <tr class="answer">
-                <td>Answer</td>
+                  <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td>＜one’s own + 名詞＞で「自分自身の～」という意味。したがって、所有格の(A)theirが適切。</td>
+                  <td>＜one’s own + 名詞＞で「自分自身の～」という意味。したがって、所有格の(A)theirが適切。</td>
                 </tr>
 
-                <!-- 
+
                 <tr>
                   <td>15</td>
-                </tr>  
+                </tr>
 
                 <tr class="question">
                   <td>
@@ -533,421 +533,451 @@
                   <td>D：despite</td>
                 </tr>
                 <tr class="answer">
-                <td>Answer</td>
+                  <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td>空所の前は「一等賞は、その有望な新人作家に授与された」という意味。空所の後ろにはthe fact that his book was severely criticized by some of the judges「何人かの審査員によって彼の本が酷評されたという事実」という名詞句が続くので、空所には前置詞が入る。空所の前後は対照的な内容なので、前置詞(D)despite「～にもかかわらず」が適切。(A) 接続詞「～だけれども」、(B) 接続詞「～なので」、(C) 「～のために」</td>
-                </tr> -->
+                  <td>空所の前は「一等賞は、その有望な新人作家に授与された」という意味。空所の後ろにはthe fact that his book was severely criticized by some of the judges「何人かの審査員によって彼の本が酷評されたという事実」という名詞句が続くので、空所には前置詞が入る。空所の前後は対照的な内容なので、前置詞(D)despite「～にもかかわらず」が適切。(A) 接続詞「～だけれども」、(B) 接続詞「～なので」、(C) 「～のために」</td>
+                </tr>
+
+
+                <tr>
+                  <td>16</td>
+                </tr>
+
+                <tr class="question">
+                  <td>
+                    Negotiations (　　) management and union representatives ended successfully after both sides reached an agreement on working hours.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：between</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：from</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：alongside</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：apart</td>
+                </tr>
+                <tr class="answer">
+                  <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                  <td>Negotiations(交渉)。between A and Bで「AとBの間」という意味になる(A) betweenが適切。</td>
+                </tr>
+
+
+                <tr>
+                  <td>17</td>
+                </tr>
+
+                <tr class="question">
+                  <td>
+                    Neither Mr. Johnson (　　) his secretary could attend the monthly meeting because both of them were out of town at that time.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：nor</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：or</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：and</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：but</td>
+                </tr>
+                <tr class="answer">
+                  <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                  <td>neither A nor Bで「AもBも～ない」という意味になる(A) norが適切。</td>
+                </tr>
+
+
+                <tr>
+                  <td>18</td>
+                </tr>
+
+                <tr class="question">
+                  <td>
+                    Ms. Larsson (　　) time while delivering her presentation, meaning she could not take any questions from the audience.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：ran out of</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：gave up on</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：held out for</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：got away with</td>
+                </tr>
+                <tr class="answer">
+                  <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                  <td>文意に合う述語動詞を選ぶ。文の後半にshe could not take any questions「質問を受けることができませんでした」とあるので、時間がなくなったと考えるのが自然。したがって、文意から(A)ran out of ～「～がなくなる、～を使い果たす」が適切。
+                    (B)「～に見切りをつける」、(C)「～をあくまでも要求する」、(D)「（罰など）を逃れる」</td>
+                </tr>
+
+                <tr>
+                  <td>19</td>
+                </tr>
+
+                <tr class="question">
+                  <td>
+                    The accounting manager refused to sign (　　) on the expense report because a receipt was not attached.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：on</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：of</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：off</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：at</td>
+                </tr>
+                <tr class="answer">
+                  <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                  <td>「領収書が添付されていなかったので経費報告書を～」という文意から、(C) offが適切。sign off on ～で「（署名して）～を承認する」が適切。</td>
+                </tr>
+
+
+                <tr>
+                  <td>20</td>
+                </tr>
+
+                <tr class="question">
+                  <td>
+                    (　　) behalf of the president, the vice-president visited Xin City Bank to ask for additional financing.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：In</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：About</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：On</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：To</td>
+                </tr>
+                <tr class="answer">
+                  <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                  <td>選択肢はすべて前置詞。文意から(C)が正解。on behalf of ～で「～の代理として」という意味。</td>
+                </tr>
 
                 <!-- 
                 <tr>
-                  <td> XXXテンプレ </td>
+                  <td>21</td>
                 </tr>  
 
                 <tr class="question">
                   <td>
-                    
+                    (　　) Mr. Sullivan or Ms. Jenson will be assigned to assist a new employee today.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：Both</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：But</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：Either</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：Neither</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>空所からMs. Jensonまでが主語。Mr. SullivanとMs. Jensonがorで並列されているので(C) Eitherが適切。either A or Bで「AかBのどちらか」という意味。</td>
                 </tr> -->
 
                 <!-- 
                 <tr>
-                  <td> XXXテンプレ </td>
+                  <td>22</td>
                 </tr>  
 
                 <tr class="question">
                   <td>
-                    
+                    Typol Office Services recently hired six new (　　) in order to deal with the large increase in work from clients.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：administration</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：administrates</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：administers</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：administrators</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>空所の前には形容詞newが、後ろには前置詞inがあるので、空所には名詞が入る。また、動詞hired「雇いました」の目的語であることから空所には人を表す名詞(D) administrators「管理職」が適切。(A) 名詞「管理」、(B) (C) ともに動詞で「管理する」</td>
                 </tr> -->
 
                 <!-- 
                 <tr>
-                  <td> XXXテンプレ </td>
+                  <td>23</td>
                 </tr>  
 
                 <tr class="question">
                   <td>
-                    
+                    Mr. Wagner did not suspect that the report was wrong until recently because he believed it was derived from (　　) data.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：authorize</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：authority</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：authoritative</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：authorizing</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>空所の前には前置詞from、後ろには名詞dataがあるので、空所には名詞を修飾する形容詞(C)authoritative「正式な」が適切。(A) 動詞「～に権限を与える」、(B) 名詞「権威」</td>
                 </tr> -->
 
                 <!-- 
                 <tr>
-                  <td> XXXテンプレ </td>
+                  <td>24</td>
                 </tr>  
 
                 <tr class="question">
                   <td>
-                    
+                    The main (　　) for this event is to collect funds for building schools in developing countries.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：objectively</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：objection</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：objected</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：objective</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>空所の前に形容詞main、後ろに前置詞forがあるので空所には名詞が入る。選択肢の中で名詞は(B)と(D)だが、文意から(D) objective「目的」が適切。(A) 副詞「客観的に」、(B) 名詞「反対」、(C) 動詞の過去形・過去分詞形「反対された」</td>
                 </tr> -->
 
                 <!-- 
                 <tr>
-                  <td> XXXテンプレ </td>
+                  <td>25</td>
                 </tr>  
 
                 <tr class="question">
                   <td>
-                    
+                    In our store, customers can choose any drink from a wide (　　) of drinks for free.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：variation</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：variety</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：vary</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：various</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>空所の前に形容詞wide、後ろに前置詞ofがあるので空所には名詞が入る。選択肢の中で名詞は(A)と(B)だが、文意から(B)「種類」が適切。a wide variety of ～で「様々な種類の～」という意味。(A) 名詞「変化」、(C) 動詞「変化する」、(D) 形容詞「様々な」</td>
                 </tr> -->
 
                 <!-- 
                 <tr>
-                  <td> XXXテンプレ </td>
+                  <td>26</td>
                 </tr>  
 
                 <tr class="question">
                   <td>
-                    
+                    Room 901 at the hotel is more expensive than all the others, as it (　　) a spectacular view of the turquoise ocean.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：looks</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：involves</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：relocates</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：commands</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>文意に合う動詞を選ぶ。command a view of ～で「～の景色を一望できる」という意味になる(D) commandsが適切。commandには、「命令する」という意味の他に、「見渡す」という意味がある。(B)「～に関与する」、(C)「移転する」</td>
                 </tr> -->
 
                 <!-- 
                 <tr>
-                  <td> XXXテンプレ </td>
+                  <td>27</td>
                 </tr>  
 
                 <tr class="question">
                   <td>
-                    
+                    The executive of Carmonica Corp. (　　) responsibility for the scandal caused by his controversial remarks.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：compensated</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：assumed</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：motivated</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：developed</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>文意に合う動詞を選ぶ。assume responsibility for ～「～に対する責任を負う」という意味になる(B) assumedが適切。assumeは「～だと思う、推測する」と意味の他に、「（責任など）を負う」という意味がある。
+                (A)「～を補償する」、(C)「～をやる気にさせる」、(D)「～を開発する」</td>
                 </tr> -->
 
                 <!-- 
                 <tr>
-                  <td> XXXテンプレ </td>
+                  <td>28</td>
                 </tr>  
 
                 <tr class="question">
                   <td>
-                    
+                    After years in a prolonged trial, Mr. Wilson was finally (　　) of suspicion of acceptance of a bribe.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：cleared</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：completed</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：decided</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：refused</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>文意に合う動詞を選ぶ。be cleared of suspicionで「疑いが晴れる」という意味になる(A) clearedが適切。clearには形容詞の「きれいな」という意味の他に、動詞で「～を取り除く」という意味がある。</td>
                 </tr> -->
 
                 <!-- 
                 <tr>
-                  <td> XXXテンプレ </td>
+                  <td>29</td>
                 </tr>  
 
                 <tr class="question">
                   <td>
-                    
+                    Dr. Hugh O’Brien, a prominent ecologist, gave the opening address at the environmental conference yesterday.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：suggestion</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：address</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：order</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：evidence</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>選択肢はすべて名詞。conference「会議」でなされるもので、かつgaveの目的語となって意味を成すものなので、(B) address「（改まった）挨拶、演説」が適切。gave an opening addressで「開会の挨拶をする」という意味。(A)「提案」(C)「注文」(D)「証拠」</td>
                 </tr> -->
 
                 <!-- 
                 <tr>
-                  <td> XXXテンプレ </td>
+                  <td>30</td>
                 </tr>  
 
                 <tr class="question">
                   <td>
-                    
+                    Part of the membership (　　) for Zigs Craftsmen Association may be tax deductible as a business expense.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：meals</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：sizes</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：dues</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：periods</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
-                </tr> -->
-
-                <!-- 
-                <tr>
-                  <td> XXXテンプレ </td>
-                </tr>  
-
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr> -->
-
-                <!-- 
-                <tr>
-                  <td> XXXテンプレ </td>
-                </tr>  
-
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr> -->
-
-                <!-- 
-                <tr>
-                  <td> XXXテンプレ </td>
-                </tr>  
-
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
+                <td>選択肢はすべて名詞。「経費として所得から控除できる」ものが空所に入るので、支払いを意味する(C) due「会費」が適切。membership duesで「会費」を表す。(A)「食事」、(B)「大きさ」、(D)「期間」</td>
                 </tr> -->
 
                 <!-- 
                 <tr>
                   <td>テンプレ</td>
-                </tr>  
-
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr> -->
-
-                <!-- 
-                <tr>
-                  <td> XXXテンプレ </td>
                 </tr>  
 
                 <tr class="question">
