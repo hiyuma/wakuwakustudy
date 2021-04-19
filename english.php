@@ -3201,6 +3201,87 @@
 								<td>総理大臣&nbsp;</td>
 							</tr>
 
+							<tr>
+								<td>600</td>
+								<td>account balance&nbsp;</td>
+								<td>口座残高&nbsp;</td>
+							</tr>
+							
+							<tr>
+								<td>601</td>
+								<td>admission charge&nbsp;</td>
+								<td>入場料＝admission fee&nbsp;</td>
+							</tr>
+							
+							<tr>
+								<td>602</td>
+								<td>assembly line&nbsp;</td>
+								<td>組み立てライン&nbsp;</td>
+							</tr>
+							
+							<tr>
+								<td>603</td>
+								<td>accounting procedure&nbsp;</td>
+								<td>会計手続き&nbsp;</td>
+							</tr>
+							
+							<tr>
+								<td>604</td>
+								<td>balance due&nbsp;</td>
+								<td>差引不足額&nbsp;</td>
+							</tr>
+							
+							<tr>
+								<td>605</td>
+								<td>business prospectus&nbsp;</td>
+								<td>事業紹介&nbsp;</td>
+							</tr>
+							
+							<tr>
+								<td>606</td>
+								<td>budget revision&nbsp;</td>
+								<td>予算修正&nbsp;</td>
+							</tr>
+							
+							<tr>
+								<td>607</td>
+								<td>bulletin board&nbsp;</td>
+								<td>掲示板&nbsp;</td>
+							</tr>
+							
+							<tr>
+								<td>608</td>
+								<td>business stagnation&nbsp;</td>
+								<td>景気の停滞&nbsp;</td>
+							</tr>
+							
+							<tr>
+								<td>609</td>
+								<td>construction site&nbsp;</td>
+								<td>建設現場&nbsp;</td>
+							</tr>
+							
+							<tr>
+								<td>610</td>
+								<td>confidentiality agreement&nbsp;</td>
+								<td>機密保持契約&nbsp;</td>
+							</tr>
+							
+							<tr>
+								<td>611</td>
+								<td>company brochure&nbsp;</td>
+								<td>会社パンフレット&nbsp;</td>
+							</tr>
+							
+							<tr>
+								<td>612</td>
+								<td>conference agenda&nbsp;</td>
+								<td>会議の議題&nbsp;</td>
+							</tr>
+							
+							
+
+
 							</div>
 
 							<!-- コピー用 -->

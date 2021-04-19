@@ -684,7 +684,7 @@
                   <td>選択肢はすべて前置詞。文意から(C)が正解。on behalf of ～で「～の代理として」という意味。</td>
                 </tr>
 
-                <!-- 
+                
                 <tr>
                   <td>21</td>
                 </tr>  
@@ -711,9 +711,9 @@
                 </tr>
                 <tr class="answer">
                 <td>空所からMs. Jensonまでが主語。Mr. SullivanとMs. Jensonがorで並列されているので(C) Eitherが適切。either A or Bで「AかBのどちらか」という意味。</td>
-                </tr> -->
+                </tr>
 
-                <!-- 
+                
                 <tr>
                   <td>22</td>
                 </tr>  
@@ -740,9 +740,9 @@
                 </tr>
                 <tr class="answer">
                 <td>空所の前には形容詞newが、後ろには前置詞inがあるので、空所には名詞が入る。また、動詞hired「雇いました」の目的語であることから空所には人を表す名詞(D) administrators「管理職」が適切。(A) 名詞「管理」、(B) (C) ともに動詞で「管理する」</td>
-                </tr> -->
+                </tr>
 
-                <!-- 
+                
                 <tr>
                   <td>23</td>
                 </tr>  
@@ -769,9 +769,9 @@
                 </tr>
                 <tr class="answer">
                 <td>空所の前には前置詞from、後ろには名詞dataがあるので、空所には名詞を修飾する形容詞(C)authoritative「正式な」が適切。(A) 動詞「～に権限を与える」、(B) 名詞「権威」</td>
-                </tr> -->
+                </tr>
 
-                <!-- 
+                
                 <tr>
                   <td>24</td>
                 </tr>  
@@ -798,9 +798,9 @@
                 </tr>
                 <tr class="answer">
                 <td>空所の前に形容詞main、後ろに前置詞forがあるので空所には名詞が入る。選択肢の中で名詞は(B)と(D)だが、文意から(D) objective「目的」が適切。(A) 副詞「客観的に」、(B) 名詞「反対」、(C) 動詞の過去形・過去分詞形「反対された」</td>
-                </tr> -->
+                </tr>
 
-                <!-- 
+                
                 <tr>
                   <td>25</td>
                 </tr>  
@@ -827,9 +827,9 @@
                 </tr>
                 <tr class="answer">
                 <td>空所の前に形容詞wide、後ろに前置詞ofがあるので空所には名詞が入る。選択肢の中で名詞は(A)と(B)だが、文意から(B)「種類」が適切。a wide variety of ～で「様々な種類の～」という意味。(A) 名詞「変化」、(C) 動詞「変化する」、(D) 形容詞「様々な」</td>
-                </tr> -->
+                </tr>
 
-                <!-- 
+                
                 <tr>
                   <td>26</td>
                 </tr>  
@@ -856,9 +856,9 @@
                 </tr>
                 <tr class="answer">
                 <td>文意に合う動詞を選ぶ。command a view of ～で「～の景色を一望できる」という意味になる(D) commandsが適切。commandには、「命令する」という意味の他に、「見渡す」という意味がある。(B)「～に関与する」、(C)「移転する」</td>
-                </tr> -->
+                </tr>
 
-                <!-- 
+                
                 <tr>
                   <td>27</td>
                 </tr>  
@@ -886,9 +886,9 @@
                 <tr class="answer">
                 <td>文意に合う動詞を選ぶ。assume responsibility for ～「～に対する責任を負う」という意味になる(B) assumedが適切。assumeは「～だと思う、推測する」と意味の他に、「（責任など）を負う」という意味がある。
                 (A)「～を補償する」、(C)「～をやる気にさせる」、(D)「～を開発する」</td>
-                </tr> -->
+                </tr>
 
-                <!-- 
+                
                 <tr>
                   <td>28</td>
                 </tr>  
@@ -915,9 +915,9 @@
                 </tr>
                 <tr class="answer">
                 <td>文意に合う動詞を選ぶ。be cleared of suspicionで「疑いが晴れる」という意味になる(A) clearedが適切。clearには形容詞の「きれいな」という意味の他に、動詞で「～を取り除く」という意味がある。</td>
-                </tr> -->
+                </tr>
 
-                <!-- 
+                
                 <tr>
                   <td>29</td>
                 </tr>  
@@ -944,9 +944,9 @@
                 </tr>
                 <tr class="answer">
                 <td>選択肢はすべて名詞。conference「会議」でなされるもので、かつgaveの目的語となって意味を成すものなので、(B) address「（改まった）挨拶、演説」が適切。gave an opening addressで「開会の挨拶をする」という意味。(A)「提案」(C)「注文」(D)「証拠」</td>
-                </tr> -->
+                </tr>
 
-                <!-- 
+                
                 <tr>
                   <td>30</td>
                 </tr>  
@@ -973,9 +973,301 @@
                 </tr>
                 <tr class="answer">
                 <td>選択肢はすべて名詞。「経費として所得から控除できる」ものが空所に入るので、支払いを意味する(C) due「会費」が適切。membership duesで「会費」を表す。(A)「食事」、(B)「大きさ」、(D)「期間」</td>
+                </tr>
+
+                
+                <tr>
+                  <td>31</td>
+                </tr>  
+
+                <tr class="question">
+                  <td>
+                    This is just a quick note to say (　　) a fantastic time I had last night. 
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：what</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：how</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：that</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：if</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>空所のあとのa fantastic time I hadは目的語が倒置されているため、空所のあとには間接感嘆文が続く。(B) howであればあとには形容詞または副詞が続くため、適切なのは(A)。(A)〈What＋(a)＋形容詞＋名詞〉「なんという…な～」</td>
+                </tr>
+
+
+                <!-- 
+                <tr>
+                  <td>33</td>
+                </tr>  
+
+                <tr class="question">
+                  <td>
+                     This is a one-year course, with full salary, which may lead to the offer of a position in (　　). 
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：manager</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：manages</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：management</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：managerial</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>空所の前に前置詞があり、空所で文が終わっていることから、空所には名詞が入ることが分かる。もし(A)が入るなら前置詞はasになり、managerは可算名詞なので空所の前には通常、不定冠詞aがなければならない。よって、(C)が適切。</td>
+                </tr> -->
+                <!-- 
+
+                <tr>
+                  <td>34</td>
+                </tr>  
+
+                <tr class="question">
+                  <td>
+                     I have attached the full details and an application form. If you find the (　　) acceptable, kindly return the form to me by October 31.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：values</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：testimonies</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：relations</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：terms</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>選択肢はすべて名詞の複数形。空所を含む文の前で「これは満額で給与が支払われる１年間のコースであり、管理職の地位の申し出につながる可能性があります」と、条件について説明されているので、(D) terms「条件」を入れると自然な流れとなる。</td>
+                </tr> -->
+                <!-- 
+
+                <tr>
+                  <td>35</td>
+                </tr>  
+
+                <tr class="question">
+                  <td>
+                     In cooperation with Reynolds Credit Union, employees may now have money (　　) directly from their paychecks and put into a special account.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：extended</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：deducted</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：credited</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：included</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>選択肢はすべて動詞の過去分詞形。空所の後ろに「給料から直接」とあるので、これとつながる(B) deducted「控除された」が適切。＜have A 過去分詞＞で「Aを～してもらう」という意味。</td>
                 </tr> -->
 
                 <!-- 
+                <tr>
+                  <td>36</td>
+                </tr>  
+
+                <tr class="question">
+                  <td>
+                    This is a (　　) painless way to save, and we appreciate the Credit Union's support in assisting all of us in the difficult task of putting aside money for the future.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：relative</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：relatives</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：relation</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：relatively</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>空所の前には冠詞のaがあり、後ろには形容詞painlessがあるので、空所は後ろの形容詞を修飾する副詞の(D) relatively「比較的」が適切。</td>
+                </tr> -->
+                <!-- 
+
+                <tr>
+                  <td>37</td>
+                </tr>  
+
+                <tr class="question">
+                  <td>
+                    Although the trip will not be easy-going, our (　　) guides will ensure that everyone can complete it safely. 
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：excessive</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：expensive</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：expendable</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：experienced</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>選択肢はすべて形容詞。空所は直後のguides「ガイド」を修飾する。空所を含む文は「我々の ------ ガイドが、皆様がツアーを遂行できることを保証する」という意味なので、文意から(D) experienced「経験のある」が適切。A：excessive 過度のB：expensive 高額な　C：expendable 使い捨ての</td>
+                </tr> -->
+
+                <!-- 
+                <tr>
+                  <td>38</td>
+                </tr>  
+
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr> -->
+
+                <!-- 
+                <tr>
+                  <td>39</td>
+                </tr>  
+
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr> -->
+
+                <!-- 
+                <tr>
+                  <td>40</td>
+                </tr>  
+
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr> -->
+
+                <!-- 
+                <tr>
+                  <td>41</td>
+                </tr>  
+
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr> -->
+
+                <!-- 
+                  ------------------------------------------------------ 
                 <tr>
                   <td>テンプレ</td>
                 </tr>  
