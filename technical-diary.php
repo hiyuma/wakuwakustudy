@@ -68,8 +68,6 @@
               <li><a href="#20210208"> 2021年02月08日 PHP ①「入力値の継承」</a></li>
               <li><a href="#20210206"> 2021年02月06日 CSS ②「リストデザイン変更」</a></li>
               <li><a href="#20210205"> 2021年02月05日 CSS ①「スクロールバーデザイン変更」</a></li>
-              <li> <a href="#recommend"> <i class="fab fa-amazon"></i> しらひゅー推し</a></li>
-              <!-- <li> <a href="#amazon"> <i class="fab fa-amazon"></i>　RELATIONS</a></li> -->
             </ol>
           </div>
         </div>
