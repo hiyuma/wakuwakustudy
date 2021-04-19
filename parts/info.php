@@ -4,17 +4,26 @@
 
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
-  <li>2021年04月17日</li>
-  <div class="info-children"><span><a href="english-memo.php">英文法 Memo</a><i class="fas fa-external-link-alt"></i></th> 15～20追加</span></div>
+  <li>2021年04月19日</li>
+  <div class="info-children"><span><a href="english-memo.php">英単語 複合名詞</a></th> 600～612追加</span></div>
+
+  <li>2021年04月19日</li>
+  <div class="info-children"><span><a href="english-memo.php">英文法 Memo</a></th> 27～32追加</span></div>
+
+  <li>2021年04月18日</li>
+  <div class="info-children"><span><a href="english-memo.php">英文法 Memo</a></th> 21～26追加</span></div>
 
   <li>2021年04月17日</li>
-  <div class="info-children"><span><a href="english-memo.php">英単語 複合名詞</a><i class="fas fa-external-link-alt"></i></th> 593～追加</span></div>
+  <div class="info-children"><span><a href="english-memo.php">英文法 Memo</a></th> 15～20追加</span></div>
+
+  <li>2021年04月17日</li>
+  <div class="info-children"><span><a href="english-memo.php">英単語 複合名詞</a></th> 593～追加</span></div>
 
   <li>2021年04月16日</li>
-  <div class="info-children"><span><a href="english-memo.php">英文法 Memo</a><i class="fas fa-external-link-alt"></i></th> 9～14追加</span></div>
+  <div class="info-children"><span><a href="english-memo.php">英文法 Memo</a></th> 9～14追加</span></div>
 
   <li>2021年04月15日</li>
-  <div class="info-children"><span><a href="english-memo.php">英文法 Memo</a><i class="fas fa-external-link-alt"></i></th> 作成</span></div>
+  <div class="info-children"><span><a href="english-memo.php">英文法 Memo</a></th> 作成</span></div>
   
   <li>2021年04月15日</li>
   <div class="info-children"><span><a href="diary.php">DIARY（儚さ）</a> 追加</span></div>

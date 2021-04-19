@@ -46,6 +46,44 @@
         </li>
 
     <hr> -->
+        2021年04月19日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC190IT0Z10C21A4000000/" target="blank" rel="noopener">
+                東京都、新たに405人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF134CA0T10C21A4000000/" target="blank" rel="noopener">
+                大阪知事、緊急事態宣言要請へ　「感染は危機的状況」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN1843N0Y1A410C2000000/" target="blank" rel="noopener">
+                世界の新規感染、1日最多76万人　インドで変異型が猛威</a>
+        </li>
+
+    <hr>
+        2021年04月18日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC181DY0Y1A410C2000000/" target="blank" rel="noopener">
+                東京都、新たに543人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA180BB0Y1A410C2000000/" target="blank" rel="noopener">
+                ワクチン、9月末までに国内全対象者分を調達　河野氏　「ファイザーと実質合意」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM076920X00C21A4000000/" target="blank" rel="noopener">
+                シンガポールのワクチン接種、スマホ予約5分で完了</a>
+        </li>
+
+    <hr>
         2021年04月17日
     
         <li>
