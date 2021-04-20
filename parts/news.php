@@ -46,6 +46,25 @@
         </li>
 
     <hr> -->
+        2021年04月20日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2018H0Q1A420C2000000/" target="blank" rel="noopener">
+                東京都、新たに711人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF203DF0Q1A420C2000000/" target="blank" rel="noopener">
+                大阪知事、大規模施設への休業要請方針　緊急事態宣言で</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2038N0Q1A420C2000000/" target="blank" rel="noopener">
+                小池都知事、緊急事態要請の判断へ「総点検する」</a>
+        </li>
+
+    <hr>
         2021年04月19日
     
         <li>
