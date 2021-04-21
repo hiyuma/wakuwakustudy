@@ -57,10 +57,7 @@
 					<br><br>
 					リスニング、ディクテーション、発音練習は、映画(字幕)や<i class="fas fa-mobile-alt"></i><a href="https://px.a8.net/svt/ejp?a8mat=3BOCPH+LYC7U+3AQG+ZQ80I" rel="nofollow"> スタディサプリENGLISH（新日常英会話コース）</a>、NHK <a href="https://www.nhk.jp/p/ts/NW5ZG11VRW/">おもてなし即レス英会話</a>、<a href="https://www.alc.co.jp/">アルク</a>のおもてなし英会話、キクタンなどで勉強中です。
 					<br><br>
-					2019年3月には、<a href="https://eikaiwa.dmm.com/">DMMオンライン英会話</a>を5回経験するも、自分の英語レベルが思っている以上に低いことを実感。
-					<br><br>
-					勉強を継続しつつも、2020年12月からオンライン <i class="fas fa-headset"></i><a href="https://www.rarejob.com/about/">レアジョブ英会話</a>を始めました。前回よりもリスニングもスピーキングもレベルが上がっていることを実感しています。
-
+					2019年3月には、<a href="https://eikaiwa.dmm.com/">DMMオンライン英会話</a>を5回経験するも、自分の英語レベルが思っている以上に低いことを実感し、基本から見直しすることにしました。
 					<br><br>
 					<em4>※画面サイズ（PCやスマホ、タブレットなど）によって英単語表のデザインが変わることがあります。
 						<br><br>

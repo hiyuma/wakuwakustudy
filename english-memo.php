@@ -83,13 +83,17 @@
         <p id="english-line1">English Memo ( TOEIC対策 ) </p>
 
         <p style="text-align: center;">英文法問題</p>
+        <p style="text-align: center;"><i class="fas fa-mobile-alt"></i><a href="https://eigosapuri.jp/toeic/?vos=evalstsstopx0000001&fed=ppstp1906003">スタディサプリENGLISH(TOEIC対策)</a></p>
+
+
         <div id="english-memo-table">
           <table class="memo-table">
             <tbody>
 
               <tr>
                 <td id="number">1</td>
-                </t <tr class="question">
+              </tr>
+              <tr class="question">
                 <td>The seminar we were required to attend last month had a positive (　　) on employee productivity.
                 </td>
               </tr>
@@ -1205,7 +1209,6 @@
                 <td>助動詞willの後ろは「動詞の原形」です。今回のように、副詞（significantly）を挟んでひっかけてくることがよくあるのですが、問題ありませんね。ちなみに、willは「100％必ず～する」といったパワフルな意味を持っています。つまり、書き手は「必ず廃棄物が減る」と確信しているわけです。</td>
               </tr>
 
-              <!-- 
                 <tr>
                   <td id="number">39</td>
                 </tr>  
@@ -1286,10 +1289,10 @@
                 </tr>
                 <tr class="answer">
                 <td>(B) exchangesの語尾のsに着目しましょう。このように動詞にsがついている場合、主語は単数である必要があります。この文の主語のCustomersは複数形なので、(B)が不正解となり、(A) may exchangeが正解と決まります。(A)に使われている助動詞のmayは、「～してもよい」「～かもしれない」という意味を持ちます。問題文のmayは「～してもよい」という意味で、「交換してもよい」つまり「交換することができる」ことを表しています。</td>
-                </tr> -->
+                </tr>
 
 
-              <!-- <tr>
+               <tr>
                   <td id="number">42</td>
                 </tr>  
 
@@ -1374,6 +1377,7 @@
                   hiring manager「採用責任者」、副詞regularly「定期的に」、名詞branch「支社、支店」、動詞conduct「～を行う、～を実施する」、job applicant「職への応募者、求職者」</td>
                 </tr>
 
+                <!--
                 <tr>
                   <td id="number">45</td>
                 </tr>  
@@ -1581,26 +1585,26 @@
             
                 <tr class="question">
                   <td>
-                    
+                    If Western Avenue (　　) not under construction, it would be an ideal location for the parade.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：is</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：were</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：be</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：are</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>文の前半はif節です。カンマ以降の主節に、仮定法の目印である「助動詞の過去形」wouldがありますね。仮定法過去の公式“If s 過去形, S would 原形”から、空所には過去形の(B) wereを入れます。仮定法過去におけるif節内では、主語が単数でもwereを使うことがあるということも押さえておきましょう。
                 </tr>
 
                 <tr>
@@ -1610,26 +1614,27 @@
             
                 <tr class="question">
                   <td>
-                    
+                    Ms. Park would have had to move abroad if she (　　) the job offer from Mobile Star Company.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：accepts</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：accepted</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：had accepted</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：accepting</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>文の前半に、仮定法の目印「助動詞の過去形」wouldがあります。would have p.p.と続いているため、仮定法過去完了の公式“If s had p.p., S would have p.p.”を思い出しましょう。公式通りif節の中はhad p.p.にする必要があるため、正解は(C) had acceptedだと分かります。仮定法過去完了は「過去についての妄想」です。そのため、この文からは「現実にはParkさんは仕事のオファーを引き受けなかったため、国外に引っ越す必要がない」ということが読み取れます。
+                </td>
                 </tr> 
                 
 
@@ -1640,26 +1645,26 @@
             
                 <tr class="question">
                   <td>
-                    
+                    (　　) you have any questions about subscribing to Builders Enquirer, please contact the magazine at 555-9288.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：Could</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：Shall</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：Might</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：Should</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>仮定法未来の倒置“Should s 原形, please ～”の形です。今回の「前半“倒置”+ 後半“命令文”」の形は非常によく使われます。ちなみに、subscribe「定期購読する」は重要単語で、「申し込み用紙の下（sub）に名前を書く（scribe）」→「署名する・定期購読する」となりました。</td>
                 </tr>
 
                 <tr>
@@ -1669,26 +1674,26 @@
             
                 <tr class="question">
                   <td>
-                    
+                    Had Ms. Leeson known the tablecloth is machine washable, she (　　) taken it to the dry cleaners.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：will not have taken</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：have taken</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：took</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：would not have taken</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>仮定法過去完了の倒置“Had s p.p., S would have p.p.”の形です。仮定法の倒置は、TOEIC® L&R TEST以外でも様々な場面で想像以上に使われますので、倒置バージョンの公式をスラスラ言えるようにしておきましょう。</td>
                 </tr>
 
                 <tr>
@@ -1698,26 +1703,26 @@
             
                 <tr class="question">
                   <td>
-                    
+                    (　　) Mr. Barrow accepted the offer to join Martin Cosmetics Co., he would still be in London now.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：Were</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：Been</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：Have</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：Had</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>後半he would still be ～ から「仮定法過去」を考えます。ただ、前半は( ) s p.p., ～ の形なので、「仮定法過去完了の倒置（Had s p.p., ～）」にします。全体は、混合文の倒置“Had s p.p., S would 原形”「もし（あの時）～ならば、（今は）…だろうに」の形になっているわけです。</td>
                 </tr>
 
                 <tr>
@@ -1727,26 +1732,26 @@
             
                 <tr class="question">
                   <td>
-                    
+                    Mr. Perkins (　　) the résumés of the job applicants sometime next week.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：review</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：reviewed</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：reviewing</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：will review</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>文末next weekから、未来形will reviewを選びます。ちなみに、sometime「いつか」はsometimes「時々」とは違う単語ですので、ご注意ください。</td>
                 </tr>
 
                 <tr>
@@ -1756,26 +1761,26 @@
             
                 <tr class="question">
                   <td>
-                    
+                    The Magnolia Street Trolley (　　) to run unless the snow becomes too deep.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：will continue</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：continuing</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：has continued</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：had continued</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>unless「～しない限り」は従属接続詞なので「副詞節」を作りますが、空所は「主節」にあります。あくまで「副詞節の中では未来形の代わりに現在形」なので、主節では「未来のことは未来のまま」でOKです。副詞節の位置が変わっても、考え方はまったく同じです。</td>
                 </tr>
 
                 <tr>
@@ -1785,26 +1790,26 @@
             
                 <tr class="question">
                   <td>
-                    
+                    The sales manager suggested that Mr. Walton (　　) a week vacation after achieving his sales goal.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：take</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：takes</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：took</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：had taken</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>空所前suggestedに注目です。suggest・propose・recommend・requestなど「命令」系統の動詞があると、that節の中はshould 原形／原形になります。</td>
                 </tr>
 
                 <tr>
@@ -1814,26 +1819,26 @@
             
                 <tr class="question">
                   <td>
-                    
+                    The executive meeting (　　) next week to discuss strategies about improving inventory turnover.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：will take place</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：be taken place</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：took place</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：taken place</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>空所直後next weekから、会議は「未来」のことだとわかります。よって、will take placeが正解です。take place「開催される」はbe heldと同じイメージで、元から受け身の意味が含まれています。</td>
                 </tr>
 
                 <tr>
@@ -1843,26 +1848,27 @@
             
                 <tr class="question">
                   <td>
-                    
+                    The clock is (　　), so you had better finish your write-up soon.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：ticks</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：ticked</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：tick</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：ticking</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>空所直前isと文脈から、現在進行形にします。The clock is ticking「残り時間がわずか」となります。カンマ以降had better「～したほうがいい」は、一瞬過去形に見えるかもしれませんが、まとめて助動詞扱いなので「未来」を表しているわけです。
+                </td>
                 </tr>
 
                 <tr>
@@ -1872,26 +1878,26 @@
             
                 <tr class="question">
                   <td>
-                    
+                    Mr. Barbosa spent so much time working on the sales report (　　) he was unable to finish another assignment.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：which</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：this</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：that</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：than</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>so ～ that...「とても～なので...・...なくらい～だ」の形にします。soとthatが離れて「結果・程度」を表すパターンです。ちなみに、前半はspend 時間 –ing「～して時間を過ごす」の形が使われています。</td>
                 </tr>
 
                 <tr>
@@ -1901,26 +1907,26 @@
             
                 <tr class="question">
                   <td>
-                    
+                    Mr. Almeida is being transferred to the Hong Kong branch (　　) he is closer to the clients he serves.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：in order for</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：for this reason</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：due to</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：so that</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>so that sv「～するために」を選びます。soとthatがくっついて「目的」を表すパターンです。ちなみに前半は、現在進行形+受動態（is being transferred ～）で「未来」を表しています。</td>
                 </tr>
 
                 <tr>
@@ -1930,26 +1936,26 @@
             
                 <tr class="question">
                   <td>
-                    
+                    This month’s issue of Career Starter Magazine will provide tips on (　　) to wear for a job interview.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：that</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：what</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：who</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：so</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>what to ~（～するもの、何を～するか）という「疑問詞 + to不定詞」の表現を作る(B) whatが正解です。(C) whoはwho to ~（誰に～するか、誰を～するか）という表現を作ることができますが、「誰を着るべきか」では意味が通らないため不正解です。ちなみに、空所直前のtips on ~（～についてのアドバイス）という表現も重要です。tipには「心づけ、チップ」という意味もありますが、TOEIC® L&R TESTではそれよりも「アドバイス」という意味で使われます。</td>
                 </tr>
 
                 <tr>
@@ -1959,20 +1965,137 @@
             
                 <tr class="question">
                   <td>
-                    
+                    When Mr. Iseki went to see the Danton Night Parade, he arrived early so (　　) to secure a good spot.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：as</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：that</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：this</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：of</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>「目的」を表すso as to ~を作る(A) asが正解です。早めに到着したのは、良い場所を確保するという「目的」のためですね。ちなみに、同じように「目的」を表す表現に“so that s v”があります。空所の直前にsoがあるので(B) thatを選びたくなるかもしれませんが、空所の後ろに節（sとv）が存在しないため不正解となります。
+                </td>
+                </tr>
+
+                <tr>
+                  <td id="number">67</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    At Tucker’s Home Improvement, signs are (　　) so that customers can easily find the items they need.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：posted</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：caught</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：sold</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：invited</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>signsを主語として受け身を完成させる、過去分詞が空所に入ります。正しい文章になるよう、signs（標識）が何をされるのかを考えます。空所まで読むと(A) posted（掲示される）と(C) sold（売られる）のどちらかが空所に入りそうだと分かります。ポイントは、「目的」を表すso that以降の内容です。「顧客が必要な品を容易に見つけられるように」という目的のため「標識が掲示されている」とすると文意が通るので、正解は(A) postedだと分かります。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number">68</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    Jerry Carvel (　　) to meet a friend for lunch but was unable to make it because of his busy schedule.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：supposes</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：was supposed</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：to suppose</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：suppose</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>be supposed to ～「～する予定」という表現です。直訳「～すると思われている」→「～する予定・～しなくてはならない」となりました。ちなみに、後半のmake itは「うまくいく・間に合う・都合がつく」という意味の重要熟語です。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number">69</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    The CEO would be more likely (　　) the proposed project if it were less expensive to implement.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：approval</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：approves</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：to approve</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：approved</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>be likely to ～「～しそう」の形を選びます。全体は、仮定法過去“If s 過去形, S would 原形”「もし～ならば…だろうに」の形です（今回はIf節が後ろにきています）。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number">70</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    For the entire board meeting, all Ms. Huffman had (　　) was take notes.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：to do</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：been done</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：doing</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：to be done</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
@@ -1980,9 +2103,9 @@
                 <tr class="answer">
                 <td></td>
                 </tr>
-
+                
                 <tr>
-                  <td id="number">67</td>
+                  <td id="number">X</td>
                 </tr>  
 
             
@@ -2010,12 +2133,765 @@
                 <td></td>
                 </tr>
                 
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
                 
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+                
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+                
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+                
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+                
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+                
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+                
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+                
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+                
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+                
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+                
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+                
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+                
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+                
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+                
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+                
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+                
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+                
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+                
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+                
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+                
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+                
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+                
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+                
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+                
+                <tr>
+                  <td id="number">X</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
                 -->
 
 
 
-              <!-- ------------------------------------------------------ 
+              <!-- 
+                ------------------------------------------------------ 
                 <tr>
                   <td id="number">テンプレ</td>
                 </tr>  
@@ -2044,15 +2920,13 @@
                 <tr class="answer">
                 <td></td>
                 </tr> -->
-
-
             </tbody>
           </table>
         </div>
         <br>
         <br>
         <hr>
-        <i class="fas fa-mobile-alt"></i><a href="https://eigosapuri.jp/toeic/?vos=evalstsstopx0000001&fed=ppstp1906003">スタディサプリENGLISH(TOEIC対策)</a>参照
+        <i class="fas fa-mobile-alt"></i><a href="https://eigosapuri.jp/toeic/?vos=evalstsstopx0000001&fed=ppstp1906003">スタディサプリENGLISH(TOEIC対策)</a>参照(本サイトよりも詳細に記載されています。)
       </section>
 
       <?php include('parts/contents.php'); ?>
