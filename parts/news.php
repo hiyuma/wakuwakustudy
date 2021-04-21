@@ -46,6 +46,25 @@
         </li>
 
     <hr> -->
+        2021年04月21日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC212ME0R20C21A4000000/" target="blank" rel="noopener">
+                東京都、新たに843人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF216BX0R20C21A4000000/" target="blank" rel="noopener">
+                京都府、緊急事態宣言要請へ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGKKZO71207890R20C21A4MM8000/" target="blank" rel="noopener">
+                大阪、大型商業施設も休業　緊急事態を要請 首相、発令「速やかに判断」　東京・兵庫も要請へ調整</a>
+        </li>
+
+    <hr>
         2021年04月20日
     
         <li>
