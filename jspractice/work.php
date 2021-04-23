@@ -214,22 +214,7 @@
 
     <div id="aside">
       <?php include('../parts/prof.php'); ?>
-      <div id="relations"></div>
-      <div id="widget3">
-        <p>
-          <em4>利用した参考書</em4>
-        </p>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B07ZQWKL2Q&linkId=9ef9959afb8ec42e7fa4c42d21f5fc85&bc1=ff8c8c&lt1=_top&fc1=878787&lc1=ffffff&bg1=ff8c8c&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=4295005940&linkId=a608d54d1a46966f753ca770a17e5b30&bc1=ff8c8c&lt1=_top&fc1=878787&lc1=ffffff&bg1=ff8c8c&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=4295005096&linkId=94cc899163fdbfac373bc624a1dab20a&bc1=ff8c8c&lt1=_top&fc1=878787&lc1=ffffff&bg1=ff8c8c&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B06W9JDHVF&linkId=9d2e39bc6c1c8c9dd1d4fb01b2d672f2&bc1=ff8c8c&lt1=_top&fc1=878787&lc1=ffffff&bg1=ff8c8c&f=ifr">
-        </iframe>
-        <iframe id="amazon" style="width:120px;height:200px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=hiyuma-22&m=amazon&o=9&p=8&l=as1&IS2=1&detail=1&asins=B019WTE1FE&linkId=0ceee6ba75c567875559fafaa6a8371b&bc1=ff8c8c&lt1=_top&fc1=878787&lc1=ffffff&bg1=ff8c8c&f=ifr">
-        </iframe>
-      </div>
+      
 
       <?php include('../parts/widget/side_widget.php'); ?>
     </div>
