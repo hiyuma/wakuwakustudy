@@ -1377,7 +1377,6 @@
                   hiring manager「採用責任者」、副詞regularly「定期的に」、名詞branch「支社、支店」、動詞conduct「～を行う、～を実施する」、job applicant「職への応募者、求職者」</td>
                 </tr>
 
-                <!--
                 <tr>
                   <td id="number">45</td>
                 </tr>  
@@ -1696,7 +1695,8 @@
                 <td>仮定法過去完了の倒置“Had s p.p., S would have p.p.”の形です。仮定法の倒置は、TOEIC® L&R TEST以外でも様々な場面で想像以上に使われますので、倒置バージョンの公式をスラスラ言えるようにしておきましょう。</td>
                 </tr>
 
-                <tr>
+                <!--
+                  <tr>
                   <td id="number">57</td>
                 </tr>  
 
@@ -2101,7 +2101,441 @@
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>All S have to do is {to} 原形「Sは～しさえすればよい」の形にします。直訳「Sがしなければならないことのすべては～することだ」→「Sは～しさえすればよい」となりました。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number">71</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    More than fifty people are (　　) to attend the three-day workshop.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：expected</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：consumed</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：designed</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：recycled</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>be expected to ~（～することが予期される）を作る(A) expectedが正解です。主語がpeople（人々）なので、(B) consumed（消費される）、(C) designed（設計される）、(D) recycled（再利用される）では意味が通りませんね。be expected to ~は、「～する見込みだ、～するはずだ」という意味で非常によく使われる表現です。
+                </td>
+                </tr>
+                
+                <tr>
+                  <td id="number">72</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    It is reported that the local population is (　　) to grow over the next few years.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：likes</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：liked</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：likely</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：likeliness</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>be likely to ~（～しそう）となる(C) likelyが正解です。(B) likedを選ぶと、空所直前のbe動詞と合わせて受動態を成立させることはできますが、「人口が好かれた」では意味が通りませんね。ちなみに、likelyは今回のようにto不定詞を伴う形に加えて、It is likely that ~（～の可能性がある）という形でも頻出です。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number">73</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    This year’s company retreat, which (　　) to be held last week, has been postponed until next month.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：to suppose</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：was supposed</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：will suppose</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：suppose</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>supposeは「～だと思う」という意味の動詞です。これを受動態にしてbe supposed to ~とすると「～すると思われている」となります。「みんなに思われている」状態なので、「～するはずだ」「～することになっている」などの意味になるのでしたね。空所には(B) was supposedを入れ、「（社員旅行は）先週行われるはずだった」とします。ちなみに、空所直前の関係代名詞whichはThis year’s company retreat（今年の社員旅行）を指しています。2つのカンマに挟まれた部分が主語を説明している形ですね。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number">74</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    Kyodo Accounting is seeking a hardworking individual who is (　　) to work in a dynamic environment.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：eager</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：eagerly</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：more eagerly</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：eagerness</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>空所の前のwhoは、a hardworking individual（勤勉な人）を説明する関係代名詞になっています。空所には、isを動詞としてwhoを主格（主語）とする補語が入ります。補語は必ず名詞もしくは形容詞です。そのため、副詞の(B) eagerlyと(C) more eagerlyは不正解です。(A) eager（熱心な）を空所に入れれば「～することを熱望している勤勉な人材」という意味が成立するので、これが正解です。
+                <br>be eager to ~（～することを熱望している、～することに興味がある）は頻出のto不定詞慣用表現なので、この機会に覚えてしまいましょう。ちなみに、文法的には名詞の(D) eagerness（熱心さ）も空所に入りますが、勤勉な人材が「熱心さ」というものであることになってしまい、意味が通りませんね。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number">75</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    The executive meeting did not proceed as planned because about half of the company executives objected to (　　) the management policy.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：change</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：changes</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：changing</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：changed</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>object to –ing「～に反対する」の形です。動名詞はto不定詞と逆で「後ろ向き・過去志向」のイメージなので、object「反対する」などの動詞と相性がよいわけです。be opposed to –ing「～に反対する」もセットで押さえておきましょう。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number">76</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    Every traveler should keep in mind that (　　) around in an unfamiliar area requires extra care.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：wander</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：wanders</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：wandering</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：wandered</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>that節の中は、------- around in an unfamiliar areaが主語、requiresが動詞になっています。動名詞wanderingを選んで、wandering around ～「～を歩き回ること」とすればOKです。ちなみに、keep in mind that ～ は「～を心に留めておく」という熟語です。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number">77</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    Ms. Cho reluctantly agreed to move to the overseas branch after (　　) that she could receive a special bonus and holidays.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：hear</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：to hear</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：hearing</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：heard</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>空所直前afterは「前置詞」なので、後ろには「名詞」がきます。動名詞hearingが正解です。「動名詞」は動詞が名詞化したもの、つまり「名詞」の働きをするわけです。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number">78</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    (　　) hearing the news about Mr. Sherman’s resignation, his coworkers began to plan a farewell dinner.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：Behind</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：Within</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：Upon</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：From</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>on[upon] –ing「～するとすぐに」の形を選びます。onは本来「接触」の意味で、「２つの行為が接触するくらい（すぐに）」→「～するとすぐに」となりました。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number">79</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    The chefs at the Blueview Hotel (　　) considerable time training new members of the kitchen staff.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：wait</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：devote</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：exceed</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：spend</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>spend 時間 –ing「～して時間を過ごす」の形です。もともとspend 時間 {in・on} –ingでしたが、分詞構文との混同からin・onが省略されるようになりました（現在は、省略された形で使われることがほとんどです）。ちなみに、devoteは“devote 時間・努力 to –ing”「時間・努力を～するのにささげる・充てる」の形で使われます。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number">80</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    Members of the Horizon Wildlife Association are currently busy (　　) its annual fundraiser.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：organization</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：organizational</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：organizes</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：organizing</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>be busy –ing「～するのに忙しい」の形です。これもspend同様、本来はbe busy {in} –ingの形でしたが、分詞構文との混同からinが省略されるようになりました。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number">81</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    There is no use (　　) a meeting.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：holding</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：to hold</td>
+                </tr>
+                
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>There is no use –ingは、「～しても無駄である」という慣用句です。There is no useの後ろにto不定詞が続く表現はありません。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number">82</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    Many clients are happy (　　) that Gordon Accounting Firm saves them money.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：knowledge</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：know</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：knowing</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：knew</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>be動詞 + happy -ingで、「～してうれしい」という意味です。主語Many clients（多くの顧客）がthat以下の内容を知ってうれしいという内容にするには、動名詞knowingを選びます。
+                <br>
+                ちなみにhappyの後ろにto不定詞を用いてbe happy to do の形を作ると「喜んで～する」や「～してうれしい」という意味になります。I’m happy to help（喜んで手伝います）などの形でTOEIC® L&R TESTにも頻出する表現です。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number">83</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    Because they are rarely used, it has not been (　　) buying color printing machines for the office
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：valuable</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：worth</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：enough</td>
+                </tr>
+                <tr class="selection">
+                  <td>.D：selective</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>be動詞 + worth -ingで、「～する価値がある」という意味のかたまりを作ります。この文は否定形なので、「カラー印刷機を買う価値がない」とすれば、前半のBecause they (=color printing machines) are rarely used（ほとんど使われないので）との関係が明確になります。他の選択肢には、動名詞と併せて特定の意味を作る働きはありません。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number">84</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    Ms. Kelly did not (　　) like meeting the performers after the show.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：want</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：need</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：feel</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：seem</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>feel like -ingで、「～したい気がする」という慣用表現です。did not feel like meetingで「会いたい気がしなかった」なので、ショーがつまらなかったのか、Kellyさんは疲れていたのか、などいろいろ考えられそうですね。seemも、後ろにlikeを伴い「～のように思える」という意味のかたまりを作る動詞ですが、It seems like a good idea.（良い考えだと思える）やIt seems like everything is going well.（全てうまくいっているように思える）のように、動名詞ではなく名詞かSVを後に置きます。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number">85</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    The marketing manager could not (　　) wondering why sales had slowed.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：worry</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：help</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：suspect</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：know</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>can’t help -ingのかたまりで、「～せずにいられない」という意味です。空所にhelpを入れcould not help wondering（疑問に思わずにはいられなかった）とし、why sales had slowed（なぜ売り上げが落ちたのか）という内容につなげます。</td>
                 </tr>
                 
                 <tr>
@@ -2111,461 +2545,26 @@
             
                 <tr class="question">
                   <td>
-                    
+                    The people at the meeting did not mind (　　) while Mr. Jones spoke with an important client.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：to wait</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：waiting</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：waits/td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：being waited</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
-                </tr>
-                
-                <tr>
-                  <td id="number">X</td>
-                </tr>  
-
-            
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr>
-                
-                <tr>
-                  <td id="number">X</td>
-                </tr>  
-
-            
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr>
-                
-                <tr>
-                  <td id="number">X</td>
-                </tr>  
-
-            
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr>
-                
-                <tr>
-                  <td id="number">X</td>
-                </tr>  
-
-            
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr>
-                
-                <tr>
-                  <td id="number">X</td>
-                </tr>  
-
-            
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr>
-                
-                <tr>
-                  <td id="number">X</td>
-                </tr>  
-
-            
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr>
-                
-                <tr>
-                  <td id="number">X</td>
-                </tr>  
-
-            
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr>
-                
-                <tr>
-                  <td id="number">X</td>
-                </tr>  
-
-            
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr>
-                
-                <tr>
-                  <td id="number">X</td>
-                </tr>  
-
-            
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr>
-                
-                <tr>
-                  <td id="number">X</td>
-                </tr>  
-
-            
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr>
-                
-                <tr>
-                  <td id="number">X</td>
-                </tr>  
-
-            
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr>
-                
-                <tr>
-                  <td id="number">X</td>
-                </tr>  
-
-            
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr>
-                
-                <tr>
-                  <td id="number">X</td>
-                </tr>  
-
-            
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr>
-                
-                <tr>
-                  <td id="number">X</td>
-                </tr>  
-
-            
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr>
-                
-                <tr>
-                  <td id="number">X</td>
-                </tr>  
-
-            
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
+                <td>mindという動詞の後ろにはto不定詞ではなく動名詞を使うと覚えましょう。mind -ingで「～することを嫌だと思う」という意味です。会議の出席者が「待つ」のであって「待たれる」わけではないので、受動態動名詞being waitedではなく能動態のwaitingが正解です。mindは否定形で使われることが多く、did not mind waiting（待つことを嫌だと思わなかった）すなわち「気にせず待った」と訳すことができます。疑問文でDo you mind ~? 、Would you mind ~? は丁寧な依頼の表現としてよく使われます。「～することをお願いできますか」と言いたい場合は、Do you mind opening the window?（窓を開けていただけますか）のように、必ず-ing形（動名詞）を使います。</td>
                 </tr>
                 
                 <tr>
