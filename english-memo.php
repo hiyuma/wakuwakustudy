@@ -1695,7 +1695,7 @@
                 <td>仮定法過去完了の倒置“Had s p.p., S would have p.p.”の形です。仮定法の倒置は、TOEIC® L&R TEST以外でも様々な場面で想像以上に使われますので、倒置バージョンの公式をスラスラ言えるようにしておきましょう。</td>
                 </tr>
 
-                <!--
+                
                   <tr>
                   <td id="number">57</td>
                 </tr>  
@@ -1870,7 +1870,8 @@
                 <td>空所直前isと文脈から、現在進行形にします。The clock is ticking「残り時間がわずか」となります。カンマ以降had better「～したほうがいい」は、一瞬過去形に見えるかもしれませんが、まとめて助動詞扱いなので「未来」を表しているわけです。
                 </td>
                 </tr>
-
+                
+                <!--
                 <tr>
                   <td id="number">63</td>
                 </tr>  
@@ -2539,7 +2540,7 @@
                 </tr>
                 
                 <tr>
-                  <td id="number">X</td>
+                  <td id="number">86</td>
                 </tr>  
 
             
@@ -2568,7 +2569,239 @@
                 </tr>
                 
                 <tr>
-                  <td id="number">X</td>
+                  <td id="number">87</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    Once the second interview is finished, Mr. Donahue (　　) between the two candidates.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：to choose</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：choosing</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：will choose</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：has chosen</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>文頭Once「いったん～すると」は従属接続詞なので「副詞節」を作りますが、空所は主節にあります。あくまで「副詞節の中では未来形の代わりに現在形」なので、主節では「未来のことは未来のまま」でOKです。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number">88</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    The marketing team at Bracca Cosmetics conducted research on women (　　) replacing some of their cosmetic items.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：consider</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：considering</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：considered</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：have considered</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>空所には、直前womenを修飾する分詞が入ります。「検討している」という能動関係なので、consideringが正解です。ちなみにconsider –ing「～するのを考える」は、「あれやこれや頭の中でグルグル考える」という「反復」のイメージなので、後ろに動名詞をとるわけです。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number">89</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    Passengers (　　) for buses should line up outside.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：waiting</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：waited</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：to wait</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：wait</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>文の主語はpassengers、動詞はshould line up（並ばなければならない）です。選択肢にある動詞waitのさまざまな形は、この文の動詞ではなく主語passengersを後ろから説明するかたまりを作る役割を持っています。「バスを待っている乗客」というかたまりが主語になればshould line up（並んでください）につながり意味が通るので、能動的に「待っている」という意味を持つ現在分詞waitingが正解です。waitedを過去形だと思って選ぶとPassengers waited for buses（乗客はバスを待った）となり一見良さそうですが、その後にまたshould line upと動詞があり、文として成り立ちません。「1つの文に動詞は1つだけ」を意識し、空所の後ろまで目を動かして他に動詞がないか確認しましょう。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number"90</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    A (　　) scientist has agreed to speak at the conference.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：respects</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：respecting</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：respected</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：to respect</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>文頭からscientistまでが主語で、動詞のかたまりhas agreed to speakが続いています。空所に入れて名詞scientistを前から説明することができるのは、形容詞と同じ働きをする現在分詞か過去分詞。どちらを選ぶかは、その名詞が「している」のか「されている」のかがキーとなります。この文では科学者は尊敬「されている」側だと考え、過去分詞を選びa respected scientist（尊敬されている科学者）という主語を作れば意味が自然につながります。respectedは「尊敬されている」という元々の意味から、「評判が良い、有名な」と訳されることもあります。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number">91</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    (　　) items are kept at the reception desk if the owner cannot be found.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：Losing</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：Lost</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：To lose</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：Lose</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>選択肢に並ぶさまざまな形の動詞の中で、itemsを前から説明して主語のかたまりを作ることができるのは過去分詞のlostだけです。loseは「～をなくす」という意味の動詞で、lost itemは「なくされた品物」、つまり「遺失物」という熟語です。もしlosingを選びlosing itemsとすると、「何かをなくしている状態の品物」となり、意味が通りません。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number">92</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    The human resource manager is particularly (　　) with Ms. Gyeon’s professional accomplishments as a designer.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：impression</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：impresses</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：impressed</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：impressive</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>The human resource managerが主語です。人は「感銘を与えられる」わけですから、受動関係のimpressedを選びます。ちなみに、impressive「印象的な・感銘を与えるような」はimpressingの代用表現です（impressingの代わりにimpressiveが使われるということです）。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number">93</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    (　　) 24 years ago by Dr. George Wright, the Greenwood Institute is a leader in preventive medicine research.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：Founds</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：Founding</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：Founded</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：Founder</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>“( ) ～, SV”という形なので分詞構文の問題と判断し、主語the Greenwood Instituteを空所の前に出して考えます。「研究所はfoundされる」という受動関係なので、p.p.を選べばOKです（foundは原形で「設立する」）。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number">94</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    (　　) on the advice of a consultant, Naveen Foods will use more colors in its product packaging.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：Act</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：Action</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：Acting</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：To acting</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>“( ) ～, SV”という形なので分詞構文の問題と判断し、主語Naveen Foodsを空所の前に出して考えます。「Naveen Foodsはactする」という能動関係なので、-ingを選べばOKです。ちなみに、act on ～ は「～に基づいて行動する」という熟語です。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number">95</td>
                 </tr>  
 
             
@@ -2597,7 +2830,7 @@
                 </tr>
                 
                 <tr>
-                  <td id="number">X</td>
+                  <td id="number">96</td>
                 </tr>  
 
             
@@ -2626,239 +2859,7 @@
                 </tr>
                 
                 <tr>
-                  <td id="number">X</td>
-                </tr>  
-
-            
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr>
-                
-                <tr>
-                  <td id="number">X</td>
-                </tr>  
-
-            
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr>
-                
-                <tr>
-                  <td id="number">X</td>
-                </tr>  
-
-            
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr>
-                
-                <tr>
-                  <td id="number">X</td>
-                </tr>  
-
-            
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr>
-                
-                <tr>
-                  <td id="number">X</td>
-                </tr>  
-
-            
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr>
-                
-                <tr>
-                  <td id="number">X</td>
-                </tr>  
-
-            
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr>
-                
-                <tr>
-                  <td id="number">X</td>
-                </tr>  
-
-            
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr>
-                
-                <tr>
-                  <td id="number">X</td>
-                </tr>  
-
-            
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr>
-                
-                <tr>
-                  <td id="number">X</td>
+                  <td id="number">97</td>
                 </tr>  
 
             
