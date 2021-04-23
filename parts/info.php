@@ -4,6 +4,12 @@
 
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+  <li>2021年04月23日</li>
+  <div class="info-children"><span><a href="english-memo.php">英文法 Memo</a></th> 51～56追加</span></div>
+  
+  <li>2021年04月22日</li>
+  <div class="info-children"><span><a href="english-memo.php">英文法 Memo</a></th> 45～50追加</span></div>
+
   <li>2021年04月21日</li>
   <div class="info-children"><span><a href="english-memo.php">英文法 Memo</a></th> 39～44追加</span></div>
 

@@ -45,7 +45,42 @@
                 </a>
         </li>
 
-    <hr> -->
+    <hr> --><hr>
+        2021年04月23日
+    
+    <li>
+            <i class="far fa-file-alt"></i>
+            <a href="https://www.nikkei.com/article/DGXZQOCC2312D0T20C21A4000000/" target="blank" rel="noopener">
+            東京都、新たに759人感染　新型コロナ</a>
+    </li>
+    <li>
+            <i class="far fa-file-alt"></i>
+            <a href="https://www.nikkei.com/article/DGXZQOUA22E0U0S1A420C2000000/" target="blank" rel="noopener">
+            東京・大阪・京都・兵庫に緊急事態宣言　今夕に決定へ</a>
+    </li>
+    <li>
+            <i class="far fa-file-alt"></i>
+            <a href="https://www.nikkei.com/article/DGXZQOUC211RI0R20C21A4000000/" target="blank" rel="noopener">
+            コロナ後遺症「ブレインフォグ」　免疫異常が関与か</a>
+    </li>
+        2021年04月22日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                東京都、新たに861人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF228ED0S1A420C2000000/" target="blank" rel="noopener">
+                大阪府、重症病床使用100%　22日の新規感染1167人</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUB225860S1A420C2000000/" target="blank" rel="noopener">
+                米国で稼ぐ銘柄が上昇、進むコロナ対策</a>
+        </li>
+    <hr>
         2021年04月21日
     
         <li>
