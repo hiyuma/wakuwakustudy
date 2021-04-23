@@ -78,6 +78,7 @@
 
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li><a href="#20210424">　2021年04月24日　118.2cm</a></li>
               <li><a href="#20210415">　2021年04月15日　115.6cm</a></li>
               <li><a href="#20210401">　2021年04月01日　114.2cm</a></li>
               <li><a href="#20210315">　2021年03月15日　113.5cm</a></li>
@@ -1140,7 +1141,7 @@
 
           <!-- id="038" -->
           <div class="schedule_wrapper">
-            <div id="20210401"></div>
+            <div id="20210415"></div>
             <p id="avocado"><strong>2021年04月15日</strong></p>
             <p><img src="gallery/avocado/avo20210415 (1).jpg" alt="アボカド65"></p>
             <div class="accbox">
@@ -1157,8 +1158,37 @@
                   <br><br>
                   新葉が開き、大きくなっています。
                   <br><br>
-                  色も緑が鮮やかで少し透明感もあるキレイな色になりました。F
+                  色も緑が鮮やかで少し透明感もあるキレイな色になりました。
                 </p>
+              </div>
+            </div>
+          </div>
+
+           <!-- id="039" -->
+           <div class="schedule_wrapper">
+            <div id="20210424"></div>
+            <p id="avocado"><strong>2021年04月24日</strong></p>
+            <p><img src="gallery/avocado/avo20210424 (1).jpg" alt="アボカド67"></p>
+            <div class="accbox">
+              <input type="checkbox" id="038" class="cssacc" />
+
+              <label for="038"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
+              <div class="accshow">
+                <p><img src="gallery/avocado/avo20210424 (2).jpg" alt="アボカド68"></p>
+                <p>2021年04月24日、東京都杉並区8時現在の気温は14.6℃。
+                  <br><br>
+                  最高気温は22℃の予報です。
+                  <br><br>
+                  思い切って、剪定しました。
+                  <br><br>
+                  両サイドに伸びていた枝が洗濯や布団干しに影響していたこともあります。
+                  <br><br>
+                  すると、急に縦に伸びるスピードが早くなったようなそんな気がします。
+                  <br><br>
+                  背丈は、118.2cmです。
+                  <br><br>
+                  今年のアボカドの成長が楽しみです。
+                  </p>
               </div>
             </div>
           </div>
