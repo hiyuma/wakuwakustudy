@@ -2807,30 +2807,205 @@
             
                 <tr class="question">
                   <td>
-                    
+                    Ms. Ng (　　) to attend the office on the weekend, but she does not want to do so.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：is asking</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：has been asked</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：was asking</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：asks</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>主語Ngさんが週末に出勤するよう依頼するのか、されるのかと考えるとどちらの可能性もあります。askという動詞はask 人to doで「（人に）～を依頼する」という使い方をしますが、空所の後ろには「誰に？」を説明する、人を表す目的語がありません。動詞の後ろに直接to attend the office（オフィスに行くことを）という依頼の内容があるので、受動態だと考えてhas been askedを選びます。動詞askの使い方を知らず、間違えて現在形の能動態asksを選ぶと「Ngさんは週末出勤を依頼する」（日常的に、繰り返しそれをする人だ）という意味になり、文の後半「しかし、そうしたくない」と文意がつながりません。</td>
                 </tr>
                 
                 <tr>
                   <td id="number">96</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    The only time (　　) Mr. Jackson has available today is 5:30 P.M.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：that</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：who</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：when</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：whose</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>この文の動詞はisで、その前までが主語です。選択肢には関係詞が並んでいるので、空所前の名詞（先行詞）timeを説明するかたまりを作るのに必要な関係詞を選びます。timeは「もの」で、説明するかたまりの中で欠けているのはMr. Jackson hasの後ろにあるはずの目的語なので、目的格の関係代名詞で先行詞がものの場合に使うthatが正解です。</td>
+                </tr>
+                
+                <tr>
+                  <td id="number">97</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    Customers of the car rental firm who did not get the exact car they reserved received a discount.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：which</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：who</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：whose</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：where</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>この問題文は長くて分かりにくいと感じるかもしれませんが、説明部分を全て省略するとCustomers received a discount.（顧客は割引を受けた）となります。選択肢に並ぶ関係詞は、何を説明するかたまりを作るのかを考えましょう。空所の前後だけを見て、説明するのはthe car rental firm（レンタカー会社）だと勘違いすると、会社（もの）を説明するwhichを選びたくなります。しかし、of the car rental firm（レンタカー会社の）はCustomersを後ろから説明するかたまりです。主語はCustomers（顧客）で、人を表す主語Customersを説明できるのはwhoかwhoseです。空所以降に欠けているのは「誰が」にあたる主語なので、主格のwhoを選びましょう。</td>
+                </tr>
+
+                <tr>
+                  <td id="number">98</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    Galway Shoes are hard to clean, (　　) is why they are not very popular.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：that</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：who</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：whose</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：which</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>選択肢には関係詞が並び、空所直前にカンマがあることに注目しましょう。関係代名詞や関係副詞が作るかたまりの前にカンマが打たれると、カンマの前の「節」（SVのかたまり）の一部、あるいは全体が先行詞になると考えられます。この文ではGalway Shoes are hard to clean（Galway Shoesは洗いにくい）が、カンマの前にある「節」です。これを「もの」と考えると、thatとwhichどちらも選べそうですね。ここで重要なポイントは、「関係代名詞thatの前にカンマを打つ用法はない」ということ。つまり、正解はwhichです。関係詞の前にカンマがある場合、thatは絶対に正解にはならないことを覚えておきましょう。
+                </td>
+                </tr>
+
+                <tr>
+                  <td id="number">99</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    The company celebrated its 50th anniversary in the building (　　) it was founded.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：where</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：when</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：that</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：how</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>選択肢に関係代名詞と関係副詞が並んでいるので、空所の後ろを確認します。it（主語）、was founded（受動態の動詞）という、完全な文の形があるので関係副詞を選びます。この問題では関係副詞が複数あるため、さらに意味を考えましょう。空所前にある名詞（先行詞）はthe buildingですから、「場所」を表す関係副詞whereを選べば、空所以降で「会社が設立された（そのビルで）」という意味のかたまりを作ることができます。</td>
+                </tr>
+
+                <tr>
+                  <td id="number">100</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    The president of HJM Company gave a speech explaining (　　) he built such a successful company.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：who</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：which</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：how</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：what</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>関係代名詞と関係副詞のどちらを選ぶかという問題です。空所直前にあるのはexplainingという分詞で、名詞ではありません。後ろにはhe（主語）built（動詞）such a successful company（目的語）という文を作る完全な形があります。後ろの文が完全な場合は関係副詞を選ぶと考え、選択肢の中で唯一の関係副詞howを選びましょう。</td>
+                </tr>
+
+                <tr>
+                  <td id="number">101</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    Professor Chi refused to speak on topics about (　　)he was not an expert.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：whose</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：which</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：where</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：that</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>空所前にはaboutという前置詞があり、後ろには主語he、動詞was not、補語an expertという完全な形の文があります。前置詞と完全な形の文の間に関係代名詞を置けば、前にある名詞topicsを説明するかたまりを作ることができます。先行詞の「もの」topicsを説明し、かつaboutの目的語になれるように、目的格で「もの」に使える関係代名詞を選びます。whichとthatどちらも条件を満たすように見えますが、thatは前置詞の後に置くことはできないので、正解はwhichです。Professor Chi refused to speak on topics.とHe was not an expert about topics.という2つの文を結び付け、同じ要素であるtopicsを説明するかたまりを作るために、関係代名詞が使われているのです。</td>
+                </tr>
+
+                <tr>
+                  <td id="number">102</td>
                 </tr>  
 
             
@@ -2857,9 +3032,125 @@
                 <tr class="answer">
                 <td></td>
                 </tr>
-                
+
                 <tr>
-                  <td id="number">97</td>
+                  <td id="number">103</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+
+                <tr>
+                  <td id="number">104</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+
+                <tr>
+                  <td id="number">105</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+
+                <tr>
+                  <td id="number">106</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+
+                <tr>
+                  <td id="number">107</td>
                 </tr>  
 
             
