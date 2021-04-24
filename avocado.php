@@ -1170,9 +1170,9 @@
             <p id="avocado"><strong>2021年04月24日</strong></p>
             <p><img src="gallery/avocado/avo20210424 (1).jpg" alt="アボカド67"></p>
             <div class="accbox">
-              <input type="checkbox" id="038" class="cssacc" />
+              <input type="checkbox" id="039" class="cssacc" />
 
-              <label for="038"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
+              <label for="039"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
               <div class="accshow">
                 <p><img src="gallery/avocado/avo20210424 (2).jpg" alt="アボカド68"></p>
                 <p>2021年04月24日、東京都杉並区8時現在の気温は14.6℃。
