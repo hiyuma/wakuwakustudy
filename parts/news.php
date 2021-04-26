@@ -45,403 +45,460 @@
                 </a>
         </li>
 
-    <hr> --><hr>
-        2021年04月23日
-    
-    <li>
-            <i class="far fa-file-alt"></i>
-            <a href="https://www.nikkei.com/article/DGXZQOCC2312D0T20C21A4000000/" target="blank" rel="noopener">
-            東京都、新たに759人感染　新型コロナ</a>
-    </li>
-    <li>
-            <i class="far fa-file-alt"></i>
-            <a href="https://www.nikkei.com/article/DGXZQOUA22E0U0S1A420C2000000/" target="blank" rel="noopener">
-            東京・大阪・京都・兵庫に緊急事態宣言　今夕に決定へ</a>
-    </li>
-    <li>
-            <i class="far fa-file-alt"></i>
-            <a href="https://www.nikkei.com/article/DGXZQOUC211RI0R20C21A4000000/" target="blank" rel="noopener">
-            コロナ後遺症「ブレインフォグ」　免疫異常が関与か</a>
-    </li>
-        2021年04月22日
+    <hr> -->
+        2021年04月26日
     
         <li>
                 <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC260KR0W1A420C2000000/" target="blank" rel="noopener">
+                東京都、新たに425人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB260O60W1A420C2000000/" target="blank" rel="noopener">
+                ワクチン接種、世界で10億回突破　低所得国は進まず</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2449J0U1A420C2000000/" target="blank" rel="noopener">
+                緊急事態初日の東京や大阪、繁華街の人出3～4割減</a>
+        </li>
+
+    <hr>
+        2021年04月25日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC251MR0V20C21A4000000/" target="blank" rel="noopener">
+                東京都、新たに635人感染　新型コロナ/a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF2515S0V20C21A4000000/" target="blank" rel="noopener">
+                緊急事態3回目、街に自粛疲れにじむ　大阪や兵庫など</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC240NB0U1A420C2000000/" target="blank" rel="noopener">
+                ディズニーは営業継続、映画館は休業　緊急事態宣言適用</a>
+        </li>
+
+    <hr>
+        2021年04月24日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC242780U1A420C2000000/" target="blank" rel="noopener">
+                東京都、新たに876人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC240F30U1A420C2000000/" target="blank" rel="noopener">
+                緊急事態、休業広がる　三越伊勢丹は食品・化粧品除き</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF241VU0U1A420C2000000/" target="blank" rel="noopener">
+                兵庫の新規感染、最多の635人　初の600人超え</a>
+        </li>
+
+    <hr>
+        2021年04月23日
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2312D0T20C21A4000000/" target="blank" rel="noopener">
+                        東京都、新たに759人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA22E0U0S1A420C2000000/" target="blank" rel="noopener">
+                        東京・大阪・京都・兵庫に緊急事態宣言　今夕に決定へ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC211RI0R20C21A4000000/" target="blank" rel="noopener">
+                        コロナ後遺症「ブレインフォグ」　免疫異常が関与か</a>
+        </li>
+        <hr>
+        2021年04月22日
+
+        <li>
+                <i class="far fa-file-alt"></i>
                 <a href="" target="blank" rel="noopener">
-                東京都、新たに861人感染　新型コロナ</a>
+                        東京都、新たに861人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUF228ED0S1A420C2000000/" target="blank" rel="noopener">
-                大阪府、重症病床使用100%　22日の新規感染1167人</a>
+                        大阪府、重症病床使用100%　22日の新規感染1167人</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUB225860S1A420C2000000/" target="blank" rel="noopener">
-                米国で稼ぐ銘柄が上昇、進むコロナ対策</a>
+                        米国で稼ぐ銘柄が上昇、進むコロナ対策</a>
         </li>
-    <hr>
+        <hr>
         2021年04月21日
-    
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC212ME0R20C21A4000000/" target="blank" rel="noopener">
-                東京都、新たに843人感染　新型コロナ</a>
+                        東京都、新たに843人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUF216BX0R20C21A4000000/" target="blank" rel="noopener">
-                京都府、緊急事態宣言要請へ</a>
+                        京都府、緊急事態宣言要請へ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGKKZO71207890R20C21A4MM8000/" target="blank" rel="noopener">
-                大阪、大型商業施設も休業　緊急事態を要請 首相、発令「速やかに判断」　東京・兵庫も要請へ調整</a>
+                        大阪、大型商業施設も休業　緊急事態を要請 首相、発令「速やかに判断」　東京・兵庫も要請へ調整</a>
         </li>
 
-    <hr>
+        <hr>
         2021年04月20日
-    
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC2018H0Q1A420C2000000/" target="blank" rel="noopener">
-                東京都、新たに711人感染　新型コロナ</a>
+                        東京都、新たに711人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUF203DF0Q1A420C2000000/" target="blank" rel="noopener">
-                大阪知事、大規模施設への休業要請方針　緊急事態宣言で</a>
+                        大阪知事、大規模施設への休業要請方針　緊急事態宣言で</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC2038N0Q1A420C2000000/" target="blank" rel="noopener">
-                小池都知事、緊急事態要請の判断へ「総点検する」</a>
+                        小池都知事、緊急事態要請の判断へ「総点検する」</a>
         </li>
 
-    <hr>
+        <hr>
         2021年04月19日
-    
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC190IT0Z10C21A4000000/" target="blank" rel="noopener">
-                東京都、新たに405人感染　新型コロナ</a>
+                        東京都、新たに405人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUF134CA0T10C21A4000000/" target="blank" rel="noopener">
-                大阪知事、緊急事態宣言要請へ　「感染は危機的状況」</a>
+                        大阪知事、緊急事態宣言要請へ　「感染は危機的状況」</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGN1843N0Y1A410C2000000/" target="blank" rel="noopener">
-                世界の新規感染、1日最多76万人　インドで変異型が猛威</a>
+                        世界の新規感染、1日最多76万人　インドで変異型が猛威</a>
         </li>
 
-    <hr>
+        <hr>
         2021年04月18日
-    
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC181DY0Y1A410C2000000/" target="blank" rel="noopener">
-                東京都、新たに543人感染　新型コロナ</a>
+                        東京都、新たに543人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA180BB0Y1A410C2000000/" target="blank" rel="noopener">
-                ワクチン、9月末までに国内全対象者分を調達　河野氏　「ファイザーと実質合意」</a>
+                        ワクチン、9月末までに国内全対象者分を調達　河野氏　「ファイザーと実質合意」</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGM076920X00C21A4000000/" target="blank" rel="noopener">
-                シンガポールのワクチン接種、スマホ予約5分で完了</a>
+                        シンガポールのワクチン接種、スマホ予約5分で完了</a>
         </li>
 
-    <hr>
+        <hr>
         2021年04月17日
-    
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC1724Z0X10C21A4000000/" target="blank" rel="noopener">
-                東京都、新たに759人感染　新型コロナ</a>
+                        東京都、新たに759人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA170H80X10C21A4000000/" target="blank" rel="noopener">
-                首相「状況見て判断」　大阪への緊急事態宣言めぐり</a>
+                        首相「状況見て判断」　大阪への緊急事態宣言めぐり</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGN170740X10C21A4000000/" target="blank" rel="noopener">
-                新型コロナ死者、世界で300万人に迫る 変異型で増加</a>
+                        新型コロナ死者、世界で300万人に迫る 変異型で増加</a>
         </li>
 
-    <hr>
+        <hr>
         2021年04月16日
-    
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC163UI0W1A410C2000000/" target="blank" rel="noopener">
-                東京都、新たに667人感染　新型コロナ</a>
+                        東京都、新たに667人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA160II0W1A410C2000000/" target="blank" rel="noopener">
-                「まん延防止」10都府県に拡大　政府諮問、5月11日まで　埼玉･千葉･神奈川･愛知を追加</a>
+                        「まん延防止」10都府県に拡大　政府諮問、5月11日まで　埼玉･千葉･神奈川･愛知を追加</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCA0872D0Y1A400C2000000/" target="blank" rel="noopener">
-                変異ウイルス世界で猛威　欧州8割超、「第4波」入りか</a>
+                        変異ウイルス世界で猛威　欧州8割超、「第4波」入りか</a>
         </li>
 
-    <hr>
+        <hr>
         2021年04月15日
-    
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC1514R0V10C21A4000000/" target="blank" rel="noopener">
-                東京都、新たに729人感染　新型コロナ</a>
+                        東京都、新たに729人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUC111OC0R10C21A4000000/" target="blank" rel="noopener">
-                新型コロナウイルスの起源　WHO、4つの仮説を検証</a>
+                        新型コロナウイルスの起源　WHO、4つの仮説を検証</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUB131A60T10C21A4000000/" target="blank" rel="noopener">
-                ワクチン接種、投資先選別の軸　ポンドやドル上昇鮮明</a>
+                        ワクチン接種、投資先選別の軸　ポンドやドル上昇鮮明</a>
         </li>
 
-    <hr>
+        <hr>
         2021年04月14日
-    
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC140J90U1A410C2000000/" target="blank" rel="noopener">
-                東京都、新たに591人感染　新型コロナ</a>
+                        東京都、新たに591人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQODL250V00V21C20A1000000/" target="blank" rel="noopener">
-                新型コロナ、国内感染51万6934人　新たに4305人確認</a>
+                        新型コロナ、国内感染51万6934人　新たに4305人確認</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUF147KZ0U1A410C2000000/" target="blank" rel="noopener">
-                大阪府の新規感染1130人　2日連続で最多更新</a>
+                        大阪府の新規感染1130人　2日連続で最多更新</a>
         </li>
 
-    <hr>
+        <hr>
         2021年04月13日
-    
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC130L80T10C21A4000000/" target="blank" rel="noopener">
-                東京都、新たに510人感染　新型コロナ</a>
+                        東京都、新たに510人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUF133WB0T10C21A4000000/" target="blank" rel="noopener">
-                大阪府の新規感染者、初の1000人超　新型コロナ</a>
+                        大阪府の新規感染者、初の1000人超　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGM130D20T10C21A4000000/" target="blank" rel="noopener">
-                中国、3月の輸出30.6%増　米向け伸びコロナ前上回る</a>
+                        中国、3月の輸出30.6%増　米向け伸びコロナ前上回る</a>
         </li>
 
-    <hr>
+        <hr>
         2021年04月12日
-    
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC122EL0S1A410C2000000/" target="blank" rel="noopener">
-                東京都、新たに306人感染　新型コロナ</a>
+                        東京都、新たに306人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUE0982E0Z00C21A4000000/" target="blank" rel="noopener">
-                「ひとまず安心」　高齢者ワクチン接種、自治体に緊張感</a>
+                        「ひとまず安心」　高齢者ワクチン接種、自治体に緊張感</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQODF095WL0Z00C21A4000000/" target="blank" rel="noopener">
-                長引くコロナ禍、のしかかる税・社保料2.8兆円の後払い</a>
+                        長引くコロナ禍、のしかかる税・社保料2.8兆円の後払い</a>
         </li>
 
-    <hr>
+        <hr>
         2021年04月11日
-    
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC1119S0R10C21A4000000/" target="blank" rel="noopener">
-                東京都、新たに421人感染　新型コロナ</a>
+                        東京都、新たに421人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOPT111S80R10C21A4000000/" target="blank" rel="noopener">
-                大阪の新規感染760人、兵庫は229人　新型コロナ</a>
+                        大阪の新規感染760人、兵庫は229人　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC112SU0R10C21A4000000/" target="blank" rel="noopener">
-                小池都知事「配分まで感染対策を」　高齢者ワクチン接種</a>
+                        小池都知事「配分まで感染対策を」　高齢者ワクチン接種</a>
         </li>
 
-    <hr>
+        <hr>
         2021年04月10日
-    
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC100ZW0Q1A410C2000000/" target="blank" rel="noopener">
-                東京都、新たに570人感染　新型コロナ</a>
+                        東京都、新たに570人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUF102FT0Q1A410C2000000/" target="blank" rel="noopener">
-                大阪府、10日の新規感染918人　過去最多</a>
+                        大阪府、10日の新規感染918人　過去最多</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUE100X90Q1A410C2000000/" target="blank" rel="noopener">
-                まん延防止決定後、初の週末　旅行者に戸惑いも</a>
+                        まん延防止決定後、初の週末　旅行者に戸惑いも</a>
         </li>
 
-    <hr>
+        <hr>
         2021年04月09日
-    
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC090HK0Z00C21A4000000/" target="blank" rel="noopener">
-                東京都、新たに537人感染　新型コロナ</a>
+                        東京都、新たに537人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGN08DIB0Y1A400C2000000/" target="blank" rel="noopener">
-                米人口100年ぶり低い伸び　21年0.2%増、コロナと移民減</a>
+                        米人口100年ぶり低い伸び　21年0.2%増、コロナと移民減</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA08D6D0Y1A400C2000000/" target="blank" rel="noopener">
-                まん延防止、3都府県追加　東京は5月11日まで</a>
+                        まん延防止、3都府県追加　東京は5月11日まで</a>
         </li>
 
-    <hr>
+        <hr>
         2021年04月08日
-    
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC081190Y1A400C2000000/" target="blank" rel="noopener">
-                東京都、新たに545人感染　新型コロナ</a>
+                        東京都、新たに545人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC0823B0Y1A400C2000000/" target="blank" rel="noopener">
-                小池都知事「まん延防止措置」適用を要請</a>
+                        小池都知事「まん延防止措置」適用を要請</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUE081RU0Y1A400C2000000/" target="blank" rel="noopener">
-                コロナ感染後の肺障害に生体移植　京大病院、世界初</a>
+                        コロナ感染後の肺障害に生体移植　京大病院、世界初</a>
         </li>
 
-    <hr>
+        <hr>
         2021年04月07日
-    
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC070GX0X00C21A4000000/" target="blank" rel="noopener">
-                東京都、新たに555人感染　新型コロナ</a>
+                        東京都、新たに555人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUF064GB0W1A400C2000000/" target="blank" rel="noopener">
-                大阪府、新規感染800人超　医療非常事態宣言を発出</a>
+                        大阪府、新規感染800人超　医療非常事態宣言を発出</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGM3162B0R30C21A3000000/" target="blank" rel="noopener">
-                中国・武漢「どんどん店がつぶれた」　封鎖解除から1年</a>
+                        中国・武漢「どんどん店がつぶれた」　封鎖解除から1年</a>
         </li>
 
-    <hr>
+        <hr>
         2021年04月06日
-    
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC060KN0W1A400C2000000/" target="blank" rel="noopener">
-                東京都、新たに399人感染　新型コロナ</a>
+                        東京都、新たに399人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOJB064Y60W1A400C2000000/" target="blank" rel="noopener">
-                兵庫県、6日の新規感染276人　入院患者数が今年最多に</a>
+                        兵庫県、6日の新規感染276人　入院患者数が今年最多に</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGM060QH0W1A400C2000000/" target="blank" rel="noopener">
-                北朝鮮、東京五輪に参加せず　新型コロナを理由に</a>
+                        北朝鮮、東京五輪に参加せず　新型コロナを理由に</a>
         </li>
 
-    <hr>
+        <hr>
         2021年04月05日
-    
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC052ZC0V00C21A4000000/" target="blank" rel="noopener">
-                東京都、新たに249人感染　新型コロナ</a>
+                        東京都、新たに249人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUF054E60V00C21A4000000/" target="blank" rel="noopener">
-                大阪府、「医療非常事態宣言」へ　病床逼迫の可能性</a>
+                        大阪府、「医療非常事態宣言」へ　病床逼迫の可能性</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGM054VM0V00C21A4000000/" target="blank" rel="noopener">
-                インド、コロナ感染1日10万人超に　過去最悪</a>
+                        インド、コロナ感染1日10万人超に　過去最悪</a>
         </li>
 
-    <hr>
+        <hr>
         2021年04月04日
-    
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC0419J0U1A400C2000000/" target="blank" rel="noopener">
-                東京都、新たに355人感染　新型コロナ</a>
+                        東京都、新たに355人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQODB264CL0W1A320C2000000/" target="blank" rel="noopener">
-                コロナ治療薬、年内にも　米メルクなど治験終盤に</a>
+                        コロナ治療薬、年内にも　米メルクなど治験終盤に</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQODE02BJZ0S1A400C2000000/" target="blank" rel="noopener">
-                ワクチン注射の職種拡大　政府、歯科医など検討</a>
+                        ワクチン注射の職種拡大　政府、歯科医など検討</a>
         </li>
 
-    <hr>
+        <hr>
         2021年04月03日
-    
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC032220T00C21A4000000/" target="blank" rel="noopener">
-                大阪府で最多の666人感染　新型コロナ、東京都は446人</a>
+                        大阪府で最多の666人感染　新型コロナ、東京都は446人</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGG2432Z0U1A320C2000000/" target="blank" rel="noopener">
-                ワクチン接種しても感染爆発予測　カギは人出・変異</a>
+                        ワクチン接種しても感染爆発予測　カギは人出・変異</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOFE24CUA0U1A220C2000000/" target="blank" rel="noopener">
-                在宅中に本格フィットネス　リモート普及で違和感なく</a>
+                        在宅中に本格フィットネス　リモート普及で違和感なく</a>
         </li>
 
-    <hr>
+        <hr>
 
 
         2021年04月02日
@@ -449,7 +506,7 @@
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC0226F0S1A400C2000000/" target="blank" rel="noopener">
-                東京都、新たに440人感染　新型コロナ</a>
+                        東京都、新たに440人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>

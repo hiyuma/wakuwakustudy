@@ -4,6 +4,15 @@
 
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+  <li>2021年04月26日</li>
+  <div class="info-children"><span><a href="contact.php">お問い合わせフォーム作成(PHP)</a></th></span></div>
+
+  <li>2021年04月26日</li>
+  <div class="info-children"><span><a href="english-memo.php">英文法 Memo</a></th> 69～74追加</span></div>
+
+  <li>2021年04月25日</li>
+  <div class="info-children"><span><a href="english-memo.php">英文法 Memo</a></th> 63～68追加</span></div>
+
   <li>2021年04月24日</li>
   <div class="info-children"><span><a href="avocado.php">AVOCADO</a> 更新</span></div>
 
