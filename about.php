@@ -81,14 +81,17 @@
             <br><br>
 
           <div id="job-detail">
-            <span class="box-title">※お仕事のご依頼 受付中</span>
+            <span class="box-title">※お仕事のご依頼</span>
+
+            ※現在、新規受付をしていません
 
             <p>お仕事のご相談も含め、お手数ですが、
             <br>
             <span class="material-icons">email</span>”<a href="mailto:info@developershirai.com">info@developershirai.com</a>”
             <br>
             または、<i class="fab fa-twitter"></i> ”<a class="link" href="https://twitter.com/hiyuma" target="blank" rel="noopener">Twitter</a>” へ
-            <br><br>
+            <p>※また、お問い合わせフォームは<a href="contact.php">こちら</a>です。</p>
+            <br>
             「お仕事依頼」などと、記載をしていただいた上で、ご依頼内容（例：WEBサイト制作の場合は、希望のページ枚数・予算・納期・参考になるHPのURL）
             <br><br>
             と共に、ご連絡をお願い致します。相談ベースでもかまいませんので、お気軽にお問い合わせください。
@@ -97,6 +100,7 @@
             <br><br>
             ※受付時間:10:00～23:00 休日：不定期 / 年末年始：12月28日～1月3日
             </p>
+          
           </div>
           2020年6月、HTML/CSS/Javascriptを修了後は、
           <br>
@@ -104,6 +108,7 @@
           <br>
           そして、自粛生活、新型コロナウイルスと闘う日々。
           </p>
+
 
           <hr>
           <div>

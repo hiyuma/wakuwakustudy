@@ -104,7 +104,7 @@
                                           <div class="info-children"><span>LINE証券 / LINEスマート投資 / つみたてNISA</span>
                                           </div>
                                           <li>QUALIFICATION EXAM</li>
-                                          <div class="info-children"><span>TOEIC(4月25日) / 応用情報技術者(未定)</span></div>
+                                          <div class="info-children"><span>TOEIC / 応用情報技術者</span></div>
                                    </div>
                             </div>
                      </div>

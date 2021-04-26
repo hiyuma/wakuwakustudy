@@ -23,8 +23,7 @@
     <span><i class="fas fa-paw"></i><a href="https://developershirai.com/jspractice/omikuji.php"><small>今日のねこちゃんおみくじ</small></a></span>
     <br>
 
-  <p>※お問い合わせは<span class="material-icons">
-      email</span><a href="mailto:info@developershirai.com">こちら</a>からお願い致します。
+  <p>※お問い合わせフォームは<a href="contact.php">こちら</a>
   </p>
 
   <div class="dog">
