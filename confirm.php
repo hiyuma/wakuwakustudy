@@ -110,7 +110,12 @@ if (count($error) > 0) {
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
   <script src="https://kit.fontawesome.com/6256a7882a.js" crossorigin="anonymous"></script>
   <script src="js/jquery-3.5.1.min.js"></script>
-</head>
+  <style>
+    body{
+      text-align: center;
+      margin: 0 auto;
+    }
+  </style>
 </head>
 
 <body>
@@ -158,6 +163,8 @@ if (count($error) > 0) {
       <button type="submit" class="btn btn-success">送信する</button>
     </form>
   </div>
+  <?php include('parts/footer.php'); ?>
+       <?php include('parts/footerJs.php'); ?>
 </body>
 
 </html>

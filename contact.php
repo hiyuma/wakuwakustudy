@@ -54,6 +54,10 @@ $ticket = $_SESSION['ticket'];
     .error {
       color: rgb(255, 81, 81);
     }
+    body{
+      text-align: center;
+      margin: 0 auto;
+    }
 
   </style>
   
@@ -64,7 +68,8 @@ $ticket = $_SESSION['ticket'];
   <?php include('parts/menuButton.php'); ?>
   <div class="container">
     <div class="mx-auto">
-      <h2>お問い合わせ</h2>
+      <br><br>
+      <h2>お問い合わせフォーム</h2>
       <p>お手数ですが、以下をご入力の上、お問い合わせください。(※)は必須項目です。</p>
       <form id="main_contact" method="post" action="confirm.php">
         <div class="form-group">
@@ -219,6 +224,8 @@ $ticket = $_SESSION['ticket'];
      
     })
   </script>
+    <?php include('parts/footer.php'); ?>
+       <?php include('parts/footerJs.php'); ?>
 </body>
 
 </html>

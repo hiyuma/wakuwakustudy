@@ -96,6 +96,12 @@ if ($result) {
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
   <script src="https://kit.fontawesome.com/6256a7882a.js" crossorigin="anonymous"></script>
   <script src="js/jquery-3.5.1.min.js"></script>
+  <style>
+    body{
+      text-align: center;
+      margin: 0 auto;
+    }
+  </style>
 </head>
 
 <body>
@@ -114,6 +120,8 @@ if ($result) {
       <p>ご迷惑をおかけして誠に申し訳ございません。</p>
     <?php endif; ?>
   </div>
+  <?php include('parts/footer.php'); ?>
+       <?php include('parts/footerJs.php'); ?>
 </body>
 
 </html>

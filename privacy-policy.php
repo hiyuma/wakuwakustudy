@@ -6,9 +6,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name=”robots” content=”index”>
-  <meta name="description" content="長野県出身、元美容師/イベントオーガナイザーのしらひゅー(白井　飛友馬)が、WEB制作・デザイン・開発などのプログラミング言語(PHP/Java/JSP/Servlet/HTML/CSS/JavaScriptなど)や英語(TOEIC・日常英会話)、アボカド栽培などを学ぶために作成したページです。不定期に日記を掲載していきます。特に面白味はないです。" />
-  <meta name="keywords" content="日記,しらい　ひゆま,白井　飛友馬,プランスポンサーシップ">
-  <title>しらひゅーのわくわくスタディ DIARY</title>
+  <meta name="description" content="長野県出身、元美容師/イベントオーガナイザーのしらひゅー(白井　飛友馬)が、WEB制作・デザイン・開発などのプログラミング言語(PHP/Java/JSP/Servlet/HTML/CSS/JavaScriptなど)や英語(TOEIC・日常英会話)、アボカド栽培などを学ぶために作成しました。ここは、プライバシーポリシーの確認ページです。" />
+  <meta name="keywords" content="プライバシーポリシー,個人情報,しらい　ひゆま,白井　飛友馬">
+  <title>しらひゅーのわくわくスタディ プライバシーポリシー</title>
   <link rel="shortcut icon" href="favicon.ico" />
 
   <link rel="stylesheet" href="mystyle.css">
@@ -73,7 +73,6 @@
 
   <?php include('parts/footer.php'); ?>
   <?php include('parts/footerJs.php'); ?>
-
 </body>
 
 </html>
