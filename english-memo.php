@@ -1871,7 +1871,7 @@
                 </td>
                 </tr>
                 
-                <!--
+                
                 <tr>
                   <td id="number">63</td>
                 </tr>  
@@ -2046,6 +2046,7 @@
                 <tr class="answer">
                 <td>be supposed to ～「～する予定」という表現です。直訳「～すると思われている」→「～する予定・～しなくてはならない」となりました。ちなみに、後半のmake itは「うまくいく・間に合う・都合がつく」という意味の重要熟語です。</td>
                 </tr>
+                
                 
                 <tr>
                   <td id="number">69</td>
@@ -2223,6 +2224,7 @@
                 <br>be eager to ~（～することを熱望している、～することに興味がある）は頻出のto不定詞慣用表現なので、この機会に覚えてしまいましょう。ちなみに、文法的には名詞の(D) eagerness（熱心さ）も空所に入りますが、勤勉な人材が「熱心さ」というものであることになってしまい、意味が通りませんね。</td>
                 </tr>
                 
+                <!--
                 <tr>
                   <td id="number">75</td>
                 </tr>  
@@ -3011,26 +3013,26 @@
             
                 <tr class="question">
                   <td>
-                    
+                    Ms. Thompson has not announced the names of the people (　　) she will invite to the awards ceremony.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：what</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：whom</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：whose</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：which</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>空所後ろのshe will invite to the awards ceremony（彼女が授賞式に招待する）は、inviteの目的語（誰を？）がない不完全な文になっています。つまり、空所には目的語の働きをする関係代名詞が必要です。空所に目的格の関係代名詞whomを入れれば、the people whom she will invite（彼女が招待する人々）という形になるため、(B) whomが正解です。whomが先行詞peopleを説明している形ですね。(A) whatには先行詞を説明する用法がないため不正解です。空所には目的格の関係代名詞が必要なので、所有格の関係代名詞である(C) whoseは不正解です。(D) whichは、先行詞が「もの」の場合に使う関係代名詞ですね。</td>
                 </tr>
 
                 <tr>
@@ -3040,26 +3042,26 @@
             
                 <tr class="question">
                   <td>
-                    
+                    When talking to a prospective client, Ms. Atkinson provides (　　) much information as she can about her company’s services.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：more</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：very</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：far</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：as</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>as ～ as S can「できるだけ～」という表現です。“many 名詞”や“much 名詞”の場合、「名詞までまとめて挟む」ことにも注意しましょう（as much information as ～ と、much 名詞をまとめて挟んでいますね）。ちなみに、prospective client「見込み客」も重要語句です。</td>
                 </tr>
 
                 <tr>
@@ -3069,26 +3071,26 @@
             
                 <tr class="question">
                   <td>
-                    
+                    Tuesday will not be (　　) rainy as Monday in Grayton County, as only occasional light showers are forecasted.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：very</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：too</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：as</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：that</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>原級比較の否定“not as ～ as …”「…ほど～でない」の形です。ちなみに、as ～ asは「等号（＝）」ではなく、「不等号（≧）」を表します。そのため、否定形は「<」を表して「…ほど～でない」となるわけです。「同じではない」と訳さないように注意してください。</td>
                 </tr>
 
                 <tr>
@@ -3098,26 +3100,20 @@
             
                 <tr class="question">
                   <td>
-                    
+                    This year’s profits were twice (　　) high as last year’s.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：as</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
+                  <td>B：so</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>空所の直前にtwice（2倍に）があり、後にはhigh asがあります。空所にasを入れてtwice as high as ～（～の2倍高い）というかたまりを作れば、今年の利益と昨年の利益を比べると、今年の方が昨年よりも2倍高いという文意が成り立ちます。3倍ならthree times、10倍ならten timesというようにas ~ as…の前に倍数を表す言葉を置いて「…の何倍～だ」という意味のかたまりを作ることができます。</td>
                 </tr>
 
                 <tr>
@@ -3127,30 +3123,147 @@
             
                 <tr class="question">
                   <td>
-                    
+                    Kahuna Burgers has as (　　) as ten stores in the San Fernando Valley.
                   </td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>A：much</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>B：more</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>C：many</td>
                 </tr>
                 <tr class="selection">
-                  <td></td>
+                  <td>D：most</td>
                 </tr>
                 <tr class="answer">
                 <td>Answer</td>
                 </tr>
                 <tr class="answer">
-                <td></td>
+                <td>空所の前後にasがあるので、空所に原級を入れてas ~ asというかたまりを作ります。選択肢の中で原級はmuchとmanyですが、storesという可算名詞の前に置いて使うことができるのはmanyです。as many as + 複数の可算名詞でかたまりを作ります。as many as ten storesは「10店もの店舗」という意味になり、数の多さを強調しています。</td>
                 </tr>
 
                 <tr>
                   <td id="number">107</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    The construction of the factory was not (　　) as fast as expected.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：far</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：hardly</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：almost</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：nearly</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>not nearly as ~ as …で「…より全く～でない」という意味のかたまりを作るので、正解はnearlyです。not nearly as fast as expectedで「予期したのに比べ全く速くない」という意味になります。選択肢には似たような意味の語が並んでいるため、意味から考えても正解を選びにくいでしょう。このような表現は、このかたまりで覚えるようにしましょう。</td>
+                </tr>
+
+                <tr>
+                  <td id="number">108</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    The FCX 302 photocopier is (　　) to the old model in that printing speed is faster and the printed color is much brighter.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：superior</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：inferior</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：better</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：worse</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>空所直後toと文脈から、be superior to ～「～より優れた」というラテン比較の形にします。be inferior to ～「～より劣った」だと、後半と合いませんね。in that ～「～という点で」は従属接続詞で、文全体は“SV, in that sv.”の形になっています。</td>
+                </tr>
+                
+                
+                <tr>
+                  <td id="number">108</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                   (　　) all the candidates, Mr. Barrow seems to be the most appropriate for the managerial post, considering his experience and popularity.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：Along</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：Aside</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：Below</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：Of</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>カンマ以降の最上級（the most）に注目です。今回は最上級と一緒に使われるof「～の中で」が、文頭に出てきた形になっています。Of all the candidates「すべての候補者の中で」となります。</td>
+                </tr>
+
+                <tr>
+                  <td id="number">109</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    Izumo Motors Corp. fully upgraded their hybrid car last year, but a lot of fans still (　　) the previous model to the new one.
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td>A：superior</td>
+                </tr>
+                <tr class="selection">
+                  <td>B：senior</td>
+                </tr>
+                <tr class="selection">
+                  <td>C：prefer</td>
+                </tr>
+                <tr class="selection">
+                  <td>D：prior</td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td>空所後のtoに注目して、prefer A to B「BよりAが好き」の形を選びます。これはラテン比較級と言われるもので、thanの代わりにtoを使うのが特徴です。ちなみに、他の選択肢もすべてラテン比較の重要表現なので、チェックしておきましょう。</td>
+                </tr>
+
+                <tr>
+                  <td id="number">110</td>
                 </tr>  
 
             
@@ -3177,6 +3290,301 @@
                 <tr class="answer">
                 <td></td>
                 </tr>
+
+                <tr>
+                  <td id="number">111</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+
+                <tr>
+                  <td id="number">112</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+
+                <tr>
+                  <td id="number">113</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+
+                <tr>
+                  <td id="number">114</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+
+                <tr>
+                  <td id="number">115</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+
+                <tr>
+                  <td id="number">116</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+
+                <tr>
+                  <td id="number">　</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+
+                <tr>
+                  <td id="number">　</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+
+                <tr>
+                  <td id="number">　</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+
+                <tr>
+                  <td id="number">　</td>
+                </tr>  
+
+            
+                <tr class="question">
+                  <td>
+                    
+                  </td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="selection">
+                  <td></td>
+                </tr>
+                <tr class="answer">
+                <td>Answer</td>
+                </tr>
+                <tr class="answer">
+                <td></td>
+                </tr>
+
+
+
+
+
                 -->
 
 
