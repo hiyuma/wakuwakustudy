@@ -12,6 +12,7 @@ $email_check = isset($_SESSION['email_check']) ? $_SESSION['email_check'] : NULL
 $tel = isset($_SESSION['tel']) ? $_SESSION['tel'] : NULL;
 $subject = isset($_SESSION['subject']) ? $_SESSION['subject'] : NULL;
 $body = isset($_SESSION['body']) ? $_SESSION['body'] : NULL;
+$policy = isset($_SESSION['policy']) ? $_SESSION['policy'] : NULL;
 $error = isset($_SESSION['error']) ? $_SESSION['error'] : NULL;
 //個々のエラーを初期化
 $error_name = isset($error['name']) ? $error['name'] : NULL;
@@ -21,6 +22,7 @@ $error_tel = isset($error['tel']) ? $error['tel'] : NULL;
 $error_tel_format = isset($error['tel_format']) ? $error['tel_format'] : NULL;
 $error_subject = isset($error['subject']) ? $error['subject'] : NULL;
 $error_body = isset($error['body']) ? $error['body'] : NULL;
+$error_policy = isset($error['policy']) ? $error['policy'] : NULL;
 //CSRF対策の固定トークンを生成
 if (!isset($_SESSION['ticket'])) {
   //セッション変数にトークンを代入
@@ -48,57 +50,78 @@ $ticket = $_SESSION['ticket'];
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
   <script src="https://kit.fontawesome.com/6256a7882a.js" crossorigin="anonymous"></script>
   <script src="js/jquery-3.5.1.min.js"></script>
+  <style>
+    .error {
+      color: rgb(255, 81, 81);
+    }
+
+  </style>
+  
 </head>
 
 <body>
+  <?php include('parts/header.php'); ?>
+  <?php include('parts/menuButton.php'); ?>
   <div class="container">
     <div class="mx-auto">
-    <h2>お問い合わせ</h2>
-    <p>お手数ですが、以下をご入力の上、お問い合わせください。</p>
-    <form id="main_contact" method="post" action="confirm.php">
-      <div class="form-group">
-        <label for="name">氏名 (※)
-          <span class="error"><?php echo h($error_name); ?></span>
-        </label>
-        <input type="text" class="form-control validate max50 required" id="name" name="name" placeholder="氏名" value="<?php echo h($name); ?>">
-      </div>
-      <div class="form-group">
-        <label for="email">Email(※)
-          <span class="error"><?php echo h($error_email); ?></span>
-        </label>
-        <input type="text" class="form-control validate mail required" id="email" name="email" placeholder="Email アドレス" value="<?php echo h($email); ?>">
-      </div>
-      <div class="form-group">
-        <label for="email_check">Email(確認用)
-          <span class="error"><?php echo h($error_email_check); ?></span>
-        </label>
-        <input type="text" class="form-control validate email_check required" id="email_check" name="email_check" placeholder="Email アドレス（確認のためもう一度ご入力ください。）" value="<?php echo h($email_check); ?>">
-      </div>
-      <div class="form-group">
-        <label for="tel">Phone Number
-          <span class="error"><?php echo h($error_tel); ?></span>
-          <span class="error"><?php echo h($error_tel_format); ?></span>
-        </label>
-        <input type="text" class="validate max30 tel form-control" id="tel" name="tel" value="<?php echo h($tel); ?>" placeholder="お電話番号（半角英数字でご入力ください）">
-      </div>
-      <div class="form-group">
-        <label for="subject">件名(※)
-          <span class="error"><?php echo h($error_subject); ?></span>
-        </label>
-        <input type="text" class="form-control validate max100 required" id="subject" name="subject" placeholder="件名" value="<?php echo h($subject); ?>">
-      </div>
-      <div class="form-group">
-        <label for="body">お問い合わせ内容(※)
-          <span class="error"><?php echo h($error_body); ?></span>
-        </label>
-        <span id="count"> </span>/3000
-        <textarea class="form-control validate max1000 required" id="body" name="body" placeholder="お問い合わせ内容（3000文字まで）をお書きください" rows="10"><?php echo h($body); ?></textarea>
-      </div>
-      <button type="submit" class="btn btn-primary">確認画面へ</button>
-      <!--確認ページへトークンをPOSTする、隠しフィールド「ticket」-->
-      <input type="hidden" name="ticket" value="<?php echo h($ticket); ?>">
-    </form>
-  </div>
+      <h2>お問い合わせ</h2>
+      <p>お手数ですが、以下をご入力の上、お問い合わせください。(※)は必須項目です。</p>
+      <form id="main_contact" method="post" action="confirm.php">
+        <div class="form-group">
+          <label for="name">氏名 (※)
+            <span class="error"><?php echo h($error_name); ?></span>
+          </label>
+          <input type="text" class="form-control validate max50 required" id="name" name="name" placeholder="氏名" value="<?php echo h($name); ?>">
+        </div>
+        <div class="form-group">
+          <label for="email">Email(※)
+            <span class="error"><?php echo h($error_email); ?></span>
+          </label>
+          <input type="text" class="form-control validate mail required" id="email" name="email" placeholder="Email アドレス" value="<?php echo h($email); ?>">
+        </div>
+        <div class="form-group">
+          <label for="email_check">Email(※確認用)
+            <span class="error"><?php echo h($error_email_check); ?></span>
+          </label>
+          <input type="text" class="form-control validate email_check required" id="email_check" name="email_check" placeholder="Email アドレス（確認のためもう一度ご入力ください。）" value="<?php echo h($email_check); ?>">
+        </div>
+        <div class="form-group">
+          <label for="tel">電話番号
+            <span class="error"><?php echo h($error_tel); ?></span>
+            <span class="error"><?php echo h($error_tel_format); ?></span>
+          </label>
+          <input type="text" class="validate max30 tel form-control" id="tel" name="tel" value="<?php echo h($tel); ?>" placeholder="電話番号（半角でご入力ください）">
+        </div>
+        <div class="form-group">
+          <label for="subject">件名(※)
+            <span class="error"><?php echo h($error_subject); ?></span>
+          </label>
+          <input type="text" class="form-control validate max100 required" id="subject" name="subject" placeholder="件名" value="<?php echo h($subject); ?>">
+        </div>
+        <div class="form-group">
+          <label for="body">お問い合わせ内容(※)
+            <span class="error"><?php echo h($error_body); ?></span>
+          </label>
+          <span id="count"> </span>/3000
+          <textarea class="form-control validate max3000 required" id="body" name="body" placeholder="お問い合わせ内容（3000文字まで）をお書きください" rows="10"><?php echo h($body); ?></textarea>
+        </div>
+        <div class="form-group">
+
+          個人情報の取り扱いについて(※)
+          <br>
+          <a href="privacy-policy.php">プライバシーポリシーを確認する</a>
+
+          <span class="error"><?php echo h($error_policy); ?></span>
+          <br>
+          <input type="checkbox" name="policy" id="policy" value="policy" required>
+          <label for="policy">同意する</label>
+
+        </div>
+        <button type="submit" class="btn btn-primary">確認画面へ</button>
+        <!--確認ページへトークンをPOSTする、隠しフィールド「ticket」-->
+        <input type="hidden" name="ticket" value="<?php echo h($ticket); ?>">
+      </form>
+    </div>
   </div>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script>
@@ -192,6 +215,8 @@ $ticket = $_SESSION['ticket'];
           });
         }
       });
+
+     
     })
   </script>
 </body>

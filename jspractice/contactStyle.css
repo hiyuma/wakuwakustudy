@@ -1,8 +1,11 @@
 body {
   text-align: center;
-  margin: 0 auto !important;
+  margin: 0 auto!important;
   color: #424242;
   font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "BIZ UDPGothic", Meiryo, sans-serif;
+}
+[type="submit"]{
+ color: #424242!important;
 }
 
 #name, #email, #subject, #email_check, #tel {
@@ -12,7 +15,7 @@ body {
 
 #body {
   max-width: 640px;
-  margin: 0 auto !important;
+  margin: 0 auto!important;
   text-align: center;
 }
 
@@ -44,6 +47,7 @@ p.error, span.error {
 
 ::placeholder {
   font-size: 13px;
+  font-weight: lighter;
 }
 
 textarea.form-control {

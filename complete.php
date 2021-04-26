@@ -99,12 +99,14 @@ if ($result) {
 </head>
 
 <body>
+  <?php include('parts/header.php'); ?>
+  <?php include('parts/menuButton.php'); ?>
   <div class="container">
     <h2>お問い合わせフォーム</h2>
     <?php if ($result) : ?>
       <h3>送信完了</h3>
-      <p>お問い合わせいただきありがとうございます。</p>
-      <p>返信まで3.4営業日かかる場合がありますので、予めご了承ください。</p>
+      <p>お問い合わせいただき、ありがとうございます。</p>
+      <p>返信まで3.4日かかる場合がありますので、予めご了承ください。</p>
     <?php else : ?>
       <p>恐れ入りますが、送信に失敗しました。</p>
       <p>しばらくして、もう一度お試しになるか、<span class="material-icons">

@@ -114,6 +114,9 @@ if (count($error) > 0) {
 </head>
 
 <body>
+  <?php include('parts/header.php'); ?>
+  <?php include('parts/menuButton.php'); ?>
+
   <div class="container">
     <h2>確認画面</h2>
     <p>以下の内容でよろしければ「送信する」をクリックしてください。<br>
