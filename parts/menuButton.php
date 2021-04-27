@@ -23,7 +23,7 @@
               <i class="fab fa-twitter menuButton" aria-hidden="true"></i></a></button>
 
 <button id="contact" class="otherButton7 hidden openMenu"><a class="link"
-              href="mailto:info@developershirai.com">
+              href="https://developershirai.com/contact.php">
               <i class="fas fa-envelope menuButton" aria-hidden="true"></i></a></button>
 
 </div>
