@@ -79,10 +79,6 @@
           </div>
         </div>
 
-
-
-
-
         <div id="beginner1"></div>
         <hr>
         <br>

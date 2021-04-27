@@ -49,10 +49,6 @@
 					<br><br>
 					ここでは音声がないので、<i class="fas fa-mobile-alt"></i><a href="https://eigosapuri.jp/toeic/?vos=evalstsstopx0000001&fed=ppstp1906003">スタディサプリENGLISH(TOEIC対策)</a>とともに、<i class="fas fa-mobile-alt"></i><a href="https://px.a8.net/svt/ejp?a8mat=3BOCPH+BLYC7U+3AQG+ZQ80I" rel="nofollow"> スタディサプリENGLISH（新日常英会話コース）</a><img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=3BOCPH+BLYC7U+3AQG+ZQ80I" alt="">をぜひ使ってみてください。毎日続けやすく、見やすいのでとてもおススメです。
 					<br><br>
-					現在は、新型コロナウイルス感染拡大の影響を受け、TOIEC試験受ける予定は延期となっています。TOEIC試験が人数制限の抽選式になっており、残念ながら3回連続で外れています。一旦、通常通りに試験受けられるまで、英会話へシフトします。
-					<br><br>
-					<i class="fas fa-arrow-circle-right"></i>やっと、TOEIC試験の抽選に当選しました。4月に受験する予定です。
-					<br><br>
 					TOEIC対策は、<i class="fas fa-mobile-alt"></i><a href="https://eigosapuri.jp/toeic/?vos=evalstsstopx0000001&fed=ppstp1906003">スタディサプリENGLISH</a>を利用しています。
 					<br><br>
 					リスニング、ディクテーション、発音練習は、映画(字幕)や<i class="fas fa-mobile-alt"></i><a href="https://px.a8.net/svt/ejp?a8mat=3BOCPH+LYC7U+3AQG+ZQ80I" rel="nofollow"> スタディサプリENGLISH（新日常英会話コース）</a>、NHK <a href="https://www.nhk.jp/p/ts/NW5ZG11VRW/">おもてなし即レス英会話</a>、<a href="https://www.alc.co.jp/">アルク</a>のおもてなし英会話、キクタンなどで勉強中です。
