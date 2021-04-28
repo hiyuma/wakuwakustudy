@@ -21,23 +21,6 @@
        <script src="https://kit.fontawesome.com/6256a7882a.js" crossorigin="anonymous"></script>
        <script src="js/jquery-3.5.1.min.js"></script>
        <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
-       <script type="text/javascript">
-              $(document).ready(function() {
-                     $('.slider').bxSlider({
-                            randomStart: true,
-                            auto: true,
-                            pause: 6000,
-                     });
-              });
-              $(function() {
-                     $('a').each(function() {
-                            if ($(this).prop('href') == window.location.href) {
-                                   $(this).addClass('active');
-                                   $(this).parents('li').addClass('active');
-                            }
-                     });
-              });
-       </script>
        <?php include('parts/mobileAmazon.php') ?>
 </head>
 
@@ -56,12 +39,12 @@
 
               <div class="slide">
                      <div class="slider">
+                            <img src="gallery/top/slideNew1.png" alt="">
+                            <img src="gallery/top/slideNew2.png" alt="">
+                            <img src="gallery/top/slideNew3.png" alt="">
                             <img src="gallery/top/slider1.jpeg" alt="">
-                            <img src="gallery/top/slider2.png" alt="">
-                            <img src="gallery/top/slider3.png" alt="">
+                            <img src="gallery/top/slideNew4.png" alt="">
                             <img src="gallery/top/slider4.jpg" alt="">
-                            <img src="gallery/top/slider5.png" alt="">
-                            <img src="gallery/top/slider8.jpg" alt="">
                      </div>
 
                      <!-- <p class="slidetext">PHOTO:2013年 東京⇔青森 自転車旅<br>岩手県ゆっこ盛岡</p> -->
@@ -410,6 +393,23 @@
 
        <?php include('parts/footer.php'); ?>
        <?php include('parts/footerJs.php'); ?>
+       <script type="text/javascript">
+              $(document).ready(function() {
+                     $('.slider').bxSlider({
+                            randomStart: true,
+                            auto: true,
+                            pause: 6000,
+                     });
+              });
+              $(function() {
+                     $('a').each(function() {
+                            if ($(this).prop('href') == window.location.href) {
+                                   $(this).addClass('active');
+                                   $(this).parents('li').addClass('active');
+                            }
+                     });
+              });
+       </script>
 
 </body>
 
