@@ -46,6 +46,26 @@
         </li>
 
     <hr> -->
+        2021年04月27日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC273PB0X20C21A4000000/" target="blank" rel="noopener">
+                東京都、新たに828人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="ワクチン接種に自衛隊　都内で5月24日に会場" target="blank" rel="noopener">
+                <a href="" target="blank" rel="noopener">
+                ワクチン接種に自衛隊　都内で5月24日に会場開設</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF2788Y0X20C21A4000000/" target="blank" rel="noopener">
+                大阪府の新規感染1231人　過去2番目の多さ</a>
+        </li>
+
+    <hr>
         2021年04月26日
     
         <li>
