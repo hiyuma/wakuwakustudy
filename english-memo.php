@@ -2398,7 +2398,7 @@
                 <tr class="answer">
                 <td>be busy –ing「～するのに忙しい」の形です。これもspend同様、本来はbe busy {in} –ingの形でしたが、分詞構文との混同からinが省略されるようになりました。</td>
                 </tr>
-                <!--
+                
                 <tr>
                   <td id="number">81</td>
                 </tr>  
@@ -2569,7 +2569,7 @@
                 <tr class="answer">
                 <td>mindという動詞の後ろにはto不定詞ではなく動名詞を使うと覚えましょう。mind -ingで「～することを嫌だと思う」という意味です。会議の出席者が「待つ」のであって「待たれる」わけではないので、受動態動名詞being waitedではなく能動態のwaitingが正解です。mindは否定形で使われることが多く、did not mind waiting（待つことを嫌だと思わなかった）すなわち「気にせず待った」と訳すことができます。疑問文でDo you mind ~? 、Would you mind ~? は丁寧な依頼の表現としてよく使われます。「～することをお願いできますか」と言いたい場合は、Do you mind opening the window?（窓を開けていただけますか）のように、必ず-ing形（動名詞）を使います。</td>
                 </tr>
-                
+                <!--
                 <tr>
                   <td id="number">87</td>
                 </tr>  
