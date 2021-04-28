@@ -56,6 +56,7 @@
           <!-- list -->
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li><a href="#20210428"> 2021年04月28日　「英吉利」</a></li>
               <li><a href="#20210415"> 2021年04月15日　「儚さ」</a></li>
               <li><a href="#20210320"> 2021年03月20日　「抽選」</a></li>
               <li><a href="#20210313"> 2021年03月13日　「チャオズ」</a></li>
@@ -116,8 +117,68 @@
             <br><br>
             </p>
             <br><br>
+             </div>
           </div>
         </div> -->
+
+        <div id="20210428"></div>
+        <div class="schedule_wrapper">
+        <br>
+        <p id="avocado"><strong>　2021年04月28日 「英吉利」</strong></p>
+        <div class="accbox">
+          <input type="checkbox" id="英吉利" class="cssacc" />
+
+          <label for="英吉利"><span><i class="fas fa-book"></i>READ</span></label>
+          <div class="accshow">
+            <p><img src="gallery/diary/diary20210428/diary20210428 (3).jpg" alt=""></p>
+            
+            <em3>写真：TOEIC試験スケジュール</em3>
+            <p>4月25日、ついにTOEIC試験の受験が叶いました。
+            <br><br>
+            TOEIC試験(TOEIC L&R)は、リスニング100問、リーディング100問あります。
+            <br><br>
+            リスニングは、PART1～PART4まで、リーディングは、PART5～PART7と分かれています。
+            <br><br>
+            問題用紙は、全て英語で書かれていますので、試験を受ける前にある程度の試験内容を把握しておいた方が良いでしょう。
+            <br><br>
+            全てマークシート方式の選択問題です。
+            <br><br>
+            テストの時間は、合計約2時間です。
+            <br><br>
+            リスニングが約45分、リーディングが75分です。
+            <br><br>
+            リスニングは、その時の問題内容で時間が多少変わることがあります。
+            <br><br>
+            途中休憩はないため、事前に集中力高める努力をしておいた方が良いです。
+            <br><br>
+            特にPART6,7辺りまで進むと英語の長文読解が多数あるので、集中力を切らすと、時間が全く足りなくなります。
+            <p><img src="gallery/diary/diary20210428/diary20210428 (4).jpg" alt=""></p>
+            <br><br>
+            僕は、リスニングで、試験会場のスピーカーでは、女性の音源だけ聞き取りずらいことがありました。
+            <br><br>
+            そのため、集中力が途切れてしまうこともありました。
+            <br><br>
+            どんな試験でも、基本的には周りに人がいて、集中力が途切れるきっかけがあるので、そんな時に集中力を保つ余裕も必要です。
+            <br><br>
+            特に、僕は、国語（活字）が苦手なので、英語読解でも苦労してます。
+            <br><br>
+            今回のテストは、依然よりも出来たように思いますが、PART7では時間が足りなくなりました。
+            <br><br>
+            結果は、1か月後ほどに郵送で届きます。
+            <br><br>
+            ですが、恐らく、800点までの道のりは、まだまだ長そうです。
+            <br><br>
+            それでも、「継続は力なり」を信じて続けていこうと思います。
+            <br><br>
+            ちなみに、今回のTOEICの試験会場は、前回と同じ高校でした。
+            <p><img src="gallery/diary/diary20210428/diary20210428 (1).jpg" alt=""></p>
+            <p><img src="gallery/diary/diary20210428/diary20210428 (2).jpg" alt=""></p>
+            個人的に、この高校の建築、デザイン好きです。
+            </p>
+            <br><br>アアアア
+          </div>
+        </div>
+        </div>
 
         <div id="20210415"></div>
         <div class="schedule_wrapper">
