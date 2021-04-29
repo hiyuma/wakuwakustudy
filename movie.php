@@ -75,6 +75,7 @@
           <h3>Appreciated list</h3>
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li> <a href="#オンネリとアンネリのおうち">オンネリとアンネリのおうち　☆4.0</a></li>
               <li> <a href="#西の魔女が死んだ">西の魔女が死んだ　☆4.2</a></li>
               <li> <a href="#Fukushima 50">Fukushima 50　☆4.4</a></li>
               <li> <a href="#ヘアスプレー">ヘアスプレー　☆4.4</a></li>
@@ -181,6 +182,88 @@
         </div>
 
         <hr>
+
+        <!-- ※Don't forget to change the label 23 -->
+        <div id="オンネリとアンネリのおうち"></div>
+        <h3 id="movies-title"><strong>オンネリとアンネリのおうち</strong></h3>
+        <div id="movies">
+
+          <div id="movie-photo">
+            <img alt="オンネリとアンネリのおうち" src="https://d2ueuvlup6lbue.cloudfront.net/attachments/132efc320c40bf4194500ac063c89f00097f6448/store/fitpad/260/364/19941f729052006e779bbd78973c9f1d52355245c94ad86aee3913af9ebe/_.jpg" width="300" height="420">
+          </div>
+
+          <div id="movie-info">
+            <p id="th">監督</p>
+            <p id="td">サーラ・カンテル</p>
+            <p id="th">出演</p>
+            <p id="td">アーヴァ・メリカント、リリャ・レフト、エイヤ・アフヴォ、ヤッコ・サアリルアマ、ヨハンナ・アフ・シュルテン、エリナ・クニヒティラ、キティ・コッコネン、サミュエル・ヴァウラモ</p>
+            <p id="th">ジャンル</p>
+            <p id="td">ドラマ</p>
+            <p id="th">上映日</p>
+            <p id="td">2018年06月09日</p>
+            <p id="th">製作国</p>
+            <p id="td">フィンランド</p>
+            <p id="th">上映時間</p>
+            <p id="td">80分</p>
+          </div>
+
+
+          <div id="movie-impressions">
+            <hr>
+            <p id="impression">オンネリとアンネリのおうち</a>の感想 <i class="far fa-comment-dots"></i></p>
+            <div id="line"></div>
+
+            <p id="th">鑑賞日</p>
+            <p id="td">2021年04月27日</p>
+            <p id="th">鑑賞方法</p>
+            <p id="td">Amazon Prime Video</a></p>
+            <p id="th">評価</p>
+            <p id="td">4.0(/5.0)</p>
+
+            <div id="line"></div>
+            <div class="accbox">
+              <input type="checkbox" id="label23" class="cssacc" />
+              <label for="label23">Summary</label>
+
+              <div class="accshow">
+                オンネリとアンネリはとっても仲良し。ある日ふたりは、バラ通りで「正直者にあげます」と書かれた手紙とお金の入った封筒を拾い、そのお金で、バラの木夫人というおばあさんから夢のように素敵な水色のおうちを買うことに。
+                <br>
+                オンネリは9人きょうだいのまん中で、アンネリは離婚したおとうさんとおかあさんの間を行ったり来たり。ふたりの両親は忙しすぎて、自分たちがいなくても気づかない。
+                <br>
+                「わたしたち、ふたりの家に住んでいい？」気難しそうなお隣さんや、魔法が使える陽気なおばさん姉妹、ちょっぴり変わったご近所さんと交流しながら、ふたりだけの楽しい生活が始まる。
+                <br>しかし、ある日お隣さんに泥棒が―！
+              </div>
+            </div>
+
+            <div id="line"></div>
+            北欧の童話には、「長くつ下のピッピ」や「ちいさいロッタちゃん」など、素敵な作品がたくさんあります。
+            <br><br>
+            その中でも、本作品は、「ムーミン」で有名なフィンランドの童話を実写化した作品です。
+            <br><br>
+            この作品を観ていると、メルヘンな世界に入り込み、時間がゆっくり進んでいるかのように感じさせられます。
+
+            <div class="accbox">
+              <input type="checkbox" id="label23a" class="cssacc" />
+
+              <label for="label23a" class="closeButton">READ MORE</label>
+
+              <div class="accshow">
+                ペール系、ビビッド系など、色使いがとても素敵で、観ているだけでも楽しめる非現実的な世界観です。
+                <br><br>
+                とっても可愛く、癒される小さい女の子2人に、一体何が起きるんだんろうと、少しヒヤヒヤもワクワクもする場面があります。
+                <br><br>
+                素直さが報われ、良いことをすれば、良いことが起きる。
+                <br><br>
+                悪いことをすれば、悪いことが起きる。
+                <br><br>
+                そう教えられるような作品です。
+              </div>
+            </div>
+            <i class="fas fa-video"></i> <a href="https://www.amazon.co.jp/%E3%82%AA%E3%83%B3%E3%83%8D%E3%83%AA%E3%81%A8%E3%82%A2%E3%83%B3%E3%83%8D%E3%83%AA%E3%81%AE%E3%81%8A%E3%81%86%E3%81%A1-%E5%AD%97%E5%B9%95%E7%89%88-%E3%82%A2%E3%83%BC%E3%83%B4%E3%82%A1%E3%83%BB%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%88/dp/B08SWLWZ1J/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%AA%E3%83%B3%E3%83%8D%E3%83%AA%E3%81%A8%E3%82%A2%E3%83%B3%E3%83%8D%E3%83%AA%E3%81%AE%E3%81%8A%E3%81%86%E3%81%A1&qid=1619585234&sr=8-1">オンネリとアンネリのおうち</a>
+          </div>
+        </div>
+        <hr>
+
 
         <!-- ※Don't forget to change the label 22 -->
         <div id="西の魔女が死んだ"></div>
@@ -2065,9 +2148,8 @@
 
     <div id="aside">
       <?php include('parts/prof.php'); ?>
-    </div>
-
       <?php include('parts/widget/side_widget.php'); ?>
+    </div>
   </main>
 
   <?php include('parts/footer.php'); ?>
