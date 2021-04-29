@@ -46,6 +46,25 @@
         </li>
 
     <hr> -->
+        2021年04月28日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC282AI0Y1A420C2000000/" target="blank" rel="noopener">
+                東京都、新たに925人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC23DYH0T20C21A4000000/" target="blank" rel="noopener">
+                巣ごもりは限界寸前　緊急事態宣言でも目立つ人出</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2863A0Y1A420C2000000/" target="blank" rel="noopener">
+                「2600人入院」で東京の医療逼迫、専門家が分析結果</a>
+        </li>
+
+    <hr>
         2021年04月27日
     
         <li>

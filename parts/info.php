@@ -5,6 +5,11 @@
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
   <li>2021年04月28日</li>
+  <div class="info-children">
+    <span><a href="movie.php">MOVIE</a>（オンネリとアンネリのおうち）追加</span>
+  </div>
+
+  <li>2021年04月28日</li>
   <div class="info-children"><span>スライド画像変更</span></div>
 
   <li>2021年04月28日</li>
