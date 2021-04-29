@@ -2569,7 +2569,7 @@
                 <tr class="answer">
                 <td>mindという動詞の後ろにはto不定詞ではなく動名詞を使うと覚えましょう。mind -ingで「～することを嫌だと思う」という意味です。会議の出席者が「待つ」のであって「待たれる」わけではないので、受動態動名詞being waitedではなく能動態のwaitingが正解です。mindは否定形で使われることが多く、did not mind waiting（待つことを嫌だと思わなかった）すなわち「気にせず待った」と訳すことができます。疑問文でDo you mind ~? 、Would you mind ~? は丁寧な依頼の表現としてよく使われます。「～することをお願いできますか」と言いたい場合は、Do you mind opening the window?（窓を開けていただけますか）のように、必ず-ing形（動名詞）を使います。</td>
                 </tr>
-                <!--
+                
                 <tr>
                   <td id="number">87</td>
                 </tr>  
@@ -2658,7 +2658,7 @@
                 </tr>
                 
                 <tr>
-                  <td id="number"90</td>
+                  <td id="number">90</td>
                 </tr>  
 
             
@@ -2743,7 +2743,7 @@
                 <tr class="answer">
                 <td>The human resource managerが主語です。人は「感銘を与えられる」わけですから、受動関係のimpressedを選びます。ちなみに、impressive「印象的な・感銘を与えるような」はimpressingの代用表現です（impressingの代わりにimpressiveが使われるということです）。</td>
                 </tr>
-                
+                <!--
                 <tr>
                   <td id="number">93</td>
                 </tr>  
