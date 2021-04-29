@@ -24,7 +24,7 @@
     <li><i class="fas fa-gamepad"></i> <a href="puyo2/www/puyoforlaptop.php">ゲームありあり</a></li>
     <li><i class="fas fa-cat"></i> <a href="jspractice/nekochan.php">ねこちゃんSOS</a></li>
     <li><i class="fas fa-paw"></i> <a href="jspractice/omikuji.php">ねこちゃんおみくじ</a></li>
-    <li><i class="fab fa-amazon"></i> <a href="#recommend">しらひゅー推し</a></li>
+    <li><i class="far fa-hand-scissors"></i><a href="janken.php">ねこちゃんジャンケン</a></li>
     <!-- </div>
                                    </div> -->
   </ol>

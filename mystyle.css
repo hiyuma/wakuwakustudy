@@ -1616,6 +1616,40 @@ h3#movies-title {
 	transform: translateY(0);
 }
 
+#jankenButton{
+	margin: 15px auto;
+	display: inline-block;
+	border-radius: 10%;
+	font-size: 11pt;
+	font-weight: bold;
+	text-align: center;
+	cursor: pointer;
+	padding: 8px 11px;
+	background: linear-gradient(-45deg, rgba(221, 220, 220, 0.6), rgba(255, 236, 234, 0.9), rgba(218, 251, 237, 0.8));
+	color: #808080;
+	line-height: 1em;
+	transition: .3s;
+	box-shadow: 1px 1px 10px #666666;
+	border: none;
+}
+.result-word{
+	margin: 15px auto;
+	display: inline-block;
+	border-radius: 10%;
+	font-size: 11pt;
+	font-weight: bold;
+	text-align: center;
+	padding: 15px 20px;
+	background: linear-gradient(-45deg, rgba(221, 220, 220, 0.6), rgba(255, 236, 234, 0.9), rgba(218, 251, 237, 0.8));
+	color: #808080;
+	line-height: 1em;
+	transition: .3s;
+	box-shadow: 1px 1px 10px #666666;
+	border: none;
+	font-size: 13pt;
+	font-weight: bold;
+}
+
 /* accbox ------------------------------------------------------*/
 
 .accbox {

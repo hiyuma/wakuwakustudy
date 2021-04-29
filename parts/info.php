@@ -4,6 +4,11 @@
 
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+  <li>2021年04月29日</li>
+  <div class="info-children">
+  <span><i class="fas fa-paw"></i><a href="janken.php">ねこちゃんジャンケン(PHP)</a> 作成</span>
+  </div>
+
   <li>2021年04月28日</li>
   <div class="info-children">
     <span><a href="movie.php">MOVIE</a>（オンネリとアンネリのおうち）追加</span>
@@ -38,7 +43,7 @@
 
   <li>2021年04月23日</li>
   <div class="info-children"><span><a href="english-memo.php">英文法 Memo</a></th> 51～56追加</span></div>
-  
+
   <li>2021年04月22日</li>
   <div class="info-children"><span><a href="english-memo.php">英文法 Memo</a></th> 45～50追加</span></div>
 
@@ -68,7 +73,7 @@
 
   <li>2021年04月15日</li>
   <div class="info-children"><span><a href="english-memo.php">英文法 Memo</a></th> 作成</span></div>
-  
+
   <li>2021年04月15日</li>
   <div class="info-children"><span><a href="diary.php">DIARY（儚さ）</a> 追加</span></div>
 

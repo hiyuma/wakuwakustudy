@@ -54,6 +54,8 @@
           <p>・お問い合わせフォーム(PHP)は<a href="https://developershirai.com/contact.php" target="blank">こちら</a><i class="fas fa-envelope"></i></p>
           
           <p>・アンケート(PHP)は<a href="https://developershirai.com/questionnaire.php" target="blank">こちら</a><i class="far fa-edit"></i></p>
+          
+          <p>・ねこちゃんジャンケン(PHP)は<a href="https://developershirai.com/janken.php" target="blank">こちら</a><i class="far fa-hand-scissors"></i></p>
 
           <p>・未完成「ねこちゃんSOS」は<a href="https://developershirai.com/jspractice/nekochan.php" target="blank">こちら</a><i class="fas fa-paw"></i></p>
 

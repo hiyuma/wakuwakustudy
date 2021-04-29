@@ -41,7 +41,7 @@
 
   <p id="puyo2"><i class="fas fa-laptop-code"></i> <a href="https://developershirai.com/jspractice/work.php">WORK
       <i class="fas fa-angle-double-right"></i></a>
-    <br><small>実験的なフロントエンドコード。ねこちゃんおみくじ。ねこちゃんSOS。アンケート。</small>
+    <br><small>実験的なフロントエンドコード。ねこちゃんおみくじ。ねこちゃんSOS。ねこちゃんジャンケン。アンケート。</small>
   </p>
 
   <p id="puyo2"><i class="fas fa-gamepad"></i> <a href="https://developershirai.com/puyo2/www/puyoforlaptop.php">見たことあるゲーム「ありあり」 <i class="fas fa-angle-double-right"></i></a>
