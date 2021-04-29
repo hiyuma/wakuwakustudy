@@ -51,19 +51,19 @@
           </p>
 
           <br>
-          <p>・お問い合わせフォーム(PHP)は<a href="https://developershirai.com/contact.php" target="blank">こちら</a><i class="fas fa-envelope"></i></p>
+          <p>・<a href="https://developershirai.com/contact.php">お問い合わせフォーム(PHP)</a><i class="fas fa-envelope"></i></p>
           
-          <p>・アンケート(PHP)は<a href="https://developershirai.com/questionnaire.php" target="blank">こちら</a><i class="far fa-edit"></i></p>
+          <p>・<a href="https://developershirai.com/questionnaire.php">アンケート(PHP)</a><i class="far fa-edit"></i></p>
           
-          <p>・ねこちゃんジャンケン(PHP)は<a href="https://developershirai.com/janken.php" target="blank">こちら</a><i class="far fa-hand-scissors"></i></p>
+          <p>・<a href="https://developershirai.com/janken.php">「ねこちゃんジャンケン」(PHP)</a><i class="far fa-hand-scissors"></i></p>
 
-          <p>・未完成「ねこちゃんSOS」は<a href="https://developershirai.com/jspractice/nekochan.php" target="blank">こちら</a><i class="fas fa-paw"></i></p>
+          <p>・<a href="https://developershirai.com/jspractice/nekochan.php">未完成「ねこちゃんSOS」</a><i class="fas fa-paw"></i></p>
 
-          <p>・「ねこちゃんおみくじ」は<a href="https://developershirai.com/jspractice/omikuji.php" target="blank">こちら</a><i class="fas fa-paw"></i></p>
+          <p>・<a href="https://developershirai.com/jspractice/omikuji.php">「ねこちゃんおみくじ」</a><i class="fas fa-paw"></i></p>
 
-          <p>・おためしチャレンジページ（BootStrap / JavaScript）は<a href="https://developershirai.com/portfolio1/portfolio1.html">こちら</a><i class="fas fa-laptop-code"></i></p>
+          <p>・<a href="https://developershirai.com/portfolio1/portfolio1.html">おためしチャレンジページ</a><i class="fas fa-laptop-code"></i></p>
 
-          <p>・JavaScript練習用ページ「ありあり」は<a href="../puyo2/www/puyoforlaptop.php" target="blank">こちら</a><i class="fas fa-gamepad"></i></p>
+          <p>・<a href="../puyo2/www/puyoforlaptop.php">見たことあるゲーム「ありあり」</a><i class="fas fa-gamepad"></i></p>
           <br>
           <em4>※現在、フリーランス活動、資格勉強、英語学習などの合間を使っているため、更新頻度が低くなっています。</em4>
           <br>

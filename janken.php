@@ -60,7 +60,7 @@
             </label>
 
             <br><br>
-            😺ねこちゃんに　<button id="jankenButton" type="submit" class="battle-button">勝負する<i class="fas fa-paw"></i></button>
+            ねこちゃん😺に　<button id="jankenButton" type="submit" class="battle-button">勝負する<i class="fas fa-paw"></i></button>
           </form>
         </div>
       </section>
