@@ -2743,7 +2743,7 @@
                 <tr class="answer">
                 <td>The human resource managerが主語です。人は「感銘を与えられる」わけですから、受動関係のimpressedを選びます。ちなみに、impressive「印象的な・感銘を与えるような」はimpressingの代用表現です（impressingの代わりにimpressiveが使われるということです）。</td>
                 </tr>
-                <!--
+               
                 <tr>
                   <td id="number">93</td>
                 </tr>  
@@ -2918,7 +2918,7 @@
                 <td>選択肢には関係詞が並び、空所直前にカンマがあることに注目しましょう。関係代名詞や関係副詞が作るかたまりの前にカンマが打たれると、カンマの前の「節」（SVのかたまり）の一部、あるいは全体が先行詞になると考えられます。この文ではGalway Shoes are hard to clean（Galway Shoesは洗いにくい）が、カンマの前にある「節」です。これを「もの」と考えると、thatとwhichどちらも選べそうですね。ここで重要なポイントは、「関係代名詞thatの前にカンマを打つ用法はない」ということ。つまり、正解はwhichです。関係詞の前にカンマがある場合、thatは絶対に正解にはならないことを覚えておきましょう。
                 </td>
                 </tr>
-
+ <!--
                 <tr>
                   <td id="number">99</td>
                 </tr>  
