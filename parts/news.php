@@ -46,6 +46,46 @@
         </li>
 
     <hr> -->
+
+    2021年04月30日
+    
+    <li>
+            <i class="far fa-file-alt"></i>
+            <a href="https://www.nikkei.com/article/DGXZQOCC3012Q0Q1A430C2000000/" target="blank" rel="noopener">
+            東京都、新たに698人感染　新型コロナ</a>
+    </li>
+    <li>
+            <i class="far fa-file-alt"></i>
+            <a href="https://www.nikkei.com/article/DGXZQOUC231H80T20C21A4000000/" target="blank" rel="noopener">
+            「路上飲み」　コンビニ各社が対応に苦慮</a>
+    </li>
+    <li>
+            <i class="far fa-file-alt"></i>
+            <a href="https://www.nikkei.com/article/DGXZQODK08BJZ0Y1A400C2000000/" target="blank" rel="noopener">
+            コロナ下こそ挑め　医師の働き方改革 編集委員　柳瀬和央</a>
+    </li>
+
+<hr>
+
+    2021年04月29日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2924A0Z20C21A4000000/" target="blank" rel="noopener">
+                東京都、新たに1027人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE290RD0Z20C21A4000000/" target="blank" rel="noopener">
+                駅や空港で行列　GW開始、例年の混雑はなく</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF292PP0Z20C21A4000000/" target="blank" rel="noopener">
+                大阪府の新規感染1172人　過去最多の44人死亡</a>
+        </li>
+
+    <hr>
         2021年04月28日
     
         <li>

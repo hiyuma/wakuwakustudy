@@ -3,6 +3,9 @@
 
 
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
+  
+  <li>2021年04月30日</li>
+  <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（ 基本情報処理技術者試験 ①（基本情報処理技術者試験）</a> 追加</span></div>
 
   <li>2021年04月30日</li>
   <div class="info-children"><span><a href="english-memo.php">英文法 Memo</a></th> 93～98追加</span></div>
