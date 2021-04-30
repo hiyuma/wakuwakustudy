@@ -11,16 +11,15 @@ if (isset($_POST['Hand'])) {
   if ($Hand == $programHand) {
     $result = 'あいこ🐈';
   } elseif ($Hand == 'グー' && $programHand == 'チョキ') {
-    $result = '勝ち😸';
+    $result = '勝ち😸<br><br>今日、良いことあるかも。';
   } elseif ($Hand == 'チョキ' && $programHand == 'パー') {
-    $result = '勝ち😸';
+    $result = '勝ち😸<br><br>良いことあるよ。';
   } elseif ($Hand == 'パー' && $programHand == 'グー') {
-    $result = '勝ち😸';
+    $result = '勝ち😸<br><br>明日、良いことあるかも。';
   } else {
-    $result = '負け😿';
+    $result = '負け😿<br><br>今日はおとなしくしておこう。';
   }
 
-  
   switch ($programHand) {
     case 'グー':
       $programHand = 'グー<i class="far fa-hand-rock"></i>';
