@@ -174,9 +174,6 @@
               <li> <a href="https://amzn.to/3eA8ZnA">インセプション　☆4.2</a></li>
               <li> <a href="https://amzn.to/2U6wmvq">セッション　☆4.2</a></li>
               <li> <a href="https://amzn.to/2UiJbTL">ジョーカー　☆4.7</a></li>
-
-              <li> <a href="#recommend"><i class="fab fa-amazon"></i> しらひゅー推し</a></li>
-
             </ol>
           </div>
         </div>
