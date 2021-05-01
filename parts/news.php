@@ -27,7 +27,7 @@
         </li><br>
 
 
-        <!-- 2021年04月XX日
+        <!-- 2021年05月XX日
     
         <li>
                 <i class="far fa-file-alt"></i>
@@ -46,6 +46,26 @@
         </li>
 
     <hr> -->
+
+        2021年05月01日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC011EQ0R00C21A5000000/" target="blank" rel="noopener">
+                東京都、新たに1050人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN30EF80Q1A430C2000000/" target="blank" rel="noopener">
+                米、インドからの入国禁止へ　感染深刻化で4日から</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN30B0S0Q1A430C2000000/" target="blank" rel="noopener">
+                米ディズニーランド13カ月ぶり再開　レジャー復活期待</a>
+        </li>
+
+    <hr>
 
     2021年04月30日
     

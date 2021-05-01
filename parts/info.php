@@ -3,9 +3,27 @@
 
 
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
+
+  <!-- <li>2021年05月03日</li>
+  <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（ 基本情報処理技術者試験 ④「午前試験　ストラテジ系」）</a> 追加</span></div> -->
+
+  <!-- <li>2021年05月02日</li>
+  <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（ 基本情報処理技術者試験 ③「午前試験　マネジメント系」）</a> 追加</span></div> -->
+
+  <li>2021年05月01日</li>
+  <div class="info-children"><span><a href="gallery.php">PHOTO</a>（日常）追加</span></div>
+
+  <li>2021年05月01日</li>
+  <div class="info-children"><span><a href="avocado.php">AVOCADO</a> 更新</span></div>
   
+  <li>2021年05月01日</li>
+  <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（ 基本情報処理技術者試験 ②「午前試験　テクノロジ系」）</a> 追加</span></div>
+
+  <li>2021年05月01日</li>
+  <div class="info-children"><span><a href="english-memo.php">英文法 Memo</a></th> 99～104追加</span></div>
+
   <li>2021年04月30日</li>
-  <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（ 基本情報処理技術者試験 ①（基本情報処理技術者試験）</a> 追加</span></div>
+  <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（ 基本情報処理技術者試験 ①「基本情報処理技術者試験」）</a> 追加</span></div>
 
   <li>2021年04月30日</li>
   <div class="info-children"><span><a href="english-memo.php">英文法 Memo</a></th> 93～98追加</span></div>
