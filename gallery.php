@@ -53,8 +53,7 @@
           <h3><i class="fas fa-list-ul"></i>Gallery List</h3>
           <div id="schedule0" class="schedule_list">
             <ol reversed>
-              <li> <a href="#">イベントとDJ ※someday</a></li>
-              <li> <a href="#">散歩とサイクリング ※someday</a></li>
+              <li> <a href="#日常">日常</a></li>
               <li> <a href="#2008京都">2008年4月 京都府(自転車旅) </li>
               <li> <a href="#2011福島">2011年12月 福島県(自転車旅)</a></li>
               <li> <a href="#2012鋸山">2012年11月 千葉県鋸山(自転車旅)</a></li>
@@ -70,11 +69,50 @@
           </div>
         </div>
         <br>
+
+
+        <br><br><br>
+        <hr>
+        <div id="日常"></div>
+        <h4><span class="material-icons">photo_camera</span>
+          日常　<span class="material-icons">local_florist</span></i></h4>
+        
+        <div id="route-line"></div>
+        <p>日常で撮影した写真をランダムに掲載します。
+          <br><br>
+          日記や公園などの他のページ写真と重なる場合があります。
+          <br><br>
+          写真の選択は、適当です。
+        </p>
+        <div id="route-line"></div>
+
+
+        <div class="accbox">
+          <input type="checkbox" id="everyday" class="cssacc" />
+
+          <label for="everyday">OPEN</label>
+
+          <div class="accshow">
+            <div id="lightgallery10" class="album">
+            <?php
+              $x = 1;
+              while ($x < 126) {
+                echo '<a href="gallery2/2021年日常/favorite (' . $x . ').jpg" target="blank">
+                <img src="gallery2/2021年日常/resize/favorite (' . $x . ')small.jpg" alt=""></a>';
+                $x++;
+              }
+              ?>
+
+          
+            </div>
+          </div>
+        </div>
+        <br><br><br>
         <hr>
         <div id="2008京都"></div>
-        <p><span class="material-icons">photo_camera</span>
-          2008年4月 東京都⇔京都往復　自転車旅（7日間：清水寺）　<i class="fas fa-biking"></i>
-        </p>
+        <h4><span class="material-icons">photo_camera</span>
+          2008年4月 東京都⇔京都往復　自転車旅（7日間：清水寺）　<i class="fas fa-biking"></i></h4>
+        
         <p>当時、フリーランスで美容師とイベント主催をしていました。その関係もあり、フリーペーパー”Re:love”にて自転車旅を特集していただきました。
         <p>
         <div id="gallery-introduce"><img src="gallery/diary/Relove1.jpg" alt="フリーペーパーRe:loveで特集していただきました">
@@ -279,9 +317,9 @@
         <br><br><br>
         <hr>
         <div id="2011福島"></div>
-        <p><span class="material-icons">photo_camera</span>
-          2011年12月 東京都⇔福島県往復　自転車旅（7日間：相馬市）　<i class="fas fa-biking"></i>
-        </p>
+        <h4><span class="material-icons">photo_camera</span>
+          2011年12月 東京都⇔福島県往復　自転車旅（7日間：相馬市）　<i class="fas fa-biking"></i></h4>
+        
         <p>2011年3月11日。東日本大震災。その被害の大きさを目の当たりにしてきました。福島県いわき市、相馬市の仮設住宅にてヘアカットのボランティアをさせていただきました。</p>
 
         <div id="route-line"></div>
@@ -311,9 +349,9 @@
         <br><br><br>
         <hr>
         <div id="2012鋸山"></div>
-        <p><span class="material-icons">photo_camera</span>
-          2012年11月 東京都⇔千葉県鋸山往復　自転車旅（5日間）　<i class="fas fa-biking"></i>
-        </p>
+        <h4><span class="material-icons">photo_camera</span>
+          2012年11月 東京都⇔千葉県鋸山往復　自転車旅（5日間）　<i class="fas fa-biking"></i></h4>
+        
         <div id="route-line"></div>
         <div id="route"><i class="fas fa-biking"></i>Route：約250km
           <br>東京都杉並区→東京都新宿酉の市→千葉県船橋→千葉県習志野→千葉県袖ヶ浦→千葉県木更津→千葉県君津→千葉県富津→鋸山→千葉県富津→千葉県君津→千葉県袖ヶ浦→千葉県船橋→東京都杉並区
@@ -469,9 +507,9 @@
         <br><br><br>
         <hr>
         <div id="2013長野"></div>
-        <p><span class="material-icons">photo_camera</span>
-          2013年02月18日 長野県パーティ"NagaNo" @ 中目黒Solfa　<i class="fas fa-glass-cheers"></i>
-        </p>
+        <h4><span class="material-icons">photo_camera</span>
+          2013年02月18日 長野県パーティ"NagaNo" @ 中目黒Solfa　<i class="fas fa-glass-cheers"></i></h4>
+        
         <div id="route-line"></div>
         <div id="route">
           長野県に特化し、長野県の魅力を周知する目的で主催したイベントも今回で4回目。<br><br>
@@ -506,9 +544,9 @@
         <br><br><br>
         <hr>
         <div id="2013横浜みなとみらい"></div>
-        <p><span class="material-icons">photo_camera</span>
-          2013年08月 "09EDGE" CRUISE'13 @ 横浜湾みなとみらいナイトクルージング　<i class="fas fa-glass-cheers"></i>
-        </p>
+        <h4><span class="material-icons">photo_camera</span>
+          2013年08月 "09EDGE" CRUISE'13 @ 横浜湾みなとみらいナイトクルージング　<i class="fas fa-glass-cheers"></i></h4>
+        
 
         <div id="route-line"></div>
         <div id="route">
@@ -548,9 +586,9 @@
         <br><br><br>
         <hr>
         <div id="2013鎌倉"></div>
-        <p><span class="material-icons">photo_camera</span>
+        <h4><span class="material-icons">photo_camera</span>
           2013年09月18日 東京都⇔神奈川県鎌倉往復　自転車旅（日帰り）　<i class="fas fa-biking"></i>
-        </p>
+        </h4>
         <div id="route-line"></div>
         <div id="route"><i class="fas fa-biking"></i>Route：約120km
           <br>東京都杉並区(環七通り)→東京都馬込(第二京浜/国道1号)→神奈川県川崎→神奈川県横浜→神奈川県鶴岡八幡宮→神奈川県報国寺→神奈川県由比ガ浜→神奈川県横浜→東京都馬込(第二京浜/国道1号)→東京都杉並区
@@ -649,9 +687,9 @@
         <br><br><br>
         <hr>
         <div id="2013青森"></div>
-        <p><span class="material-icons">photo_camera</span>
+        <h4><span class="material-icons">photo_camera</span>
           2013年11月 東京都⇔青森県往復　自転車旅（21日間：福島県仮設住宅ヘアカットボランティア）　<i class="fas fa-biking"></i>
-        </p>
+        </h4>
         <div id="route-line"></div>
         <div id="route"><i class="fas fa-biking"></i>Route：約2000km
           <br>東京都杉並区→千葉県松戸→茨城県取手→茨城県勿来→福島県いわき→福島県郡山→福島県飯舘村→福島県南相馬→福島県相馬→宮城県山元町→宮城県仙台→宮城県大崎→岩手県一関→岩手県花巻→岩手県二戸→青森県八戸→青森県十和田→青森県北上郡野辺地→青森県青森市→青森県弘前→秋田県大館→秋田県南秋田郡八郎潟→秋田県にかほ→山形県酒田→山形県鶴岡→山形県山形市→宮城県七ヶ宿→福島県福島市→福島県白河→栃木県那須塩原→栃木県宇都宮→栃木県小山→茨城県古河→埼玉県久喜→埼玉県川口→東京都北区→東京都杉並区
@@ -883,9 +921,9 @@
         <br><br><br>
         <hr>
         <div id="和田堀公園"></div>
-        <p><span class="material-icons">photo_camera</span>
+        <h4><span class="material-icons">photo_camera</span>
           2014年～2020年 　東京都杉並区 和田堀公園　<span class="material-icons">local_florist</span></i>
-        </p>
+        </h4>
         <div id="route-line"></div>
         <p>和田堀公園は、とっても広くて緑豊かな公園です。
           <br><br>
@@ -919,9 +957,9 @@
         <br><br><br>
         <hr>
         <div id="大田黒公園"></div>
-        <p><span class="material-icons">photo_camera</span>
+        <h4><span class="material-icons">photo_camera</span>
           2020年11月 東京都杉並区 大田黒公園 紅葉ライトアップ　<span class="material-icons">local_florist</span></i>
-        </p>
+        </h4>
         <div id="route-line"></div>
         <p>大田黒公園は、音楽評論家の”大田黒元雄”氏が住んでいた屋敷跡地に、杉並区が日本庭園を整備して、昭和56年10月1日に開園した公園です。
           <br><br>
@@ -990,9 +1028,9 @@
 
         <hr>
         <div id="新宿御苑"></div>
-        <p><span class="material-icons">photo_camera</span>
+        <h4><span class="material-icons">photo_camera</span>
           2021年03月 東京都 新宿御苑　<span class="material-icons">local_florist</span></i>
-        </p>
+        </h4>
         <div id="route-line"></div>
         <p>新宿御苑は、江戸時代に徳川家康の家臣・内藤清成が賜った大名屋敷がルーツといわれています。
           <br>
@@ -1134,6 +1172,15 @@
     $lg9.on('onCloseAfter.lg', function(event) {
       $lg9.data('lightgallery').destroy(true);
       $lg9.lightGallery();
+    });
+  </script>
+
+  <script type="text/javascript">
+    var $lg10 = $('#lightgallery10');
+    $lg10.lightGallery();
+    $lg10.on('onCloseAfter.lg', function(event) {
+      $lg10.data('lightgallery').destroy(true);
+      $lg10.lightGallery();
     });
   </script>
 
