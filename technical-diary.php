@@ -111,7 +111,7 @@
 
 
         <!--テンプレート id=0017 ※ID 2か所変更 -->
-        <!-- <div id="20210505"></div>
+         <!--<div id="20210505"></div>
         <div class="schedule_wrapper">
           <br>
           <p id="avocado">2021年05月05日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
@@ -499,6 +499,136 @@
               </div>
             </div>
           </div>
+
+          <div class="accbox">
+            <h3>第7問　XML文書</h3>
+            <input type="checkbox" id="00007" class="cssacc" />
+
+            <label for="00007"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+
+              <em3>平成30年春期　問8</em3>
+              <p id="feQuestion">XML文書のDTDに記述するものはどれか。</p>
+
+
+              <h4>選択肢</h4>
+              <table id="feSelection">
+                <tr>
+                  <td>ア</td>
+                  <td>イ</td>
+                  <td>ウ</td>
+                  <td>エ</td>
+                </tr>
+                <tr>
+                  <td>使用する文字コード</td>
+                  <td>データ</td>
+                  <td>バージョン情報</td>
+                  <td>文書型の定義</td>
+                </tr>
+              </table>
+
+              <div id="answer">
+                答え
+                <input type="checkbox" id="00007a" class="cssacc" />
+
+                <label for="00007a"><span>READ</span></label>
+                <div class="accshow">
+
+                  <h4>正解</h4>
+                  <div class="accbox">
+                    <table id="feSelection">
+                      <tr>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>文書型の定義</td>
+                      </tr>
+                    </table>
+                    <P>XMLでは、文書作成者が自由に要素名や属性名を付け文章構造を構築することができます。DTD(Document Type Definition)とは、XMLなどのマークアップ言語において文書構造を定義するスキーマ言語の一つです。
+                      <br><br>
+                      DTDには、記述可能な要素名、属性名や発生順序・発生回数など文書作成のルールを定義でき、XML文書側では文書型宣言"<!DOCTYPE …>"で使用するDTDを指定できます。作成された文書がDTDに適合するかどうかを検証することで、処理の正確性や安全性を高められます。
+                      <p><img src="gallery/techimg/20210505/dtd.jpg" alt="DTD　XML文書構造"></p>
+                    </p>
+                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="accbox">
+            <h3>第8問　</h3>
+            <input type="checkbox" id="00008" class="cssacc" />
+
+            <label for="00008"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+
+              <em3>平成31年春期　問30</em3>
+              <p id="feQuestion">ビッグデータの処理で使われるキーバリューストアの説明として，適切なものはどれか。</p>
+
+
+              <h4>選択肢</h4>
+              <table id="feSelection">
+                <tr>
+                  <td>ア</td>
+                  <td>イ</td>
+                  <td>ウ</td>
+                  <td>エ</td>
+                </tr>
+                <tr>
+                  <td>"ノード"，"リレーションシップ"，"プロパティ"の3要素によってノード間の関係性を表現する。</td>
+                  <td>1件分のデータを"ドキュメント"と呼び，個々のドキュメントのデータ構造は自由であって，データを追加する都度変えることができる。</td>
+                  <td>集合論に基づいて，行と列から成る2次元の表で表現する。</td>
+                  <td>任意の保存したいデータと，そのデータを一意に識別できる値を組みとして保存する。</td>
+                </tr>
+              </table>
+
+              <div id="answer">
+                答え
+                <input type="checkbox" id="00008a" class="cssacc" />
+
+                <label for="00008a"><span>READ</span></label>
+                <div class="accshow">
+
+                  <h4>正解</h4>
+                  <div class="accbox">
+                    <table id="feSelection">
+                      <tr>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>任意の保存したいデータと，そのデータを一意に識別できる値を組みとして保存する。</td>
+                      </tr>
+                    </table>
+                    <P>個人的には、キーバリューはJavaでMapを使う時に学びました。キーバリューストア(KVS)は、NoSQLで用いられるデータ型の1つです。プログラミングで使用される連想配列のように、1つのキーに1つの値を結びつけてデータを格納します。構造が単純な分、スケーラビリティや処理速度に優れるためビッグデータの処理に使われています。
+                      <p><img src="gallery/techimg/20210505/keyValueStore.jpg" alt="キーバリューストア"></p>
+                      NoSQLで用いられる他の主要なデータ型についても簡単にまとめておきます。
+                      「カラム指向」<br>
+                      行キーに対してカラム（名前と値の組み合わせ）を結びつけて格納する
+                      「ドキュメント指向」<br>
+                      XMLやJSONなどの構造でデータを格納する
+                      「グラフ指向」<br>
+                      グラフ理論に基づいてデータ間の関係性を表現する
+                      <br><br>
+                      アは、グラフ型データベースの説明です。
+                      <br><br>
+                      イは、ドキュメント指向データベースの説明です
+                      <br><br>
+                      ウは、関係データベースの説明です。
+                    </p>
+                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+
+
+
+
 
           <br>
         </div> -->
