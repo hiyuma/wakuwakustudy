@@ -78,6 +78,7 @@
 
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li><a href="#20210501">　2021年05月01日　118.6cm</a></li>
               <li><a href="#20210424">　2021年04月24日　118.2cm</a></li>
               <li><a href="#20210415">　2021年04月15日　115.6cm</a></li>
               <li><a href="#20210401">　2021年04月01日　114.2cm</a></li>
@@ -1164,8 +1165,8 @@
             </div>
           </div>
 
-           <!-- id="039" -->
-           <div class="schedule_wrapper">
+          <!-- id="039" -->
+          <div class="schedule_wrapper">
             <div id="20210424"></div>
             <p id="avocado"><strong>2021年04月24日</strong></p>
             <p><img src="gallery/avocado/avo20210424 (1).jpg" alt="アボカド67"></p>
@@ -1188,7 +1189,38 @@
                   背丈は、118.2cmです。
                   <br><br>
                   今年のアボカドの成長が楽しみです。
-                  </p>
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- id="040" -->
+          <div class="schedule_wrapper">
+            <div id="20210501"></div>
+            <p id="avocado"><strong>2021年05月01日</strong></p>
+            <p><img src="gallery/avocado/avo20210501 (1).jpg" alt="アボカド69"></p>
+            <div class="accbox">
+              <input type="checkbox" id="040" class="cssacc" />
+
+              <label for="040"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
+              <div class="accshow">
+                <p><img src="gallery/avocado/avo20210501 (2).jpg" alt="アボカド70"></p>
+                <p>2021年05月01日、東京都杉並区13時現在の気温は23.2℃。
+                  <br><br>
+                  最高気温は24℃の予報です。
+                  <br><br>
+                  若い葉で、強い日差しに当たっていた部分が少し変色しています。
+                  <br><br>
+                  今年も急な暑さや、強い日差しへの対策が必要かもしれません。
+                  <br><br>
+                  とは言え、去年ほどの弱りを見せていないので、様子見にはなりますが、今年は既に日差しが強いです。
+                  <br><br>
+                  気温も3月から高めなので、今年の夏はこのままさらに暑くなるのでしょうか。
+                  <br><br>
+                  僕は、暑さに弱いタイプです。
+                  <br><br>
+                  アボカドも心配ですが、自分も心配です。
+                </p>
               </div>
             </div>
           </div>
@@ -1198,20 +1230,14 @@
           <br>...なんとかまだ続くかも。
         </div>
       </section>
-
       <?php include('parts/contents.php'); ?>
     </div>
 
     <div id="aside">
       <?php include('parts/prof.php'); ?>
-
-      <div id="amazon"></div>
-
+      <?php include('parts/widget/side_widget.php'); ?>
     </div>
 
-    <?php include('parts/widget/side_widget.php'); ?>
-
-    </div>
   </main>
   <?php include('parts/footer.php'); ?>
   <?php include('parts/footerJs.php'); ?>
