@@ -1408,7 +1408,8 @@ table#feSelection td{
 
 p#feQuestion{
 	box-shadow: 1px 1px 5px #666666;
-	padding:10px;
+	padding:20px;
+	line-height: 2.0;
 }
 
 #feTerm p{
