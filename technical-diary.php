@@ -137,10 +137,10 @@
 
 
         <!--テンプレート id=00XX -->
-        <!--<div id="202105XX"></div>
+        <!--<div id="20210508"></div>
          <div class="schedule_wrapper">
         <br>
-        <p id="avocado">2021年05月XX日 <i class="fas fa-laptop-code"></i></p>
+        <p id="avocado">2021年05月08日 <i class="fas fa-laptop-code"></i></p>
         <h2 id="title">「」</h2>
 
 
@@ -168,13 +168,84 @@
       </div>
          -->
 
+         <!-- id=0019 ※ID 2か所変更 -->
+        <!-- <div id="20210507"></div>
+        <div class="schedule_wrapper">
+          <br>
+          <p id="avocado">2021年05月07日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
+          <h2 id="title">「午前試験　テクノロジ系　過去問②」</h2>
+
+            <div class="accbox">
+
+            <p><img src="gallery/techimg/20210505/fePastQuiz2.png" alt="基本情報処理技術者試験 過去問②"></p>
+            <h3>第1問</h3>
+
+            <input type="checkbox" id="201" class="cssacc" />
+
+            <label for="201"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+
+              <em3></em3>
+              <p id="feQuestion"></p>
+
+              <div id="feTerm">
+                <em3>〔条件〕</em3>
+                <p>①有効同値クラスの1クラスにつき，一つの値をテストデータとする。ただし，テストする値は境界値でないものとする。
+                  <br><br>
+                  ②有効同値クラス，無効同値クラスの全ての境界値をテストデータとする。
+                </p>
+              </div>
+              <h4>選択肢</h4>
+              <table id="feSelection">
+                <tr>
+                  <td>ア</td>
+                  <td>イ</td>
+                  <td>ウ</td>
+                  <td>エ</td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td></td>
+                  <td7</td>
+                  <td></td>
+                </tr>
+              </table>
+
+              <div id="answer">
+                答え
+                <input type="checkbox" id="201a" class="cssacc" />
+
+                <label for="201a"><span>READ</span></label>
+                <div class="accshow">
+                  <h4>正解</h4>
+                  <div class="accbox">
+                    <table id="feSelection">
+                      <tr>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>8</td>
+                      </tr>
+                    </table>
+                    <P><strong><mark></mark></strong>
+                    <h4></h4>
+                    <p></p>
+                    <h4></h4>
+                    </p>
+                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
 
         <!-- id=0018 -->
         <!--<div id="20210506"></div>
          <div class="schedule_wrapper">
         <br>
         <p id="avocado">2021年05月06日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
-        <h2 id="title">「2進数/16進数」</h2>
+        <h2 id="title">「2進数と16進数」</h2>
         <p><img src="gallery/techimg/20210507/2進数と16進数.png" alt="2進数と16進数"></p>
 
         <div class="accbox">
