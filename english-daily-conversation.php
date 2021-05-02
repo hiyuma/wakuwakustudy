@@ -75,6 +75,7 @@
               <li> <a href="#intermediate2"><i class="fas fa-globe"></i>中級（連結音）</a></li>
               <li> <a href="#beginner3"><i class="fas fa-globe"></i>初級（同化音）</a></li>
               <li> <a href="#intermediate3"><i class="fas fa-globe"></i>中級（同化音）</a></li>
+              <li> <a href="#beginner4"><i class="fas fa-globe"></i>初級（短くなる音）</a></li>
             </ol>
           </div>
         </div>
@@ -4824,11 +4825,173 @@
                 <td colspan="2">receiveのveとその後のyourが同化して「レスィーヴュア」のように聞こえます。</td>
               </tr>
 
-
-
-              <!-- コピー用 -->
               <tr>
-                <td>続</td>
+                <td>421</td>
+                <td>The nurse has called your name,so you need to follow her.</td>
+              </tr>
+              <tr>
+                <td colspan="2">看護師があなたの名前を呼んだので、彼女についていかなくてはいけません。</td>
+              </tr>
+              <tr>
+                <td colspan="2">calledのdとその後のyourが同化して「コールヂュア」のように聞こえます。</td>
+              </tr>
+
+              <tr>
+                <td>422</td>
+                <td>I heard you’re a professional carpenter and can do job squickly.</td>
+              </tr>
+              <tr>
+                <td colspan="2">あなたはプロの大工で仕事が速いと聞きました。</td>
+              </tr>
+              <tr>
+                <td colspan="2">heardのdとその後のyou’reが同化して「ハーヂュア」のように聞こえます。
+                </td>
+              </tr>
+
+              <tr>
+                <td>423</td>
+                <td>They ought to take their child to the hospital.</td>
+              </tr>
+              <tr>
+                <td colspan="2">彼らは子供を病院に連れていくべきです。</td>
+              </tr>
+              <tr>
+                <td colspan="2">oughtとその後のtoは同化して「オータ」のように聞こえます。</td>
+              </tr>
+
+              <tr>
+                <td>424</td>
+                <td>She ought to stay at home today if she’s not feeling well.
+                </td>
+              </tr>
+              <tr>
+                <td colspan="2">気分がすぐれないのなら、彼女は今日在宅すべきです。</td>
+              </tr>
+              <tr>
+                <td colspan="2">oughtとその後のtoは同化して「オータ」のように聞こえます。</td>
+              </tr>
+
+              <tr>
+                <td>425</td>
+                <td>Ask your home stay family if it’s okay to make international phone calls.</td>
+              </tr>
+              <tr>
+                <td colspan="2">国際電話をかけてよいかどうか、ホームステイ先の家族に聞きなさい。</td>
+              </tr>
+              <tr>
+                <td colspan="2">Askのkとその後のyourが同化して「アスキュア」のように聞こえます。</td>
+              </tr>
+
+
+              <div id="beginner4"></div>
+          <table class="table">
+            <tbody>
+              <tr>
+                <th colspan="2" class="class">初級（短くなる音）</th>
+              </tr>
+
+              <tr>
+                <td>426</td>
+                <td>I’m watching a TV program.</td>
+              </tr>
+              <tr>
+                <td colspan="2">私はテレビ番組を見ています</td>
+              </tr>
+              <tr>
+                <td colspan="2">I amが短縮されて「アイム」に聞こえます。</td>
+              </tr>
+
+              <tr>
+                <td>427</td>
+                <td>She’s making blueberry cookies.</td>
+              </tr>
+              <tr>
+                <td colspan="2">彼女はブルーベリークッキーを作っています。</td>
+              </tr>
+              <tr>
+                <td colspan="2">She isが短縮されて「シーズ」に聞こえます。</td>
+              </tr>
+
+              <tr>
+                <td>428</td>
+                <td>I didn’t have money in my pocket.</td>
+              </tr>
+              <tr>
+                <td colspan="2">ポケットの中にお金が入っていませんでした。</td>
+              </tr>
+              <tr>
+                <td colspan="2">did notが短縮されて「ディドゥントゥ」に聞こえます。</td>
+              </tr>
+
+              <tr>
+                <td>429</td>
+                <td>He’s standing at the busstop.</td>
+              </tr>
+              <tr>
+                <td colspan="2">彼はバス停に立っています。</td>
+              </tr>
+              <tr>
+                <td colspan="2">He isが短縮されて「ヒーズ」に聞こえます。</td>
+              </tr>
+
+              <tr>
+                <td>430</td>
+                <td>Who’s his sister?</td>
+              </tr>
+              <tr>
+                <td colspan="2">彼の妹［姉］は誰ですか。</td>
+              </tr>
+              <tr>
+                <td colspan="2">Who isが短縮されて「フーズ」に聞こえます。</td>
+              </tr>
+
+              <tr>
+                <td>431</td>
+                <td>Where’s her car?</td>
+              </tr>
+              <tr>
+                <td colspan="2">彼女の車はどこですか。</td>
+              </tr>
+              <tr>
+                <td colspan="2">Where isが短縮されて「ウェアズ」に聞こえます。</td>
+              </tr>
+
+
+              <!-- <tr>
+                <td>432</td>
+                <td>What’stheirphonenumber?</td>
+              </tr>
+              <tr>
+                <td colspan="2">彼らの電話番号は何番ですか。</td>
+              </tr>
+              <tr>
+                <td colspan="2">What isが短縮されて「ウワッツ」に聞こえます。</td>
+              </tr>
+
+              <tr>
+                <td>433</td>
+                <td>Where’s the library?</td>
+              </tr>
+              <tr>
+                <td colspan="2">図書館はどこですか。</td>
+              </tr>
+              <tr>
+                <td colspan="2">Where isが短縮されて「ウェアズ」に聞こえます。</td>
+              </tr>
+
+              <tr>
+                <td>434</td>
+                <td>When’s breakfast time?</td>
+              </tr>
+              <tr>
+                <td colspan="2">朝食は何時ですか。</td>
+              </tr>
+              <tr>
+                <td colspan="2">When isが短縮されて「ウェンズ」に聞こえます。</td>
+              </tr>
+
+              <tr>
+                <td>435</td>
                 <td></td>
               </tr>
               <tr>
@@ -4838,6 +5001,106 @@
                 <td colspan="2"></td>
               </tr>
 
+              <tr>
+                <td>436</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td colspan="2"></td>
+              </tr>
+              <tr>
+                <td colspan="2"></td>
+              </tr>
+
+              <tr>
+                <td>437</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td colspan="2"></td>
+              </tr>
+              <tr>
+                <td colspan="2"></td>
+              </tr>
+
+              <tr>
+                <td>438</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td colspan="2"></td>
+              </tr>
+              <tr>
+                <td colspan="2"></td>
+              </tr>
+
+              <tr>
+                <td>439</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td colspan="2"></td>
+              </tr>
+              <tr>
+                <td colspan="2"></td>
+              </tr>
+
+              <tr>
+                <td>440</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td colspan="2"></td>
+              </tr>
+              <tr>
+                <td colspan="2"></td>
+              </tr>
+
+              <tr>
+                <td>441</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td colspan="2"></td>
+              </tr>
+              <tr>
+                <td colspan="2"></td>
+              </tr>
+
+              <tr>
+                <td>442</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td colspan="2"></td>
+              </tr>
+              <tr>
+                <td colspan="2"></td>
+              </tr>
+
+              <tr>
+                <td>443</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td colspan="2"></td>
+              </tr>
+              <tr>
+                <td colspan="2"></td>
+              </tr> -->
+
+
+              <!-- コピー用 -->
+              <!-- <tr>
+                <td>続</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td colspan="2"></td>
+              </tr>
+              <tr>
+                <td colspan="2"></td>
+              </tr>-->
 
             </tbody>
           </table>
