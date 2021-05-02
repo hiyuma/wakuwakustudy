@@ -53,7 +53,7 @@
           <h3><i class="fas fa-list-ul"></i>Gallery List</h3>
           <div id="schedule0" class="schedule_list">
             <ol reversed>
-              <li> <a href="#日常">日常</a></li>
+              <li> <a href="#日常">～2021年5月 日常</a></li>
               <li> <a href="#2008京都">2008年4月 京都府(自転車旅) </li>
               <li> <a href="#2011福島">2011年12月 福島県(自転車旅)</a></li>
               <li> <a href="#2012鋸山">2012年11月 千葉県鋸山(自転車旅)</a></li>
@@ -78,11 +78,13 @@
           日常　<span class="material-icons">local_florist</span></i></h4>
         
         <div id="route-line"></div>
-        <p>日常で撮影した写真をランダムに掲載します。
+        <p>日常的に撮影した写真をランダムに掲載します。
           <br><br>
-          日記や公園などの他のページ写真と重なる場合があります。
+          日記や公園などの他ページの写真と重なる場合があります。
           <br><br>
           写真の選択は、適当です。
+          <br><br>
+          日常の写真は、更新するかもしれないし、しないかもしれません。
         </p>
         <div id="route-line"></div>
 
@@ -95,8 +97,8 @@
           <div class="accshow">
             <div id="lightgallery10" class="album">
             <?php
-              $x = 1;
-              while ($x < 126) {
+              $x = 138;
+              while ($x < 276) {
                 echo '<a href="gallery2/2021年日常/favorite (' . $x . ').jpg" target="blank">
                 <img src="gallery2/2021年日常/resize/favorite (' . $x . ')small.jpg" alt=""></a>';
                 $x++;
