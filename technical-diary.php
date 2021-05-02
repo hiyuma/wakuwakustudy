@@ -59,10 +59,13 @@
           <div id="schedule0" class="schedule_list">
             <ol reversed>
               <!-- 
+      
+               <li><a href="#20210506"> 2021年05月06日 基本情報処理技術者試験 ⑦「2進数/16進数」
+               <li><a href="#20210505"> 2021年05月05日 基本情報処理技術者試験 ⑥「午前試験　過去問①」
                <li><a href="#20210505"> 2021年05月05日 基本情報処理技術者試験 ⑥「午前試験　過去問①」</a></li>
                <li><a href="#20210504"> 2021年05月04日 基本情報処理技術者試験 ⑤「午後試験」</a></li>
-               <li><a href="#20210503"> 2021年05月03日 基本情報処理技術者試験 ④「午前試験　ストラテジ系」</a></li>
-               <li><a href="#20210502"> 2021年05月02日 基本情報処理技術者試験 ③「午前試験　マネジメント系」</a></li> -->
+               <li><a href="#20210503"> 2021年05月03日 基本情報処理技術者試験 ④「午前試験　ストラテジ系」</a></li>-->
+              <li><a href="#20210502"> 2021年05月02日 基本情報処理技術者試験 ③「午前試験　マネジメント系」</a></li>
               <li><a href="#20210501"> 2021年05月01日 基本情報処理技術者試験 ②「午前試験　テクノロジ系」</a></li>
               <li><a href="#20210430"> 2021年04月30日 基本情報処理技術者試験 ①「基本情報処理技術者試験」</a></li>
               <li><a href="#20210314"> 2021年03月14日 JavaScript/jQuery ③「スクロールイベント・フェードイン」</a></li>
@@ -79,12 +82,69 @@
           </div>
         </div>
 
+        <!--問題テンプレート <div class="accbox">
+            <h3>第x問　</h3>
+            <input type="checkbox" id="0000x" class="cssacc" />
+
+            <label for="0000x"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+
+              <em3></em3>
+              <p id="feQuestion"></p>
+
+
+              <h4>選択肢</h4>
+              <table id="feSelection">
+                <tr>
+                  <td>ア</td>
+                  <td>イ</td>
+                  <td>ウ</td>
+                  <td>エ</td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </table>
+
+              <div id="answer">
+                答え
+                <input type="checkbox" id="0000xa" class="cssacc" />
+
+                <label for="0000xa"><span>READ</span></label>
+                <div class="accshow">
+
+                  <h4>正解</h4>
+                  <div class="accbox">
+                    <table id="feSelection">
+                      <tr>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                      </tr>
+                    </table>
+                    <P>
+                    </p>
+                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div> -->
+
+
         <!--テンプレート id=00XX -->
         <!--<div id="202105XX"></div>
          <div class="schedule_wrapper">
         <br>
         <p id="avocado">2021年05月XX日 <i class="fas fa-laptop-code"></i></p>
         <h2 id="title">「」</h2>
+
+
+        
         
 
         <div class="accbox">
@@ -109,9 +169,372 @@
          -->
 
 
+        <!-- id=0018 -->
+        <!--<div id="20210506"></div>
+         <div class="schedule_wrapper">
+        <br>
+        <p id="avocado">2021年05月06日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
+        <h2 id="title">「2進数/16進数」</h2>
+        <p><img src="gallery/techimg/20210507/2進数と16進数.png" alt="2進数と16進数"></p>
 
-        <!--テンプレート id=0017 ※ID 2か所変更 -->
-         <!--<div id="20210505"></div>
+        <div class="accbox">
+
+          <p><img src="gallery/techimg" alt=""></p>
+
+          <input type="checkbox" id="二進数" class="cssacc" />
+
+          <label for="二進数"><span><i class="fas fa-book"></i>READ</span></label>
+          <div class="accshow">
+            <h3>2進数とは？</h3>
+            <p><strong><mark>2進数とは、「0」と「1」の組み合わせで表現される数字です。</mark></strong>
+            <br><br>
+            普段利用している数字は、10進数です。知っての通り、1が10集まると桁あがりします。
+            <br><br>
+            2進数は、「0」に1足すと「1」になり、さらに1足すと桁上がりし、「10」と表現されます。
+            <br><br>
+            例えば、10進数で「10」は、2進数では、「1010」となります。
+            <br><br>
+            下の表を見ると分かりやすいです。
+            
+            <table id="techdiary">
+                <tr>
+                  <th>10進数</th>
+                  <th>2進数</th>
+                </tr>
+                <tr>
+                  <td>0</td>
+                  <td>0</td>
+                </tr>
+                <tr>
+                  <td>1</td>
+                  <td>1</td>
+                </tr>
+                <tr>
+                  <td>2</td>
+                  <td>10</td>
+                </tr>
+                <tr>
+                  <td>3</td>
+                  <td>11</td>
+                </tr>
+                <tr>
+                  <td>4</td>
+                  <td>100</td>
+                </tr>
+                <tr>
+                  <td>5</td>
+                  <td>101</td>
+                </tr>
+                <tr>
+                  <td>6</td>
+                  <td>110</td>
+                </tr>
+                <tr>
+                  <td>7</td>
+                  <td>111</td>
+                </tr>
+                <tr>
+                  <td>8</td>
+                  <td>1000</td>
+                </tr>
+                <tr>
+                  <td>9</td>
+                  <td>1001</td>
+                </tr>
+                <tr>
+                  <td>10</td>
+                  <td>1010</td>
+                </tr>
+            </table>
+
+            <table id="techdiary">
+                <tr>
+                  <th>2進数</th>
+                  <th>10進数</th>
+                </tr>
+                <tr>
+                  <td>1</td>
+                  <td>1（2の0乗）の位</td>
+                </tr>
+                
+                <tr>
+                  <td>10</td>
+                  <td>2（2の1乗）の位</td>
+                </tr>
+
+                 <tr>
+                  <td>100</td>
+                  <td>4（2の2乗）の位</td>
+                </tr>
+
+                 <tr>
+                  <td>1000</td>
+                   <td>8（2の3乗）の位</td>
+                </tr>
+
+                 <tr>
+                  <td>10000</td>
+                  <td>16（2の4乗）の位</td>
+                </tr>
+
+                 <tr>
+                  <td>100000</td>
+                  <td>32（2の5乗）の位</td>
+                </tr>
+
+                 <tr>
+                  <td>1000000</td>
+                  <td>64（2の6乗）の位</td>
+                </tr>
+
+                 <tr>
+                  <td>10000000</td>
+                  <td>128（2の7乗）の位</td>
+                </tr>
+
+                 <tr>
+                  <td>100000000</td>
+                  <td>256（2の8乗）の位</td>
+                </tr>
+
+                 <tr>
+                  <td>1000000000</td>
+                  <td>512（2の9乗）の位</td>
+                </tr>
+
+                 <tr>
+                  <td>10000000000</td>
+                  <td>1024（2の10乗）の位</td>
+                </tr>
+            </table>
+
+
+            コンピュータは、2進数を理解するよう作られています。基本的に10進数は理解できません。
+            <br><br>
+            数えきれないほどの「0」「1」を高速で読み取り、理解し、動作しているのです。
+            <br><br>
+            人間は、2進数よりも 10進数の方がはるかに扱いやすいため、2進数を普段使うことはありません。
+            <br><br>
+            ですが、IT業界やコンピュータ関連を学ぶには、理解しておくべきことです。
+            <br><br>
+            上の表で示した通り、当然ながら「2の〇乗」を2進数で表すと「0」の数が〇個になることが分かります。
+            <br><br>
+            例えば、「2の5乗(10進数で32)」は、100000で、0が5個あります。
+            <br><br>
+            10進数を2進数へ変換する方法は後述しますが、2進数は、10進数と同じ数字です。2になると桁上がりする数字だと考えればよいでしょう。
+            </p>
+
+
+            <h3>16進数とは？</h3>
+            <p><strong><mark>0から9までの数字とAからFまでのアルファベットの組み合わせで表現され、16になると桁上がりする英数字です。</mark></strong>
+            <br><br>
+            2進数と同じく、16になると桁上がりするので16進数なのですが、数字だけでは表現できないため、アルファベットを使っています。
+            <br><br>
+            10進数で「16」は、16進数では「10」になるということです。
+            <br><br>
+            カラーコード(#FFFFFF)や、IPアドレス(例：fe80::b461:2735....)も16進数で表記する場合がありますので、IT業界では関連性の高いものです。
+
+
+            <table id="techdiary">
+                <tr>
+                  <th>10進数</th>
+                  <th>16進数</th>
+                </tr>
+                <tr>
+                  <td>10</td>
+                  <td>A</td>
+                </tr>
+                <tr>
+                  <td>11</td>
+                  <td>B</td>
+                </tr>
+                <tr>
+                  <td>12</td>
+                  <td>C</td>
+                </tr>
+                <tr>
+                  <td>13</td>
+                  <td>D</td>
+                </tr>
+                <tr>
+                  <td>14</td>
+                  <td>E</td>
+                </tr>
+                <tr>
+                  <td>15</td>
+                  <td>F</td>
+                </tr>
+                <tr>
+                  <td>16</td>
+                  <td>10</td>
+                </tr>
+                <tr>
+                  <td>17</td>
+                  <td>11</td>
+                </tr>
+                <tr>
+                  <td>18</td>
+                  <td>12</td>
+                </tr>
+                <tr>
+                  <td>19</td>
+                  <td>13</td>
+                </tr>
+                <tr>
+                  <td>20</td>
+                  <td>14</td>
+                </tr>
+            </table>
+            
+            <table id="techdiary">
+                <tr>
+                  <th>16進数</th>
+                  <th>10進数</th>
+                </tr>
+                <tr>
+                  <td>1</td>
+                  <td>1（16の0乗）の位</td>
+                </tr>
+                <tr>
+                  <td>10</td>
+                  <td>16（16の1乗）の位</td>
+                </tr>
+                <tr>
+                  <td>100</td>
+                  <td>256（16の2乗）の位</td>
+                </tr>
+                <tr>
+                  <td>1000</td>
+                  <td>4096（16の3乗）の位</td>
+                </tr>
+                <tr>
+                  <td>10000</td>
+                  <td>65536（16の4乗）の位</td>
+                </tr>
+                <tr>
+                  <td>100000</td>
+                  <td>1048576（16の5乗）の位</td>
+                </tr>
+            </table>
+
+            上の表のように、16進数はとても大きな数字を短く表現できます。また、2進数などコンピュータとの相性が良い数字です。
+            <br><br>
+            インターネット上のIPアドレスは、IPv4(32ビット)とIPv6(128ビット)とバージョンがありますが、IPv6アドレスは16進数で表現されています。
+            <br><br>
+            ちなみに、IPv6が開発された理由は、IPv4が32ビット(約43億個)のIPアドレスしか作れないので、そのIPアドレス枯渇問題を解決するためです。
+            <br><br>
+            16進数はアルファベットが入るため、ある意味16進数なのだと分かりやすい数字です。
+            <br><br>
+            他の12進数や18進数といったものは、使われていません。
+            <br><br>
+            2進数と16進数を覚えておけばよいでしょう。
+            </p>
+
+            
+            <h3>2進数と10進数の変換方法は？</h3>
+            <p><strong><mark>10進数から2進数への変換方法は割り算と2進数から10進数への変換方法は足し算です。</mark></strong>
+            
+            <h4>10進数から2進数への変換方法</h4>
+            <p><img src="gallery/techimg/20210507/2進数変換割り算.jpg" alt="2進数と10進数変換"></p>
+            上の画像のように10進数を「2」で割り算していきます。
+            <br><br>
+            その余りを右に並べています。
+            <br><br>
+            「0」になるまで割り算し、余りを逆に並べると2進数になります。
+            <br><br>
+            これは、16進数への変換でも使えます。
+            <br><br>
+            10進数の値に2で割るので余りがでると必ず「1」です。ですので、余りを並べることで2進数へ変換できるのです。
+            <br><br>
+            例えば、10進数で「50」であれば、<br>
+            50÷2=25...余り0、<br>
+            25÷2=12...余り1、<br>
+            12÷2=6...余り0、<br>
+            6÷2=3...余り0、<br>
+            3÷2=1...余り1、<br>
+            <br>
+            ここで2より小さい数字になりました。
+            <br><br>
+            最後の1も含め、反対に並べてみると、「110010」です。
+            <br><br>
+            次に、これが本当に合っているのか、10進数に変換して確認しましょう。
+            <h4>2進数から10進数への変換方法</h4>
+            先ほどの10進数で「50」を2進数に変換して「110010」と表現できました。
+            <br><br>
+            10進数に変換する方法は、以下の画像を参考にしてみましょう。
+            <p><img src="gallery/techimg/20210507/2進数を10進数に変換.jpg" alt="2進数を10進数に変換"></p>
+            画像は、2進数では「11110000」、10進数では「240」です。
+            <br><br>
+            つまり、桁ごとに2の〇乗を加えて、10進数に変換できるのです。
+            <br><br>
+            「110010」の場合は、
+            <table id="techdiary">
+                <tr>
+                  <th>2進数</th>
+                  <th>10進数</th>
+                </tr>
+                <tr>
+                  <td>0</td>
+                  <td>0 (2の0乗)</td>
+                </tr>
+                <tr>
+                  <td>1</td>
+                  <td>2 (2の1乗)</td>
+                </tr>
+                <tr>
+                  <td>0</td>
+                  <td>0 (2の2乗)</td>
+                </tr>
+                <tr>
+                  <td>0</td>
+                  <td>0 (2の3乗)</td>
+                </tr>
+                <tr>
+                  <td>1</td>
+                  <td>16 (2の4乗)</td>
+                </tr>
+                <tr>
+                  <td>1</td>
+                  <td>32 (2の5乗)</td>
+                </tr>
+                <tr>
+                  <td>合計</td>
+                  <td>2+16+32=50</td>
+                </tr>
+                
+            </table>
+            と、上表のように、「1」の桁を2の何乗か重みを計算し、それぞれ足すだけで10進数へ変換できます。
+            <br><br>
+            この10進数と2進数の変換は、とても基本的で重要なことなので、何度か練習するなどして身につけておきたい変換方法です。
+            </p>
+            
+            
+            <h3>2進数と16進数の変換方法は？</h3>
+            <p><strong><mark>2進数と16進数の変換方法は、2進数4桁が16進数1桁であることに注目して変換します。</mark></strong>
+            <br><br>
+            例えば、2進数の「11011001」を16進数に変換してみます。
+            <p><img src="gallery/techimg/20210507/2進数と16進数.jpg" alt=""></p>
+            2進数と16進数の対応づけは、このように4桁ごとに分け、もし2進数「10111」などの場合は、「0111」と「0001」と分けて16進数に変換します。
+            <br><br>
+            また、10進数に一度変換すると手間ですが分かりやすくなります。
+            <br><br>
+            例えば、2進数「1110」を10進数にすると「8+4+2+0」=「14」です。10進数「14」を16進数にすると、「E」です。
+            <br><br>
+            大切なことは、○進数は、○個進むと1桁繰り上がることです。
+            <br><br>
+            また、コンピュータの世界では、2進数や16進数でやり取りしているということも大切です。
+            </p>
+
+          </div>
+        </div>
+        <br>
+      </div>
+         -->
+
+
+
+        <!-- id=0017 ※ID 2か所変更 -->
+        <!-- <div id="20210505"></div>
         <div class="schedule_wrapper">
           <br>
           <p id="avocado">2021年05月05日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
@@ -293,7 +716,10 @@
                   <div class="accbox">
                     <table id="feSelection">
                       <tr>
-                        <td>エ：ドメイン名やホスト名などとIPアドレスとを対応付ける。</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>ドメイン名やホスト名などとIPアドレスとを対応付ける。</td>
                       </tr>
                     </table>
                     <P>TCP/IPを利用したネットワークでは、各ノードを識別するため一意のIPアドレスが割り当てられていますが、このIPアドレスは数字の羅列で人間にとって覚えにくいため、IPアドレスと対応する別名であるドメイン名が付けられています。DNS(Domain Name System)はこのドメイン名とIPアドレスを結びつけて相互変換する(名前解決する)仕組みです。
@@ -558,7 +984,7 @@
 
 
           <div class="accbox">
-            <h3>第8問　</h3>
+            <h3>第8問　キーバリューストア</h3>
             <input type="checkbox" id="00008" class="cssacc" />
 
             <label for="00008"><span><i class="fas fa-book"></i>READ</span></label>
@@ -624,21 +1050,137 @@
             </div>
           </div>
 
+          <div class="accbox">
+            <h3>第9問　SIEM</h3>
+            <input type="checkbox" id="00009" class="cssacc" />
+
+            <label for="00009"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+
+              <em3>令和元年秋期　問43</em3>
+              <p id="feQuestion">SIEM(Security Information and Event Management)の機能はどれか。</p>
 
 
+              <h4>選択肢</h4>
+              <table id="feSelection">
+                <tr>
+                  <td>ア</td>
+                  <td>イ</td>
+                  <td>ウ</td>
+                  <td>エ</td>
+                </tr>
+                <tr>
+                  <td>隔離された仮想環境でファイルを実行して，C&Cサーバへの通信などの振る舞いを監視する。</td>
+                  <td>様々な機器から集められたログを総合的に分析し，管理者による分析と対応を支援する。</td>
+                  <td>ネットワーク上の様々な通信機器を集中的に制御し，ネットワーク構成やセキュリティ設定などを変更する。</td>
+                  <td>パケットのヘッダ情報の検査だけではなく，通信先のアプリケーショプログラムを識別して通信を制御する。</td>
+                </tr>
+              </table>
+
+              <div id="answer">
+                答え
+                <input type="checkbox" id="00009a" class="cssacc" />
+
+                <label for="00009a"><span>READ</span></label>
+                <div class="accshow">
+
+                  <h4>正解</h4>
+                  <div class="accbox">
+                    <table id="feSelection">
+                      <tr>
+                        <td>イ</td>
+                      </tr>
+                      <tr>
+                        <td>様々な機器から集められたログを総合的に分析し，管理者による分析と対応を支援する。</td>
+                      </tr>
+                    </table>
+                    <P>SIEM(シーム)は、OS、データベース、アプリケーション、ネットワーク機器など多様なソフトウェアや機器が出力する大量のログデータを分析し、異常があった場合に管理者に通知したり対策を知らせたりする仕組みです。日本語ではセキュリティ情報およびイベント管理と訳されます。
+                      <br><br>
+                      アは、サンドボックス技術を利用した機能です。
+                      <br><br>
+                      イは、SDN(Software Defined Network)の機能です。
+                      <br><br>
+                      エは、IPS(侵入防止システム)やWAF(Web Application Firewall)の機能です。SIEMには通信を制御する機能は備わっていません。
+                      <br><br>
+                    </p>
+                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
 
 
+          <div class="accbox">
+            <h3>第10問　SOAP</h3>
+            <input type="checkbox" id="00010" class="cssacc" />
 
+            <label for="00010"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+
+              <em3>平成23年秋期　問49</em3>
+              <p id="feQuestion">Webサービスを利用するときのSOAPの役割として，適切なものはどれか。</p>
+
+
+              <h4>選択肢</h4>
+              <table id="feSelection">
+                <tr>
+                  <td>ア</td>
+                  <td>イ</td>
+                  <td>ウ</td>
+                  <td>エ</td>
+                </tr>
+                <tr>
+                  <td>Webサービスのインタフェースを記述して，プログラムからサービスを利用できるようにする。</td>
+                  <td>Webサービスの情報を登録しておき，利用者がそのサービスを検索できるようにする。</td>
+                  <td>Webサービスの送受信プログラム間で， XML形式のメッセージを受け渡す。</td>
+                  <td>Webサービスプログラム間の配信保証や重複防止など，データ転送の信頼性を確保する。</td>
+                </tr>
+              </table>
+
+              <div id="answer">
+                答え
+                <input type="checkbox" id="00010a" class="cssacc" />
+
+                <label for="00010a"><span>READ</span></label>
+                <div class="accshow">
+
+                  <h4>正解</h4>
+                  <div class="accbox">
+                    <table id="feSelection">
+                      <tr>
+                        <td>ウ</td>
+                      </tr>
+                      <tr>
+                        <td>Webサービスの送受信プログラム間で， XML形式のメッセージを受け渡す。</td>
+                      </tr>
+                    </table>
+                    <P>SOAP(ソープ)は、ソフトウェア同士がメッセージを交換する遠隔手続き呼び出し(RPC)のためのプロトコルです。汎用なデータ形式であるXMLに基づいて記述されており、Webサービスにとって有効な手段の一つとなっています。
+                      <br><br>
+                      AmazonのWebサービスを例にすると、ソフトウェアが商品データを要求するときにXML形式であるSOAPリクエストを発行し、それに対してWebサービス側からも要求に基づいて商品データがSOAPメッセージとしてかえってくという仕組みです。
+                      <br><br>
+                      アは、WSDL(Web Services Description Language)の説明です。
+                      <br><br>
+                      イは、UDDI(Universal Description, Discovery and Integration)の説明です。
+                      <br><br>
+                      エは、WS-RM(Web Services-ReliableMessaging)の説明です。
+                    </p>
+                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div> 
 
           <br>
-        </div> -->
+        </div>  -->
 
 
         <!-- id=0016 -->
         <!--<div id="20210504"></div>
          <div class="schedule_wrapper">
         <br>
-        <p id="avocado">2021年05月04日 <i class="fas fa-laptop-code"></i>>基本情報処理技術者試験</p>
+        <p id="avocado">2021年05月04日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
         <h2 id="title">「午後試験」</h2>
         
 
@@ -740,42 +1282,42 @@
 
 
         <!--テンプレート id=0014 -->
-        <!-- <div id="20210502"></div>
-         <div class="schedule_wrapper">
-        <br>
-        <p id="avocado">2021年05月02日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
-        <h2 id="title">「午前試験　マネジメント系」</h2>
-        
+        <div id="20210502"></div>
+        <div class="schedule_wrapper">
+          <br>
+          <p id="avocado">2021年05月02日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
+          <h2 id="title">「午前試験　マネジメント系」</h2>
 
-        <div class="accbox">
 
-          <p><img src="gallery/techimg/20210430/managementGroup.png" alt="基本情報処理技術者試験のマネジメント系"></p>
+          <div class="accbox">
 
-          <input type="checkbox" id="0014" class="cssacc" />
+            <p><img src="gallery/techimg/20210430/managementGroup.png" alt="基本情報処理技術者試験のマネジメント系"></p>
 
-          <label for="0014"><span><i class="fas fa-book"></i>READ</span></label>
-          <div class="accshow">
-            <h3>午前試験「マネジメント系」とは？</h3>
-            <p><strong><mark>基本情報処理技術者試験の午前試験「マネジメント系」とは、品質マネジメントやサービスの設計などの組織やチームが永続的に発展するために不可欠な要素の分野です。</mark></strong>
-            <br><br>
-            午前試験では、80問中、以下のテーマから10問出題されます。
-            <br><br>
-            14．プロジェクトマネジメント(プロジェクトマネジメント・統合マネジメント・ステークホルダマネジメント・スコープマネジメント・タイムマネジメント・コストマネジメント・品質マネジメント・資源マネジメント・コミュニケーションマネジメント・リスクマネジメント・調達マネジメント)
-            <br><br>
-            15．サービスマネジメント(サービスマネジメント・サービスの設計/移行・サービスマネジメントプロセス・サービスの運用・ファシリティマネジメント)
-            <br><br>
-            16．システム監査(システム監査・内部統制)
-            <br><br>
-            以上の通り、範囲は狭いですが、システム開発の進捗管理やソフトウェアの品質管理などで用いられるPDCAサイクルなど、用語を知らないと解答できないことが多いでしょう。
-            <br><br>
-            予測で解答できてしまうこともありますが、覚えれば解答できるので、さらっと一通り過去問をやっておいた方が良いでしょう。
-            <br><br>
-            過去問は、<a href="https://www.fe-siken.com/">基本情報処理技術者試験ドットコム</a>を無料で利用するのが良いでしょう。
-            </p>
+            <input type="checkbox" id="0014" class="cssacc" />
+
+            <label for="0014"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+              <h3>午前試験「マネジメント系」とは？</h3>
+              <p><strong><mark>基本情報処理技術者試験の午前試験「マネジメント系」とは、品質マネジメントやサービスの設計などの組織やチームが永続的に発展するために不可欠な要素の分野です。</mark></strong>
+                <br><br>
+                午前試験では、80問中、以下のテーマから10問出題されます。
+                <br><br>
+                14．プロジェクトマネジメント(プロジェクトマネジメント・統合マネジメント・ステークホルダマネジメント・スコープマネジメント・タイムマネジメント・コストマネジメント・品質マネジメント・資源マネジメント・コミュニケーションマネジメント・リスクマネジメント・調達マネジメント)
+                <br><br>
+                15．サービスマネジメント(サービスマネジメント・サービスの設計/移行・サービスマネジメントプロセス・サービスの運用・ファシリティマネジメント)
+                <br><br>
+                16．システム監査(システム監査・内部統制)
+                <br><br>
+                以上の通り、範囲は狭いですが、システム開発の進捗管理やソフトウェアの品質管理などで用いられるPDCAサイクルなど、用語を知らないと解答できないことが多いでしょう。
+                <br><br>
+                予測で解答できてしまうこともありますが、覚えれば解答できるので、さらっと一通り過去問をやっておいた方が良いでしょう。
+                <br><br>
+                過去問は、<a href="https://www.fe-siken.com/">基本情報処理技術者試験ドットコム</a>を無料で利用するのが良いでしょう。
+              </p>
+            </div>
           </div>
+          <br>
         </div>
-        <br>
-      </div> -->
 
 
 
