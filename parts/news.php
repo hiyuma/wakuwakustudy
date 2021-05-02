@@ -46,6 +46,25 @@
         </li>
 
     <hr> -->
+        2021年05月20日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC021C20S1A500C2000000/" target="blank" rel="noopener">
+                東京都、新たに879人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCD302OO0Q1A430C2000000/" target="blank" rel="noopener">
+                復権する「計量経済学」　ITやコロナで活用広がる</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCD265520W1A420C2000000/" target="blank" rel="noopener">
+                「患者より経営」の民間病院　転換促すのは政府</a>
+        </li>
+
+    <hr>
 
         2021年05月01日
     
