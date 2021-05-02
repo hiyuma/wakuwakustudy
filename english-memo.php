@@ -3092,7 +3092,7 @@
                 <tr class="answer">
                 <td>原級比較の否定“not as ～ as …”「…ほど～でない」の形です。ちなみに、as ～ asは「等号（＝）」ではなく、「不等号（≧）」を表します。そのため、否定形は「<」を表して「…ほど～でない」となるわけです。「同じではない」と訳さないように注意してください。</td>
                 </tr>
-<!--
+
                 <tr>
                   <td id="number">105</td>
                 </tr>  
@@ -3205,7 +3205,7 @@
                 
                 
                 <tr>
-                  <td id="number">108</td>
+                  <td id="number">109</td>
                 </tr>  
 
             
@@ -3234,7 +3234,7 @@
                 </tr>
 
                 <tr>
-                  <td id="number">109</td>
+                  <td id="number">110</td>
                 </tr>  
 
             
@@ -3262,35 +3262,8 @@
                 <td>空所後のtoに注目して、prefer A to B「BよりAが好き」の形を選びます。これはラテン比較級と言われるもので、thanの代わりにtoを使うのが特徴です。ちなみに、他の選択肢もすべてラテン比較の重要表現なので、チェックしておきましょう。</td>
                 </tr>
 
-                <tr>
-                  <td id="number">110</td>
-                </tr>  
-
-            
-                <tr class="question">
-                  <td>
-                    
-                  </td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="selection">
-                  <td></td>
-                </tr>
-                <tr class="answer">
-                <td>Answer</td>
-                </tr>
-                <tr class="answer">
-                <td></td>
-                </tr>
-
+                
+<!--
                 <tr>
                   <td id="number">111</td>
                 </tr>  
