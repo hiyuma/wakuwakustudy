@@ -16,6 +16,10 @@
   <!-- <li>2021年05月04日</li>
   <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（基本情報処理技術者試験 ⑤「午後試験」）</a> 追加</span></div> -->
 
+  
+  <li>2021年05月03日</li>
+  <div class="info-children"><span><a href="gallery.php">PHOTO</a>（日常）更新</span></div>
+
   <li>2021年05月03日</li>
   <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（ 基本情報処理技術者試験 ④「午前試験　ストラテジ系」）</a> 追加</span></div>
 
