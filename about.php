@@ -83,7 +83,7 @@
           <div id="job-detail">
             <span class="box-title">※お仕事のご依頼</span>
 
-            ※現在、新規受付をしていません
+            <br><strong><mark>※恐れ入りますが、現在はお仕事の新規依頼の受付をしていません。予めご了承ください。</mark></strong>
 
             <p>お仕事のご相談も含め、お手数ですが、
             <br>
