@@ -46,6 +46,25 @@
         </li>
 
     <hr> -->
+        2021年05月03日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC031870T00C21A5000000/" target="blank" rel="noopener">
+                東京都、新たに708人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA2949P0Z20C21A4000000/" target="blank" rel="noopener">
+                健保危機、コロナで1年前倒し　改革機運は高まらず</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE2165B0R20C21A4000000/" target="blank" rel="noopener">
+                高齢者の「コロナ虚弱」深刻　体力など低下、運動機会を</a>
+        </li>
+
+    <hr>
         2021年05月02日
     
         <li>

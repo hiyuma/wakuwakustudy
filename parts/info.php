@@ -4,11 +4,14 @@
 
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
-  <!-- <li>2021年05月05日</li>
+    <!-- <li>2021年05月07日</li>
+  <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（基本情報処理技術者試験 ⑥「午前試験　テクノロジ系　過去問②」）</a> 追加</span></div> -->
+
+  <!-- <li>2021年05月06日</li>
   <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（基本情報処理技術者試験 ⑦「2進数と16進数」）</a> 追加</span></div> -->
 
   <!-- <li>2021年05月05日</li>
-  <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（基本情報処理技術者試験 ⑥「午前試験　過去問①」）</a> 追加</span></div> -->
+  <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（基本情報処理技術者試験 ⑥「午前試験　テクノロジ系　過去問①」）</a> 追加</span></div> -->
 
   <!-- <li>2021年05月04日</li>
   <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（基本情報処理技術者試験 ⑤「午後試験」）</a> 追加</span></div> -->
