@@ -62,9 +62,9 @@
       
                <li><a href="#20210505"> 2021年05月05日 基本情報処理技術者試験 ⑧「午前試験　テクノロジ系　過去問②」
                <li><a href="#20210506"> 2021年05月06日 基本情報処理技術者試験 ⑦「2進数/16進数」
-               <li><a href="#20210505"> 2021年05月05日 基本情報処理技術者試験 ⑥「午前試験　テクノロジ系　過去問①」</a></li>
-               <li><a href="#20210504"> 2021年05月04日 基本情報処理技術者試験 ⑤「午後試験」</a></li>-->
-               <li><a href="#20210503"> 2021年05月03日 基本情報処理技術者試験 ④「午前試験　ストラテジ系」</a></li>
+               <li><a href="#20210505"> 2021年05月05日 基本情報処理技術者試験 ⑥「午前試験　テクノロジ系　過去問①」</a></li>-->
+              <li><a href="#20210504"> 2021年05月04日 基本情報処理技術者試験 ⑤「午後試験」</a></li>
+              <li><a href="#20210503"> 2021年05月03日 基本情報処理技術者試験 ④「午前試験　ストラテジ系」</a></li>
               <li><a href="#20210502"> 2021年05月02日 基本情報処理技術者試験 ③「午前試験　マネジメント系」</a></li>
               <li><a href="#20210501"> 2021年05月01日 基本情報処理技術者試験 ②「午前試験　テクノロジ系」</a></li>
               <li><a href="#20210430"> 2021年04月30日 基本情報処理技術者試験 ①「基本情報処理技術者試験」</a></li>
@@ -133,7 +133,10 @@
                 </div>
               </div>
             </div>
-          </div> -->
+          </div> 
+          
+          <br>
+        </div>  -->
 
 
         <!--テンプレート id=00XX -->
@@ -167,6 +170,678 @@
         <br>
       </div>
          -->
+
+        <!-- id=0020 ※ID 2か所変更 -->
+        <!--<div id="20210508"></div>
+        <div class="schedule_wrapper">
+          <br>
+          <p id="avocado">2021年05月08日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
+          <h2 id="title">「午前試験　テクノロジ系　過去問③」</h2>
+
+          <div class="accbox">
+
+            <p><img src="gallery/techimg/20210509/feQuiz3.png" alt="基本情報処理技術者試験 過去問③"></p>
+            <h3>第21問　MIPS</h3>
+
+            <input type="checkbox" id="0021" class="cssacc" />
+
+            <label for="0021"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+
+              <em3>平成30年秋期　問9</em3>
+              <p id="feQuestion">動作クロック周波数が700MHzのCPUで，命令の実行に必要なクロック数とその命令の出現率が表に示す値である場合，このCPUの性能は約何MIPSか。</p>
+
+              <h4>選択肢</h4>
+              <table id="feSelection">
+                <tr>
+                  <td>ア</td>
+                  <td>イ</td>
+                  <td>ウ</td>
+                  <td>エ</td>
+                </tr>
+                <tr>
+                  <td>10</td>
+                  <td>50</td>
+                  <td>70</td>
+                  <td>100</td>
+                </tr>
+              </table>
+
+              <div id="answer">
+                答え
+                <input type="checkbox" id="0021a" class="cssacc" />
+
+                <label for="0021a"><span>READ</span></label>
+                <div class="accshow">
+
+                  <h4>正解</h4>
+
+                  <div class="accbox">
+                    <table id="feSelection">
+                      <tr>
+                        <td>エ</td>
+                      </tr>
+
+                      <tr>
+                        <td>100</td>
+                      </tr>
+                    </table>
+
+                    <P>まず1命令を実行するのに必要な平均クロック数を求めます。
+                      <br><br>
+                      各命令を実行するのに必要なクロック数に、出現率を乗じたものを足し合わせて、
+                      <br><br>
+                      (4×0.3)＋(8×0.6)＋(10×0.1)＝1.2＋4.8＋1.0＝7.0
+                      <br><br>
+                      この計算結果から、1命令に必要な平均クロック数は7クロックであるとわかります。
+                      <br><br>
+                      CPUの動作クロック数が700MHzなので、1秒間の命令実行可能回数は、
+                      <br><br>
+                      700×10(6乗)÷7＝100×10(6乗)回
+                      <br><br>
+                      MIPSは1秒間に実行できる命令数を百万単位で表す指標なので、このCPUの性能は100MIPSになります。したがって「エ」が正解です。
+                    </p>
+
+                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="accbox">
+            <h3>第22問　HTTPS</h3>
+            <input type="checkbox" id="00022" class="cssacc" />
+
+            <label for="00022"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+
+              <em3>平成26年秋期　問43</em3>
+              <p id="feQuestion">HTTPS(HTTP over SSL/TLS)の機能を用いて実現できるものはどれか。</p>
+
+
+              <h4>選択肢</h4>
+              <table id="feSelection">
+                <tr>
+                  <td>ア</td>
+                  <td>イ</td>
+                  <td>ウ</td>
+                  <td>エ</td>
+                </tr>
+                <tr>
+                  <td>SQLインジェクションによるWebサーバへの攻撃を防ぐ。</td>
+                  <td>TCPポート80番と443番以外の通信を遮断する。</td>
+                  <td>Webサーバとブラウザの間の通信を暗号化する。</td>
+                  <td>Webサーバへの不正なアクセスをネットワーク層でのパケットフィルタリングによって制限する。</td>
+                </tr>
+              </table>
+
+              <div id="answer">
+                答え
+                <input type="checkbox" id="00022a" class="cssacc" />
+
+                <label for="00022a"><span>READ</span></label>
+                <div class="accshow">
+
+                  <h4>正解</h4>
+                  <div class="accbox">
+                    <table id="feSelection">
+                      <tr>
+                        <td>ウ</td>
+                      </tr>
+                      <tr>
+                        <td>Webサーバとブラウザの間の通信を暗号化する。</td>
+                      </tr>
+                    </table>
+                    <P>HTTPSは、WebサーバとWebブラウザがデータを安全に送受信するために、SSL/TLSプロトコルによって生成されるセキュアな接続上でデータのやり取り(HTTP通信)を行う方式です。
+                    <br><br>
+                    HTTPは、平文のままで情報をやり取りするため個人情報の送信や電子決済などセキュリティが重要となる通信に使うことは危険が伴います。HTTPSではこの問題に対処するためSSL/TLSから提供される通信の暗号化，ノードの認証，改ざん検出などの機能を使用し、「なりすまし」や「盗聴」による攻撃から通信を保護できるようになっています。
+                    </p>
+                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div> 
+
+          <div class="accbox">
+            <h3>第23問　</h3>
+            <input type="checkbox" id="00023" class="cssacc" />
+
+            <label for="00023"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+
+              <em3></em3>
+              <p id="feQuestion"></p>
+
+
+              <h4>選択肢</h4>
+              <table id="feSelection">
+                <tr>
+                  <td>ア</td>
+                  <td>イ</td>
+                  <td>ウ</td>
+                  <td>エ</td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </table>
+
+              <div id="answer">
+                答え
+                <input type="checkbox" id="00023a" class="cssacc" />
+
+                <label for="00023a"><span>READ</span></label>
+                <div class="accshow">
+
+                  <h4>正解</h4>
+                  <div class="accbox">
+                    <table id="feSelection">
+                      <tr>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                      </tr>
+                    </table>
+                    <P>
+                    </p>
+                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div> 
+
+          <div class="accbox">
+            <h3>第24問　</h3>
+            <input type="checkbox" id="00024" class="cssacc" />
+
+            <label for="00024"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+
+              <em3></em3>
+              <p id="feQuestion"></p>
+
+
+              <h4>選択肢</h4>
+              <table id="feSelection">
+                <tr>
+                  <td>ア</td>
+                  <td>イ</td>
+                  <td>ウ</td>
+                  <td>エ</td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </table>
+
+              <div id="answer">
+                答え
+                <input type="checkbox" id="00024a" class="cssacc" />
+
+                <label for="00024a"><span>READ</span></label>
+                <div class="accshow">
+
+                  <h4>正解</h4>
+                  <div class="accbox">
+                    <table id="feSelection">
+                      <tr>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                      </tr>
+                    </table>
+                    <P>
+                    </p>
+                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div> 
+
+          <div class="accbox">
+            <h3>第25問　</h3>
+            <input type="checkbox" id="00025" class="cssacc" />
+
+            <label for="00025"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+
+              <em3></em3>
+              <p id="feQuestion"></p>
+
+
+              <h4>選択肢</h4>
+              <table id="feSelection">
+                <tr>
+                  <td>ア</td>
+                  <td>イ</td>
+                  <td>ウ</td>
+                  <td>エ</td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </table>
+
+              <div id="answer">
+                答え
+                <input type="checkbox" id="0000xa" class="cssacc" />
+
+                <label for="0000xa"><span>READ</span></label>
+                <div class="accshow">
+
+                  <h4>正解</h4>
+                  <div class="accbox">
+                    <table id="feSelection">
+                      <tr>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                      </tr>
+                    </table>
+                    <P>
+                    </p>
+                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div> 
+
+          <div class="accbox">
+            <h3>第26問　</h3>
+            <input type="checkbox" id="00026" class="cssacc" />
+
+            <label for="00026"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+
+              <em3></em3>
+              <p id="feQuestion"></p>
+
+
+              <h4>選択肢</h4>
+              <table id="feSelection">
+                <tr>
+                  <td>ア</td>
+                  <td>イ</td>
+                  <td>ウ</td>
+                  <td>エ</td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </table>
+
+              <div id="answer">
+                答え
+                <input type="checkbox" id="00026a" class="cssacc" />
+
+                <label for="00026a"><span>READ</span></label>
+                <div class="accshow">
+
+                  <h4>正解</h4>
+                  <div class="accbox">
+                    <table id="feSelection">
+                      <tr>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                      </tr>
+                    </table>
+                    <P>
+                    </p>
+                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div> 
+
+          <div class="accbox">
+            <h3>第27問　</h3>
+            <input type="checkbox" id="00027 class="cssacc" />
+
+            <label for="00027"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+
+              <em3></em3>
+              <p id="feQuestion"></p>
+
+
+              <h4>選択肢</h4>
+              <table id="feSelection">
+                <tr>
+                  <td>ア</td>
+                  <td>イ</td>
+                  <td>ウ</td>
+                  <td>エ</td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </table>
+
+              <div id="answer">
+                答え
+                <input type="checkbox" id="00027a" class="cssacc" />
+
+                <label for="00027a"><span>READ</span></label>
+                <div class="accshow">
+
+                  <h4>正解</h4>
+                  <div class="accbox">
+                    <table id="feSelection">
+                      <tr>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                      </tr>
+                    </table>
+                    <P>
+                    </p>
+                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div> 
+
+          <div class="accbox">
+            <h3>第28問　</h3>
+            <input type="checkbox" id="00028" class="cssacc" />
+
+            <label for="00028"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+
+              <em3></em3>
+              <p id="feQuestion"></p>
+
+
+              <h4>選択肢</h4>
+              <table id="feSelection">
+                <tr>
+                  <td>ア</td>
+                  <td>イ</td>
+                  <td>ウ</td>
+                  <td>エ</td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </table>
+
+              <div id="answer">
+                答え
+                <input type="checkbox" id="00028a" class="cssacc" />
+
+                <label for="00028a"><span>READ</span></label>
+                <div class="accshow">
+
+                  <h4>正解</h4>
+                  <div class="accbox">
+                    <table id="feSelection">
+                      <tr>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                      </tr>
+                    </table>
+                    <P>
+                    </p>
+                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div> 
+
+          <div class="accbox">
+            <h3>第29問　</h3>
+            <input type="checkbox" id="00029" class="cssacc" />
+
+            <label for="00029"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+
+              <em3></em3>
+              <p id="feQuestion"></p>
+
+
+              <h4>選択肢</h4>
+              <table id="feSelection">
+                <tr>
+                  <td>ア</td>
+                  <td>イ</td>
+                  <td>ウ</td>
+                  <td>エ</td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </table>
+
+              <div id="answer">
+                答え
+                <input type="checkbox" id="00029a" class="cssacc" />
+
+                <label for="00029a"><span>READ</span></label>
+                <div class="accshow">
+
+                  <h4>正解</h4>
+                  <div class="accbox">
+                    <table id="feSelection">
+                      <tr>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                      </tr>
+                    </table>
+                    <P>
+                    </p>
+                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div> 
+
+          <div class="accbox">
+            <h3>第30問　</h3>
+            <input type="checkbox" id="00030" class="cssacc" />
+
+            <label for="00030"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+
+              <em3></em3>
+              <p id="feQuestion"></p>
+
+
+              <h4>選択肢</h4>
+              <table id="feSelection">
+                <tr>
+                  <td>ア</td>
+                  <td>イ</td>
+                  <td>ウ</td>
+                  <td>エ</td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </table>
+
+              <div id="answer">
+                答え
+                <input type="checkbox" id="00030a" class="cssacc" />
+
+                <label for="00030a"><span>READ</span></label>
+                <div class="accshow">
+
+                  <h4>正解</h4>
+                  <div class="accbox">
+                    <table id="feSelection">
+                      <tr>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                      </tr>
+                    </table>
+                    <P>
+                    </p>
+                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div> 
+
+          <div class="accbox">
+            <h3>第31問　</h3>
+            <input type="checkbox" id="00031" class="cssacc" />
+
+            <label for="00031"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+
+              <em3></em3>
+              <p id="feQuestion"></p>
+
+
+              <h4>選択肢</h4>
+              <table id="feSelection">
+                <tr>
+                  <td>ア</td>
+                  <td>イ</td>
+                  <td>ウ</td>
+                  <td>エ</td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </table>
+
+              <div id="answer">
+                答え
+                <input type="checkbox" id="00031a" class="cssacc" />
+
+                <label for="00031a"><span>READ</span></label>
+                <div class="accshow">
+
+                  <h4>正解</h4>
+                  <div class="accbox">
+                    <table id="feSelection">
+                      <tr>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                      </tr>
+                    </table>
+                    <P>
+                    </p>
+                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div> 
+
+          <div class="accbox">
+            <h3>第32問　</h3>
+            <input type="checkbox" id="00032" class="cssacc" />
+
+            <label for="00032"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+
+              <em3></em3>
+              <p id="feQuestion"></p>
+
+
+              <h4>選択肢</h4>
+              <table id="feSelection">
+                <tr>
+                  <td>ア</td>
+                  <td>イ</td>
+                  <td>ウ</td>
+                  <td>エ</td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </table>
+
+              <div id="answer">
+                答え
+                <input type="checkbox" id="00032a" class="cssacc" />
+
+                <label for="00032a"><span>READ</span></label>
+                <div class="accshow">
+
+                  <h4>正解</h4>
+                  <div class="accbox">
+                    <table id="feSelection">
+                      <tr>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                      </tr>
+                    </table>
+                    <P>
+                    </p>
+                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div> 
+          
+
+         <br>
+        </div>
+
+        -->
+
+
 
         <!-- id=0019 ※ID 2か所変更 -->
         <!-- <div id="20210507"></div>
@@ -638,7 +1313,7 @@
             </div>
 
             <div class="accbox">
-              <h3>第19問　</h3>
+              <h3>第19問　CPI(Clocks Per Instruction)</h3>
               <input type="checkbox" id="00019" class="cssacc" />
 
               <label for="00019"><span><i class="fas fa-book"></i>READ</span></label>
@@ -698,7 +1373,7 @@
             </div>
 
             <div class="accbox">
-              <h3>第20問　</h3>
+              <h3>第20問　パリティチェック</h3>
               <input type="checkbox" id="00020" class="cssacc" />
 
               <label for="00020"><span><i class="fas fa-book"></i>READ</span></label>
@@ -759,8 +1434,8 @@
           </div>
           -->
 
-          <!-- id=0018 -->
-          <!--<div id="20210506"></div>
+        <!-- id=0018 -->
+        <!--<div id="20210506"></div>
          <div class="schedule_wrapper">
         <br>
         <p id="avocado">2021年05月06日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
@@ -1123,8 +1798,8 @@
 
 
 
-          <!-- id=0017 ※ID 2か所変更 -->
-          <!-- <div id="20210505"></div>
+        <!-- id=0017 ※ID 2か所変更 -->
+        <!-- <div id="20210505"></div>
         <div class="schedule_wrapper">
           <br>
           <p id="avocado">2021年05月05日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
@@ -1766,60 +2441,60 @@
         </div>  -->
 
 
-          <!-- id=0016 -->
-          <!--<div id="20210504"></div>
-         <div class="schedule_wrapper">
-        <br>
-        <p id="avocado">2021年05月04日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
-        <h2 id="title">「午後試験」</h2>
-        
+        <!-- id=0016 -->
+        <div id="20210504"></div>
+        <div class="schedule_wrapper">
+          <br>
+          <p id="avocado">2021年05月04日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
+          <h2 id="title">「午後試験」</h2>
+          <p><img src="gallery/techimg/20210505/fePm.png" alt="基本情報処理技術者試験の午後試験"></p>
 
-        <div class="accbox">
+          <div class="accbox">
 
-          <p><img src="gallery/techimg" alt=""></p>
+            <p><img src="gallery/techimg" alt=""></p>
 
-          <input type="checkbox" id="00XX" class="cssacc" />
+            <input type="checkbox" id="00XX" class="cssacc" />
 
-          <label for="00XX"><span><i class="fas fa-book"></i>READ</span></label>
-          <div class="accshow">
-            <h3>午後試験の内容は？</h3>
-            <p><strong><mark>基本情報処理技術者試験の午後試験の内容は、コンピュータシステム、情報セキュリティ、ソフトウェア設計、開発、マネジメント、ストラテジの範囲で、11問中、5問を選択して、150分で解答します。</mark></strong>
-            <br><br>
-            以上の範囲で、必須選択は、情報セキュリティ20点、アルゴリズム25点、ソフトウェア開発25点で合計 70点です。
-            <br><br>
-            ソフトウェア開発のプログラム言語では、COBOLが廃止され、人気高いPythonが追加されました。
-            <br><br>
-            現在は、C言語，Java，Python，アセンブラ言語，表計算ソフトからの選択制となっています。
-            <br><br>
-            午後試験の問題数は2019年以前の試験では13問より7問を選択して解答する形式となっていました。
-            <br><br>
-            2020年の試験からは11問から5問を選択へ変更になり、問題数は減りましたが、ボリュームが増加したため、試験にかかる時間は同等と考えられます。
-            <br><br>
-            午前試験は、時間が足りないことは、ほぼなく、時間が余るくらいだと思いますが、午後問題では、意識していないとほぼ、時間が足りなくなるでしょう。
-            <br><br>
-            ちなみに、午後試験は、過去問と同じ問題は出題されません。
-            <br><br>
-            ただし、基本情報技術者試験の午前、午後の試験範囲は同じです。
-            <br><br>
-            午前は基礎的な問題、午後はその応用、発展系の問題です。
-            <br><br>
-            まず、午前試験の対策をしっかり行い、基礎を学んでおけば、午後試験の応用が効くようになるでしょう。
-            <br><br>
-            ですので、午後試験対策は、午前試験対策の後に行う順序が良いでしょう。
-            <br><br>
-            午後試験の勉強方法は、午前試験対策をした上で、過去問をじっくり解いて理解することが大切です。
-            <br><br>
-            午後試験の対策は、eラーニングや書物での勉強も良いですし、<a href="https://www.fe-siken.com/">基本情報処理技術者試験ドットコム</a>を利用するのも良いでしょう。
-            <br><br>
-            午後試験は、一つの問題が長く集中力が必要なので、何度か解いて、問題型式に慣れておきたいところです。
-            </p>
+            <label for="00XX"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+              <h3>午後試験の内容は？</h3>
+              <p><strong><mark>基本情報処理技術者試験の午後試験の内容は、コンピュータシステム、情報セキュリティ、ソフトウェア設計、開発、マネジメント、ストラテジの範囲で、11問中、5問を選択して、150分で解答します。</mark></strong>
+                <br><br>
+                以上の範囲で、必須選択は、情報セキュリティ20点、アルゴリズム25点、ソフトウェア開発25点で合計 70点です。
+                <br><br>
+                ソフトウェア開発のプログラム言語では、COBOLが廃止され、人気高いPythonが追加されました。
+                <br><br>
+                現在は、C言語，Java，Python，アセンブラ言語，表計算ソフトからの選択制となっています。
+                <br><br>
+                午後試験の問題数は2019年以前の試験では13問より7問を選択して解答する形式となっていました。
+                <br><br>
+                2020年の試験からは11問から5問を選択へ変更になり、問題数は減りましたが、ボリュームが増加したため、試験にかかる時間は同等と考えられます。
+                <br><br>
+                午前試験は、時間が足りないことは、ほぼなく、時間が余るくらいだと思いますが、午後問題では、意識していないとほぼ、時間が足りなくなるでしょう。
+                <br><br>
+                ちなみに、午後試験は、過去問と同じ問題は出題されません。
+                <br><br>
+                ただし、基本情報技術者試験の午前、午後の試験範囲は同じです。
+                <br><br>
+                午前は基礎的な問題、午後はその応用、発展系の問題です。
+                <br><br>
+                まず、午前試験の対策をしっかり行い、基礎を学んでおけば、午後試験の応用が効くようになるでしょう。
+                <br><br>
+                ですので、午後試験対策は、午前試験対策の後に行う順序が良いでしょう。
+                <br><br>
+                午後試験の勉強方法は、午前試験対策をした上で、過去問をじっくり解いて理解することが大切です。
+                <br><br>
+                午後試験の対策は、eラーニングや書物での勉強も良いですし、<a href="https://www.fe-siken.com/">基本情報処理技術者試験ドットコム</a>を利用するのも良いでしょう。
+                <br><br>
+                午後試験は、一つの問題が長く集中力が必要なので、何度か解いて、問題型式に慣れておきたいところです。
+              </p>
+            </div>
           </div>
+          <br>
         </div>
-        <br>
-      </div>
-         -->
 
-          <!--テンプレート id=0015 -->
+
+        <!--テンプレート id=0015 -->
         <div id="20210503"></div>
         <div class="schedule_wrapper">
           <br>
@@ -1871,315 +2546,315 @@
 
 
 
-          <!--テンプレート id=0014 -->
-          <div id="20210502"></div>
-          <div class="schedule_wrapper">
-            <br>
-            <p id="avocado">2021年05月02日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
-            <h2 id="title">「午前試験　マネジメント系」</h2>
+        <!--テンプレート id=0014 -->
+        <div id="20210502"></div>
+        <div class="schedule_wrapper">
+          <br>
+          <p id="avocado">2021年05月02日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
+          <h2 id="title">「午前試験　マネジメント系」</h2>
 
 
-            <div class="accbox">
+          <div class="accbox">
 
-              <p><img src="gallery/techimg/20210430/managementGroup.png" alt="基本情報処理技術者試験のマネジメント系"></p>
+            <p><img src="gallery/techimg/20210430/managementGroup.png" alt="基本情報処理技術者試験のマネジメント系"></p>
 
-              <input type="checkbox" id="0014" class="cssacc" />
+            <input type="checkbox" id="0014" class="cssacc" />
 
-              <label for="0014"><span><i class="fas fa-book"></i>READ</span></label>
-              <div class="accshow">
-                <h3>午前試験「マネジメント系」とは？</h3>
-                <p><strong><mark>基本情報処理技術者試験の午前試験「マネジメント系」とは、品質マネジメントやサービスの設計などの組織やチームが永続的に発展するために不可欠な要素の分野です。</mark></strong>
-                  <br><br>
-                  午前試験では、80問中、以下のテーマから10問出題されます。
-                  <br><br>
-                  14．プロジェクトマネジメント(プロジェクトマネジメント・統合マネジメント・ステークホルダマネジメント・スコープマネジメント・タイムマネジメント・コストマネジメント・品質マネジメント・資源マネジメント・コミュニケーションマネジメント・リスクマネジメント・調達マネジメント)
-                  <br><br>
-                  15．サービスマネジメント(サービスマネジメント・サービスの設計/移行・サービスマネジメントプロセス・サービスの運用・ファシリティマネジメント)
-                  <br><br>
-                  16．システム監査(システム監査・内部統制)
-                  <br><br>
-                  以上の通り、範囲は狭いですが、システム開発の進捗管理やソフトウェアの品質管理などで用いられるPDCAサイクルなど、用語を知らないと解答できないことが多いでしょう。
-                  <br><br>
-                  予測で解答できてしまうこともありますが、覚えれば解答できるので、さらっと一通り過去問をやっておいた方が良いでしょう。
-                  <br><br>
-                  過去問は、<a href="https://www.fe-siken.com/">基本情報処理技術者試験ドットコム</a>を無料で利用するのが良いでしょう。
-                </p>
-              </div>
+            <label for="0014"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+              <h3>午前試験「マネジメント系」とは？</h3>
+              <p><strong><mark>基本情報処理技術者試験の午前試験「マネジメント系」とは、品質マネジメントやサービスの設計などの組織やチームが永続的に発展するために不可欠な要素の分野です。</mark></strong>
+                <br><br>
+                午前試験では、80問中、以下のテーマから10問出題されます。
+                <br><br>
+                14．プロジェクトマネジメント(プロジェクトマネジメント・統合マネジメント・ステークホルダマネジメント・スコープマネジメント・タイムマネジメント・コストマネジメント・品質マネジメント・資源マネジメント・コミュニケーションマネジメント・リスクマネジメント・調達マネジメント)
+                <br><br>
+                15．サービスマネジメント(サービスマネジメント・サービスの設計/移行・サービスマネジメントプロセス・サービスの運用・ファシリティマネジメント)
+                <br><br>
+                16．システム監査(システム監査・内部統制)
+                <br><br>
+                以上の通り、範囲は狭いですが、システム開発の進捗管理やソフトウェアの品質管理などで用いられるPDCAサイクルなど、用語を知らないと解答できないことが多いでしょう。
+                <br><br>
+                予測で解答できてしまうこともありますが、覚えれば解答できるので、さらっと一通り過去問をやっておいた方が良いでしょう。
+                <br><br>
+                過去問は、<a href="https://www.fe-siken.com/">基本情報処理技術者試験ドットコム</a>を無料で利用するのが良いでしょう。
+              </p>
             </div>
-            <br>
           </div>
+          <br>
+        </div>
 
 
 
 
 
-          <!--テンプレート id=0013 -->
-          <div id="20210501"></div>
-          <div class="schedule_wrapper">
-            <br>
-            <p id="avocado">2021年05月01日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
-            <h2 id="title">「午前試験　テクノロジ系」</h2>
+        <!--テンプレート id=0013 -->
+        <div id="20210501"></div>
+        <div class="schedule_wrapper">
+          <br>
+          <p id="avocado">2021年05月01日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
+          <h2 id="title">「午前試験　テクノロジ系」</h2>
 
 
-            <div class="accbox">
+          <div class="accbox">
 
-              <p><img src="gallery/techimg/20210430/technologyGroup.png" alt="基本情報処理技術者試験のテクノロジ系"></p>
+            <p><img src="gallery/techimg/20210430/technologyGroup.png" alt="基本情報処理技術者試験のテクノロジ系"></p>
 
-              <input type="checkbox" id="0013" class="cssacc" />
+            <input type="checkbox" id="0013" class="cssacc" />
 
-              <label for="0013"><span><i class="fas fa-book"></i>READ</span></label>
-              <div class="accshow">
-                <h3>午前試験「テクノロジ系」とは？</h3>
-                <p><strong><mark>基本情報処理技術者試験の「テクノロジ系」とは、アルゴリズムとプログラミング、ハードウェア、ソフトウェアなど、他分野より出題数が多い技術的な分野です。</mark></strong>
-                  <br><br>
-                  このテクノロジ系で、正答率が高ければ、かなり合格に近づけます。
-                  <br><br>
-                  範囲は広いですが、約70％は過去問題と同じものが出題される傾向にあります。
-                  <br><br>
-                  以下の、13のテーマから午前80問中の50問が出題されます。
-                  <br><br>
-                  1．基礎理論(離散数学・応用数学・情報理論・通信理論・計測制御理論)
-                  <br><br>
-                  2．アルゴリズムとプログラミング(データ構造・アルゴリズム・プログラミング・プログラム言語・マークアップ言語など)
-                  <br><br>
-                  3．コンピュータ構成要素(プロセッサ・メモリ・バス・入出力デバイス・入出力装置)
-                  <br><br>
-                  4．システム構成要素(システムの構成・システム評価指標)
-                  <br><br>
-                  5．ソフトウェア(オペレーティングシステム・ミドルウェア・ファイルシステム・開発ツール・オープンソースソフトウェア)
-                  <br><br>
-                  6．ハードウェア(ハードウェア全般)
-                  <br><br>
-                  7．ヒューマンインターフェイス(ヒューマンインターフェイス技術・インターフェイス設計)
-                  <br><br>
-                  8．マルチメディア(マルチメディア技術・マルチメディア応用)
-                  <br><br>
-                  9．データベース(データベース方式・データベース設計・データ操作・トランザクション処理・データベース応用)
-                  <br><br>
-                  10．ネットワーク(ネットワーク方式・データ通信と制御・通信プロトコル・ネットワーク管理・ネットワーク応用)
-                  <br><br>
-                  11．セキュリティ(情報セキュリティ・情報セキュリティ管理・セキュリティ技術評価・情報セキュリティ対策・セキュリティ実装技術)
-                  <br><br>
-                  12．システム開発技術(システム要件定義・システム方式設計・ソフトウェア要件定義・ソフトウェア方式設計・ソフトウェア詳細設計・ソフトウェア構築・ソフトウェア結合/ソフトウェア適格性確認テスト・システム結合/システム適格性確認テスト・導入・受入支援・保守・廃棄)
-                  <br><br>
-                  13．ソフトウェア開発管理技術(開発プロセス手法・知的財産適用管理・開発環境管理・構成管理・変更管理)
-                  <br><br>
-                  プログラミングやエンジニアを経験している人なら、イメージしやすい問題が多いですが、初心者がイメージするのはなかなか難しいんじゃないかと思える問題も出てきます。
-                  <br><br>
-                  ただ、多くは、過去問と同じものがでますので、答えを覚えてしまえば、解答できてしまいます。
-                  <br><br>
-                  過去問は、<a href="https://www.fe-siken.com/">基本情報処理技術者試験ドットコム</a>を無料で利用するのが良いでしょう。
-                  <br><br>
-                  それでも、過去問を覚えるだけでは、本当の意味で基本情報処理技術者とは言えません。
-                  <br><br>
-                  しっかりと基本を身に着けておくためには、基本情報処理技術者試験受験者の中では有名ですが、<a href="https://www.amazon.co.jp/dp/B08PPJPZ4V/ref=dp_kinw_strp_1">「キタミ式イラストIT塾 基本情報技術者」</a>などの書物を読むことが望まれます。
-                </p>
-              </div>
+            <label for="0013"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+              <h3>午前試験「テクノロジ系」とは？</h3>
+              <p><strong><mark>基本情報処理技術者試験の「テクノロジ系」とは、アルゴリズムとプログラミング、ハードウェア、ソフトウェアなど、他分野より出題数が多い技術的な分野です。</mark></strong>
+                <br><br>
+                このテクノロジ系で、正答率が高ければ、かなり合格に近づけます。
+                <br><br>
+                範囲は広いですが、約70％は過去問題と同じものが出題される傾向にあります。
+                <br><br>
+                以下の、13のテーマから午前80問中の50問が出題されます。
+                <br><br>
+                1．基礎理論(離散数学・応用数学・情報理論・通信理論・計測制御理論)
+                <br><br>
+                2．アルゴリズムとプログラミング(データ構造・アルゴリズム・プログラミング・プログラム言語・マークアップ言語など)
+                <br><br>
+                3．コンピュータ構成要素(プロセッサ・メモリ・バス・入出力デバイス・入出力装置)
+                <br><br>
+                4．システム構成要素(システムの構成・システム評価指標)
+                <br><br>
+                5．ソフトウェア(オペレーティングシステム・ミドルウェア・ファイルシステム・開発ツール・オープンソースソフトウェア)
+                <br><br>
+                6．ハードウェア(ハードウェア全般)
+                <br><br>
+                7．ヒューマンインターフェイス(ヒューマンインターフェイス技術・インターフェイス設計)
+                <br><br>
+                8．マルチメディア(マルチメディア技術・マルチメディア応用)
+                <br><br>
+                9．データベース(データベース方式・データベース設計・データ操作・トランザクション処理・データベース応用)
+                <br><br>
+                10．ネットワーク(ネットワーク方式・データ通信と制御・通信プロトコル・ネットワーク管理・ネットワーク応用)
+                <br><br>
+                11．セキュリティ(情報セキュリティ・情報セキュリティ管理・セキュリティ技術評価・情報セキュリティ対策・セキュリティ実装技術)
+                <br><br>
+                12．システム開発技術(システム要件定義・システム方式設計・ソフトウェア要件定義・ソフトウェア方式設計・ソフトウェア詳細設計・ソフトウェア構築・ソフトウェア結合/ソフトウェア適格性確認テスト・システム結合/システム適格性確認テスト・導入・受入支援・保守・廃棄)
+                <br><br>
+                13．ソフトウェア開発管理技術(開発プロセス手法・知的財産適用管理・開発環境管理・構成管理・変更管理)
+                <br><br>
+                プログラミングやエンジニアを経験している人なら、イメージしやすい問題が多いですが、初心者がイメージするのはなかなか難しいんじゃないかと思える問題も出てきます。
+                <br><br>
+                ただ、多くは、過去問と同じものがでますので、答えを覚えてしまえば、解答できてしまいます。
+                <br><br>
+                過去問は、<a href="https://www.fe-siken.com/">基本情報処理技術者試験ドットコム</a>を無料で利用するのが良いでしょう。
+                <br><br>
+                それでも、過去問を覚えるだけでは、本当の意味で基本情報処理技術者とは言えません。
+                <br><br>
+                しっかりと基本を身に着けておくためには、基本情報処理技術者試験受験者の中では有名ですが、<a href="https://www.amazon.co.jp/dp/B08PPJPZ4V/ref=dp_kinw_strp_1">「キタミ式イラストIT塾 基本情報技術者」</a>などの書物を読むことが望まれます。
+              </p>
             </div>
-            <br>
           </div>
+          <br>
+        </div>
 
 
 
-          <!-- id=0011 -->
-          <div id="20210430"></div>
-          <div class="schedule_wrapper">
-            <br>
-            <p id="avocado">2021年04月30日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
-            <h2 id="title">「基本情報処理技術者試験」</h2>
+        <!-- id=0011 -->
+        <div id="20210430"></div>
+        <div class="schedule_wrapper">
+          <br>
+          <p id="avocado">2021年04月30日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
+          <h2 id="title">「基本情報処理技術者試験」</h2>
 
 
-            <div class="accbox">
+          <div class="accbox">
 
-              <p><img src="gallery/techimg/20210430/FE.png" alt="基本情報処理技術者試験"></p>
+            <p><img src="gallery/techimg/20210430/FE.png" alt="基本情報処理技術者試験"></p>
 
-              <input type="checkbox" id="0011" class="cssacc" />
+            <input type="checkbox" id="0011" class="cssacc" />
 
-              <label for="0011"><span><i class="fas fa-book"></i>READ</span></label>
-              <div class="accshow">
-                <h3>”基本情報処理技術者試験”とは？</h3>
-                <p><img src="gallery/techimg/20210430/infoTable.jpg" alt="情報処理技術者試験の区分"></p>
-                <em3>写真：情報処理技術者試験の区分</em3>
-                <p><strong><mark>「基本情報処理技術者試験」とは「情報処理の促進に関する法律第29条第1項」に基づき、経済産業大臣が行う国家試験「情報処理技術者試験」の1つです。</strong></mark>
-                  <br><br>
-                  多くは、SE（システムエンジニア）やPG（プログラマー）などのIT技術を提供する人、そこに関連する、しようとしている人を対象とした試験です。
-                  <br><br>
-                  同じ国家試験の「ITパスポート試験」がレベル1だとすると、「基本情報技術者試験」はレベル2の位置づけであり、合格することでIT力の向上が望めます。
-                  <br><br>
-                  新型コロナの影響で最近は人数が減っているようですが、年間10万人以上が受験する人気のあります。
-                  <br><br>
-                  合格率は、約25%と、IT関連の仕事をしている人でも、ある程度しっかり勉強して挑む必要があるレベルです。
-                  <br><br>
-                  そして、学校でプログラミング必修化されたことや日本のIT化遅れも相まって、今後の日本の課題となっているIT化を進めていくためにも「基本情報処理技術者試験」は取っておきたい資格です。
-                </p>
-
-                <h3>”基本情報処理技術者試験”の午後と午前とは？</h3>
-                <p><img src="gallery/techimg/20210430/ampmInfo.jpg" alt="基本情報処理技術者試験の午前と午後"></p>
-
-                <p><strong><mark>「基本情報技術者試験」は、「午前試験」と「午後試験」に分かれています。</strong></mark>
-                  <br><br>
-                  一般的に言う「昼前の午前」「昼後の午後」とは違います。
-                  <br><br>
-                  午前試験と午後試験は時間帯の違いではなく、問題内容や型式の違いがあります。
-                  <br><br>
-                  午前、午後とともに、150分間の試験で、合計すると300分(5時間)もあります。
-                  <br><br>
-                  午前は、テクノロジ系50問（ハードウェアからプログラミング・アルゴリズムなど、IT技術や計算に関する問題）とマネジメント系10問（運営、サービスマネジメント、システム監査などに関する問題）、ストラテジ系20問（経営戦略マネジメント、システム戦略、企画、企業活動などに関する問題）の合計80問の構成です。
-                  <br><br>
-                  午後は、コンピュータシステム、情報セキュリティ、データ構造及びアルゴリズム、ソフトウェア開発、マネジメント、ストラテジの範囲から長文の大問形式です。
-                  <br><br>
-                  2020年から、プログラミング言語「Python」の追加され、出題数と解答数が、11問の出題から5問を選択して解答する形式に変更されました。
-                  <br><br>
-                  また、「COBOL（コボル）」の問題はなくなりました。
-                  <br><br>
-                  プログラミング言語の中でも、人気上昇中のPythonが、もう古くなったCOBOLと入れ替わった形となっています。
-                  <br><br>
-                  また、午後は、2020年データ構造及びアルゴリズム、ソフトウェア開発の配点が合計50点に増えました。
-                  <br><br>
-                  やはり、プログラミングと密接に関連のある分野で、プログラミングに関する知識への重要度が高まっています。
-                </p>
-                <h3>”CBT方式”とは？</h3>
-                <p>
-                  令和2年度から、「基本情報技術者試験」（FE）は、CBT（Computer Based Testing）方式により実施しています。
-                  <br><br>
-                  <strong><mark>CBT方式とは、簡単に言うと、試験会場へ行き、パソコンを使って受験する方式です。</strong></mark>
-                  <br><br>
-                  問題用紙やマークシートを用いる筆記試験とは異なります。
-                  <br><br>
-                  受験者はパソコンに表示される問題を、マウスやキーボードを使って解答します。
-                  <br><br>
-                  また、スピーキング問題がある場合は、マイクを使って解答します。
-                  <br><br>
-                  CBT方式を使えば、受験者の利便性を上げられます。
-                  <br><br>
-                  受験者は、試験日時や試験会場が指定されるわけではなく、受験者自身が日時や会場を選ぶため、受験機会が格段に増えます。
-                  <br><br>
-                  自宅の近くの会場で、自分の好きなタイミングで受験できることがCBT方式の大きなメリットと言えるでしょう。
-                </p>
-                <h3>”基本情報処理技術者試験”の料金と申し込み方法は？</h3>
-
-                <p><strong><mark>”基本情報処理技術者試験”の受験手数料は、5,700円（税込み）です。</strong></mark>
-                  <br><br>
-                  支払い方法は、クレジットカード決済、ペイジー（Pay-easy）による払込み、コンビニ利用による払込みの3つがあります。
-                  <br><br>
-                  <strong><mark>申し込み方法は、インターネットでの申し込みのみです。</strong></mark>
-                  <br><br>
-                  インターネットでの申し込みは、プロメトリックが管理する<a href="http://pf.prometric-jp.com/testlist/fe/index.html">ページ</a>から、申し込みができます。
-                  <br><br>
-                  午前と午後は、それぞれ同じ日でも、別の日でも受けることが可能ですが、受験可能な期間が異なりますので予約する際に注意が必要です。
-                <p><img src="gallery/techimg/20210430/scheduleInfo.jpg" alt="基本情報処理技術者試験の予約"></p>
-                また、始めてプロメトリックのページを利用する場合は、プロメトリックIDを新規取得してから予約する必要があります。
+            <label for="0011"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+              <h3>”基本情報処理技術者試験”とは？</h3>
+              <p><img src="gallery/techimg/20210430/infoTable.jpg" alt="情報処理技術者試験の区分"></p>
+              <em3>写真：情報処理技術者試験の区分</em3>
+              <p><strong><mark>「基本情報処理技術者試験」とは「情報処理の促進に関する法律第29条第1項」に基づき、経済産業大臣が行う国家試験「情報処理技術者試験」の1つです。</strong></mark>
                 <br><br>
-                申込みの順序にかかわらず、午前と午後はどちらを先に受験しても問題はありません。
+                多くは、SE（システムエンジニア）やPG（プログラマー）などのIT技術を提供する人、そこに関連する、しようとしている人を対象とした試験です。
                 <br><br>
-                それぞれ、試験期間内において、同一試験の申込みは1回のみです。
-                </p>
+                同じ国家試験の「ITパスポート試験」がレベル1だとすると、「基本情報技術者試験」はレベル2の位置づけであり、合格することでIT力の向上が望めます。
+                <br><br>
+                新型コロナの影響で最近は人数が減っているようですが、年間10万人以上が受験する人気のあります。
+                <br><br>
+                合格率は、約25%と、IT関連の仕事をしている人でも、ある程度しっかり勉強して挑む必要があるレベルです。
+                <br><br>
+                そして、学校でプログラミング必修化されたことや日本のIT化遅れも相まって、今後の日本の課題となっているIT化を進めていくためにも「基本情報処理技術者試験」は取っておきたい資格です。
+              </p>
 
-                <h3>IT関連職を目指すなら”基本情報処理技術者試験”を受けてみよう！</h3>
-                <p>
-                  既にシステムエンジニアやプログラマーなどのIT関連職であれば、「ITパスポート」を受験するよりも、「基本情報処理技術者試験」を取得した方が実用的だと言えます。
-                  <br><br>
-                  ただ、IT関連職になりたい人や、IT関連未経験であれば、先に「ITパスポート」を取得するのが良いでしょう。
-                  <br><br>
-                  「ITパスポート」は、50%ほどの合格率のIT社会への第一歩的な国家資格です。
-                  <br><br>
-                  「ITパスポート」を取得してから、「基本情報処理技術者試験」を取得するのが順序良いですが、内容が似ている部分があることと、受験期間や料金を考慮すると、最初から「基本情報処理技術者試験」を受験することも良いでしょう。
-                  <br><br>
-                  いずれにせよ、「基本情報処理技術者試験」は、合格率は25%程で、出題範囲が広く、情報処理に関係ないと思われる範囲も含まれていますので、しっかりと勉強して挑むべきでしょう。
-                  <br><br>
-                  <strong><mark>「基本情報技術者試験」はIT業界への登竜門的存在とも言える国家資格でしょう。</strong></mark>
-                </p>
-              </div>
+              <h3>”基本情報処理技術者試験”の午後と午前とは？</h3>
+              <p><img src="gallery/techimg/20210430/ampmInfo.jpg" alt="基本情報処理技術者試験の午前と午後"></p>
+
+              <p><strong><mark>「基本情報技術者試験」は、「午前試験」と「午後試験」に分かれています。</strong></mark>
+                <br><br>
+                一般的に言う「昼前の午前」「昼後の午後」とは違います。
+                <br><br>
+                午前試験と午後試験は時間帯の違いではなく、問題内容や型式の違いがあります。
+                <br><br>
+                午前、午後とともに、150分間の試験で、合計すると300分(5時間)もあります。
+                <br><br>
+                午前は、テクノロジ系50問（ハードウェアからプログラミング・アルゴリズムなど、IT技術や計算に関する問題）とマネジメント系10問（運営、サービスマネジメント、システム監査などに関する問題）、ストラテジ系20問（経営戦略マネジメント、システム戦略、企画、企業活動などに関する問題）の合計80問の構成です。
+                <br><br>
+                午後は、コンピュータシステム、情報セキュリティ、データ構造及びアルゴリズム、ソフトウェア開発、マネジメント、ストラテジの範囲から長文の大問形式です。
+                <br><br>
+                2020年から、プログラミング言語「Python」の追加され、出題数と解答数が、11問の出題から5問を選択して解答する形式に変更されました。
+                <br><br>
+                また、「COBOL（コボル）」の問題はなくなりました。
+                <br><br>
+                プログラミング言語の中でも、人気上昇中のPythonが、もう古くなったCOBOLと入れ替わった形となっています。
+                <br><br>
+                また、午後は、2020年データ構造及びアルゴリズム、ソフトウェア開発の配点が合計50点に増えました。
+                <br><br>
+                やはり、プログラミングと密接に関連のある分野で、プログラミングに関する知識への重要度が高まっています。
+              </p>
+              <h3>”CBT方式”とは？</h3>
+              <p>
+                令和2年度から、「基本情報技術者試験」（FE）は、CBT（Computer Based Testing）方式により実施しています。
+                <br><br>
+                <strong><mark>CBT方式とは、簡単に言うと、試験会場へ行き、パソコンを使って受験する方式です。</strong></mark>
+                <br><br>
+                問題用紙やマークシートを用いる筆記試験とは異なります。
+                <br><br>
+                受験者はパソコンに表示される問題を、マウスやキーボードを使って解答します。
+                <br><br>
+                また、スピーキング問題がある場合は、マイクを使って解答します。
+                <br><br>
+                CBT方式を使えば、受験者の利便性を上げられます。
+                <br><br>
+                受験者は、試験日時や試験会場が指定されるわけではなく、受験者自身が日時や会場を選ぶため、受験機会が格段に増えます。
+                <br><br>
+                自宅の近くの会場で、自分の好きなタイミングで受験できることがCBT方式の大きなメリットと言えるでしょう。
+              </p>
+              <h3>”基本情報処理技術者試験”の料金と申し込み方法は？</h3>
+
+              <p><strong><mark>”基本情報処理技術者試験”の受験手数料は、5,700円（税込み）です。</strong></mark>
+                <br><br>
+                支払い方法は、クレジットカード決済、ペイジー（Pay-easy）による払込み、コンビニ利用による払込みの3つがあります。
+                <br><br>
+                <strong><mark>申し込み方法は、インターネットでの申し込みのみです。</strong></mark>
+                <br><br>
+                インターネットでの申し込みは、プロメトリックが管理する<a href="http://pf.prometric-jp.com/testlist/fe/index.html">ページ</a>から、申し込みができます。
+                <br><br>
+                午前と午後は、それぞれ同じ日でも、別の日でも受けることが可能ですが、受験可能な期間が異なりますので予約する際に注意が必要です。
+              <p><img src="gallery/techimg/20210430/scheduleInfo.jpg" alt="基本情報処理技術者試験の予約"></p>
+              また、始めてプロメトリックのページを利用する場合は、プロメトリックIDを新規取得してから予約する必要があります。
+              <br><br>
+              申込みの順序にかかわらず、午前と午後はどちらを先に受験しても問題はありません。
+              <br><br>
+              それぞれ、試験期間内において、同一試験の申込みは1回のみです。
+              </p>
+
+              <h3>IT関連職を目指すなら”基本情報処理技術者試験”を受けてみよう！</h3>
+              <p>
+                既にシステムエンジニアやプログラマーなどのIT関連職であれば、「ITパスポート」を受験するよりも、「基本情報処理技術者試験」を取得した方が実用的だと言えます。
+                <br><br>
+                ただ、IT関連職になりたい人や、IT関連未経験であれば、先に「ITパスポート」を取得するのが良いでしょう。
+                <br><br>
+                「ITパスポート」は、50%ほどの合格率のIT社会への第一歩的な国家資格です。
+                <br><br>
+                「ITパスポート」を取得してから、「基本情報処理技術者試験」を取得するのが順序良いですが、内容が似ている部分があることと、受験期間や料金を考慮すると、最初から「基本情報処理技術者試験」を受験することも良いでしょう。
+                <br><br>
+                いずれにせよ、「基本情報処理技術者試験」は、合格率は25%程で、出題範囲が広く、情報処理に関係ないと思われる範囲も含まれていますので、しっかりと勉強して挑むべきでしょう。
+                <br><br>
+                <strong><mark>「基本情報技術者試験」はIT業界への登竜門的存在とも言える国家資格でしょう。</strong></mark>
+              </p>
             </div>
-            <br>
           </div>
+          <br>
+        </div>
 
 
-          <!--id=0010 -->
-          <div id="20210314"></div>
-          <div class="schedule_wrapper">
-            <br>
-            <p id="avocado">2021年03月14日 <i class="fas fa-laptop-code"></i>jQuery</p>
-            <h2 id="title">「スクロールイベント・フェードイン」</h2>
+        <!--id=0010 -->
+        <div id="20210314"></div>
+        <div class="schedule_wrapper">
+          <br>
+          <p id="avocado">2021年03月14日 <i class="fas fa-laptop-code"></i>jQuery</p>
+          <h2 id="title">「スクロールイベント・フェードイン」</h2>
 
 
-            <div class="accbox">
+          <div class="accbox">
 
-              <p><video id="technicaldiary" src="gallery/techimg/20210314/Slide in animation0314_Trim.mp4" controls poster=""></video></p>
+            <p><video id="technicaldiary" src="gallery/techimg/20210314/Slide in animation0314_Trim.mp4" controls poster=""></video></p>
 
-              <input type="checkbox" id="0010" class="cssacc" />
+            <input type="checkbox" id="0010" class="cssacc" />
 
-              <label for="0010"><span><i class="fas fa-book"></i>READ</span></label>
-              <div class="accshow">
-                <h3>”スクロールイベント”とは？</h3>
-                <p>前回の②「スクロールトップ/アニメーション」で紹介したjQueryのscrollTopを応用した内容です。
-                  <br><br>
-                  <strong><mark>”スクロールイベント”とは、画面を上下左右に移動させたときに起きることです。</strong></mark>
-                  <br><br>
-                  WEBサイトの画面を下にスクロールした場合、ある位置まで移動すると、文字や画像を表示させたいときなどに使います。
-                  <br><br>
-                  また、WEBサイトを閲覧しているとコンテンツに動きがあるため、より印象的なWEBサイトになります。
-                  <br><br>
-                  ですが、”スクロールイベント”はやりすぎると、鬱陶しい印象になりかねないです。
-                  <br><br>
-                  本サイトも若干やりすぎてる感があります。
-                  <br><br>
-                  実装コードを下に記載したので、試してみてください。
-                  <br><br>
-                <p class="codepen" data-height="356" data-theme-id="dark" data-default-tab="html,result" data-user="hiyuma" data-slug-hash="LYbaGem" style="height: 356px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Slide in Animation1">
-                  <span>See the Pen <a href="https://codepen.io/hiyuma/pen/LYbaGem">
-                      Slide in Animation1</a> by MARC JACOBS (<a href="https://codepen.io/hiyuma">@hiyuma</a>)
-                    on <a href="https://codepen.io">CodePen</a>.</span>
-                </p>
-                <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+            <label for="0010"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+              <h3>”スクロールイベント”とは？</h3>
+              <p>前回の②「スクロールトップ/アニメーション」で紹介したjQueryのscrollTopを応用した内容です。
                 <br><br>
-                スクロールすると下から画像が現れてくるようにプログラミングしています。
+                <strong><mark>”スクロールイベント”とは、画面を上下左右に移動させたときに起きることです。</strong></mark>
                 <br><br>
-                常に表示されているWEBサイトよりも動きがあるため、モダンな印象を与えることができます。
-                </p>
-                <h3>”フェードイン”とは？</h3>
-                <p>
-                  <strong><mark>”フェードイン”とは、画面が徐々に明るくなり、映像が見えてくる表現のことです。</strong></mark>
-                  <br><br>
-                  ここで、言う”フェードイン”とは、jQueryとCSSを利用したものです。
-                  <br><br>
-                  jQueryには、”fadeIn()”や”slideUp()”などのメソッドがありますが、今回は利用していません。
-                  <br><br>
-                  CSSの方が、動作が軽い場合が多く、WEBサイトの読み込みの邪魔をしません。
-                  <br><br>
-                  上記のCSSコードで「.animation」と「.active」に記述してある通りです。
-                  <br><br>
-                  ”opacity: 0;”で、初期状態は表示なし、スクロールされ座標を取得して「.active」”opacity: 1;”になると表示されます。
-                  <br><br>
-                  ”transition: 2s;”は、表示されるまで2秒ということで、
-                  <br><br>
-                  ”transform: translateY(30px);”は、Y軸(縦)の座標位置どこからアニメーションを始めるかを指定します。
-                </p>
-                <h3>”オフセット(offset)”とは？</h3>
-                <p>前回同様、今回もjQueryの”offset()”メソッドを使っています。
-                  <br><br>
-                  ”offset()”とは、対象要素の左上部分と、画面左上の起点との距離を取得します。
-                  <br><br>
-                  画面トップへ戻る時や、スクロールイベントでよく使われるメソッドです。
-                  <br><br>
-                <pre class="prettyprint linenums">var target = $(this).offset().top;</pre>
+                WEBサイトの画面を下にスクロールした場合、ある位置まで移動すると、文字や画像を表示させたいときなどに使います。
                 <br><br>
-                上記のように、対象の座標を取得します。
+                また、WEBサイトを閲覧しているとコンテンツに動きがあるため、より印象的なWEBサイトになります。
                 <br><br>
-                別の話になりますが、最初、"this"を上手く使うことができず、使いこなせるまで時間がかかりました。
+                ですが、”スクロールイベント”はやりすぎると、鬱陶しい印象になりかねないです。
                 <br><br>
-                話は戻って、".top"は、Y座標、".left"だとX座標を取得します。
+                本サイトも若干やりすぎてる感があります。
                 <br><br>
-                <pre class="prettyprint linenums">var offset = $(this).offset({top: 4000, left: 500});</pre>
+                実装コードを下に記載したので、試してみてください。
                 <br><br>
-                また、上記のように、topとleftを入れて、指定の場所(上記の場合は、y座標4000/x座標500)へ移動させることもできます。
-                </p>
-                <h3>色々な方向からフェードイン、フェードアウトできる</h3>
-                <p>
-                  <br><br>
-                  jQueryの記述をまとめると以下のようになります。
-                  <br><br>
-                <pre class="prettyprint linenums">var target = $(this).offset().top;
+              <p class="codepen" data-height="356" data-theme-id="dark" data-default-tab="html,result" data-user="hiyuma" data-slug-hash="LYbaGem" style="height: 356px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Slide in Animation1">
+                <span>See the Pen <a href="https://codepen.io/hiyuma/pen/LYbaGem">
+                    Slide in Animation1</a> by MARC JACOBS (<a href="https://codepen.io/hiyuma">@hiyuma</a>)
+                  on <a href="https://codepen.io">CodePen</a>.</span>
+              </p>
+              <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+              <br><br>
+              スクロールすると下から画像が現れてくるようにプログラミングしています。
+              <br><br>
+              常に表示されているWEBサイトよりも動きがあるため、モダンな印象を与えることができます。
+              </p>
+              <h3>”フェードイン”とは？</h3>
+              <p>
+                <strong><mark>”フェードイン”とは、画面が徐々に明るくなり、映像が見えてくる表現のことです。</strong></mark>
+                <br><br>
+                ここで、言う”フェードイン”とは、jQueryとCSSを利用したものです。
+                <br><br>
+                jQueryには、”fadeIn()”や”slideUp()”などのメソッドがありますが、今回は利用していません。
+                <br><br>
+                CSSの方が、動作が軽い場合が多く、WEBサイトの読み込みの邪魔をしません。
+                <br><br>
+                上記のCSSコードで「.animation」と「.active」に記述してある通りです。
+                <br><br>
+                ”opacity: 0;”で、初期状態は表示なし、スクロールされ座標を取得して「.active」”opacity: 1;”になると表示されます。
+                <br><br>
+                ”transition: 2s;”は、表示されるまで2秒ということで、
+                <br><br>
+                ”transform: translateY(30px);”は、Y軸(縦)の座標位置どこからアニメーションを始めるかを指定します。
+              </p>
+              <h3>”オフセット(offset)”とは？</h3>
+              <p>前回同様、今回もjQueryの”offset()”メソッドを使っています。
+                <br><br>
+                ”offset()”とは、対象要素の左上部分と、画面左上の起点との距離を取得します。
+                <br><br>
+                画面トップへ戻る時や、スクロールイベントでよく使われるメソッドです。
+                <br><br>
+              <pre class="prettyprint linenums">var target = $(this).offset().top;</pre>
+              <br><br>
+              上記のように、対象の座標を取得します。
+              <br><br>
+              別の話になりますが、最初、"this"を上手く使うことができず、使いこなせるまで時間がかかりました。
+              <br><br>
+              話は戻って、".top"は、Y座標、".left"だとX座標を取得します。
+              <br><br>
+              <pre class="prettyprint linenums">var offset = $(this).offset({top: 4000, left: 500});</pre>
+              <br><br>
+              また、上記のように、topとleftを入れて、指定の場所(上記の場合は、y座標4000/x座標500)へ移動させることもできます。
+              </p>
+              <h3>色々な方向からフェードイン、フェードアウトできる</h3>
+              <p>
+                <br><br>
+                jQueryの記述をまとめると以下のようになります。
+                <br><br>
+              <pre class="prettyprint linenums">var target = $(this).offset().top;
             //スクロール量を取得
             var scroll = $(window).scrollTop();
             //ウィンドウの高さを取得
@@ -2188,209 +2863,209 @@
             //つまり、対象までスクロールされたら、"active"クラスを付与
             if (scroll > target - height) {
             $(this).addClass("active");</pre>
-                <br><br>
-                今回は、下からフェードインするアニメーション効果を実装しましたが、CSSを変えるだけで、上からでも左右からでもフェードインさせることもできます。
-                <br><br>
-                例えば、フェードイン前がX軸”translateX(-300px)”で、フェードイン後が"translateX(0)"とすると、
-                <br><br>
-                <p class="codepen" data-height="306" data-theme-id="dark" data-default-tab="html,result" data-user="hiyuma" data-slug-hash="eYBXzNX" style="height: 306px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Slide in Animation2">
-                  <span>See the Pen <a href="https://codepen.io/hiyuma/pen/eYBXzNX">
-                      Slide in Animation2</a> by MARC JACOBS (<a href="https://codepen.io/hiyuma">@hiyuma</a>)
-                    on <a href="https://codepen.io">CodePen</a>.</span>
-                </p>
-                <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-                <br><br>
-                と、上のようにx軸-300px(左)からフェードインします。
-                <br><br>
-                y軸とx軸の数字を変えるだけで、色々な方向からフェードイン、または、フェードアウトもできます。
-                <br><br>
-                アニメーション効果の時間は”transition”の数字を変更するだけです。
-                <br><br>
-                ただ、あまりやりすぎると逆効果になりますので、使いすぎに注意です。
-                </p>
-              </div>
+              <br><br>
+              今回は、下からフェードインするアニメーション効果を実装しましたが、CSSを変えるだけで、上からでも左右からでもフェードインさせることもできます。
+              <br><br>
+              例えば、フェードイン前がX軸”translateX(-300px)”で、フェードイン後が"translateX(0)"とすると、
+              <br><br>
+              <p class="codepen" data-height="306" data-theme-id="dark" data-default-tab="html,result" data-user="hiyuma" data-slug-hash="eYBXzNX" style="height: 306px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Slide in Animation2">
+                <span>See the Pen <a href="https://codepen.io/hiyuma/pen/eYBXzNX">
+                    Slide in Animation2</a> by MARC JACOBS (<a href="https://codepen.io/hiyuma">@hiyuma</a>)
+                  on <a href="https://codepen.io">CodePen</a>.</span>
+              </p>
+              <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+              <br><br>
+              と、上のようにx軸-300px(左)からフェードインします。
+              <br><br>
+              y軸とx軸の数字を変えるだけで、色々な方向からフェードイン、または、フェードアウトもできます。
+              <br><br>
+              アニメーション効果の時間は”transition”の数字を変更するだけです。
+              <br><br>
+              ただ、あまりやりすぎると逆効果になりますので、使いすぎに注意です。
+              </p>
             </div>
-            <br>
           </div>
+          <br>
+        </div>
 
 
 
-          <!-- id=0009 -->
-          <div id="20210228"></div>
-          <div class="schedule_wrapper">
-            <br>
-            <p id="avocado">2021年02月28日 <i class="fas fa-laptop-code"></i>jQuery</p>
-            <h2 id="title">「スクロールトップ/アニメーション」</h2>
+        <!-- id=0009 -->
+        <div id="20210228"></div>
+        <div class="schedule_wrapper">
+          <br>
+          <p id="avocado">2021年02月28日 <i class="fas fa-laptop-code"></i>jQuery</p>
+          <h2 id="title">「スクロールトップ/アニメーション」</h2>
 
-            <div class="accbox">
+          <div class="accbox">
 
-              <p><img src="gallery/techimg/20210228/TOPbutton.jpg" alt="TOPへ戻るボタン"></p>
+            <p><img src="gallery/techimg/20210228/TOPbutton.jpg" alt="TOPへ戻るボタン"></p>
 
-              <input type="checkbox" id="0009" class="cssacc" />
+            <input type="checkbox" id="0009" class="cssacc" />
 
-              <label for="0009"><span><i class="fas fa-book"></i>READ</span></label>
-              <div class="accshow">
-                <h3>jQuery"scrollTop"とは？</h3>
-                <p>”jQuery”は、JavaScriptを簡易な記述で利用できる多機能なライブラリです。
-                  <br><br>
-                  その機能の1つに”scrollTop”があります。
-                  <br><br>
-                  <strong><mark>”scrollTop”は、WEBサイトの座標を取得することやイベント設定などができます。</strong></mark>
-                  <br><br>
-                  さらに、アニメーション処理も追加できます。
-                  <br><br>
-                  今では、ほとんどのWEBサイトには、「Topへ戻る」や「▲」のようなページ一番上まで戻るボタンが設置されています。
-                  <br><br>
-                  その一番上に戻るまでに、アニメーションを加えているWEBサイトも多いです。
-                  <br><br>
-                  また、一番上では、「Topへ戻る」ボタンが消えて、少ししたにスクロールすると現れるようにすることもできます。
-                  <br><br>
-                  本サイトは、独学始めてから、すぐ右下にTOPへ戻る「▲」ボタンを設置していましたが、アニメーション効果は付けていませんでした。
-                  <br><br>
-                  一応、付けておいた方がユーザビリティ向上するかなと思い、今更ながらプログラムしてみました。
-                </p>
+            <label for="0009"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+              <h3>jQuery"scrollTop"とは？</h3>
+              <p>”jQuery”は、JavaScriptを簡易な記述で利用できる多機能なライブラリです。
+                <br><br>
+                その機能の1つに”scrollTop”があります。
+                <br><br>
+                <strong><mark>”scrollTop”は、WEBサイトの座標を取得することやイベント設定などができます。</strong></mark>
+                <br><br>
+                さらに、アニメーション処理も追加できます。
+                <br><br>
+                今では、ほとんどのWEBサイトには、「Topへ戻る」や「▲」のようなページ一番上まで戻るボタンが設置されています。
+                <br><br>
+                その一番上に戻るまでに、アニメーションを加えているWEBサイトも多いです。
+                <br><br>
+                また、一番上では、「Topへ戻る」ボタンが消えて、少ししたにスクロールすると現れるようにすることもできます。
+                <br><br>
+                本サイトは、独学始めてから、すぐ右下にTOPへ戻る「▲」ボタンを設置していましたが、アニメーション効果は付けていませんでした。
+                <br><br>
+                一応、付けておいた方がユーザビリティ向上するかなと思い、今更ながらプログラムしてみました。
+              </p>
 
-                <h3>jQuery"scrollTop"の使い方は？</h3>
+              <h3>jQuery"scrollTop"の使い方は？</h3>
 
-                <p><strong><mark>"scrollTop"の基本的な使い方は、スクロール座標を、”HTML要素”を対象に取得し、引数の「値」を指定します。</strong></mark>
-                <pre class="prettyprint linenums">HTML要素.scrollTop( 値 )</pre>
-                この引数は、省略可能です。
-                <br><br>
-                値は、WEBサイトの座標で、例えば”scrollTop( 800 )”なら、座標800(ページ1番上が基準0で下へ800の場所)へスクロールさせます。
-                <br><br>
-                省略した場合は、HTML要素の位置を取得することになります。
-                <br><br>
-                "scrollTop"記述方法は、様々あります。
-                <br><br>
-                まず、プログラムされていない場合を確認しておきます。
-                <br><br>
-                例で記述したHTMLの「For example」や「一番上へスクロール」を押すと、下の”Result”のように動作します。
-                <br><br>
-                <p class="codepen" data-height="303" data-theme-id="dark" data-default-tab="html,result" data-user="hiyuma" data-slug-hash="ExNEgeb" style="height: 303px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="ExNEgeb">
-                  <span>See the Pen <a href="https://codepen.io/hiyuma/pen/ExNEgeb">
-                      ExNEgeb</a> by MARC JACOBS (<a href="https://codepen.io/hiyuma">@hiyuma</a>)
-                    on <a href="https://codepen.io">CodePen</a>.</span>
-                </p>
-                <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-                <br>
-                瞬間移動です。これは、これですごいことだと思っています。
-                <br><br>
-                では次に、jQueryを記述して、スクロール移動を見えるようにします。
-                <br><br>
-                ”Result”で動作確認をしてみるとスクロールにアニメーションが付いているのが分かります。
-                <br><br>
+              <p><strong><mark>"scrollTop"の基本的な使い方は、スクロール座標を、”HTML要素”を対象に取得し、引数の「値」を指定します。</strong></mark>
+              <pre class="prettyprint linenums">HTML要素.scrollTop( 値 )</pre>
+              この引数は、省略可能です。
+              <br><br>
+              値は、WEBサイトの座標で、例えば”scrollTop( 800 )”なら、座標800(ページ1番上が基準0で下へ800の場所)へスクロールさせます。
+              <br><br>
+              省略した場合は、HTML要素の位置を取得することになります。
+              <br><br>
+              "scrollTop"記述方法は、様々あります。
+              <br><br>
+              まず、プログラムされていない場合を確認しておきます。
+              <br><br>
+              例で記述したHTMLの「For example」や「一番上へスクロール」を押すと、下の”Result”のように動作します。
+              <br><br>
+              <p class="codepen" data-height="303" data-theme-id="dark" data-default-tab="html,result" data-user="hiyuma" data-slug-hash="ExNEgeb" style="height: 303px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="ExNEgeb">
+                <span>See the Pen <a href="https://codepen.io/hiyuma/pen/ExNEgeb">
+                    ExNEgeb</a> by MARC JACOBS (<a href="https://codepen.io/hiyuma">@hiyuma</a>)
+                  on <a href="https://codepen.io">CodePen</a>.</span>
+              </p>
+              <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+              <br>
+              瞬間移動です。これは、これですごいことだと思っています。
+              <br><br>
+              では次に、jQueryを記述して、スクロール移動を見えるようにします。
+              <br><br>
+              ”Result”で動作確認をしてみるとスクロールにアニメーションが付いているのが分かります。
+              <br><br>
 
-                <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="hiyuma" data-slug-hash="dyOmOaP" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Scroll Top / Animation Example">
-                  <span>See the Pen <a href="https://codepen.io/hiyuma/pen/dyOmOaP">
-                      Scroll Top / Animation Example</a> by MARC JACOBS (<a href="https://codepen.io/hiyuma">@hiyuma</a>)
-                    on <a href="https://codepen.io">CodePen</a>.</span>
-                </p>
-                <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-                <br>
-                アニメーション効果があった方が、”今”を生きている感じがします。(?)
+              <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="hiyuma" data-slug-hash="dyOmOaP" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Scroll Top / Animation Example">
+                <span>See the Pen <a href="https://codepen.io/hiyuma/pen/dyOmOaP">
+                    Scroll Top / Animation Example</a> by MARC JACOBS (<a href="https://codepen.io/hiyuma">@hiyuma</a>)
+                  on <a href="https://codepen.io">CodePen</a>.</span>
+              </p>
+              <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+              <br>
+              アニメーション効果があった方が、”今”を生きている感じがします。(?)
+              <br><br>
+              アニメーションのスクロールスピードは、以下の”1500ms”のように指定できます。
+              <pre class="prettyprint linenums">speed = 1500;</pre>
+              <br><br>
+              もちろん、僕が上記に記述したみたいに、わざわざ変数に格納しなくても使えます。
+              <br><br>
+              そして、本サイトのTOPへ戻る「▲」ボタンを座標150以上(一番上から座標150まで表示させない)例を記述してみました。
+              <br><br>
+              <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="hiyuma" data-slug-hash="eYBMgva" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="scrollTop() example">
+                <span>See the Pen <a href="https://codepen.io/hiyuma/pen/eYBMgva">
+                    scrollTop() example</a> by MARC JACOBS (<a href="https://codepen.io/hiyuma">@hiyuma</a>)
+                  on <a href="https://codepen.io">CodePen</a>.</span>
+              </p>
+              <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+              <br>
+              "scrollTop"でWEBサイトの座標を取得し、if文で条件分岐し「”座標 > 150"なら▲ボタンをフェイドインする。そうでないならフェイドアウトする」命令をしていることになります。
+              </p>
+              <h3>jQuery"scrollTop"の使い方は？</h3>
+              <p>他にもCSSで簡単にアニメーションさせられる”ScrollTrigger”や、横スクロールでイベント発生させる方法など、スクロール関連の記述は多いです。
                 <br><br>
-                アニメーションのスクロールスピードは、以下の”1500ms”のように指定できます。
-                <pre class="prettyprint linenums">speed = 1500;</pre>
+                ユーザビリティ向上のためにも、スクロールイベント、アニメーションを使えるようになっておきます。
                 <br><br>
-                もちろん、僕が上記に記述したみたいに、わざわざ変数に格納しなくても使えます。
-                <br><br>
-                そして、本サイトのTOPへ戻る「▲」ボタンを座標150以上(一番上から座標150まで表示させない)例を記述してみました。
-                <br><br>
-                <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="hiyuma" data-slug-hash="eYBMgva" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="scrollTop() example">
-                  <span>See the Pen <a href="https://codepen.io/hiyuma/pen/eYBMgva">
-                      scrollTop() example</a> by MARC JACOBS (<a href="https://codepen.io/hiyuma">@hiyuma</a>)
-                    on <a href="https://codepen.io">CodePen</a>.</span>
-                </p>
-                <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-                <br>
-                "scrollTop"でWEBサイトの座標を取得し、if文で条件分岐し「”座標 > 150"なら▲ボタンをフェイドインする。そうでないならフェイドアウトする」命令をしていることになります。
-                </p>
-                <h3>jQuery"scrollTop"の使い方は？</h3>
-                <p>他にもCSSで簡単にアニメーションさせられる”ScrollTrigger”や、横スクロールでイベント発生させる方法など、スクロール関連の記述は多いです。
-                  <br><br>
-                  ユーザビリティ向上のためにも、スクロールイベント、アニメーションを使えるようになっておきます。
-                  <br><br>
-                </p>
-              </div>
+              </p>
             </div>
-            <br>
           </div>
+          <br>
+        </div>
 
 
-          <!-- id=0008 -->
-          <div id="20210221"></div>
-          <div class="schedule_wrapper">
-            <br>
-            <p id="avocado">2021年02月21日 <i class="fas fa-laptop-code"></i>JavaScript/jQuery</p>
-            <h2 id="title">「lightGalleryの使い方」</h2>
+        <!-- id=0008 -->
+        <div id="20210221"></div>
+        <div class="schedule_wrapper">
+          <br>
+          <p id="avocado">2021年02月21日 <i class="fas fa-laptop-code"></i>JavaScript/jQuery</p>
+          <h2 id="title">「lightGalleryの使い方」</h2>
 
-            <div class="accbox">
+          <div class="accbox">
 
+            <p><img src="gallery/techimg/20210220/LightGalleryScreenFuji.jpg" alt="lightGallery設置後"></p>
+
+            <input type="checkbox" id="0008" class="cssacc" />
+
+            <label for="0008"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+              <h3>”jQuery”とは？</h3>
+              <p><mark><strong>フロントエンド言語の”JavaScript”で記述できる内容をより短く簡単な記法で実現できる、”JavaScript”で作成されたライブラリです。</strong></mark>
+                <br><br>
+                本サイトでも、かなり利用しているライブラリで、”JavaScript”だと記述が長くなって複雑になることがある部分を、短く読みやすい記述で実行できます。
+                <br><br>
+                例えば、”JavaScript”で、コンソールに出力をしたい場合で考えます。
+              <pre class="prettyprint linenums">console.log(document.getElementByID(‘example’).getAttribute(‘class’));</pre>
+              ”jQuery”で記述すると、
+              <pre class="prettyprint linenums">console.log($(‘#example’).attr(‘class’));</pre>
+              これだけでも、実行結果も同じで記述量がだいぶ減ったことが分かります。
+              <br><br>
+              全て"JavaScript"で記述していたら、時間がもったいないので、ライブラリで使える部分は、jQueryで記述していきたいですね。
+
+              <h3>”lightGallery”とは？</h3>
+              <mark><strong>”lightGallery”とは、lightbox系（サムネイル画像をクリックしてモーダルウィンドウを開き、拡大して表示）のjQueryプラグインです。</strong></mark>
+              <br><br>
+              レスポンシブ対応で、画像や動画、iframe要素なども利用できる、高機能な画像ギャラリーを簡単に実装できます。
+              <br><br>
+              本サイトでは、<a href="https://developershirai.com/gallery.php">PHOTO</a>のページの写真それぞれに、この”lightGallery”を実行させるようにプログラム組んでいます。
+              <br><br>
+              例として、”lightGallery”を使わず、通常のの写真表示は、
+              <p><img src="gallery/techimg/20210220/NoneLightGallery.jpg" alt="lightGallery設置前"></p>
+              のように、表示する以外の機能はありません。
+              <br><br>
+              ”lightGallery”を使った場合の写真
               <p><img src="gallery/techimg/20210220/LightGalleryScreenFuji.jpg" alt="lightGallery設置後"></p>
-
-              <input type="checkbox" id="0008" class="cssacc" />
-
-              <label for="0008"><span><i class="fas fa-book"></i>READ</span></label>
-              <div class="accshow">
-                <h3>”jQuery”とは？</h3>
-                <p><mark><strong>フロントエンド言語の”JavaScript”で記述できる内容をより短く簡単な記法で実現できる、”JavaScript”で作成されたライブラリです。</strong></mark>
-                  <br><br>
-                  本サイトでも、かなり利用しているライブラリで、”JavaScript”だと記述が長くなって複雑になることがある部分を、短く読みやすい記述で実行できます。
-                  <br><br>
-                  例えば、”JavaScript”で、コンソールに出力をしたい場合で考えます。
-                <pre class="prettyprint linenums">console.log(document.getElementByID(‘example’).getAttribute(‘class’));</pre>
-                ”jQuery”で記述すると、
-                <pre class="prettyprint linenums">console.log($(‘#example’).attr(‘class’));</pre>
-                これだけでも、実行結果も同じで記述量がだいぶ減ったことが分かります。
-                <br><br>
-                全て"JavaScript"で記述していたら、時間がもったいないので、ライブラリで使える部分は、jQueryで記述していきたいですね。
-
-                <h3>”lightGallery”とは？</h3>
-                <mark><strong>”lightGallery”とは、lightbox系（サムネイル画像をクリックしてモーダルウィンドウを開き、拡大して表示）のjQueryプラグインです。</strong></mark>
-                <br><br>
-                レスポンシブ対応で、画像や動画、iframe要素なども利用できる、高機能な画像ギャラリーを簡単に実装できます。
-                <br><br>
-                本サイトでは、<a href="https://developershirai.com/gallery.php">PHOTO</a>のページの写真それぞれに、この”lightGallery”を実行させるようにプログラム組んでいます。
-                <br><br>
-                例として、”lightGallery”を使わず、通常のの写真表示は、
-                <p><img src="gallery/techimg/20210220/NoneLightGallery.jpg" alt="lightGallery設置前"></p>
-                のように、表示する以外の機能はありません。
-                <br><br>
-                ”lightGallery”を使った場合の写真
-                <p><img src="gallery/techimg/20210220/LightGalleryScreenFuji.jpg" alt="lightGallery設置後"></p>
-                のように、表示する以外に、スマートフォンでのスワイプ操作対応、写真を下に並べる、拡大縮小、次や前の写真へ移動など、様々な機能が使えます。
-                <h3>”lightGallery”の設置方法は？</h3>
-                ”lightGallery”は、個人利用の範囲であれば、オープンソースとして利用できます。
-                <br><br>
-                ”lightGallery”の設置方法では、ローカルファイルか、CDNどちらでも可能ですが、今回は、
-                ローカルファイルで画像ギャラリーに対して設置する方法を紹介します。
-                <ul id="while">
-                  <li>①GitHubから「lightgallery」をダウンロード</li>
-                  <li>②lightGallery-master > dist フォルダ(css、fonts、img、js)を配置</li>
-                  <li>③HTMLマークアップ</li>
-                  <li>④JavaScript(jQuery)の記述</li>
-                </ul>
-                <h3>①GitHubから「lightgallery」をダウンロード</h3>
-                <a href="https://github.com/sachinchoolur/lightgallery.js/">公式サイト(GitHub)</a>からZIPファイルをダウンロードします。
-                <p><img src="gallery/techimg/20210220/lightgalleryGitHub.jpg" alt="lightGalleryGitHub"></p>
-                <h3>②lightGallery-master > dist フォルダ(css、fonts、img、js)を配置</h3>
-                ZIP解凍後、「lightGallery-masterdist」フォルダの中にcss、fonts、img、jsの4つのフォルダがあるので、4つとも任意の場所へ移動します。
-                <br><br>
-                僕は、新規で"lightgallery"フォルダを作成して、その中に配置しています。
-                <h3>③HTMLマークアップ(CSS)</h3>
-                "lightGallery"は、ファイルを追加して、拡張することが出来ます。
-                <br><br>
-                今回は、機能を指定せずに、全ての機能を利用する簡単な方法で進めていきます。
-                <br><br>
-                まずは、CSSをHTMLの&lt;head>内に記述します。
-                <pre class="prettyprint linenums">&lt;head>
+              のように、表示する以外に、スマートフォンでのスワイプ操作対応、写真を下に並べる、拡大縮小、次や前の写真へ移動など、様々な機能が使えます。
+              <h3>”lightGallery”の設置方法は？</h3>
+              ”lightGallery”は、個人利用の範囲であれば、オープンソースとして利用できます。
+              <br><br>
+              ”lightGallery”の設置方法では、ローカルファイルか、CDNどちらでも可能ですが、今回は、
+              ローカルファイルで画像ギャラリーに対して設置する方法を紹介します。
+              <ul id="while">
+                <li>①GitHubから「lightgallery」をダウンロード</li>
+                <li>②lightGallery-master > dist フォルダ(css、fonts、img、js)を配置</li>
+                <li>③HTMLマークアップ</li>
+                <li>④JavaScript(jQuery)の記述</li>
+              </ul>
+              <h3>①GitHubから「lightgallery」をダウンロード</h3>
+              <a href="https://github.com/sachinchoolur/lightgallery.js/">公式サイト(GitHub)</a>からZIPファイルをダウンロードします。
+              <p><img src="gallery/techimg/20210220/lightgalleryGitHub.jpg" alt="lightGalleryGitHub"></p>
+              <h3>②lightGallery-master > dist フォルダ(css、fonts、img、js)を配置</h3>
+              ZIP解凍後、「lightGallery-masterdist」フォルダの中にcss、fonts、img、jsの4つのフォルダがあるので、4つとも任意の場所へ移動します。
+              <br><br>
+              僕は、新規で"lightgallery"フォルダを作成して、その中に配置しています。
+              <h3>③HTMLマークアップ(CSS)</h3>
+              "lightGallery"は、ファイルを追加して、拡張することが出来ます。
+              <br><br>
+              今回は、機能を指定せずに、全ての機能を利用する簡単な方法で進めていきます。
+              <br><br>
+              まずは、CSSをHTMLの&lt;head>内に記述します。
+              <pre class="prettyprint linenums">&lt;head>
               .....          
               &lt;link rel="stylesheet" href="path/lightGallery/lightgallery.css" />
               .....
               &lt;/head>
               </pre>
-                また、画像は基本的に以下のよう記述します。
-                <pre class="prettyprint linenums">&lt;div id="lightgallery">
+              また、画像は基本的に以下のよう記述します。
+              <pre class="prettyprint linenums">&lt;div id="lightgallery">
                 &lt;a href="img/img1.jpg">
                     &lt;img src="img/thumb1.jpg" />
                 &lt;/a>
@@ -2400,14 +3075,14 @@
               .....
               &lt;/div></pre>
 
-                <h3>④JavaScript(jQuery)の記述</h3>
-                次は、&lt;body>の閉じタグ手前で、&lt;script>&lt;/script>を記述して読み込ませます。
-                <br><br>
-                head内に記述しても利用できますが、ユーザのHTML表示に遅延が起こる可能性があるので、最後に読み込ませた方が良い場合もあります。
-                <br><br>
-                jQueryを先に読み込ませないと、lightGalleryは利用できないので、順番に注意しましょう。
+              <h3>④JavaScript(jQuery)の記述</h3>
+              次は、&lt;body>の閉じタグ手前で、&lt;script>&lt;/script>を記述して読み込ませます。
+              <br><br>
+              head内に記述しても利用できますが、ユーザのHTML表示に遅延が起こる可能性があるので、最後に読み込ませた方が良い場合もあります。
+              <br><br>
+              jQueryを先に読み込ませないと、lightGalleryは利用できないので、順番に注意しましょう。
 
-                <pre class="prettyprint linenums">&lt;body>
+              <pre class="prettyprint linenums">&lt;body>
                 .....
                   &lt;!-- 必ずjQuery を最初に読み込みます -->
                   &lt;script src="http://code.jquery.com/jquery-3.5.1.min.js">&lt;/script> 
@@ -2417,275 +3092,275 @@
                   &lt;script>$("#lightgallery").lightGallery();&lt;/script>
               &lt;/body>  
               </pre>
-                以上で、”lightGallery”の基本的な設置が完了です。
-                <br><br>
-                多少、カスタムや”lightGallery”複数設置などもできますので、試してみるときっと楽しめるでしょう。
-                </p>
-              </div>
+              以上で、”lightGallery”の基本的な設置が完了です。
+              <br><br>
+              多少、カスタムや”lightGallery”複数設置などもできますので、試してみるときっと楽しめるでしょう。
+              </p>
             </div>
-            <br>
           </div>
+          <br>
+        </div>
 
 
-          <!-- id=0007 -->
-          <div id="20210218"></div>
-          <div class="schedule_wrapper">
-            <br>
-            <p id="avocado">2021年02月18日 <i class="fas fa-laptop-code"></i>PHP</p>
-            <h2 id="title">「繰り返し処理(while文)」</h2>
+        <!-- id=0007 -->
+        <div id="20210218"></div>
+        <div class="schedule_wrapper">
+          <br>
+          <p id="avocado">2021年02月18日 <i class="fas fa-laptop-code"></i>PHP</p>
+          <h2 id="title">「繰り返し処理(while文)」</h2>
 
-            <div class="accbox">
+          <div class="accbox">
 
-              <p><img src="gallery/techimg/20210218/galleryphotoimg1.jpg" alt="写真を順番に並べる"></p>
+            <p><img src="gallery/techimg/20210218/galleryphotoimg1.jpg" alt="写真を順番に並べる"></p>
 
-              <input type="checkbox" id="0007" class="cssacc" />
+            <input type="checkbox" id="0007" class="cssacc" />
 
-              <label for="0007"><span><i class="fas fa-book"></i>READ</span></label>
-              <div class="accshow">
-                <h3>while文とは？</h3>
-                <p><mark><strong>while文とは、JavaやPHPなどのプログラミングで、繰り返し処理をする時に使う方法の一つです。</strong></mark>
-                  <br><br>
-                  英語の”while”は、「～する間」、「～と同時に」、「ところが一方」のように訳します。
-                  <br><br>
-                  繰り返し処理としては、”while文”よりも"for文"の方が有名ですが、今回は敢えて”while”をご紹介します。
-                  <br><br>
-                  プログラミングでは、「～する間」の意味で、必ず条件を提示して利用します。
-                  <br><br>
-                  今回、例として<a href="https://developershirai.com/gallery.php">PHOTO</a>ページの写真掲載を挙げます。
-                  <br><br>
-                  多数掲載していますが、手動でHTMLを書いていくのは大変です。
-                <p><img src="gallery/techimg/20210218/galleryphotoNaganoPartyImg.jpg" alt="HTMLでimgを並べる"></p>
-                写真のように、枚数分(写真の場合は73枚分)のファイル名を順番に記述することになります。
+            <label for="0007"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+              <h3>while文とは？</h3>
+              <p><mark><strong>while文とは、JavaやPHPなどのプログラミングで、繰り返し処理をする時に使う方法の一つです。</strong></mark>
                 <br><br>
-                これが、かなり辛い作業になっていました。
+                英語の”while”は、「～する間」、「～と同時に」、「ところが一方」のように訳します。
                 <br><br>
-                手間を省くため、事前に数字部分のみ異なるようにファイル名を変更しています。
+                繰り返し処理としては、”while文”よりも"for文"の方が有名ですが、今回は敢えて”while”をご紹介します。
                 <br><br>
-                その方が数字を書き換えるだけで良いので、HTML/CSSの独学を始めた頃の僕の中では、Visual Studio Codeの助けもあり、とても効率的でした。
+                プログラミングでは、「～する間」の意味で、必ず条件を提示して利用します。
                 <br><br>
-                しかし、最近、本サイトをHTMLからPHPへ移行しましたので、PHPを生かした処理に記述を変更することにしました。
+                今回、例として<a href="https://developershirai.com/gallery.php">PHOTO</a>ページの写真掲載を挙げます。
+                <br><br>
+                多数掲載していますが、手動でHTMLを書いていくのは大変です。
+              <p><img src="gallery/techimg/20210218/galleryphotoNaganoPartyImg.jpg" alt="HTMLでimgを並べる"></p>
+              写真のように、枚数分(写真の場合は73枚分)のファイル名を順番に記述することになります。
+              <br><br>
+              これが、かなり辛い作業になっていました。
+              <br><br>
+              手間を省くため、事前に数字部分のみ異なるようにファイル名を変更しています。
+              <br><br>
+              その方が数字を書き換えるだけで良いので、HTML/CSSの独学を始めた頃の僕の中では、Visual Studio Codeの助けもあり、とても効率的でした。
+              <br><br>
+              しかし、最近、本サイトをHTMLからPHPへ移行しましたので、PHPを生かした処理に記述を変更することにしました。
 
-                <h3>while文の書き方は？</h3>
-                <p><strong><mark>PHPにおいてのwhile文の書き方は、他のプログラミング言語のそれと流れは同じです。</strong></mark></p>
-                <p><img src="gallery/techimg/20210218/phpwhileDone.jpg" alt="HTMLでimgを並べる"></p>
-                <ul id="while">
-                  <h4>while文の処理流れ(上写真の場合)</h4>
-                  <li>① 変数に写真１枚目の数字を代入</li>
-                  <li>② while(条件式)でいつまで繰り返し処理を行うか条件を指定する</li>
-                  <li>③ while(条件式)がTRUEであれば(x&lt;87であれば)、処理を実行</li>
-                  <li>④ echoの''を出力する</li>
-                  <li>⑤ 変数に1をプラスする</li>
-                  <li>⑥ while(条件式)がFALSEにならない限り(x>=87になるまで)繰り返し処理を行う</li>
-                  <li>⑦ while(条件式)がFALSEになった場合は処理を終了する</li>
-                </ul>
-                という、流れになります。
-                <br><br>
-                それでは、先ほど、手動で記述していた<a href="https://developershirai.com/gallery.php#2013%E9%95%B7%E9%87%8E">長野県パーティ</a>をPHPのwhile文に変更しました。
+              <h3>while文の書き方は？</h3>
+              <p><strong><mark>PHPにおいてのwhile文の書き方は、他のプログラミング言語のそれと流れは同じです。</strong></mark></p>
+              <p><img src="gallery/techimg/20210218/phpwhileDone.jpg" alt="HTMLでimgを並べる"></p>
+              <ul id="while">
+                <h4>while文の処理流れ(上写真の場合)</h4>
+                <li>① 変数に写真１枚目の数字を代入</li>
+                <li>② while(条件式)でいつまで繰り返し処理を行うか条件を指定する</li>
+                <li>③ while(条件式)がTRUEであれば(x&lt;87であれば)、処理を実行</li>
+                <li>④ echoの''を出力する</li>
+                <li>⑤ 変数に1をプラスする</li>
+                <li>⑥ while(条件式)がFALSEにならない限り(x>=87になるまで)繰り返し処理を行う</li>
+                <li>⑦ while(条件式)がFALSEになった場合は処理を終了する</li>
+              </ul>
+              という、流れになります。
+              <br><br>
+              それでは、先ほど、手動で記述していた<a href="https://developershirai.com/gallery.php#2013%E9%95%B7%E9%87%8E">長野県パーティ</a>をPHPのwhile文に変更しました。
 
-                <pre class="prettyprint linenums">$x = 1;
+              <pre class="prettyprint linenums">$x = 1;
               while ($x < 73) {
                 echo '&lt;a href="gallery2/2013年2月 NagaNo@中目黒solfa/2013年NAGANO@solfa (' . $x . ').jpg" target="blank">&lt;img id="photoGallery" src="gallery2/2013年2月 NagaNo@中目黒solfa/resize/2013年NAGANO@solfa (' . $x . ')small.jpg" alt="">&lt;/a>';
                 $x++;
               }</pre>
 
-                スッキリしました。
-                <br><br>
-                ちなみに、"for文"だともう少しスッキリするので、記述方法を簡単に紹介しておきます。
-                <pre class="prettyprint linenums">
+              スッキリしました。
+              <br><br>
+              ちなみに、"for文"だともう少しスッキリするので、記述方法を簡単に紹介しておきます。
+              <pre class="prettyprint linenums">
             for ($x = 1;$x < 108;$x++) {
                 echo '&lt;a href="gallery2/2011年 12月17日～24日福島/2020-10-18(' . $x . ').jpg" target="blank">&lt;img id="photoGallery" src="gallery2/2011年 12月17日～24日福島/resize/2020-10-18(' . $x . ')small.jpg" alt="">&lt;/a>';
               }</pre>
-                しかも、先にJavaを勉強したので、PHPの記述が簡単すぎてダブルで感動しました。
-                <br><br>
-                まだまだ、大量に写真をストックしているけれど、これで写真を掲載する時間がないなんて、言いたくならなくなるかもしれません。
-                </p>
-              </div>
+              しかも、先にJavaを勉強したので、PHPの記述が簡単すぎてダブルで感動しました。
+              <br><br>
+              まだまだ、大量に写真をストックしているけれど、これで写真を掲載する時間がないなんて、言いたくならなくなるかもしれません。
+              </p>
             </div>
-            <br>
           </div>
+          <br>
+        </div>
 
-          <!-- id=0006 -->
-          <div id="20210214"></div>
-          <div class="schedule_wrapper">
-            <br>
-            <p id="avocado">2021年02月14日 <i class="fas fa-laptop-code"></i>SEO施策</p>
-            <h2 id="title">「サイトマップの作成と追加」</h2>
+        <!-- id=0006 -->
+        <div id="20210214"></div>
+        <div class="schedule_wrapper">
+          <br>
+          <p id="avocado">2021年02月14日 <i class="fas fa-laptop-code"></i>SEO施策</p>
+          <h2 id="title">「サイトマップの作成と追加」</h2>
 
-            <div class="accbox">
+          <div class="accbox">
 
-              <p><img src="gallery/techimg/20210214/AddSitemap.jpg" alt="sitemap.xml Editor1"></p>
+            <p><img src="gallery/techimg/20210214/AddSitemap.jpg" alt="sitemap.xml Editor1"></p>
 
-              <input type="checkbox" id="0006" class="cssacc" />
+            <input type="checkbox" id="0006" class="cssacc" />
 
-              <label for="0006"><span><i class="fas fa-book"></i>READ</span></label>
-              <div class="accshow">
-                <h3>1.サイトマップとは？</h3>
-                <p><mark><strong>サイトマップとは、Webサイト（ドメイン内）のページリンクをまとめたリストのことです。</mark></strong>
+            <label for="0006"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+              <h3>1.サイトマップとは？</h3>
+              <p><mark><strong>サイトマップとは、Webサイト（ドメイン内）のページリンクをまとめたリストのことです。</mark></strong>
+                <br><br>
+                そのWebサイトには、どのようなページがあるのか、ファイル情報など、Webサイトの内容をわかりやすく伝える役割をしています。
+                <br><br>
+                本Webサイトは、僕が独学で1から作成したため、まとまりのない内容になっていますが、通常は、このサイトマップを考えた構成で設計し作成していくのが良いでしょう。
+                <br><br>
+                特に、SEO施策を気にするのであれば、検索エンジンに正しく認識されることが重要です。
+                <br><br>
+                Googleが"サイトマップが必要かどうか"について、以下の様に説明しています。
+                <br><br>
+              <ul>
+                <h4>サイトマップが必要かどうか</h4>
+                <p>サイトの各ページが適切にリンクされていれば、Google は通常、サイトのほとんどのページを検出できます。
                   <br><br>
-                  そのWebサイトには、どのようなページがあるのか、ファイル情報など、Webサイトの内容をわかりやすく伝える役割をしています。
-                  <br><br>
-                  本Webサイトは、僕が独学で1から作成したため、まとまりのない内容になっていますが、通常は、このサイトマップを考えた構成で設計し作成していくのが良いでしょう。
-                  <br><br>
-                  特に、SEO施策を気にするのであれば、検索エンジンに正しく認識されることが重要です。
-                  <br><br>
-                  Googleが"サイトマップが必要かどうか"について、以下の様に説明しています。
-                  <br><br>
-                <ul>
-                  <h4>サイトマップが必要かどうか</h4>
-                  <p>サイトの各ページが適切にリンクされていれば、Google は通常、サイトのほとんどのページを検出できます。
-                    <br><br>
-                    その場合でも、大規模なサイト、複雑なサイト、専門性の高いファイルのクロールを改善する手段としてサイトマップが役立ちます。
-                  </p>
-                  <h4>次の場合にサイトマップが必要になることがあります。</h4>
-
-                  <li>サイトのサイズが非常に大きい。</li>
-                  <li>サイトにどこからもリンクされていない、または適切にリンクされていないコンテンツ ページのアーカイブが大量にある。</li>
-                  <li>サイトが新しく、外部からのリンクが少ない。</li>
-                  <li>サイトに動画や画像などのリッチメディア コンテンツが多数含まれている、またはサイトが Google ニュースに表示されている。</li>
-                  <br>
-                  <em3>出典：<a href="https://developers.google.com/search/docs/advanced/sitemaps/overview?hl=ja&visit_id=637488909103191118-449890832&rd=1">上級者向け SEO施策/サイトマップについて | google検索セントラル</a></em3>
-                </ul>
-                ちなみに、本サイトはサイズが小さいですし、SEO施策を気にして作成していないので、必要ないでしょう。
-                <br><br>
-                とはいえ、Webサイト構築受注でもSEO施策は重要なので、作成してみました。
-                <br><br>
-                サイトマップには、”XMLサイトマップ”と”HTMLサイトマップ”の2種類のファイル形式があります。
-                <br><br>
-                ”XMLサイトマップ”とは、Googleなどの検索エンジンにWebサイトの各ページ情報を認識してもらうリストです。
-                <br><br>
-                ”HTMLサイトマップ”とは、ユーザが目にして、どのようなページがあるのか情報を伝えたり、ユーザの利便性を向上させるリストです。
-                <br><br>
-                Googleのいう、ユーザビリティとクローラビリティを向上するためには、どちらも作成した方が良いということです。
-
-
-                <h3>2.サイトマップを作成する方法は？</h3>
-                ”XMLサイトマップ”と”HTMLサイトマップ”どちらも作成することは難しくないです。
-                <br><br>
-                まず、”XMLサイトマップ”の作成方法から説明します。
-                <br><br>
-                「Google XML Sitemaps」や、フリーのWebアプリで作成できます。
-
-                <h4>”XMLサイトマップ”の作成方法</h4>
-
-                今回は、サイトマップを作成してくれる自動生成ツール<a href="http://www.sitemapxml.jp/" target="_blank">sitemap.xml Editor</a>を使いました。
-                <p><img src="gallery/techimg/20210214/sitemapCreate.jpg" alt="sitemap.xml Editor2"></p>
-                特に理由がなければ、写真のように選択肢を変えずにサイトマップを作成します。
-                <br><br>
-                サイトマップから除外したいページがある場合は、指定しておいた方が良いです。
-                <p><img src="gallery/techimg/20210214/sitemapDone.jpg" alt="sitemap.xml Editor3"></p>
-                作成開始して、しばらくすると完了します。完了した"sitemap.xml"ファイルをクリックしてダウンロードします。
-                <br><br>
-                ダウンロードした"sitemap.xml"ファイルをFTPなどでルート配下になるように配置します。
-                <br><br>
-                以下の写真のように、Googleへ教えてあげるために<a href="https://search.google.com/search-console/">Google Search Console</a>の左項目から、サイトマップを選択し、URLに"sitemap.xml"を入力し送信します。
-                <p><img src="gallery/techimg/20210214/AddSitemap (2).jpg" alt="Google Search Console"></p>
-                写真のようにステータス「成功しました」と表示されたら完了です。
-                <br><br>
-                もし、「取得できませんでした」などのエラーが出た場合は、ファイル名やディレクトリを再度確認して送信しなおしてみましょう。
-
-                <h4>”HTMLサイトマップ”の作成方法</h4>
-                手動で作成する方法と、自動で作成する方法があります。
-                <br><br>
-                本サイトには、”HTMLサイトマップ”は設置していません。
-                <br><br>
-                サイト規模が小さいのもありますが、Webサイト自体作成中なので、設置するとしたら、まだ先になるでしょう。
-                <br><br>
-                また、依然は、必要とされていた大規模Webサイトでも、”HTMLサイトマップ”を設置しないサイトが増えてきています。
-                <br><br>
-                <a href="https://www.amazon.co.jp/">Amazon</a>のサイトでも、現在では、カスタマー向けのサイトマップは設置されていないようです。数年前までは、”HTMLサイトマップ”が設置されていた記憶があります。
-                <br><br>
-                ユーザビリティの向上からも、SEO施策からも設置した方が良いと言われてきました。
-                <br><br>
-                しかし、現在(2021年2月14日)では、Googleは”XMLサイトマップ”を参考・引用にしているため、”HTMLサイトマップ”は、SEO施策としての効果はないと言われているのです。
-                <br><br>
-                ただ、もし、WordPressを利用している場合は、”HTMLサイトマップ”を簡単に自動生成してくれるプラグインがありますので、紹介しておきます。
-                <br><br>
-                WordPressの場合は、「<a href="https://ja.wordpress.org/plugins/ps-auto-sitemap/">PS Auto Sitemap</a>」と「<a href="https://ja.wordpress.org/plugins/simple-sitemap/">Simple Sitemap</a>」があります。
-                <br><br>
-                現段階では、僕がWordPressを利用していないため、「PS Auto Sitemap」で作成が必要な場合は、恐れ入りますが検索して見つけていただきたいです。
-                <br><br>
-                ちなみに、”HTMLサイトマップ”を手動で作成する場合は、リンク切れなどのミスが起きやすく管理する必要が出てくるのであまりオススメしません。
-                <h3>3.サイトマップを作成し、SEO施策しましょう</h3>
-                サイトマップには、クローラビリティを向上する”XMLサイトマップ”と、ユーザビリティを向上する”HTMLサイトマップ”の2種類があり、
-                <br><br>
-                現在のSEO施策では、”XMLサイトマップ”を設置しておいた方が良いでしょう。また、”HTMLサイトマップ”は、SEO施策との関連性が薄いか全く無いため、必要に応じて設置するべきか判断しましょう。
+                  その場合でも、大規模なサイト、複雑なサイト、専門性の高いファイルのクロールを改善する手段としてサイトマップが役立ちます。
                 </p>
-              </div>
-            </div>
-            <br>
-          </div>
+                <h4>次の場合にサイトマップが必要になることがあります。</h4>
 
-          <!-- id=0004 -->
-          <div id="20210210"></div>
-          <div class="schedule_wrapper">
-            <br>
-            <p id="avocado">2021年02月10日 <i class="fas fa-laptop-code"></i>HTML</p>
-            <h2 id="title">「ソースコードの埋め込み」</h2>
-
-            <div class="accbox">
-
-              <p><img src="gallery/techimg/sourcecodeimg.jpg" alt="ソースコードの埋め込みTOP"></p>
-
-              <input type="checkbox" id="0004" class="cssacc" />
-
-              <label for="0004"><span><i class="fas fa-book"></i>READ</span></label>
-
-              <div class="accshow">
-                <p>プログラミングを学んでいる人は皆さん、インターネット検索で情報を得ようとしたことがあると思います。
-                  <br><br>
-                  企業サイトや個人サイトなど、ソースコードが埋め込まれた記事を読んだことがあると思います。
-                  <br><br>
-                  今回は、３つの方法を紹介します。
-                  <br><br>
-                <h3>1．Code Pen</a></h3>
-                よく見かけるのは、ソースコードと実行結果を表示してくれるWEBアプリ<a href="https://codepen.io/pen/">「Code Pen」</a>です。
-                <br><br>
-                たとえば、下に掲載した埋め込みです。
-                <br><br>
-                ちなみに、Result(実行結果)の「ソースコードの埋め込み」をクリックするとカウントダウンされ、0になった時にアラートが表示されるプログラミングを記述しています。
+                <li>サイトのサイズが非常に大きい。</li>
+                <li>サイトにどこからもリンクされていない、または適切にリンクされていないコンテンツ ページのアーカイブが大量にある。</li>
+                <li>サイトが新しく、外部からのリンクが少ない。</li>
+                <li>サイトに動画や画像などのリッチメディア コンテンツが多数含まれている、またはサイトが Google ニュースに表示されている。</li>
                 <br>
-                <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="hiyuma" data-slug-hash="rNWMmOQ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="rNWMmOQ">
-                  <span>See the Pen <a href="https://codepen.io/hiyuma/pen/rNWMmOQ">
-                      rNWMmOQ</a> by MARC JACOBS (<a href="https://codepen.io/hiyuma">@hiyuma</a>)
-                    on <a href="https://codepen.io">CodePen</a>.</span>
-                </p><br>
-                <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-                タブ選択で、HTML、CSS、JSと実行結果、それぞれ、この画面内ですべて確認できるツールです。
-                <br><br>
-                Pen設定から、CSSをSaasやSCCS、JS(JavaScript)をTypeScriptやLiveScriptに変更して記述することもできます。
-                <br><br>
-                <a href="https://codepen.io/pen/">「Code Pen」</a>は、コードを記述し終わったら、①右下の[Embed]をクリックして表示される②下枠にあるHTMLのコードをコピーして、表示したい部分にペーストすると完了です。
-                <br><br>
+                <em3>出典：<a href="https://developers.google.com/search/docs/advanced/sitemaps/overview?hl=ja&visit_id=637488909103191118-449890832&rd=1">上級者向け SEO施策/サイトマップについて | google検索セントラル</a></em3>
+              </ul>
+              ちなみに、本サイトはサイズが小さいですし、SEO施策を気にして作成していないので、必要ないでしょう。
+              <br><br>
+              とはいえ、Webサイト構築受注でもSEO施策は重要なので、作成してみました。
+              <br><br>
+              サイトマップには、”XMLサイトマップ”と”HTMLサイトマップ”の2種類のファイル形式があります。
+              <br><br>
+              ”XMLサイトマップ”とは、Googleなどの検索エンジンにWebサイトの各ページ情報を認識してもらうリストです。
+              <br><br>
+              ”HTMLサイトマップ”とは、ユーザが目にして、どのようなページがあるのか情報を伝えたり、ユーザの利便性を向上させるリストです。
+              <br><br>
+              Googleのいう、ユーザビリティとクローラビリティを向上するためには、どちらも作成した方が良いということです。
 
-                <h3>2．Gist</h3>
-                次に紹介するのは、"GitHub"で利用できる<a href="https://gist.github.com/">「Gist」</a>です。
-                <br><br>
-                "GitHub"は、開発者のためにあるプラットフォームで、バージョン管理できたり、共有開発したりと何かとお世話になります。
-                <br><br>
-                「Gist」を使うには"GitHub"のアカウントが必要なので、アカウントなくとも無料ですぐ作成できますし、シンプルで使いやすいです。
-                <br><br>
-                記述したコードはそのまま、GitHub(Gist)に公開、非公開を選択して保存することもできます。
-                <br><br>
-                <p><img src="gallery/techimg/GithubGistsave.jpg" alt="ソースコードの埋め込みGist1"></p>
-                保存後、右上のEmbedに&lt;script&gt;があるのでコードをコピーして、表示したい部分にペーストすると完了です。
-                <p><img src="gallery/techimg/GithubGistpaste.jpg" alt="ソースコードの埋め込みGist2"></p>
-                作成してコピーしたものを下にペーストしました。
-                <script src="https://gist.github.com/hiyuma/99e11c7b90ed74d8939fa4a2fd628f1e.js"></script>
-                シンプルです。
-                <br><br>
-                Gistから作成したファイルを消すと、上のコードも消えるので削除する場合は、謎の空白ができるので注意です。
-                <br><br>
 
-                <h3>3．Google code-prettify</h3>
-                <a href="https://github.com/googlearchive/code-prettify">Google code-prettify</a>とは、Googleが提供するHTML ページに含まれるソースコードのキーワードなどに色を付けて見やすくできる"JavaScriptライブラリ"です。
+              <h3>2.サイトマップを作成する方法は？</h3>
+              ”XMLサイトマップ”と”HTMLサイトマップ”どちらも作成することは難しくないです。
+              <br><br>
+              まず、”XMLサイトマップ”の作成方法から説明します。
+              <br><br>
+              「Google XML Sitemaps」や、フリーのWebアプリで作成できます。
+
+              <h4>”XMLサイトマップ”の作成方法</h4>
+
+              今回は、サイトマップを作成してくれる自動生成ツール<a href="http://www.sitemapxml.jp/" target="_blank">sitemap.xml Editor</a>を使いました。
+              <p><img src="gallery/techimg/20210214/sitemapCreate.jpg" alt="sitemap.xml Editor2"></p>
+              特に理由がなければ、写真のように選択肢を変えずにサイトマップを作成します。
+              <br><br>
+              サイトマップから除外したいページがある場合は、指定しておいた方が良いです。
+              <p><img src="gallery/techimg/20210214/sitemapDone.jpg" alt="sitemap.xml Editor3"></p>
+              作成開始して、しばらくすると完了します。完了した"sitemap.xml"ファイルをクリックしてダウンロードします。
+              <br><br>
+              ダウンロードした"sitemap.xml"ファイルをFTPなどでルート配下になるように配置します。
+              <br><br>
+              以下の写真のように、Googleへ教えてあげるために<a href="https://search.google.com/search-console/">Google Search Console</a>の左項目から、サイトマップを選択し、URLに"sitemap.xml"を入力し送信します。
+              <p><img src="gallery/techimg/20210214/AddSitemap (2).jpg" alt="Google Search Console"></p>
+              写真のようにステータス「成功しました」と表示されたら完了です。
+              <br><br>
+              もし、「取得できませんでした」などのエラーが出た場合は、ファイル名やディレクトリを再度確認して送信しなおしてみましょう。
+
+              <h4>”HTMLサイトマップ”の作成方法</h4>
+              手動で作成する方法と、自動で作成する方法があります。
+              <br><br>
+              本サイトには、”HTMLサイトマップ”は設置していません。
+              <br><br>
+              サイト規模が小さいのもありますが、Webサイト自体作成中なので、設置するとしたら、まだ先になるでしょう。
+              <br><br>
+              また、依然は、必要とされていた大規模Webサイトでも、”HTMLサイトマップ”を設置しないサイトが増えてきています。
+              <br><br>
+              <a href="https://www.amazon.co.jp/">Amazon</a>のサイトでも、現在では、カスタマー向けのサイトマップは設置されていないようです。数年前までは、”HTMLサイトマップ”が設置されていた記憶があります。
+              <br><br>
+              ユーザビリティの向上からも、SEO施策からも設置した方が良いと言われてきました。
+              <br><br>
+              しかし、現在(2021年2月14日)では、Googleは”XMLサイトマップ”を参考・引用にしているため、”HTMLサイトマップ”は、SEO施策としての効果はないと言われているのです。
+              <br><br>
+              ただ、もし、WordPressを利用している場合は、”HTMLサイトマップ”を簡単に自動生成してくれるプラグインがありますので、紹介しておきます。
+              <br><br>
+              WordPressの場合は、「<a href="https://ja.wordpress.org/plugins/ps-auto-sitemap/">PS Auto Sitemap</a>」と「<a href="https://ja.wordpress.org/plugins/simple-sitemap/">Simple Sitemap</a>」があります。
+              <br><br>
+              現段階では、僕がWordPressを利用していないため、「PS Auto Sitemap」で作成が必要な場合は、恐れ入りますが検索して見つけていただきたいです。
+              <br><br>
+              ちなみに、”HTMLサイトマップ”を手動で作成する場合は、リンク切れなどのミスが起きやすく管理する必要が出てくるのであまりオススメしません。
+              <h3>3.サイトマップを作成し、SEO施策しましょう</h3>
+              サイトマップには、クローラビリティを向上する”XMLサイトマップ”と、ユーザビリティを向上する”HTMLサイトマップ”の2種類があり、
+              <br><br>
+              現在のSEO施策では、”XMLサイトマップ”を設置しておいた方が良いでしょう。また、”HTMLサイトマップ”は、SEO施策との関連性が薄いか全く無いため、必要に応じて設置するべきか判断しましょう。
+              </p>
+            </div>
+          </div>
+          <br>
+        </div>
+
+        <!-- id=0004 -->
+        <div id="20210210"></div>
+        <div class="schedule_wrapper">
+          <br>
+          <p id="avocado">2021年02月10日 <i class="fas fa-laptop-code"></i>HTML</p>
+          <h2 id="title">「ソースコードの埋め込み」</h2>
+
+          <div class="accbox">
+
+            <p><img src="gallery/techimg/sourcecodeimg.jpg" alt="ソースコードの埋め込みTOP"></p>
+
+            <input type="checkbox" id="0004" class="cssacc" />
+
+            <label for="0004"><span><i class="fas fa-book"></i>READ</span></label>
+
+            <div class="accshow">
+              <p>プログラミングを学んでいる人は皆さん、インターネット検索で情報を得ようとしたことがあると思います。
                 <br><br>
-                HTMLには、コードをタグ「&lt;pre&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;」で囲って表示することができるようになっています。
+                企業サイトや個人サイトなど、ソースコードが埋め込まれた記事を読んだことがあると思います。
                 <br><br>
-                ですが、”&lt;”や”&gt;”などの文字は、エスケープ処理しないとコードとして認識されて上手く表示されなず、また、コードの色分けやフォント調整などで、CSSが必要になるため、とても大変です。
+                今回は、３つの方法を紹介します。
                 <br><br>
-                例えば、下のよう記述した場合です。
-                <p><img src="gallery/techimg/PreCodeTagEscape.jpg" alt="ソースコードの埋め込みpre"></p>
-                <pre><code>
+              <h3>1．Code Pen</a></h3>
+              よく見かけるのは、ソースコードと実行結果を表示してくれるWEBアプリ<a href="https://codepen.io/pen/">「Code Pen」</a>です。
+              <br><br>
+              たとえば、下に掲載した埋め込みです。
+              <br><br>
+              ちなみに、Result(実行結果)の「ソースコードの埋め込み」をクリックするとカウントダウンされ、0になった時にアラートが表示されるプログラミングを記述しています。
+              <br>
+              <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="hiyuma" data-slug-hash="rNWMmOQ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="rNWMmOQ">
+                <span>See the Pen <a href="https://codepen.io/hiyuma/pen/rNWMmOQ">
+                    rNWMmOQ</a> by MARC JACOBS (<a href="https://codepen.io/hiyuma">@hiyuma</a>)
+                  on <a href="https://codepen.io">CodePen</a>.</span>
+              </p><br>
+              <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+              タブ選択で、HTML、CSS、JSと実行結果、それぞれ、この画面内ですべて確認できるツールです。
+              <br><br>
+              Pen設定から、CSSをSaasやSCCS、JS(JavaScript)をTypeScriptやLiveScriptに変更して記述することもできます。
+              <br><br>
+              <a href="https://codepen.io/pen/">「Code Pen」</a>は、コードを記述し終わったら、①右下の[Embed]をクリックして表示される②下枠にあるHTMLのコードをコピーして、表示したい部分にペーストすると完了です。
+              <br><br>
+
+              <h3>2．Gist</h3>
+              次に紹介するのは、"GitHub"で利用できる<a href="https://gist.github.com/">「Gist」</a>です。
+              <br><br>
+              "GitHub"は、開発者のためにあるプラットフォームで、バージョン管理できたり、共有開発したりと何かとお世話になります。
+              <br><br>
+              「Gist」を使うには"GitHub"のアカウントが必要なので、アカウントなくとも無料ですぐ作成できますし、シンプルで使いやすいです。
+              <br><br>
+              記述したコードはそのまま、GitHub(Gist)に公開、非公開を選択して保存することもできます。
+              <br><br>
+              <p><img src="gallery/techimg/GithubGistsave.jpg" alt="ソースコードの埋め込みGist1"></p>
+              保存後、右上のEmbedに&lt;script&gt;があるのでコードをコピーして、表示したい部分にペーストすると完了です。
+              <p><img src="gallery/techimg/GithubGistpaste.jpg" alt="ソースコードの埋め込みGist2"></p>
+              作成してコピーしたものを下にペーストしました。
+              <script src="https://gist.github.com/hiyuma/99e11c7b90ed74d8939fa4a2fd628f1e.js"></script>
+              シンプルです。
+              <br><br>
+              Gistから作成したファイルを消すと、上のコードも消えるので削除する場合は、謎の空白ができるので注意です。
+              <br><br>
+
+              <h3>3．Google code-prettify</h3>
+              <a href="https://github.com/googlearchive/code-prettify">Google code-prettify</a>とは、Googleが提供するHTML ページに含まれるソースコードのキーワードなどに色を付けて見やすくできる"JavaScriptライブラリ"です。
+              <br><br>
+              HTMLには、コードをタグ「&lt;pre&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;」で囲って表示することができるようになっています。
+              <br><br>
+              ですが、”&lt;”や”&gt;”などの文字は、エスケープ処理しないとコードとして認識されて上手く表示されなず、また、コードの色分けやフォント調整などで、CSSが必要になるため、とても大変です。
+              <br><br>
+              例えば、下のよう記述した場合です。
+              <p><img src="gallery/techimg/PreCodeTagEscape.jpg" alt="ソースコードの埋め込みpre"></p>
+              <pre><code>
                       &lt;h1 id="count" 
                       onclick="setTimeout('countDown()',0.1);"&gt;
                       ソースコードの埋め込み&lt;/h1&gt;
@@ -2699,31 +3374,31 @@
                       コードを表記しやすい表記に変わります。
                       </code></pre>
 
-                <br><br>
-                プログラミングコードらしいフォントというかなんというか、良く見たことある感じになりました。
-                <br><br>
-                ということで、前置き長くなりました。
-                <br><br>
-                やはり見にくいので、より見やすく、より簡単に記載するため<a href="https://github.com/googlearchive/code-prettify">Google code-prettify</a>をCDNで利用する方法を紹介します。
-                <br><br>
-                ダウンロードし、ローカルファイルとして利用する方法もありますが、今回は省略します。
-                <br><br>
-                以下のscriptを使うことで、CDNをスクリプトとスタイルシートの読み込みを共に一括して行えます。
+              <br><br>
+              プログラミングコードらしいフォントというかなんというか、良く見たことある感じになりました。
+              <br><br>
+              ということで、前置き長くなりました。
+              <br><br>
+              やはり見にくいので、より見やすく、より簡単に記載するため<a href="https://github.com/googlearchive/code-prettify">Google code-prettify</a>をCDNで利用する方法を紹介します。
+              <br><br>
+              ダウンロードし、ローカルファイルとして利用する方法もありますが、今回は省略します。
+              <br><br>
+              以下のscriptを使うことで、CDNをスクリプトとスタイルシートの読み込みを共に一括して行えます。
 
-                <pre class="prettyprint linenums">&lt;script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"&gt;&lt;/script&gt;</pre>
+              <pre class="prettyprint linenums">&lt;script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"&gt;&lt;/script&gt;</pre>
 
-                <br><br>
-                あとは、bodyの表示したい場所にタグ&lt;pre class="prettyprint linenums">&lt;/pre>を入れて、コードで記述します。
-                <br><br>
-                CDN読み込みしているので、preにprettyprintクラスとlinenumsクラスを付けるだけで、良いのです。
-                <br><br>
-                また、個人的に別途CSSファイルを作成して、さらに変更している部分があります。
-                <br><br>
-                長いコードを折り返さずに、一行で表示したい場合は、スクロールバーを使って表示することもできます。
-                <br><br>
-                あとは、&lt;pre class="prettyprint linenums">&lt;/pre>の間にコードを入れて、以下のように表記できます。
+              <br><br>
+              あとは、bodyの表示したい場所にタグ&lt;pre class="prettyprint linenums">&lt;/pre>を入れて、コードで記述します。
+              <br><br>
+              CDN読み込みしているので、preにprettyprintクラスとlinenumsクラスを付けるだけで、良いのです。
+              <br><br>
+              また、個人的に別途CSSファイルを作成して、さらに変更している部分があります。
+              <br><br>
+              長いコードを折り返さずに、一行で表示したい場合は、スクロールバーを使って表示することもできます。
+              <br><br>
+              あとは、&lt;pre class="prettyprint linenums">&lt;/pre>の間にコードを入れて、以下のように表記できます。
 
-                <pre class="prettyprint linenums">var count = 10;
+              <pre class="prettyprint linenums">var count = 10;
                       function countDown() {
                         console.log('count');
                         if (count !== 0) {
@@ -2736,239 +3411,239 @@
                           count = 10;
                         }
                       }</pre>
-                この方法だと、テキストエディターが少し散らかりやすいので、あまりオススメはできないです。
-                <br><br>
-                1番目に紹介した「Code Pen」が一番コードと結果がわかりやすく表記できそうです。
-                <br><br>
-                今後のソースコードの埋め込みは「Code Pen」使っていきます。
-                </p>
-              </div>
+              この方法だと、テキストエディターが少し散らかりやすいので、あまりオススメはできないです。
+              <br><br>
+              1番目に紹介した「Code Pen」が一番コードと結果がわかりやすく表記できそうです。
+              <br><br>
+              今後のソースコードの埋め込みは「Code Pen」使っていきます。
+              </p>
             </div>
-            <br>
           </div>
-
-          <!-- id=0005 -->
-          <div id="20210209"></div>
-          <div class="schedule_wrapper">
-            <br>
-            <p id="avocado">2021年02月09日 <i class="fas fa-laptop-code"></i>PHP</p>
-            <h2 id="title">「現在日時の取得」</h2>
-
-            <div class="accbox">
-              <p><img src="gallery/techimg/PHP現在日時取得前HTML.jpg" alt="PHP現在時刻取得前表示1"></p>
-
-              <input type="checkbox" id="0005" class="cssacc" />
-              <label for="0005"><span><i class="fas fa-book"></i>READ</span></label>
-              <div class="accshow">
-                <p>このWEBサイトでは、HOMEページのSTUDY LISTの日時を毎回更新しています。
-                <p><img src="gallery/techimg/PHP現在nichiji .jpg" alt="PHP現在時刻取得前code1"></p>
-                直接、数字を変更し保存することで反映させていました。
-                <br><br>
-                ただ、毎回変更するのは手間がかかります。
-                <br><br>
-                せっかく、最近PHPへ移行したので、現在日時の自動取得、表示をしてくれるようプログラミングしておきます。
-                <br><br>
-                Javaでも、date()関数は使いましたが、PHPでも”date()関数”が使え、さらに記述が簡単です。
-                <p><img src="gallery/techimg/PHP現在時刻取得後code.jpg" alt="PHP現在時刻取得code1"></p>
-                <p><img src="gallery/techimg/PHP現在日時取得後HTML1.jpg" alt="PHP現在時刻取得後表示1"></p>
-
-                上の写真の様に、簡単なコードで現在日時を取得し、さらにフォーマットされ表示してくれます。
-                <br><br>
-                <table id="techdiary">
-                  <tr>
-                    <th>フォーマット</th>
-                    <th>詳細</th>
-                    <th>出力</th>
-                  </tr>
-                  <tr>
-                    <td>Y / y</td>
-                    <td>西暦(4桁) / 西暦(2桁)</td>
-                    <td>2021 / 21</td>
-                  </tr>
-                  <tr>
-                    <td>m / n</td>
-                    <td>月(2桁) / 月(0埋めなし)</td>
-                    <td>02 / 2</td>
-                  </tr>
-                  <tr>
-                    <td>M / F</td>
-                    <td>月(英語) / 月(英語(略))</td>
-                    <td>February / Feb</td>
-                  </tr>
-                  <tr>
-                    <td>d / j</td>
-                    <td>日(2桁) / 日(0埋めなし)</td>
-                    <td>08 / 8</td>
-                  </tr>
-                  <tr>
-                    <td>I / D</td>
-                    <td>曜日(英語) / 曜日(英語(略))</td>
-                    <td>Monday / Mon</td>
-                  </tr>
-                  <tr>
-                    <td>w / N</td>
-                    <td>曜日(0(日曜)-6(土曜)) / 曜日(1(月曜)-7(日曜))</td>
-                    <td>1 / 1</td>
-                  </tr>
-                  <tr>
-                    <td>H / G</td>
-                    <td>時(2桁) / 時(0埋めなし)※24時間</td>
-                    <td>16 / 16</td>
-                  </tr>
-                  <tr>
-                    <td>h / g</td>
-                    <td>時(2桁) / 時(0埋めなし)※12時間</td>
-                    <td>04 / 4</td>
-                  </tr>
-                  <tr>
-                    <td>i / s</td>
-                    <td>分 / 秒</td>
-                    <td>43 / 38</td>
-                  </tr>
-                </table>
-                <br><br>
-                また、date()関数の場合は、上の表のように、ローマ字に対応してフォーマットされます。
-                <br><br>
-                他にも、うるう年”L”など、フォーマット例がたくさんありますので、気になる方は検索してみてください。
-                <br><br>
-                日本語の曜日で出力させたい場合は、"w"、"N"が数字での表記になってしまうので、少し工夫しないといけません。
-                <p><img src="gallery/techimg/PHP現在日時取得後曜日Weekcode.jpg" alt="PHP現在曜日取得code1"></p>
-                <p><img src="gallery/techimg/PHP現在時刻取得日時曜日include.jpg" alt="PHP現在曜日取得code2"></p>
-                日本語の曜日表記させる配列を別途phpファイルで作成し、includeで読み込ませる手法にしました。
-                <br><br>
-                すると...
-                <p><img src="gallery/techimg/InkedPHP現在時刻取得後曜日HTML2_LI.jpg" alt="PHP現在時刻取得後表示1"></p>
-                日本語の曜日表示（1→月）で正確に表示されました。
-                <br><br>
-                これで、毎日行う作業が一つ減りました。
-                <br><br>
-                ただ、date関数は、32bitで日時を扱うため、2038年問題（オーバーフローで誤作動する問題）があり、今のところ、2038年1月19日までしか使えないと思われるので、使用はしない方が良いです。
-                <br><br>
-                ここまで、Date()関数を紹介しておいてなんだよっ！と思ったと思います。
-                <br><br>
-                僕は、敢えて、誤作動させてみたいと思っています。忘れてそうですが。
-                <br><br>
-                結論、日時関数を使う際は、"Date()"ではなく、"DateTime()"や、他関数で現在時刻を取得しましょう。
-                </p>
-              </div>
-            </div>
-            <br>
-          </div>
-
-
-          <!-- id=0003 -->
-          <div id="20210208"></div>
-          <div class="schedule_wrapper">
-            <br>
-            <p id="avocado">2021年02月08日 <i class="fas fa-laptop-code"></i>PHP</p>
-            <h2 id="title">「入力値の継承」</h2>
-
-            <div class="accbox">
-              <p><img src="gallery/techimg/InkedPHPFormDoneNone_LI.jpg" alt="PHP入力値の継承前"></p>
-
-              <input type="checkbox" id="0003" class="cssacc" />
-              <label for="0003"><span><i class="fas fa-book"></i>READ</span></label>
-              <div class="accshow">
-
-                <p>先日、<a href="https://developershirai.com/jspractice/work.php#judgment">WORK</a>ページにて更新した数字判定でのフォーム入力。
-                  <br><br>
-                  上の写真の通り、数字を入力して判定ボタンを押すと結果は表示されますが、入力値が消えています。
-                  <br><br>
-                  今回は、入力値を判定ボタンを押した後でも残すプログラミングをしてみます。
-                  <br><br>
-                  僕が作成したこのフォームは、別のPHPファイルを読み込んでいます。
-                  <br><br>
-                  POSTされた値を変数に格納し、if文でチェックし、表示される結果を変える処理をしています。
-                  <br><br>
-                  その変数を入力フォームに残す処理をします。
-                  <br><br>
-                  PHPは、以下の写真の様に、
-                  <br>「value="&lt;?php if( !empty($_POST['送信された値を持った変数名']) ){ echo $_POST['送信された値を持った変数名']; } ?&gt;”」<br>でコーディングしてみました。
-                <p><img src="gallery/techimg/phpFormValueRemaine2021-02-08.jpg" alt="PHPフォーム入力値継承"></p>
-                <br><br>
-                表示もif文"!empty()"で空チェックをしています。
-                <br><br>
-                これで、数字を入力して判定をボタンを押下すると...
-                <p><img src="gallery/techimg/PHPformValueRemainDone.jpg" alt="PHPフォーム入力値継承"></p>
-                今度は、値が継承されています。
-                <br><br>
-                値の継承方法は多々あるので、他も色々試してみます。
-                <br><br>
-                例えば、会員情報（名前やメールアドレス、住所など）を入力するサイトで、入力内容を一度確認させたい場合や、別の画面へ移動してから、入力画面へ戻った場合に入力値を残してあげておきたい場合などにこういった処理を使います。
-                <br><br>
-                会員登録のようなフォームでは、一度入力したものが消えると、再入力の手間をかけてくれず、登録を辞める人もいるでしょう。
-                <br><br>
-                といった様に、大切な処理になるので、忘れずにコーディングしておきたいものです。
-                <br><br>
-                PHPで別に<a href="https://developershirai.com/questionnaire.php">アンケート集計</a>機能ページを作成した時にも、入力値（選択項目）の確認処理をしてありますので、よかったら確認してみてください。
-                </p>
-              </div>
-            </div>
-            <br>
-          </div>
-
-
-          <!-- id=0002 -->
-          <div id="20210206"></div>
-          <div class="schedule_wrapper">
-            <br>
-            <p id="avocado">2021年02月06日 <i class="fas fa-laptop-code"></i>CSS</p>
-            <h2 id="title">「リスト(li)デザイン変更」</h2>
-
-            <div class="accbox">
-              <p><img src="gallery/techimg/Inkedリスト変更前スクリーンショット LI.jpg" alt="スクロールバー変更CSS"></p>
-
-              <input type="checkbox" id="0002" class="cssacc" />
-              <label for="0002"><span><i class="fas fa-book"></i>READ</span></label>
-              <div class="accshow">
-                <p>後回しにしていたリストのデザインの変更しました。
-                  <br><br>
-                  大したものではないですが、ポイントは、border-left、background、list-style-typeです。
-                <p><img src="gallery/techimg/list-left-bar-css.jpg" alt="リストデザイン変更CSS"></p>
-                変更後のリストはこちらです。
-                <p><img src="gallery/techimg/change-list-design-done.jpg" alt="リストデザイン変更後"></p>
-                ひとまず、見やすくなったような気がします。
-                </p>
-              </div>
-            </div>
-            <br>
-          </div>
-
-          <div id="20210205"></div>
-          <div class="schedule_wrapper">
-            <br>
-            <p id="avocado">2021年02月05日 <i class="fas fa-laptop-code"></i>CSS</p>
-            <h2 id="title">「スクロールバー(scrollbar)デザイン変更」</h2>
-            <div class="accbox">
-              <p><img src="gallery/techimg/Inkedスクロールバー変更前スクリーンショット 2021-02-05 183925_LI.jpg" alt="スクロールバー変更前"></p>
-              <input type="checkbox" id="0001" class="cssacc" />
-
-              <label for="0001"><span><i class="fas fa-book"></i>READ</span></label>
-              <div class="accshow">
-                <p>ふと、スクロールバーを見ていたら、どこのサイトでもだいたいデザイン一緒だよなと思い始めました。
-                  <br><br>
-                  そして、変えることが出来るのか調べるところから始めてみました。
-                  <br><br>
-                  変更する方法は複数見つかりました。
-                  <br><br>
-                  僕が主に利用しているブラウザはChromeだったため、CSS追加しても効果がないパターンもありましたが、今回はwebkitをつかって変更しました。
-                  <br><br>
-                  ::-webkit-scrollbar(全体)、::-webkit-scrollbar-track(バーの可動域部)、::-webkit-scrollbar-thumb(バー本体)
-                <p><img src="gallery/techimg/スクロールバー変更CSS (2).jpg" alt="スクロールバー変更CSS"></p>
-                変更後のスクロールバーはこちらです。
-                <p><img src="gallery/techimg/Inkedスクロールバー変更後スクリーンショット 2021-02-05 183730_LI.jpg" alt="スクロールバー変更後"></p>
-                様々な配色や変形を試してみたのですが、結局行きついたのはこんなものでした。
-                <br><br>
-                納得できたデザインではないので、また気になった時に変更するかもしれません。
-                </p>
-                <br>
-              </div>
-            </div>
-            <br>
-          </div>
-          <hr>
-          <em2><i class="fas fa-arrow-circle-right"></i>今後は、大きく変更したものは出来る限り記録していきます。</em2>
           <br>
+        </div>
+
+        <!-- id=0005 -->
+        <div id="20210209"></div>
+        <div class="schedule_wrapper">
+          <br>
+          <p id="avocado">2021年02月09日 <i class="fas fa-laptop-code"></i>PHP</p>
+          <h2 id="title">「現在日時の取得」</h2>
+
+          <div class="accbox">
+            <p><img src="gallery/techimg/PHP現在日時取得前HTML.jpg" alt="PHP現在時刻取得前表示1"></p>
+
+            <input type="checkbox" id="0005" class="cssacc" />
+            <label for="0005"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+              <p>このWEBサイトでは、HOMEページのSTUDY LISTの日時を毎回更新しています。
+              <p><img src="gallery/techimg/PHP現在nichiji .jpg" alt="PHP現在時刻取得前code1"></p>
+              直接、数字を変更し保存することで反映させていました。
+              <br><br>
+              ただ、毎回変更するのは手間がかかります。
+              <br><br>
+              せっかく、最近PHPへ移行したので、現在日時の自動取得、表示をしてくれるようプログラミングしておきます。
+              <br><br>
+              Javaでも、date()関数は使いましたが、PHPでも”date()関数”が使え、さらに記述が簡単です。
+              <p><img src="gallery/techimg/PHP現在時刻取得後code.jpg" alt="PHP現在時刻取得code1"></p>
+              <p><img src="gallery/techimg/PHP現在日時取得後HTML1.jpg" alt="PHP現在時刻取得後表示1"></p>
+
+              上の写真の様に、簡単なコードで現在日時を取得し、さらにフォーマットされ表示してくれます。
+              <br><br>
+              <table id="techdiary">
+                <tr>
+                  <th>フォーマット</th>
+                  <th>詳細</th>
+                  <th>出力</th>
+                </tr>
+                <tr>
+                  <td>Y / y</td>
+                  <td>西暦(4桁) / 西暦(2桁)</td>
+                  <td>2021 / 21</td>
+                </tr>
+                <tr>
+                  <td>m / n</td>
+                  <td>月(2桁) / 月(0埋めなし)</td>
+                  <td>02 / 2</td>
+                </tr>
+                <tr>
+                  <td>M / F</td>
+                  <td>月(英語) / 月(英語(略))</td>
+                  <td>February / Feb</td>
+                </tr>
+                <tr>
+                  <td>d / j</td>
+                  <td>日(2桁) / 日(0埋めなし)</td>
+                  <td>08 / 8</td>
+                </tr>
+                <tr>
+                  <td>I / D</td>
+                  <td>曜日(英語) / 曜日(英語(略))</td>
+                  <td>Monday / Mon</td>
+                </tr>
+                <tr>
+                  <td>w / N</td>
+                  <td>曜日(0(日曜)-6(土曜)) / 曜日(1(月曜)-7(日曜))</td>
+                  <td>1 / 1</td>
+                </tr>
+                <tr>
+                  <td>H / G</td>
+                  <td>時(2桁) / 時(0埋めなし)※24時間</td>
+                  <td>16 / 16</td>
+                </tr>
+                <tr>
+                  <td>h / g</td>
+                  <td>時(2桁) / 時(0埋めなし)※12時間</td>
+                  <td>04 / 4</td>
+                </tr>
+                <tr>
+                  <td>i / s</td>
+                  <td>分 / 秒</td>
+                  <td>43 / 38</td>
+                </tr>
+              </table>
+              <br><br>
+              また、date()関数の場合は、上の表のように、ローマ字に対応してフォーマットされます。
+              <br><br>
+              他にも、うるう年”L”など、フォーマット例がたくさんありますので、気になる方は検索してみてください。
+              <br><br>
+              日本語の曜日で出力させたい場合は、"w"、"N"が数字での表記になってしまうので、少し工夫しないといけません。
+              <p><img src="gallery/techimg/PHP現在日時取得後曜日Weekcode.jpg" alt="PHP現在曜日取得code1"></p>
+              <p><img src="gallery/techimg/PHP現在時刻取得日時曜日include.jpg" alt="PHP現在曜日取得code2"></p>
+              日本語の曜日表記させる配列を別途phpファイルで作成し、includeで読み込ませる手法にしました。
+              <br><br>
+              すると...
+              <p><img src="gallery/techimg/InkedPHP現在時刻取得後曜日HTML2_LI.jpg" alt="PHP現在時刻取得後表示1"></p>
+              日本語の曜日表示（1→月）で正確に表示されました。
+              <br><br>
+              これで、毎日行う作業が一つ減りました。
+              <br><br>
+              ただ、date関数は、32bitで日時を扱うため、2038年問題（オーバーフローで誤作動する問題）があり、今のところ、2038年1月19日までしか使えないと思われるので、使用はしない方が良いです。
+              <br><br>
+              ここまで、Date()関数を紹介しておいてなんだよっ！と思ったと思います。
+              <br><br>
+              僕は、敢えて、誤作動させてみたいと思っています。忘れてそうですが。
+              <br><br>
+              結論、日時関数を使う際は、"Date()"ではなく、"DateTime()"や、他関数で現在時刻を取得しましょう。
+              </p>
+            </div>
+          </div>
+          <br>
+        </div>
+
+
+        <!-- id=0003 -->
+        <div id="20210208"></div>
+        <div class="schedule_wrapper">
+          <br>
+          <p id="avocado">2021年02月08日 <i class="fas fa-laptop-code"></i>PHP</p>
+          <h2 id="title">「入力値の継承」</h2>
+
+          <div class="accbox">
+            <p><img src="gallery/techimg/InkedPHPFormDoneNone_LI.jpg" alt="PHP入力値の継承前"></p>
+
+            <input type="checkbox" id="0003" class="cssacc" />
+            <label for="0003"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+
+              <p>先日、<a href="https://developershirai.com/jspractice/work.php#judgment">WORK</a>ページにて更新した数字判定でのフォーム入力。
+                <br><br>
+                上の写真の通り、数字を入力して判定ボタンを押すと結果は表示されますが、入力値が消えています。
+                <br><br>
+                今回は、入力値を判定ボタンを押した後でも残すプログラミングをしてみます。
+                <br><br>
+                僕が作成したこのフォームは、別のPHPファイルを読み込んでいます。
+                <br><br>
+                POSTされた値を変数に格納し、if文でチェックし、表示される結果を変える処理をしています。
+                <br><br>
+                その変数を入力フォームに残す処理をします。
+                <br><br>
+                PHPは、以下の写真の様に、
+                <br>「value="&lt;?php if( !empty($_POST['送信された値を持った変数名']) ){ echo $_POST['送信された値を持った変数名']; } ?&gt;”」<br>でコーディングしてみました。
+              <p><img src="gallery/techimg/phpFormValueRemaine2021-02-08.jpg" alt="PHPフォーム入力値継承"></p>
+              <br><br>
+              表示もif文"!empty()"で空チェックをしています。
+              <br><br>
+              これで、数字を入力して判定をボタンを押下すると...
+              <p><img src="gallery/techimg/PHPformValueRemainDone.jpg" alt="PHPフォーム入力値継承"></p>
+              今度は、値が継承されています。
+              <br><br>
+              値の継承方法は多々あるので、他も色々試してみます。
+              <br><br>
+              例えば、会員情報（名前やメールアドレス、住所など）を入力するサイトで、入力内容を一度確認させたい場合や、別の画面へ移動してから、入力画面へ戻った場合に入力値を残してあげておきたい場合などにこういった処理を使います。
+              <br><br>
+              会員登録のようなフォームでは、一度入力したものが消えると、再入力の手間をかけてくれず、登録を辞める人もいるでしょう。
+              <br><br>
+              といった様に、大切な処理になるので、忘れずにコーディングしておきたいものです。
+              <br><br>
+              PHPで別に<a href="https://developershirai.com/questionnaire.php">アンケート集計</a>機能ページを作成した時にも、入力値（選択項目）の確認処理をしてありますので、よかったら確認してみてください。
+              </p>
+            </div>
+          </div>
+          <br>
+        </div>
+
+
+        <!-- id=0002 -->
+        <div id="20210206"></div>
+        <div class="schedule_wrapper">
+          <br>
+          <p id="avocado">2021年02月06日 <i class="fas fa-laptop-code"></i>CSS</p>
+          <h2 id="title">「リスト(li)デザイン変更」</h2>
+
+          <div class="accbox">
+            <p><img src="gallery/techimg/Inkedリスト変更前スクリーンショット LI.jpg" alt="スクロールバー変更CSS"></p>
+
+            <input type="checkbox" id="0002" class="cssacc" />
+            <label for="0002"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+              <p>後回しにしていたリストのデザインの変更しました。
+                <br><br>
+                大したものではないですが、ポイントは、border-left、background、list-style-typeです。
+              <p><img src="gallery/techimg/list-left-bar-css.jpg" alt="リストデザイン変更CSS"></p>
+              変更後のリストはこちらです。
+              <p><img src="gallery/techimg/change-list-design-done.jpg" alt="リストデザイン変更後"></p>
+              ひとまず、見やすくなったような気がします。
+              </p>
+            </div>
+          </div>
+          <br>
+        </div>
+
+        <div id="20210205"></div>
+        <div class="schedule_wrapper">
+          <br>
+          <p id="avocado">2021年02月05日 <i class="fas fa-laptop-code"></i>CSS</p>
+          <h2 id="title">「スクロールバー(scrollbar)デザイン変更」</h2>
+          <div class="accbox">
+            <p><img src="gallery/techimg/Inkedスクロールバー変更前スクリーンショット 2021-02-05 183925_LI.jpg" alt="スクロールバー変更前"></p>
+            <input type="checkbox" id="0001" class="cssacc" />
+
+            <label for="0001"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+              <p>ふと、スクロールバーを見ていたら、どこのサイトでもだいたいデザイン一緒だよなと思い始めました。
+                <br><br>
+                そして、変えることが出来るのか調べるところから始めてみました。
+                <br><br>
+                変更する方法は複数見つかりました。
+                <br><br>
+                僕が主に利用しているブラウザはChromeだったため、CSS追加しても効果がないパターンもありましたが、今回はwebkitをつかって変更しました。
+                <br><br>
+                ::-webkit-scrollbar(全体)、::-webkit-scrollbar-track(バーの可動域部)、::-webkit-scrollbar-thumb(バー本体)
+              <p><img src="gallery/techimg/スクロールバー変更CSS (2).jpg" alt="スクロールバー変更CSS"></p>
+              変更後のスクロールバーはこちらです。
+              <p><img src="gallery/techimg/Inkedスクロールバー変更後スクリーンショット 2021-02-05 183730_LI.jpg" alt="スクロールバー変更後"></p>
+              様々な配色や変形を試してみたのですが、結局行きついたのはこんなものでした。
+              <br><br>
+              納得できたデザインではないので、また気になった時に変更するかもしれません。
+              </p>
+              <br>
+            </div>
+          </div>
+          <br>
+        </div>
+        <hr>
+        <em2><i class="fas fa-arrow-circle-right"></i>今後は、大きく変更したものは出来る限り記録していきます。</em2>
+        <br>
       </section>
 
       <?php include('parts/contents.php'); ?>
