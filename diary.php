@@ -56,6 +56,7 @@
           <!-- list -->
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li><a href="#20210503"> 2021年05月03日　「誠」</a></li>
               <li><a href="#20210428"> 2021年04月28日　「英吉利」</a></li>
               <li><a href="#20210415"> 2021年04月15日　「儚さ」</a></li>
               <li><a href="#20210320"> 2021年03月20日　「抽選」</a></li>
@@ -120,6 +121,43 @@
              </div>
           </div>
         </div> -->
+
+
+        <div id="20210503"></div>
+        <div class="schedule_wrapper">
+        <br>
+        <p id="avocado"><strong>　2021年05月03日 「誠」</strong></p>
+        <div class="accbox">
+          <input type="checkbox" id="誠" class="cssacc" />
+
+          <label for="誠"><span><i class="fas fa-book"></i>READ</span></label>
+          <div class="accshow">
+            <p><img src="gallery/diary/diary20210503/蒙古タンメン中本.jpg" alt="蒙古タンメン中本"></p>
+            
+            <em3>写真：蒙古タンメン中本</em3>
+            <p>セブンイレブンで購入できる「蒙古タンメン中本」のカップラーメン。
+            <br><br>
+            食べたことがある方なら、分かるはずです。
+            <br><br>
+            どれだけ辛いのか。カップラーメンはまだ辛さが抑えられているとはいえ、辛いです。
+            <br><br>
+            汗を垂らしながら食べることになります。
+            <br><br>
+            ただ、蒙古タンメン中本の店舗で、「北極」（辛さ最大）を食べた時は、1時間半くらいかけて食べきりました。
+            <br><br>
+            もはや、修行です。汗は滝のように流れ、喉と下が痛みで顔が死にます。
+            <br><br>
+            そんな蒙古タンメン中本のカップラーメンは、「北極」に比べると辛さも控え目で、絡みの中に旨味がとても強く感じられるクセになる美味しさです。
+            <br><br>
+            このご時世なので、店舗へ食べには行きませんが、セブンイレブンに行くと必ず買う蒙古タンメン中本のカップラーメンは、楽しみの一つです。
+            <br><br>
+            この新型コロナが落ち着いたら、店舗で「北極」を食べに行きます。
+            </p>
+
+            <br><br>
+          </div>
+        </div>
+        </div>
 
         <div id="20210428"></div>
         <div class="schedule_wrapper">
