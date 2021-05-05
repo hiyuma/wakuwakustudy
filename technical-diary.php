@@ -139,6 +139,112 @@
         </div>  -->
 
 
+        <!-- <div class="accbox">
+            <h3>第31問　</h3>
+            <input type="checkbox" id="00031" class="cssacc" />
+
+            <label for="00031"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+
+              <em3></em3>
+              <p id="feQuestion"></p>
+
+
+              <h4>選択肢</h4>
+              <table id="feSelection">
+                <tr>
+                  <td>ア</td>
+                  <td>イ</td>
+                  <td>ウ</td>
+                  <td>エ</td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </table>
+
+              <div id="answer">
+                答え
+                <input type="checkbox" id="00031a" class="cssacc" />
+
+                <label for="00031a"><span>READ</span></label>
+                <div class="accshow">
+
+                  <h4>正解</h4>
+                  <div class="accbox">
+                    <table id="feSelection">
+                      <tr>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                      </tr>
+                    </table>
+                    <P>
+                    </p>
+                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="accbox">
+            <h3>第32問　</h3>
+            <input type="checkbox" id="00032" class="cssacc" />
+
+            <label for="00032"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+
+              <em3></em3>
+              <p id="feQuestion"></p>
+
+
+              <h4>選択肢</h4>
+              <table id="feSelection">
+                <tr>
+                  <td>ア</td>
+                  <td>イ</td>
+                  <td>ウ</td>
+                  <td>エ</td>
+                </tr>
+                <tr>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                </tr>
+              </table>
+
+              <div id="answer">
+                答え
+                <input type="checkbox" id="00032a" class="cssacc" />
+
+                <label for="00032a"><span>READ</span></label>
+                <div class="accshow">
+
+                  <h4>正解</h4>
+                  <div class="accbox">
+                    <table id="feSelection">
+                      <tr>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                      </tr>
+                    </table>
+                    <P>
+                    </p>
+                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div> -->
+
         <!--テンプレート id=00XX -->
         <!--<div id="20210508"></div>
          <div class="schedule_wrapper">
@@ -295,25 +401,27 @@
                       </tr>
                     </table>
                     <P>HTTPSは、WebサーバとWebブラウザがデータを安全に送受信するために、SSL/TLSプロトコルによって生成されるセキュアな接続上でデータのやり取り(HTTP通信)を行う方式です。
-                    <br><br>
-                    HTTPは、平文のままで情報をやり取りするため個人情報の送信や電子決済などセキュリティが重要となる通信に使うことは危険が伴います。HTTPSではこの問題に対処するためSSL/TLSから提供される通信の暗号化，ノードの認証，改ざん検出などの機能を使用し、「なりすまし」や「盗聴」による攻撃から通信を保護できるようになっています。
+                      <br><br>
+                      HTTPは、平文のままで情報をやり取りするため個人情報の送信や電子決済などセキュリティが重要となる通信に使うことは危険が伴います。HTTPSではこの問題に対処するためSSL/TLSから提供される通信の暗号化，ノードの認証，改ざん検出などの機能を使用し、「なりすまし」や「盗聴」による攻撃から通信を保護できるようになっています。
                     </p>
                     <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
                   </div>
                 </div>
               </div>
             </div>
-          </div> 
+          </div>
 
           <div class="accbox">
-            <h3>第23問　</h3>
+            <h3>第23問　真理値表</h3>
             <input type="checkbox" id="00023" class="cssacc" />
 
             <label for="00023"><span><i class="fas fa-book"></i>READ</span></label>
             <div class="accshow">
 
-              <em3></em3>
-              <p id="feQuestion"></p>
+              <em3>平成22年春期　問2</em3>
+              <p id="feQuestion">X及びYはそれぞれ0又は1の値をとる変数である。 X□YをXとYの論理演算としたとき，次の真理値表が得られた。X□Yの真理値表はどれか。</p>
+              <p><img src="gallery/techimg/20210509/真理値表.jpg" alt="真理値表"></p>
+
 
 
               <h4>選択肢</h4>
@@ -325,10 +433,10 @@
                   <td>エ</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
+                  <td><img src="gallery/techimg/20210509/真理値表ア.jpg" alt="真理値表"></td>
+                  <td><img src="gallery/techimg/20210509/真理値表イ.jpg" alt="真理値表"></td>
+                  <td><img src="gallery/techimg/20210509/真理値表ウ.jpg" alt="真理値表"></td>
+                  <td><img src="gallery/techimg/20210509/真理値表エ.jpg" alt="真理値表"></td>
                 </tr>
               </table>
 
@@ -343,30 +451,38 @@
                   <div class="accbox">
                     <table id="feSelection">
                       <tr>
-                        <td></td>
+                        <td>ウ</td>
                       </tr>
                       <tr>
-                        <td></td>
+                        <td><img src="gallery/techimg/20210509/真理値表ウ.jpg" alt="真理値表"></td>
                       </tr>
                     </table>
-                    <P>
+                    <P>問題文の真理値表の2つの演算結果に着目してみます。
+
+                    <p><img src="gallery/techimg/20210509/真理値表参考.jpg" alt="真理値表"></P>
+
+                    まずⅠですが、X OR (X□Y) の演算結果が1になっています。 この時Xの値は0なので、結果が1になるためには(X□Y)が1でなくてはなりません。選択肢の中でこの条件を満たすのは、「ウ」と「エ」だけです。
+                    <br><br>
+                    続いてⅡですが、X AND (X□Y)の演算結果が1になっています。この時 結果が1になるためにはXと(X□Y)が両方とも1である必要があります。選択肢の中でこれを満たすのは「ア」「イ」「ウ」です。
+                    <br><br>
+                    したがって両方の条件を満たす「ウ」の真理値表が正解となります。
                     </p>
                     <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
                   </div>
                 </div>
               </div>
             </div>
-          </div> 
+          </div>
 
           <div class="accbox">
-            <h3>第24問　</h3>
+            <h3>第24問　浮動小数点表示</h3>
             <input type="checkbox" id="00024" class="cssacc" />
 
             <label for="00024"><span><i class="fas fa-book"></i>READ</span></label>
             <div class="accshow">
 
-              <em3></em3>
-              <p id="feQuestion"></p>
+              <em3>平成21年秋期　問2</em3>
+              <p id="feQuestion">実数aを a＝f × r(e乗) と表す浮動小数点表示に関する記述として，適切なものはどれか。</p>
 
 
               <h4>選択肢</h4>
@@ -378,10 +494,10 @@
                   <td>エ</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
+                  <td>fを仮数，eを指数，rを基数という。</td>
+                  <td>fを基数，eを仮数，rを指数という。</td>
+                  <td>fを基数，eを指数，rを仮数という。</td>
+                  <td>fを指数，eを基数，rを仮数という。</td>
                 </tr>
               </table>
 
@@ -396,30 +512,35 @@
                   <div class="accbox">
                     <table id="feSelection">
                       <tr>
-                        <td></td>
+                        <td>ア</td>
                       </tr>
                       <tr>
-                        <td></td>
+                        <td>fを仮数，eを指数，rを基数という。</td>
                       </tr>
                     </table>
-                    <P>
+                    <P>浮動小数点表示方式は、コンピュータの数値表現で用いられる方式です。仮数部のけた数では表現しきれない非常に大きな数や非常に小さな数を、仮数部に指数部をかけることで表すことが可能です。
+                      <br><br>
+                      正しいのは「ア」で、fが仮数、eが指数、rが基数(底ともいう)です。
+                      <br><br>
+                      浮動小数点表現方式で最も広く採用されていて標準規格となっているIEEE754の形式(単精度）は、以下のようになっています。
+                    <p><img src="gallery/techimg/20210509/浮動小数点表示方式.jpg" alt="浮動小数点表示方式"></p>
                     </p>
                     <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
                   </div>
                 </div>
               </div>
             </div>
-          </div> 
+          </div>
 
           <div class="accbox">
-            <h3>第25問　</h3>
+            <h3>第25問　LAN間接続装置</h3>
             <input type="checkbox" id="00025" class="cssacc" />
 
             <label for="00025"><span><i class="fas fa-book"></i>READ</span></label>
             <div class="accshow">
 
-              <em3></em3>
-              <p id="feQuestion"></p>
+              <em3>平成30年秋期　問32</em3>
+              <p id="feQuestion">LAN間接続装置に関する記述のうち，適切なものはどれか。</p>
 
 
               <h4>選択肢</h4>
@@ -431,38 +552,42 @@
                   <td>エ</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
+                  <td>ゲートウェイは，OSI基本参照モデルにおける第1～3層だけのプロトコルを変換する。</td>
+                  <td>ブリッジは，IPアドレスを基にしてフレームを中継する</td>
+                  <td>リピータは，同種のセグメント間で信号を増幅することによって伝送距離を延長する。</td>
+                  <td>ルータは，MACアドレスを基にしてフレームを中継する。</td>
                 </tr>
               </table>
 
               <div id="answer">
                 答え
-                <input type="checkbox" id="0000xa" class="cssacc" />
+                <input type="checkbox" id="00025a" class="cssacc" />
 
-                <label for="0000xa"><span>READ</span></label>
+                <label for="00025a"><span>READ</span></label>
                 <div class="accshow">
 
                   <h4>正解</h4>
                   <div class="accbox">
                     <table id="feSelection">
                       <tr>
-                        <td></td>
+                        <td>ウ</td>
                       </tr>
                       <tr>
-                        <td></td>
+                        <td>リピータは，同種のセグメント間で信号を増幅することによって伝送距離を延長する。</td>
                       </tr>
                     </table>
-                    <P>
+                    <P>ア、ゲートウェイは、OSI基本参照モデルの全階層(主に4層より上)を解釈し、ネットワークの接続を行う機器です。
+                      <br><br>
+                      イ、ブリッジは、データリンク層に位置し、ネットワークに流れるフレーム(パケット)のMACアドレスを認識して通信を中継する装置です。
+                      <br><br>
+                      エ、ルータは、ネットワーク層に位置し、ネットワークに流れるパケットのIPアドレスをもとに通信制御をおこなう機器です。
                     </p>
                     <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
                   </div>
                 </div>
               </div>
             </div>
-          </div> 
+          </div>
 
           <div class="accbox">
             <h3>第26問　</h3>
@@ -471,7 +596,7 @@
             <label for="00026"><span><i class="fas fa-book"></i>READ</span></label>
             <div class="accshow">
 
-              <em3></em3>
+              <em3>ホワイトボックステストにおいて，コード中のどれだけの割合の部分を実行できたかを評価するのに使うものはどれか。</em3>
               <p id="feQuestion"></p>
 
 
@@ -484,10 +609,10 @@
                   <td>エ</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
+                  <td>アサーションチェッカ</td>
+                  <td>シミュレータ</td>
+                  <td>静的コード解析</td>
+                  <td>テストカバレージ分析</td>
                 </tr>
               </table>
 
@@ -502,30 +627,37 @@
                   <div class="accbox">
                     <table id="feSelection">
                       <tr>
-                        <td></td>
+                        <td>エ</td>
                       </tr>
                       <tr>
-                        <td></td>
+                        <td>テストカバレージ分析</td>
                       </tr>
                     </table>
                     <P>
+                      アサーションチェッカは、プログラムの正当性を検査するために、変数間で論理的に成立する条件が満たされているかをチェックするツールです。
+                      <br><br>
+                      シミュレータは、実際に実験を行うのではなくコンピュータプログラム上で模擬試験をするためのツールです。
+                      <br><br>
+                      静的コード解析は、構文チェッカ，コードオーディタ，モジュールインターフェイスチェックツールなどのプログラムを実行しない状態でプログラムの検証を行うことをいいます。
+                      <br><br>
+                      テストカバレージ分析は、テストの網羅率(カバレッジ)を定量的に測定することをいいます。網羅率は、ソフトウェアの品質やテスト妥当性を評価する際の指標になります。
                     </p>
                     <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
                   </div>
                 </div>
               </div>
             </div>
-          </div> 
+          </div>
 
           <div class="accbox">
             <h3>第27問　</h3>
-            <input type="checkbox" id="00027 class="cssacc" />
+            <input type="checkbox" id="00027 class=" cssacc" />
 
             <label for="00027"><span><i class="fas fa-book"></i>READ</span></label>
             <div class="accshow">
 
-              <em3></em3>
-              <p id="feQuestion"></p>
+              <em3>平成27年秋期　問41</em3>
+              <p id="feQuestion">ネットワーク障害の原因を調べるために，ミラーポートを用意して，LANアナライザを使用するときに留意することはどれか。</p>
 
 
               <h4>選択肢</h4>
@@ -537,10 +669,10 @@
                   <td>エ</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
+                  <td>LANアナライザがパケットを破棄してしまうので，測定中は測定対象外のコンピュータの利用を制限しておく必要がある。</td>
+                  <td>LANアナライザにはネットワークを通過するパケットを表示できるので，盗聴などに悪用されないように注意する必要がある。</td>
+                  <td>障害発生に備えて，ネットワーク利用者にLANアナライザの保管場所と使用方法を周知しておく必要がある。</td>
+                  <td>測定に当たって，LANケーブルを一時的に切断する必要があるので，利用者に対して測定日を事前に知らせておく必要がある。</td>
                 </tr>
               </table>
 
@@ -555,20 +687,20 @@
                   <div class="accbox">
                     <table id="feSelection">
                       <tr>
-                        <td></td>
+                        <td>イ</td>
                       </tr>
                       <tr>
-                        <td></td>
+                        <td>LANアナライザにはネットワークを通過するパケットを表示できるので，盗聴などに悪用されないように注意する必要がある。</td>
                       </tr>
                     </table>
-                    <P>
+                    <P>LANアナライザは、LAN上を通過するパケットを監視したり記録するためのハードウェアまたはソフトウェアのことです。LANアナライザが悪用されると盗聴などの被害をもたらす危険があるので慎重な管理が求められます。
                     </p>
                     <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
                   </div>
                 </div>
               </div>
             </div>
-          </div> 
+          </div>
 
           <div class="accbox">
             <h3>第28問　</h3>
@@ -577,8 +709,8 @@
             <label for="00028"><span><i class="fas fa-book"></i>READ</span></label>
             <div class="accshow">
 
-              <em3></em3>
-              <p id="feQuestion"></p>
+              <em3>平成26年秋期　問36</em3>
+              <p id="feQuestion">ソーシャルエンジニアリングに分類される手口はどれか。</p>
 
 
               <h4>選択肢</h4>
@@ -590,10 +722,10 @@
                   <td>エ</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
+                  <td>ウイルス感染で自動作成されたバックドアからシステムに侵入する。</td>
+                  <td>システム管理者などを装い，利用者に問い合わせてパスワードを取得する。</td>
+                  <td>総当たり攻撃ツールを用いてパスワードを解析する。</td>
+                  <td>バッファオーバフローなどのソフトウェアの脆(ぜい)弱性を利用してシステムに侵入する。</td>
                 </tr>
               </table>
 
@@ -608,20 +740,37 @@
                   <div class="accbox">
                     <table id="feSelection">
                       <tr>
-                        <td></td>
+                        <td>イ</td>
                       </tr>
                       <tr>
-                        <td></td>
+                        <td>システム管理者などを装い，利用者に問い合わせてパスワードを取得する。</td>
                       </tr>
                     </table>
                     <P>
+                      ソーシャルエンジニアリング(Social Engineering)は、技術的な方法ではなく、人の心理的な弱みやミスに付け込んでパスワードなどの秘密情報を不正に取得する行為の総称です。
+                      <br><br>
+                      ソーシャルエンジニアリングの例として以下の行為があります。
+                      <br><br>
+                      「なりすまし」<br>
+                      管理者や関係者になりすまして秘密情報を不正取得する
+                      <br><br>
+                      「ショルダーハッキング」<br>
+                      モニター画面やキーボード操作を利用者の背後から盗み見て、ログイン情報等を不正取得する
+                      <br><br>
+                      「トラッシング（スカベンジング）」<br>
+                      ゴミ箱に捨てられているメモや書類を漁って秘密情報を不正取得する
+                      <br><br>
+                      「のぞき見」<br>
+                      FAXやプリンタに残された印刷物、オフィス内のメモ・付箋、机の上に放置された書類等から秘密情報を不正取得する
+                      <br><br>
+                      選択肢の中で、技術的な方法ではなく、人の心の隙を狙って秘密情報を窃取しようとする行為は「イ」だけです。
                     </p>
                     <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
                   </div>
                 </div>
               </div>
             </div>
-          </div> 
+          </div>
 
           <div class="accbox">
             <h3>第29問　</h3>
@@ -630,8 +779,9 @@
             <label for="00029"><span><i class="fas fa-book"></i>READ</span></label>
             <div class="accshow">
 
-              <em3></em3>
-              <p id="feQuestion"></p>
+              <em3>平成27年春期　問40</em3>
+              <p id="feQuestion">公開鍵暗号方式を用いて，図のようにAさんからBさんへ，他人に秘密にしておきたい文章を送るとき，暗号化に用いる鍵Kとして，適切なものはどれか。</p>
+              <p><img src="gallery/techimg/20210509/公開鍵暗号方式.jpg" alt="公開鍵暗号方式"></p>
 
 
               <h4>選択肢</h4>
@@ -643,10 +793,10 @@
                   <td>エ</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
+                  <td>Aさんの公開鍵</td>
+                  <td>Aさんの秘密鍵</td>
+                  <td>Bさんの公開鍵</td>
+                  <td>共通の秘密鍵</td>
                 </tr>
               </table>
 
@@ -661,20 +811,24 @@
                   <div class="accbox">
                     <table id="feSelection">
                       <tr>
-                        <td></td>
+                        <td>ウ</td>
                       </tr>
                       <tr>
-                        <td></td>
+                        <td>Bさんの公開鍵</td>
                       </tr>
                     </table>
-                    <P>
+                    <P>公開鍵暗号方式は、暗号化して送信することは誰でもできるが、暗号化された内容を復号できるのは正規の受信者だけという特徴をもつ暗号方式です。
+                      <br><br>
+                      この問題の場合、受信者はBさんなので、AさんはBさんの公開鍵で文章の内容を暗号化し、Bさんは自身の秘密鍵で復号をするという流れになります。
+                    <p><img src="gallery/techimg/20210509/公開鍵暗号通信.jpg" alt="公開鍵暗号通信"></p>
+                    したがって暗号化に用いる鍵は、受信者であるBさんの公開鍵になります。
                     </p>
                     <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
                   </div>
                 </div>
               </div>
             </div>
-          </div> 
+          </div>
 
           <div class="accbox">
             <h3>第30問　</h3>
@@ -683,8 +837,8 @@
             <label for="00030"><span><i class="fas fa-book"></i>READ</span></label>
             <div class="accshow">
 
-              <em3></em3>
-              <p id="feQuestion"></p>
+              <em3>平成16年秋期　問57</em3>
+              <p id="feQuestion">データベースの障害に備えて作成するバックアップファイルの管理として，適切なものはどれか。</p>
 
 
               <h4>選択肢</h4>
@@ -696,10 +850,10 @@
                   <td>エ</td>
                 </tr>
                 <tr>
-                  <td></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
+                  <td>定期的にデータベース全体のバックアップファイルを新しい媒体に作成し，毎日，変更のあったデータだけの差分バックアップファイルを別の媒体に作成している。</td>
+                  <td>データベースには重要なデータが格納されているので，そのバックアップファイルが悪用されないように，媒体にはラベルを付けないで保管している。</td>
+                  <td>バックアップファイルの作成は，データベースを更新した人に，その都度行ってもらっている。</td>
+                  <td>バックアップファイルを作成するときは，直前のバックアップファイルを格納した媒体に上書きするようにしている。</td>
                 </tr>
               </table>
 
@@ -714,129 +868,27 @@
                   <div class="accbox">
                     <table id="feSelection">
                       <tr>
-                        <td></td>
+                        <td>ア</td>
                       </tr>
                       <tr>
-                        <td></td>
+                        <td>定期的にデータベース全体のバックアップファイルを新しい媒体に作成し，毎日，変更のあったデータだけの差分バックアップファイルを別の媒体に作成している。</td>
                       </tr>
                     </table>
-                    <P>
+                    <P>重要データを保護するためにはデータを暗号化する対策が適切です。
+                      <br><br>
+                      更新の度にバックアップを行うのは効率がよくありません。またデータの更新がなければバックアップを行わなわれないことも望ましい管理策とはいえません。
+                      <br><br>
+                      1つのバックアップファイルのみでの運用は、ファイルの破損やバックアップ中の障害によって、データが失われてしまう可能性があるため不適切です。
                     </p>
                     <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
                   </div>
                 </div>
               </div>
             </div>
-          </div> 
-
-          <div class="accbox">
-            <h3>第31問　</h3>
-            <input type="checkbox" id="00031" class="cssacc" />
-
-            <label for="00031"><span><i class="fas fa-book"></i>READ</span></label>
-            <div class="accshow">
-
-              <em3></em3>
-              <p id="feQuestion"></p>
+          </div>
 
 
-              <h4>選択肢</h4>
-              <table id="feSelection">
-                <tr>
-                  <td>ア</td>
-                  <td>イ</td>
-                  <td>ウ</td>
-                  <td>エ</td>
-                </tr>
-                <tr>
-                  <td></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
-                </tr>
-              </table>
-
-              <div id="answer">
-                答え
-                <input type="checkbox" id="00031a" class="cssacc" />
-
-                <label for="00031a"><span>READ</span></label>
-                <div class="accshow">
-
-                  <h4>正解</h4>
-                  <div class="accbox">
-                    <table id="feSelection">
-                      <tr>
-                        <td></td>
-                      </tr>
-                      <tr>
-                        <td></td>
-                      </tr>
-                    </table>
-                    <P>
-                    </p>
-                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div> 
-
-          <div class="accbox">
-            <h3>第32問　</h3>
-            <input type="checkbox" id="00032" class="cssacc" />
-
-            <label for="00032"><span><i class="fas fa-book"></i>READ</span></label>
-            <div class="accshow">
-
-              <em3></em3>
-              <p id="feQuestion"></p>
-
-
-              <h4>選択肢</h4>
-              <table id="feSelection">
-                <tr>
-                  <td>ア</td>
-                  <td>イ</td>
-                  <td>ウ</td>
-                  <td>エ</td>
-                </tr>
-                <tr>
-                  <td></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
-                </tr>
-              </table>
-
-              <div id="answer">
-                答え
-                <input type="checkbox" id="00032a" class="cssacc" />
-
-                <label for="00032a"><span>READ</span></label>
-                <div class="accshow">
-
-                  <h4>正解</h4>
-                  <div class="accbox">
-                    <table id="feSelection">
-                      <tr>
-                        <td></td>
-                      </tr>
-                      <tr>
-                        <td></td>
-                      </tr>
-                    </table>
-                    <P>
-                    </p>
-                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div> 
-          
-
-         <br>
+          <br>
         </div>
 
         -->
@@ -1434,9 +1486,11 @@
           </div>
           -->
 
+        
+        
         <!-- id=0018 -->
         <!--<div id="20210506"></div>
-         <div class="schedule_wrapper">
+        <div class="schedule_wrapper">
         <br>
         <p id="avocado">2021年05月06日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
         <h2 id="title">「2進数と16進数」</h2>
@@ -1799,7 +1853,7 @@
 
 
         <!-- id=0017 ※ID 2か所変更 -->
-        <!-- <div id="20210505"></div>
+        <div id="20210505"></div>
         <div class="schedule_wrapper">
           <br>
           <p id="avocado">2021年05月05日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
@@ -2237,8 +2291,9 @@
                     </table>
                     <P>XMLでは、文書作成者が自由に要素名や属性名を付け文章構造を構築することができます。DTD(Document Type Definition)とは、XMLなどのマークアップ言語において文書構造を定義するスキーマ言語の一つです。
                       <br><br>
-                      DTDには、記述可能な要素名、属性名や発生順序・発生回数など文書作成のルールを定義でき、XML文書側では文書型宣言"<!DOCTYPE …>"で使用するDTDを指定できます。作成された文書がDTDに適合するかどうかを検証することで、処理の正確性や安全性を高められます。
-                      <p><img src="gallery/techimg/20210505/dtd.jpg" alt="DTD　XML文書構造"></p>
+                      DTDには、記述可能な要素名、属性名や発生順序・発生回数など文書作成のルールを定義でき、XML文書側では文書型宣言"
+                      <!DOCTYPE …>"で使用するDTDを指定できます。作成された文書がDTDに適合するかどうかを検証することで、処理の正確性や安全性を高められます。
+                    <p><img src="gallery/techimg/20210505/dtd.jpg" alt="DTD　XML文書構造"></p>
                     </p>
                     <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
                   </div>
@@ -2293,20 +2348,20 @@
                       </tr>
                     </table>
                     <P>個人的には、キーバリューはJavaでMapを使う時に学びました。キーバリューストア(KVS)は、NoSQLで用いられるデータ型の1つです。プログラミングで使用される連想配列のように、1つのキーに1つの値を結びつけてデータを格納します。構造が単純な分、スケーラビリティや処理速度に優れるためビッグデータの処理に使われています。
-                      <p><img src="gallery/techimg/20210505/keyValueStore.jpg" alt="キーバリューストア"></p>
-                      NoSQLで用いられる他の主要なデータ型についても簡単にまとめておきます。
-                      「カラム指向」<br>
-                      行キーに対してカラム（名前と値の組み合わせ）を結びつけて格納する
-                      「ドキュメント指向」<br>
-                      XMLやJSONなどの構造でデータを格納する
-                      「グラフ指向」<br>
-                      グラフ理論に基づいてデータ間の関係性を表現する
-                      <br><br>
-                      アは、グラフ型データベースの説明です。
-                      <br><br>
-                      イは、ドキュメント指向データベースの説明です
-                      <br><br>
-                      ウは、関係データベースの説明です。
+                    <p><img src="gallery/techimg/20210505/keyValueStore.jpg" alt="キーバリューストア"></p>
+                    NoSQLで用いられる他の主要なデータ型についても簡単にまとめておきます。
+                    「カラム指向」<br>
+                    行キーに対してカラム（名前と値の組み合わせ）を結びつけて格納する
+                    「ドキュメント指向」<br>
+                    XMLやJSONなどの構造でデータを格納する
+                    「グラフ指向」<br>
+                    グラフ理論に基づいてデータ間の関係性を表現する
+                    <br><br>
+                    アは、グラフ型データベースの説明です。
+                    <br><br>
+                    イは、ドキュメント指向データベースの説明です
+                    <br><br>
+                    ウは、関係データベースの説明です。
                     </p>
                     <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
                   </div>
@@ -2435,10 +2490,10 @@
                 </div>
               </div>
             </div>
-          </div> 
+          </div>
 
           <br>
-        </div>  -->
+        </div>
 
 
         <!-- id=0016 -->
