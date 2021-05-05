@@ -75,6 +75,7 @@
           <h3>Appreciated list</h3>
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li> <a href="#重力ピエロ">重力ピエロ　☆3.9</a></li>
               <li> <a href="#オンネリとアンネリのおうち">オンネリとアンネリのおうち　☆4.0</a></li>
               <li> <a href="#西の魔女が死んだ">西の魔女が死んだ　☆4.2</a></li>
               <li> <a href="#Fukushima 50">Fukushima 50　☆4.4</a></li>
@@ -180,6 +181,88 @@
 
         <hr>
 
+        <!-- ※Don't forget to change the label 24 -->
+        <div id="重力ピエロ"></div>
+        <h3 id="movies-title"><strong>重力ピエロ</strong></h3>
+        <div id="movies">
+
+          <div id="movie-photo">
+            <img alt="重力ピエロ" src="https://d2ueuvlup6lbue.cloudfront.net/attachments/8eee352c62c41a3bf1cd860cc9a6f0166146db19/store/fitpad/260/364/da32c17921d221d3f47af1cb8244582fd2e335e1c25178a09bea181c4784/_.jpg" width="300" height="420">
+          </div>
+
+          <div id="movie-info">
+            <p id="th">監督</p>
+            <p id="td">森淳一</p>
+            <p id="th">出演</p>
+            <p id="td">加瀬亮、岡田将生、小日向文世、吉高由里子、岡田義徳、渡部篤郎、鈴木京香</p>
+            <p id="th">ジャンル</p>
+            <p id="td">ドラマ</p>
+            <p id="th">上映日</p>
+            <p id="td">2009年05月23日</p>
+            <p id="th">製作国</p>
+            <p id="td">日本</p>
+            <p id="th">上映時間</p>
+            <p id="td">119分</p>
+          </div>
+
+
+          <div id="movie-impressions">
+            <hr>
+            <p id="impression">重力ピエロの感想 <i class="far fa-comment-dots"></i></p>
+            <div id="line"></div>
+
+            <p id="th">鑑賞日</p>
+            <p id="td">2021年05月04日</p>
+            <p id="th">鑑賞方法</p>
+            <p id="td">Amazon Prime Video</a></p>
+            <p id="th">評価</p>
+            <p id="td">3.9(/5.0)</p>
+
+            <div id="line"></div>
+            <div class="accbox">
+              <input type="checkbox" id="label24" class="cssacc" />
+              <label for="label24">Summary</label>
+
+              <div class="accshow">
+                遺伝子研究をする兄・泉水と、自分がピカソの生まれ変わりだと思っている弟・春。そして、優しい父と美しい母。平穏に、陽気に過ごすこの家族には、辛い過去があった。<br>
+                兄弟が大人になった時、事件は始まる。謎の連続放火事件と、火事を予見するような謎の落書きの出現。落書きと遺伝子暗号の奇妙なリンク。春を付け回す謎の美女と、突然街に帰ってきた男・・・。<br>
+                すべての謎が解けたとき、家族の“謎”が明らかになる―
+              </div>
+            </div>
+
+            <div id="line"></div>
+            さらっと興味深い言葉がたくさん出てくる作品です。
+            <br><br>
+            例えば、「楽しそうに生きていれば、地球の重力なんて消してしまえるんだよ」という言葉です。
+            <div class="accbox">
+              <input type="checkbox" id="label24a" class="cssacc" />
+
+              <label for="label24a" class="closeButton">READ MORE</label>
+
+              <div class="accshow">
+                地球の重力がなくなって、空に浮くかもしれないほどに楽しそうに生きようってそんな風に考えていたいものです。
+                <br><br>
+                そして、「気休めは大事だよ。その場限りの安心感が人を救う事もある」という言葉もそうです。
+                <br><br>
+                たとえ、重い話の中で、気休めの言葉を言ったとしても、その気休めの言葉に意味はなくとも、重要な言葉なんだと思わされました。
+                <br><br>
+                また、何度も出てくる「春が2階から落ちてきた」という言葉。
+                <br><br>
+                この言葉には、場面によって複数の意味がありますが、個人的には重力とピエロとの関係を感じました。
+                <br><br>
+                さらに、「本当に深刻なことは、陽気に伝えるべきなんだよ」は、少しハッとさせられた言葉でした。
+                <br><br>
+                この作品は、サスペンス要素もあり、その謎が解けていく過程では、血の繋がりの有無は関係なく、家族とは何かを問われている感じがしました。
+                <br><br>
+                全体的に重い話になっていますし、演技や演出に不自然さを少し感じるところがありましたが、兄弟愛や、揺がない家族愛を感じることができる作品です。
+              </div>
+            </div>
+            <i class="fas fa-video"></i> <a href="https://www.amazon.co.jp/%E9%87%8D%E5%8A%9B%E3%83%94%E3%82%A8%E3%83%AD-%E5%8A%A0%E7%80%AC%E4%BA%AE/dp/B00FNNJXMU/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E9%87%8D%E5%8A%9B%E3%83%94%E3%82%A8%E3%83%AD&qid=1620196359&sr=8-1">重力ピエロ</a>
+          </div>
+        </div>
+        <hr>
+
+
         <!-- ※Don't forget to change the label 23 -->
         <div id="オンネリとアンネリのおうち"></div>
         <h3 id="movies-title"><strong>オンネリとアンネリのおうち</strong></h3>
@@ -236,8 +319,6 @@
             北欧の童話には、「長くつ下のピッピ」や「ちいさいロッタちゃん」など、素敵な作品がたくさんあります。
             <br><br>
             その中でも、本作品は、「ムーミン」で有名なフィンランドの童話を実写化した作品です。
-            <br><br>
-            この作品を観ていると、メルヘンな世界に入り込み、時間がゆっくり進んでいるかのように感じさせられます。
 
             <div class="accbox">
               <input type="checkbox" id="label23a" class="cssacc" />
@@ -245,6 +326,8 @@
               <label for="label23a" class="closeButton">READ MORE</label>
 
               <div class="accshow">
+                この作品を観ていると、メルヘンな世界に入り込み、時間がゆっくり進んでいるかのように感じさせられます。
+                <br><br>
                 ペール系、ビビッド系など、色使いがとても素敵で、観ているだけでも楽しめる非現実的な世界観です。
                 <br><br>
                 とっても可愛く、癒される小さい女の子2人に、一体何が起きるんだんろうと、少しヒヤヒヤもワクワクもする場面があります。
