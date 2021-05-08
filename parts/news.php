@@ -46,6 +46,25 @@
         </li>
 
     <hr> -->
+        2021年05月08日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC082160Y1A500C2000000/" target="blank" rel="noopener">
+                東京都、新たに1121人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE080UV0Y1A500C2000000/" target="blank" rel="noopener">
+                続く我慢、広がる困惑　宣言延長「終わり見えない」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE22D6E0S1A420C2000000/" target="blank" rel="noopener">
+                空き巣減少、薬物・サイバー犯は増加　コロナで犯罪変化</a>
+        </li>
+
+    <hr>
         2021年05月07日
     
         <li>
