@@ -1225,7 +1225,31 @@
             </div>
           </div>
 
-          <hr>
+           <!-- id="041" -->
+           <div class="schedule_wrapper">
+            <div id="20210508"></div>
+            <p id="avocado"><strong>2021年05月08日</strong></p>
+            <p><img src="gallery/avocado/avo20210508 (1).jpg" alt="アボカド71"></p>
+            <div class="accbox">
+              <input type="checkbox" id="041" class="cssacc" />
+
+              <label for="041"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
+              <div class="accshow">
+                <p><img src="gallery/avocado/avo20210508 (2).jpg" alt="アボカド72"></p>
+                <p>2021年05月08日、東京都杉並区11時現在の気温は25.8℃。
+                  <br><br>
+                  最高気温は26℃の予報です。
+                  <br><br>
+                  初夏の陽気です。
+                  <br><br>
+                  午前は、より強い日差しが当たるようになってきました。
+                  <br><br>
+                  高さの変化はほとんどなかったですが、葉の変色は進まず、強い日差しにも負けず、成長しています。
+                </p>
+              </div>
+            </div>
+          </div>
+
 
           <br>...なんとかまだ続くかも。
         </div>
