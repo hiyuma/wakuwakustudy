@@ -46,6 +46,84 @@
         </li>
 
     <hr> -->
+        2021年05月07日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC0751L0X00C21A5000000/" target="blank" rel="noopener">
+                東京都、新たに907人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA073GC0X00C21A5000000/" target="blank" rel="noopener">
+                コロナ重症者　過去最多の1131人、7日連続1000人超</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM0727Y0X00C21A5000000/" target="blank" rel="noopener">
+                輸出ワクチンの4割日本へ　EU発表、7200万回分</a>
+        </li>
+
+    <hr>
+
+        2021年05月06日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC060H20W1A500C2000000/" target="blank" rel="noopener">
+                東京都、新たに591人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA0523H0V00C21A5000000/" target="blank" rel="noopener">
+                宣言の延長是非、7日にも決定　「まん延防止」追加適用も</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC0648D0W1A500C2000000/" target="blank" rel="noopener">
+                小池都知事、宣言延長は必要　「解除できる状況にない」</a>
+        </li>
+
+    <hr>
+       
+        2021年05月05日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC0519N0V00C21A5000000/" target="blank" rel="noopener">
+                東京都、新たに621人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC28D140Y1A420C2000000/" target="blank" rel="noopener">
+                コロナ下の生活どう変化？　「消費を斬る」まとめ読み</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC226GV0S1A420C2000000/" target="blank" rel="noopener">
+                医師らの接種完了2割どまり　自治体、高齢者分の転用も</a>
+        </li>
+
+    <hr>
+        2021年05月04日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC0414N0U1A500C2000000/" target="blank" rel="noopener">
+                東京都、新たに609人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF041FP0U1A500C2000000/" target="blank" rel="noopener">
+                緊急事態宣言「解除難しい」　大阪知事、医療逼迫で</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE0336V0T00C21A5000000/" target="blank" rel="noopener">
+                インドから帰国の男性死亡　検疫後、指定施設で療養中</a>
+        </li>
+
+    <hr>
         2021年05月03日
     
         <li>
