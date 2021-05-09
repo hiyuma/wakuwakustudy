@@ -65,10 +65,11 @@
             <ol reversed>
               <!-- 
       
-               <li><a href="#20210511"> 2021年05月11日 基本情報処理技術者試験 ⑬「午前試験　テクノロジ系　過去問⑦」
-               <li><a href="#20210511"> 2021年05月11日 基本情報処理技術者試験 ⑫「午前試験　テクノロジ系　過去問⑥」
+               <li><a href="#20210513"> 2021年05月13日 基本情報処理技術者試験 ⑭「午前試験　テクノロジ系　過去問⑧」
+               <li><a href="#20210512"> 2021年05月12日 基本情報処理技術者試験 ⑬「午前試験　テクノロジ系　過去問⑦」
+               <li><a href="#20210511"> 2021年05月11日 基本情報処理技術者試験 ⑫「午前試験　テクノロジ系　過去問⑥」-->
                <li><a href="#20210510"> 2021年05月10日 基本情報処理技術者試験 ⑪「午前試験　テクノロジ系　過去問⑤」
-               <li><a href="#20210509"> 2021年05月09日 基本情報処理技術者試験 ⑩「午前試験　テクノロジ系　過去問④」-->
+               <li><a href="#20210509"> 2021年05月09日 基本情報処理技術者試験 ⑩「午前試験　テクノロジ系　過去問④」
                <li><a href="#20210508"> 2021年05月08日 基本情報処理技術者試験 ⑨「午前試験　テクノロジ系　過去問③」
               <li><a href="#20210507"> 2021年05月07日 基本情報処理技術者試験 ⑧「午前試験　テクノロジ系　過去問②」
               <li><a href="#20210506"> 2021年05月06日 基本情報処理技術者試験 ⑦「2進数/16進数」
@@ -178,7 +179,1220 @@
           --------------------------------- -->
 
 
-        <!--<div id="20210512"></div>
+
+<!--<div id="20210513"></div>
+        <div class="schedule_wrapper">
+          <br>
+          <p id="avocado">2021年05月13日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
+          <h2 id="title">「午前試験　テクノロジ系　過去問⑨」</h2>
+
+
+
+          <div class="accbox">
+
+            <p><img src="gallery/techimg/20210514/feQuiz9.png" alt="基本情報処理技術者試験 過去問⑨"></p>
+
+
+
+            <div class="accbox">
+
+              <input type="checkbox" id="過去問⑨" class="cssacc" />
+
+              <label for="過去問⑨"><span><i class="fas fa-book"></i>READ</span></label>
+              <div class="accshow">
+
+                <div class="accbox">
+                  <h3>第問　</h3>
+                  <input type="checkbox" id="000" class="cssacc" />
+
+                  <label for="000"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion"></p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="000a" class="cssacc" />
+
+                      <label for="000a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <P>
+                            <br><br>
+                           
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                  <div class="accbox">
+                  <h3>第問　</h3>
+                  <input type="checkbox" id="000" class="cssacc" />
+
+                  <label for="000"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion"></p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="000a" class="cssacc" />
+
+                      <label for="000a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <P>
+                            <br><br>
+                           
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                  <div class="accbox">
+                  <h3>第問　</h3>
+                  <input type="checkbox" id="000" class="cssacc" />
+
+                  <label for="000"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion"></p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="000a" class="cssacc" />
+
+                      <label for="000a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <P>
+                            <br><br>
+                           
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                  <div class="accbox">
+                  <h3>第問　</h3>
+                  <input type="checkbox" id="000" class="cssacc" />
+
+                  <label for="000"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion"></p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="000a" class="cssacc" />
+
+                      <label for="000a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <P>
+                            <br><br>
+                           
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                  <div class="accbox">
+                  <h3>第問　</h3>
+                  <input type="checkbox" id="000" class="cssacc" />
+
+                  <label for="000"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion"></p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="000a" class="cssacc" />
+
+                      <label for="000a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <P>
+                            <br><br>
+                           
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                  <div class="accbox">
+                  <h3>第問　</h3>
+                  <input type="checkbox" id="000" class="cssacc" />
+
+                  <label for="000"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion"></p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="000a" class="cssacc" />
+
+                      <label for="000a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <P>
+                            <br><br>
+                           
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                  <div class="accbox">
+                  <h3>第問　</h3>
+                  <input type="checkbox" id="000" class="cssacc" />
+
+                  <label for="000"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion"></p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="000a" class="cssacc" />
+
+                      <label for="000a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <P>
+                            <br><br>
+                           
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                  <div class="accbox">
+                  <h3>第問　</h3>
+                  <input type="checkbox" id="000" class="cssacc" />
+
+                  <label for="000"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion"></p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="000a" class="cssacc" />
+
+                      <label for="000a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <P>
+                            <br><br>
+                           
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                  <div class="accbox">
+                  <h3>第問　</h3>
+                  <input type="checkbox" id="000" class="cssacc" />
+
+                  <label for="000"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion"></p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="000a" class="cssacc" />
+
+                      <label for="000a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <P>
+                            <br><br>
+                           
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                  <div class="accbox">
+                  <h3>第問　</h3>
+                  <input type="checkbox" id="000" class="cssacc" />
+
+                  <label for="000"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion"></p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="000a" class="cssacc" />
+
+                      <label for="000a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <P>
+                            <br><br>
+                           
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                     <br>
+              </div>
+            </div>
+          </div>
+        </div> -->
+
+
+
+
+
+
+        <!--<div id="20210513"></div>
+        <div class="schedule_wrapper">
+          <br>
+          <p id="avocado">2021年05月13日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
+          <h2 id="title">「午前試験　テクノロジ系　過去問⑧」</h2>
+
+
+
+          <div class="accbox">
+
+            <p><img src="gallery/techimg/20210513/feQuiz8.png" alt="基本情報処理技術者試験 過去問⑧"></p>
+
+
+
+            <div class="accbox">
+
+              <input type="checkbox" id="過去問⑧" class="cssacc" />
+
+              <label for="過去問⑧"><span><i class="fas fa-book"></i>READ</span></label>
+              <div class="accshow">
+
+                <div class="accbox">
+                  <h3>第71問　ジョブの処理状況</h3>
+                  <input type="checkbox" id="00071" class="cssacc" />
+
+                  <label for="00071"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">ある時間帯でのジョブの処理状況を計測したところ，次のとおりであった。どのような状況になっているか。
+                    <br><br>
+                    〔ジョブの処理状況〕
+                    ・多重度3でジョブを実行する。<br>
+                    ・ジョブは5分間隔で発生し，実行時間は多重度に依存せず20分である。<br>
+                    ・各ジョブは実行終了後にスプーリング機能を利用して印刷し，印刷時間は15分である。<br>
+                    ・プリンタは2台使用する。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>印刷待ちだけが増加している。</td>
+                        <td>実行待ちだけが増加している。</td>
+                        <td>実行待ちと印刷待ちが増加している。</td>
+                        <td>実行待ちも印刷待ちも発生していない。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00071a" class="cssacc" />
+
+                      <label for="00071a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ウ</td>
+                            </tr>
+                            <tr>
+                              <td>実行待ちと印刷待ちが増加している。</td>
+                            </tr>
+                          </table>
+                          <P>まず実行について考えます。
+                            ジョブの多重度とは、同時に幾つのジョブを並列実行できるかという数です。各ジョブの実行時間は20分なので、多重度3だと20分間に3つのジョブの処理を完了できます。つまり、本システムのジョブ実行能力は「20分÷3件≒6.6分/件」です。一方、ジョブは5分間隔で到着するので「時間当たりの処理件数＜時間当たりの到着件数」となります。処理件数よりも到着件数の方が多いので、実行待ちジョブが次第に増えていくことになります。
+                            <br><br>
+                            次に印刷について考えます。
+                            1件当たりの印刷時間が15分、プリンタは2台なので15分で2件の印刷を完了できます。つまり、本システムの印刷能力は「15分÷2件＝7.5分/件」となります。一方、印刷要求はジョブの実行終了と同時に行われるので、印刷要求の到着間隔はジョブの処理能力と同じ約6.6分/件です。「時間当たりの印刷件数＞時間当たりの印刷要求件数」となるので、印刷待ちジョブが次第に増えていくことになります。
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第72問　偶数パリティビット</h3>
+                  <input type="checkbox" id="00072" class="cssacc" />
+
+                  <label for="00072"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成20年春期　問10</em3>
+                    <p id="feQuestion">7ビットの文字コードの先頭に1ビットの偶数パリティビットを付加するとき，文字コード30，3F，7Aにパリティビットを付加したものはどれか。ここで，文字コードは16進数で表している。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>30, 3F, 7A</td>
+                        <td>30, 3F, FA</td>
+                        <td>B0, 3F, FA</td>
+                        <td>B0, BF, 7A</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00072a" class="cssacc" />
+
+                      <label for="00072a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>イ</td>
+                            </tr>
+                            <tr>
+                              <td>30, 3F, FA</td>
+                            </tr>
+                          </table>
+                          <P>パリティチェックは、データ通信やメモリチェックなどにおいてデータのビット誤りを検出する最もシンプルな方法の一つです。一定長のビット列（通常は7～8ビット）ごとに1ビットの検査ビット（パリティビット）を付加し、検査側が受信データとパリティビットを照合することで誤りを検出します。<br><br>
+
+                          ビット列とパリティビットを合わせて「1」のビット数が奇数になるようにパリティビットを付加する方式を「奇数パリティ」、「1」のビット数が偶数になるようにパリティビットを付加する方式を「偶数パリティ」といいます。
+                          <br><br>
+                          16進数で表現されている文字コード30，3F，7Aを2進数に変換して「1」のビット数を確認すると<br>
+                            <em3>
+                            30→0011 0000(2個)<br>
+                            3F→0011 1111(6個)<br>
+                            7A→0111 1010(5個)<br>
+                            </em3><br>
+                            この中で「1」のビット数が奇数である7Aの先頭ビットにだけパリティビットを付加して「1」の個数が偶数になるようにします。
+                            <br><br>
+                            <em3>
+                            7A→0111 1010(5個)<br>
+                            →1111 1010(6個)→FA
+                            </em3><br>
+                            つまり偶数パリティビットを付加した後のデータは「30，3F，FA」になります。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第73問　テスト用のモジュール</h3>
+                  <input type="checkbox" id="00073" class="cssacc" />
+
+                  <label for="00073"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">階層構造のモジュール群から成るソフトウェアの結合テストを，上位のモジュールから行う。この場合に使用する，下位モジュールの代替となるテスト用のモジュールはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>エミュレータ</td>
+                        <td>シミュレータ</td>
+                        <td>スタブ</td>
+                        <td>ドライバ</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00073a" class="cssacc" />
+
+                      <label for="00073a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ウ</td>
+                            </tr>
+                            <tr>
+                              <td>スタブ</td>
+                            </tr>
+                          </table>
+                          <P>ソフトウェア結合テストにおいて、未完成のモジュールの代わりに接合されるテスト用モジュールにスタブとドライバがあります。<br><br>
+                          「スタブ」<br>
+                          トップダウンテストにおいて未完成の下位モジュールの代わりに結合されるテスト用モジュール。上位モジュールからの呼び出しに対して適切な値を返す役割をもつ。<br><br>
+                          「ドライバ」<br>
+                          ボトムアップテストにおいて、未完成の上位モジュールの代わりとなるテスト用モジュール。上位モジュールの代わりに下位モジュール内の命令を呼び出す役割をもつ。<br>
+                          問題では下位モジュールの代替となるものが問われていますので、答えは「スタブ」になります。<br>
+                          <br><br>
+                          エミュレータは、所定のコンピュータや機械装置を模倣するシミュレータの一種で、他のコンピュータ向けの命令プログラムを解読しながら実行するマイクロプログラムです。
+                          <br><br>
+                          シミュレータは、現実の事象や業務をモデル化して模擬試験を行う装置やプログラムです。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第74問　ポートスキャン</h3>
+                  <input type="checkbox" id="00074" class="cssacc" />
+
+                  <label for="00074"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成30年春期　問37</em3>
+                    <p id="feQuestion">攻撃者がシステムに侵入するときにポートスキャンを行う目的はどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>後処理の段階において，システムログに攻撃の痕跡が残っていないかどうかを調査する。</td>
+                        <td>権限取得の段階において，権限を奪取できそうなアカウントがあるかどうかを調査する。</td>
+                        <td>事前調査の段階において，攻撃できそうなサービスがあるかどうかを調査する。</td>
+                        <td>不正実行の段階において，攻撃者にとって有益な利用者情報があるかどうかを調査する。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00074a" class="cssacc" />
+
+                      <label for="00074a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ウ</td>
+                            </tr>
+                            <tr>
+                              <td>事前調査の段階において，攻撃できそうなサービスがあるかどうかを調査する。</td>
+                            </tr>
+                          </table>
+                          <P>ポートスキャン(Port Scan)は、コンピュータやルータのアクセス可能な通信ポートを外部から調査する行為です。スキャン対象からの応答でOSの種類、稼働しているサービスとそのバージョンなどの情報が得られるため、不正アクセスを行うための下調べや、脆弱性検査などの目的で実施されます。
+                          <br><br>
+                          したがって「ウ」が適切な記述です。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第75問　公衆無線LAN</h3>
+                  <input type="checkbox" id="00075" class="cssacc" />
+
+                  <label for="00075"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">公衆無線LANのアクセスポイントを設置するときのセキュリティ対策と効果の組みのうち，適切なものはどれか。</p>
+                    <p><img src="gallery/techimg/20210512/公衆無線LAN.png" alt="公衆無線LAN表"></p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00075a" class="cssacc" />
+
+                      <label for="00075a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>エ</td>
+                            </tr>
+                          </table>
+                          <P>ア、MACアドレスフィルタリングは、無線LANのアクセスポイントに正当な機器のMACアドレスを登録しておくことで、正当な機器以外からのアクセスを拒否する機能です。しかし、MACアドレスが偽装された場合には接続を拒否できません。<br><br>
+
+                          イ、SSIDを秘匿にするためにはアクセスポイントにSSIDステルスの設定を行います。これにより、アクセスポイントから発せられるビーコンにSSIDの情報が含まれなくなるため、第三者にアクセスポイントのSSIDを知られてしまう危険性を小さくできます。<br><br>
+
+                          ウ、不正アクセスポイントの設置は、SSIDや暗号化キーを類推できないものにすることがある程度の対策になります。本肢では、公開情報であるドメイン名をSSIDとして設定するとしているため不適切です。<br><br>
+
+                          エ、正しい。本肢は無線LANのプライバシセパレータ機能とその効果についての組みです。
+                          プライバシーセパレータは、同一の無線LANに接続された子機同士の通信を禁止する機能です。店舗内Wi-fiや公衆無線LANサービスのように見知らぬ他人同士が同じ無線LANに接続する場面で、利用者のセキュリティ保護のために設定されます。
+                            <br><br>
+                            <p><img src="gallery/techimg/20210512/プライバシーセパレータ.png" alt="プライバシーセパレータ"></p>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第76問　決定表</h3>
+                  <input type="checkbox" id="00076" class="cssacc" />
+
+                  <label for="00076"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成16年秋期　問15</em3>
+                    <p id="feQuestion">試験の合否を判定する次の決定表から読み取れるものはどれか。ここで，試験は労務管理，経理及び英語の3科目で構成され，それぞれの満点は100とする。</p>
+                    <p><img src="gallery/techimg/20210512/労務管理表.png" alt="労務管理表"></p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>英語の得点が90以上の者は，仮合格か合格になる。</td>
+                        <td>英語の得点が90未満の者は，不合格になる。</td>
+                        <td>業務経験年数が5以上の者は，仮合格か合格になる。</td>
+                        <td>経理の得点が60未満の者は，不合格になる。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00076a" class="cssacc" />
+
+                      <label for="00076a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>エ</td>
+                            </tr>
+                            <tr>
+                              <td>経理の得点が60未満の者は，不合格になる。</td>
+                            </tr>
+                          </table>
+                          <P>決定表は、ある事象について条件や選択肢を表形式で整理し、記述された条件・選択肢の組合せによってどのような処理を行うべきかを列挙したものです。<br><br>
+                          表中の二重線より上が条件を記述する部分で、条件が成立するときは「Y」、不成立の時は「N」を記入します。二重線より下が実行される処理を記述する部分で、条件の組合せによって実行すべき処理に「X」が記入します。
+                            <br><br>
+                            それぞれのテストの満点は100なので、経理が60未満の場合、他の2科目が100でも合計点が260未満になってしまうため不合格が確定します。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第77問　ホワイトボックステスト</h3>
+                  <input type="checkbox" id="00077" class="cssacc" />
+
+                  <label for="00077"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成16年春期　問52</em3>
+                    <p id="feQuestion">テスト手法の一つであるホワイトボックステストの説明として，適切なものはどれか</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>下位のモジュールから上位のモジュールへと，順次結合してテストする。</td>
+                        <td>上位のモジュールから下位のモジュールへと，順次結合してテストする。</td>
+                        <td>モジュールの内部構造に注目して，テストする。</td>
+                        <td>モジュールの内部構造を考慮することなく，仕様書どおりに機能するかどうかをテストする。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00077a" class="cssacc" />
+
+                      <label for="00077a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ウ</td>
+                            </tr>
+                            <tr>
+                              <td>モジュールの内部構造に注目して，テストする。</td>
+                            </tr>
+                          </table>
+                          <P>ホワイトボックステストは、プログラムやモジュールの単体テストとして実施されるテスト手法で、内部構造に基づき仕様書どおりに動作するかを検証するために実施されます。内部構造が明らかな状態でテストを行うことからホワイトボックステストと呼ばれています。<br><br>
+                          このテストではモジュール内部に内存しているバグを取り除くことを目的としているため、内部仕様上の分岐条件などを可能な限り網羅しているテストケースを作成することが重要であり、テストケースの網羅方法としては、命令網羅，判定条件網羅，条件網羅，判定条件／条条件網羅，複数条件網羅などいくつかの方法が存在します。
+                            <em3>
+                            </em3>
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第78問　while文</h3>
+                  <input type="checkbox" id="00078" class="cssacc" />
+
+                  <label for="00078"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成18年春期　問36</em3>
+                    <p id="feQuestion">プログラムの制御構造のうち，while型の繰返し構造はどれか。</p>
+                    <p><img src="gallery/techimg/20210512/while文繰り返し.png" alt=""></p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                     
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00078a" class="cssacc" />
+
+                      <label for="00078a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>エ</td>
+                            </tr>
+                          </table>
+                          <P>while文は、一定の条件が満たされている間だけ処理を繰り返す制御文で、for文とは処理回数を指定しないことが異なります。<br><br>
+                          while文には、条件判定を処理の前に行う一般的なwhile(-do)型と、処理の後に行うdo-while型があります。
+                          <br><br>
+                          選択肢の制御構造は、繰り返し処理を行う「イ」「エ」、分岐処理を行う「ア」「エ」に分類できます。さらに条件判定を処理の後に行っている「イ」がdo-while型、「エ」がwhile型となるため正解は「エ」になります。
+                            <em3>
+                            </em3>
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第79問　公開鍵暗号方式</h3>
+                  <input type="checkbox" id="00079" class="cssacc" />
+
+                  <label for="00079"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">文書の内容を秘匿して送受信する場合の公開鍵暗号方式における鍵と暗号化アルゴリズムの取扱いのうち，適切なものはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>暗号化鍵と復号鍵は公開するが，暗号化アルゴリズムは秘密にしなければならない。</td>
+                        <td>暗号化鍵は公開するが，復号鍵と暗号化アルゴリズムは秘密にしなければならない。</td>
+                        <td>暗号化鍵と暗号化アルゴリズムは公開するが，復号鍵は秘密にしなければならない。</td>
+                        <td>復号鍵と暗号化アルゴリズムは公開するが，暗号化鍵は秘密にしなければならない。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00079a" class="cssacc" />
+
+                      <label for="00079a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ウ</td>
+                            </tr>
+                            <tr>
+                              <td>暗号化鍵と暗号化アルゴリズムは公開するが，復号鍵は秘密にしなければならない。</td>
+                            </tr>
+                          </table>
+                          <P>公開鍵暗号方式は、暗号化と復号に異なる鍵を使用する暗号方式です。暗号化鍵は誰もが使用できるように公開し(公開鍵)、復号鍵は受信者が厳重に管理します(秘密鍵)。<br><br>
+                          暗号化鍵と復号鍵は一対のペアとして生成され、1つの暗号化鍵で暗号化されたデータは、その鍵のペアである復号鍵でしか元のデータに戻せないため、復号を行えるのは正当な受信者のみであることが保証されています。<br><br>
+                          暗号化アルゴリズムには大きな数の素因数分解が困難なことを利用したRSA、離散対数問題を利用したエルガマル暗号などがあり、これらのアルゴリズムは広く公開されています。<br><br>
+                          したがって、公開するのは暗号化鍵とアルゴリズム，秘密にするのは復号鍵になります。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第80問　アルゴリズム</h3>
+                  <input type="checkbox" id="00080" class="cssacc" />
+
+                  <label for="00080"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">長さm，nの文字列をそれぞれ格納した配列X，Yがある。図は，配列Xに格納した文字列の後ろに，配列Yに格納した文字列を連結したものを配列Zに格納するアルゴリズムを表す流れ図である。図中のa，bに入れる処理として，正しいものはどれか。
+                    <br>ここで，1文字が一つの配列要素に格納されるものとする。</p>
+                    <p><img src="gallery/techimg/20210512/ループ処理.png" alt="ループ処理"></p>
+                    <p><img src="gallery/techimg/20210512/ループ処理選択肢.png" alt="ループ処理の選択肢"></p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00080a" class="cssacc" />
+
+                      <label for="00080a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ア</td>
+                            </tr>
+                          </table>
+                          <P>流れ図は、ループ1で配列Zに配列Xの文字の先頭から最後までを格納し、続いてループ2で配列Zに配列Yの文字の先頭から最後まで格納する処理を行っています。<br><br>
+                          例えば配列Xの文字数mが5、配列Yの文字数nが3であったとすると、配列Zの1～5要素目に配列Xの文字列、6～8要素目には配列Yの文字列が格納されることが必要です。<br><br>
+
+                          配列Xから配列Zへのコピーでは配列の添字が一致しますが、配列Yから配列Zへのコピーを行うループ2では、配列Zの格納開始位置が配列Xの文字数分だけ後ろにずれることになります。そのため配列Yの文字列を適切な位置にコピーするためには配列Zの添字に"配列Xの文字列長(m)＋配列Yの現在の文字位置(k)"を指定しなくてはなりません。(例のケースでは、配列Yの文字列を格納する位置は配列Zの要素6からとなる)
+                          <br><br>
+                          したがって<br>
+                          a＝X(k) → Z(k)<br>
+                          b＝Y(k) → Z(m＋k)<br>
+                          が適切です。<br>
+                          <p><img src="gallery/techimg/20210512/ループ処理表.png" alt=""></p>
+
+                            <em3>
+                            </em3>
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <br>
+              </div>
+            </div>
+          </div>
+        </div> -->
+
+
+
+
+
+
+       <!--<div id="20210512"></div>
         <div class="schedule_wrapper">
           <br>
           <p id="avocado">2021年05月12日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
@@ -656,14 +1870,14 @@
                 </div>
 
                 <div class="accbox">
-                  <h3>第68問　</h3>
+                  <h3>第68問　CAPTCHA</h3>
                   <input type="checkbox" id="00068" class="cssacc" />
 
                   <label for="00068"><span><i class="fas fa-book"></i>READ</span></label>
                   <div class="accshow">
 
-                    <em3></em3>
-                    <p id="feQuestion"></p>
+                    <em3>平成31年春期　問36</em3>
+                    <p id="feQuestion">CAPTCHAの目的はどれか。</p>
 
 
                     <h4>選択肢</h4>
@@ -675,10 +1889,10 @@
                         <td>エ</td>
                       </tr>
                       <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>Webサイトなどにおいて，コンピュータではなく人間がアクセスしていることを確認する。</td>
+                        <td>公開鍵暗号と共通鍵暗号を組み合わせて，メッセージを効率よく暗号化する。</td>
+                        <td>通信回線を流れるパケットをキャプチャして，パケットの内容の表示や解析，集計を行う。</td>
+                        <td>電子政府推奨暗号の安全性を評価し，暗号技術の適切な実装法，運用法を調査，検討する。</td>
                       </tr>
                     </table>
 
@@ -693,17 +1907,17 @@
                         <div class="accbox">
                           <table id="feSelection">
                             <tr>
-                              <td></td>
+                              <td>ア</td>
                             </tr>
                             <tr>
-                              <td></td>
+                              <td>Webサイトなどにおいて，コンピュータではなく人間がアクセスしていることを確認する。</td>
                             </tr>
                           </table>
-                          <P>
+                          <P>CAPTCHA(キャプチャ)は、人間によるアクセスかコンピュータによるアクセスかを判別する目的でWebサイトなどに組み込まれる仕組みです。会員登録フォームや投稿フォームにおいて、自動プログラムによる大量の不正リクエストやスパム投稿を排除する目的で設置されます。
+                          <br><br>
+                          以前はCAPTCHAと言えば、歪めたり一部を隠したりした画像から文字を判読させ入力させる方式が一般的でしたが、プログラムによる判別技術が進展し当初ほど有効ではなくなったため、最近では複数の似た画像から指定されたものを選ぶタイプやパズル型、Webページ上の行動を解析して判別するタイプのものなど、よりコンピュータによる突破が難しい方式も登場しています。
                             <br><br>
-                            <em3>
-                            </em3>
-                            <br><br>
+                            <p><img src="gallery/techimg/20210512/captcha.png" alt="CAPTCHA"></p><br><br>
                           </p>
                           <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
                         </div>
@@ -713,14 +1927,14 @@
                 </div>
 
                 <div class="accbox">
-                  <h3>第69問　</h3>
+                  <h3>第69問　メールサーバ</h3>
                   <input type="checkbox" id="00069" class="cssacc" />
 
                   <label for="00069"><span><i class="fas fa-book"></i>READ</span></label>
                   <div class="accshow">
 
                     <em3></em3>
-                    <p id="feQuestion"></p>
+                    <p id="feQuestion">電子メールをドメインAの送信者がドメインBの宛先に送信するとき，送信者をドメインAのメールサーバで認証するためのものはどれか。</p>
 
 
                     <h4>選択肢</h4>
@@ -732,10 +1946,10 @@
                         <td>エ</td>
                       </tr>
                       <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>APOP</td>
+                        <td>POP3S</td>
+                        <td>S/MIME</td>
+                        <td>SMTP-AUTH</td>
                       </tr>
                     </table>
 
@@ -756,11 +1970,9 @@
                               <td></td>
                             </tr>
                           </table>
-                          <P>
-                            <br><br>
-                            <em3>
-                            </em3>
-                            <br><br>
+                          <P>電子メールの送信プロトコルであるSMTPは、古典的な規格ということもあり、元来メールの投稿者を認証する仕組みが備わっていません。これはメールサーバ間の転送でも同様のため、第三者中継に乗じたスパムメールに悪用されていました。
+                          <br><br>
+                          SMTP-AUTH(SMTP Authentication)は、メール投稿にあたってユーザ認証の仕組みがないSMTPを拡張し、ユーザ認証機能を追加した仕様です。利用するにはメールサーバとクライアントの双方が対応していなければなりませんが、メール送信する際にユーザ名とパスワードで認証を行い、認証されたユーザのみからのメール送信を許可することで不正な送信要求を遮断することができます。
                           </p>
                           <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
                         </div>
@@ -770,14 +1982,14 @@
                 </div>
 
                 <div class="accbox">
-                  <h3>第70問　</h3>
+                  <h3>第70問　IPv4アドレス</h3>
                   <input type="checkbox" id="00070" class="cssacc" />
 
                   <label for="00070"><span><i class="fas fa-book"></i>READ</span></label>
                   <div class="accshow">
 
-                    <em3></em3>
-                    <p id="feQuestion"></p>
+                    <em3>平成25年春期　問31</em3>
+                    <p id="feQuestion">IPv4アドレス表記として，正しくないものはどれか。</p>
 
 
                     <h4>選択肢</h4>
@@ -789,10 +2001,10 @@
                         <td>エ</td>
                       </tr>
                       <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>10.0.0.0</td>
+                        <td>10.10.10.256</td>
+                        <td>192.168.0.1</td>
+                        <td>224.0.1.1</td>
                       </tr>
                     </table>
 
@@ -807,17 +2019,17 @@
                         <div class="accbox">
                           <table id="feSelection">
                             <tr>
-                              <td></td>
+                              <td>イ</td>
                             </tr>
                             <tr>
-                              <td></td>
+                              <td>10.10.10.256</td>
                             </tr>
                           </table>
-                          <P>
-                            <br><br>
-                            <em3>
-                            </em3>
-                            <br><br>
+                          <P>IPv4では32ビットでアドレスを表現します。2進数で表記すると見づらいので、一般には8ビットずつをドットで区切って4つの10進数で表記する方法が用いられます。
+                          <br><br>
+                          それぞれの値は2進数8ビットを10進数で表現したものなので、取り得る値は「28種類＝0～255」の範囲になります。
+                          したがって値として256を使用している「10.10.10.256」は、IPv4アドレス表記として不適切となります。
+                            
                           </p>
                           <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
                         </div>
@@ -2144,7 +3356,7 @@
 
 
 
-        <!-- <div id="20210509"></div>
+       <div id="20210509"></div>
         <div class="schedule_wrapper">
           <br>
           <p id="avocado">2021年05月09日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
@@ -2811,7 +4023,7 @@
     </div>
     </div>
     </div>
-    </div> -->
+    </div>
 
 
 
