@@ -46,6 +46,44 @@
         </li>
 
     <hr> -->
+        2021年05月10日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                </a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                </a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                </a>
+        </li>
+
+    <hr>
+        2021年05月09日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC091DK0Z00C21A5000000/" target="blank" rel="noopener">
+                東京都、新たに1032人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA012TN0R00C21A5000000/" target="blank" rel="noopener">
+                オンライン診療、態勢遅れ　コロナ下で全面解禁1年</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODK053ZI0V00C21A5000000/" target="blank" rel="noopener">
+                コロナに効くか「行動経済学」　外出抑制やワクチン</a>
+        </li>
+
+    <hr>
         2021年05月08日
     
         <li>
