@@ -50,18 +50,18 @@
     
         <li>
                 <i class="far fa-file-alt"></i>
-                <a href="" target="blank" rel="noopener">
-                </a>
+                <a href="https://www.nikkei.com/article/DGXZQOCC100EC0Q1A510C2000000/" target="blank" rel="noopener">
+                東京都、新たに573人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
-                <a href="" target="blank" rel="noopener">
-                </a>
+                <a href="https://www.nikkei.com/article/DGXZQOUA0931W0Z00C21A5000000/" target="blank" rel="noopener">
+                首相、死者1万人を陳謝　新型コロナ巡り衆院予算委で</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
-                <a href="" target="blank" rel="noopener">
-                </a>
+                <a href="https://www.nikkei.com/article/DGXZQOCD063J60W1A500C2000000/" target="blank" rel="noopener">
+                80年間なぜ変わらない　コロナに苦戦、戦前の教訓</a>
         </li>
 
     <hr>

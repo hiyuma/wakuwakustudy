@@ -11,6 +11,18 @@
     <!-- <li>2021年05月11日</li>
   <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（基本情報処理技術者試験 ⑫「午前試験　テクノロジ系　過去問⑥」）</a> 追加</span></div> -->
 
+  
+
+
+  <li>2021年05月10日</li>
+  <div class="info-children"><span><a href="diary.php">DIARY（ソイ）</a> 追加</span></div>
+
+  <li>2021年05月10日</li>
+  <div class="info-children"><span><a href="gallery.php">PHOTO</a>（日常）更新</span></div>
+
+  <li>2021年05月10日</li>
+  <div class="info-children"><span><a href="https://developershirai.com/wp/">Wordpress練習用ページ</a> 追加</span></div>
+
     <li>2021年05月10日</li>
   <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY（基本情報処理技術者試験 ⑪「午前試験　テクノロジ系　過去問⑤」）</a> 追加</span></div>
 
