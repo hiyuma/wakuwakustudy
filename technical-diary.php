@@ -202,50 +202,186 @@
               <div class="accshow">
 
                 <div class="accbox">
-                  <h3>第問　</h3>
-                  <input type="checkbox" id="000" class="cssacc" />
+                  <h3>第81問　ページング方式</h3>
+                  <input type="checkbox" id="00081" class="cssacc" />
 
-                  <label for="000"><span><i class="fas fa-book"></i>READ</span></label>
+                  <label for="00081"><span><i class="fas fa-book"></i>READ</span></label>
                   <div class="accshow">
 
                     <em3></em3>
-                    <p id="feQuestion"></p>
+                    <p id="feQuestion">ページング方式の仮想記憶において，ページ置換えアルゴリズムにLRU方式を採用する。主記憶に割り当てられるページ枠が4のとき，ページ1，2，3，4，5，2，1，3，2，6の順にアクセスすると，ページ6をアクセスする時点で置き換えられるページはどれか。ここで，初期状態では主記憶にどのページも存在しないものとする。</p>
 
 
                     <h4>選択肢</h4>
                     <table id="feSelection">
                       <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
                       </tr>
                       <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>1</td>
+                        <td>2</td>
+                        <td>4</td>
+                        <td>5</td>
                       </tr>
                     </table>
 
                     <div id="answer">
                       答え
-                      <input type="checkbox" id="000a" class="cssacc" />
+                      <input type="checkbox" id="00081a" class="cssacc" />
 
-                      <label for="000a"><span>READ</span></label>
+                      <label for="00081a"><span>READ</span></label>
                       <div class="accshow">
 
                         <h4>正解</h4>
                         <div class="accbox">
                           <table id="feSelection">
                             <tr>
-                              <td></td>
+                              <td>エ</td>
                             </tr>
                             <tr>
-                              <td></td>
+                              <td>5</td>
                             </tr>
                           </table>
-                          <P>
+                          <P>LRU(Least Recently Used)方式は、ページアウト要求があった場合に管理している中で「最後に参照された時刻が最も昔であるページ」を置換え対象とするアルゴリズムです。このアルゴリズムにより使用頻度の高いされたページが主記憶に残り、使われないページは新しいページと入れ替わることになります。
+                            <br><br>
+                            主記憶のページ枠は4なので、次のような流れになります。(ページ置き換え処理が発生した箇所は文字色を赤で示しています)
+                            <br><br>
+                            <p><img src="gallery/techimg/20210514/ページング方式.png" alt="ページング方式"></p>
+                            最後のページ6のアクセス要求時に置き換え対象となるページは 5 になります。
+                           
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                  <div class="accbox">
+                  <h3>第82問　情報理論</h3>
+                  <input type="checkbox" id="00082" class="cssacc" />
+
+                  <label for="00082"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">表は，文字A～Eを符号化したときのビット表記と，それぞれの文字の出現確率を表したものである。1文字当たりの平均ビット数は幾らになるか。</p>
+                    <p><img src="gallery/techimg/20210514/文字ビット表.png" alt=""></p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>1.6</td>
+                        <td>1.8</td>
+                        <td>2.5</td>
+                        <td>2.8</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00082a" class="cssacc" />
+
+                      <label for="00082a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>イ</td>
+                            </tr>
+                            <tr>
+                              <td>1.8</td>
+                            </tr>
+                          </table>
+                          <P>各文字を表すビット数とその出現確率をかけたものを足し合わせて平均ビット数を求めます。
+                            <br><br>
+                            ・A→1ビット×0.5＝0.5ビット<br>
+                            ・B→2ビット×0.3＝0.6ビット<br>
+                            ・C→3ビット×0.1＝0.3ビット<br>
+                            ・D→4ビット×0.05＝0.2ビット<br>
+                            ・E→4ビット×0.05＝0.2ビット<br>
+                            <br><br>
+                            すべてを足し合わせると、<br>
+                            0.5＋0.6＋0.3＋0.2＋0.2＝1.8ビット<br><br>
+
+                            したがって平均ビット数は1.8ビットになります。
+                            <br><br>
+                            このように情報の出現確率が高いデータには短い符号を，低いデータには長い符号を与えることで圧縮を効率よく行う方法を「ハフマン符号」といいます。
+
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                  <div class="accbox">
+                  <h3>第83問　SQL</h3>
+                  <input type="checkbox" id="00083" class="cssacc" />
+
+                  <label for="00083"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成27年秋期　問28</em3>
+                    <p id="feQuestion">"出庫記録"表に対するSQL文のうち，最も大きな値が得られるものはどれか。</p>
+                    <p><img src="gallery/techimg/20210514/出庫記録表.png" alt="出庫記録表"></p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>SELECT AVG(数量) FROM 出庫記録 WHERE 商品番号 = 'NP200'</td>
+                        <td>SELECT COUNT(＊) FROM 出庫記録</td>
+                        <td>SELECT MAX(数量) FROM 出庫記録</td>
+                        <td>SELECT SUM(数量) FROM 出庫記録 WHERE 日付 = '2015-10-11'</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00083a" class="cssacc" />
+
+                      <label for="00083a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>イ</td>
+                            </tr>
+                            <tr>
+                              <td>SELECT COUNT(＊) FROM 出庫記録</td>
+                            </tr>
+                          </table>
+                          <P>AVG()は、平均を計算する集計関数です。商品番号が"NP200"は4個ありレコード数は2なので、平均値として2が得られます。
+                          <br><br>
+                          COUNT()は、行数を数える集計関数です。"出庫記録"は4行からなっているので、4が得られます。
+                          <br><br>
+                          MAX()は、最大値を得る集計関数です。"出庫記録"のレコードの中で"数量"列の最大値である3が得られます。
+                          <br><br>
+                          SUM()は、合計値を計算する集計関数です。日付が"2015-10-11"であるレコードは3,4行目なので、2つの行の"数量"の値を合計した3が得られます。
+                          したがって最も大きな値が得られるSQL文は「イ」になります。
                             <br><br>
                            
                             <br><br>
@@ -258,50 +394,242 @@
                 </div>
 
                   <div class="accbox">
-                  <h3>第問　</h3>
-                  <input type="checkbox" id="000" class="cssacc" />
+                  <h3>第84問　アルゴリズム</h3>
+                  <input type="checkbox" id="00084" class="cssacc" />
 
-                  <label for="000"><span><i class="fas fa-book"></i>READ</span></label>
+                  <label for="00084"><span><i class="fas fa-book"></i>READ</span></label>
                   <div class="accshow">
 
                     <em3></em3>
-                    <p id="feQuestion"></p>
+                    <p id="feQuestion">配列Aが図2の状態のとき，図1の流れ図を実行すると，配列Bが図3の状態になった。図1のaに入れるべき操作はどれか。ここで，配列A，Bの要素をそれぞれ A(i，j)，B(i，j) とする。</p>
+                    <p><img src="gallery/techimg/20210514/ループ処理図.png" alt="ループ処理図"></p>
 
 
                     <h4>選択肢</h4>
                     <table id="feSelection">
                       <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                       <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
                       </tr>
                       <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>B(7－i，7－j) ← A(i，j)</td>
+                        <td>B(7－j，i) ← A(i，j)</td>
+                        <td>B(i，7－j) ← A(i，j)</td>
+                        <td>B(j，7－i) ← A(i，j)</td>
                       </tr>
                     </table>
 
                     <div id="answer">
                       答え
-                      <input type="checkbox" id="000a" class="cssacc" />
+                      <input type="checkbox" id="00084a" class="cssacc" />
 
-                      <label for="000a"><span>READ</span></label>
+                      <label for="00084a"><span>READ</span></label>
                       <div class="accshow">
 
                         <h4>正解</h4>
                         <div class="accbox">
                           <table id="feSelection">
                             <tr>
-                              <td></td>
+                              <td>エ</td>
                             </tr>
                             <tr>
-                              <td></td>
+                              <td>B(i，7－j) ← A(i，j)</td>
                             </tr>
                           </table>
-                          <P>
+                          <P>配列Aの値が配列Bのどの位置に移動しているかを、配列中の適当な場所でサンプルを取ってみるとわかりやすいです。
+                          <br><br>
+                          例として、下図中の赤で印をつけたの一点を考えてみます。
+                          <p><img src="gallery/techimg/20210514/ループ処理アルゴリズム.png" alt="配列並び変え"></p>
+                            <br><br>
+                            この位置を配列の添え字[i，j]を使って表すと、配列Aが[3，1]、配列Bが[1，4]となります。
+                            <br><br>
+                            選択肢を見ると、配列A[i，j]を配列Bのどこに移動するかを問われているので、iが3、jが1の場合に、配列Bの位置が[1，4]となる選択肢を探すことになります。
+                            <br><br>
+                            選択肢に「i＝3，j＝1」を代入してみると、B(1，7－3)＝B(1，4)となり適切な位置に値を移動することができます。したがって「エ」が正解です。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                  <div class="accbox">
+                  <h3>第85問　キュー</h3>
+                  <input type="checkbox" id="00085" class="cssacc" />
+
+                  <label for="00085"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成27年春期　問5</em3>
+                    <p id="feQuestion">キューに関する記述として，最も適切なものはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>最後に格納されたデータが最初に取り出される。</td>
+                        <td>最初に格納されたデータが最初に取り出される。</td>
+                        <td>添字を用いて特定のデータを参照する。</td>
+                        <td>二つ以上のポインタを用いてデータの階層関係を表現する。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00086a" class="cssacc" />
+
+                      <label for="00086a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>イ</td>
+                            </tr>
+                            <tr>
+                              <td>最初に格納されたデータが最初に取り出される。</td>
+                            </tr>
+                          </table>
+                          <P>キュー(Queue)は、コンピュータのデータ構造の1つで、先に入力したデータが先に出力される「先入先出し」の構造を持ちます。また、このようなデータの入出力方式は「First In First Out」を略して「FIFO」と呼ばれます。
+                            <br><br>
+                            キューは何かの処理の"待ち行列"を実現する際によく使われる構造で、例えば、プリンタの印刷待ち、CPUの処理待ちなどがキュー構造で処理されています。
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                  <div class="accbox">
+                  <h3>第86問　ページング方式</h3>
+                  <input type="checkbox" id="00086" class="cssacc" />
+
+                  <label for="00086"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成26年春期 午前問16</em3>
+                    <p id="feQuestion">ページング方式の仮想記憶を用いることによる効果はどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>システムダウンから復旧するときに，補助記憶のページを用いることによって，主記憶の内容が再現できる。</td>
+                        <td>処理に必要なページを動的に主記憶に割り当てることによって，主記憶を効率的に使用できる。</td>
+                        <td>頻繁に使用されるページを仮想記憶に置くことによって，アクセス速度を主記憶へのアクセスよりも速めることができる。</td>
+                        <td>プログラムの大きさに応じて大小のページを使い分けることによって，主記憶を無駄なく使用できる。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00086a" class="cssacc" />
+
+                      <label for="00086a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>イ</td>
+                            </tr>
+                            <tr>
+                              <td>処理に必要なページを動的に主記憶に割り当てることによって，主記憶を効率的に使用できる。</td>
+                            </tr>
+                          </table>
+                          <P>ページング方式は、仮想記憶管理方式の一つで仮想アドレス空間を「ページ」と呼ばれる固定長の区画に分割，同時に主記憶上も同じように固定長に分割して、このページ単位で主記憶と補助記憶装置のアドレス変換を行う方式です。
+                            <br><br>
+                            ページング方式ではプログラムに割り当てるメモリが連続である必要がなく、大きなフラグメンテーションがほとんど発生しないため、メモリを無駄にしないというメリットがあります。
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                  <div class="accbox">
+                  <h3>第87問　バッファリング</h3>
+                  <input type="checkbox" id="00087" class="cssacc" />
+
+                  <label for="00087"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">符号化速度が192kビット／秒の音声データ2.4Mバイトを，通信速度が128kビット／秒のネットワークを用いてダウンロードしながら途切れることなく再生するためには，再生開始前のデータのバッファリング時間として最低何秒間が必要か。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>50</td>
+                        <td>100</td>
+                        <td>150</td>
+                        <td>250</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00087a" class="cssacc" />
+
+                      <label for="00087a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ア</td>
+                            </tr>
+                            <tr>
+                              <td>50</td>
+                            </tr>
+                          </table>
+                          <P>音声データサイズを符号化速度※で割ると再生時間がわかります。音声データ2.4Mバイト、符号化速度は192kビット／秒と単位がビット・バイトで異なるので、どちらかに合わせて計算します。ここでは符号化速度の方を「192kビット÷8ビット＝24kバイト」とバイト単位に直します。
+                          <br><br>
+                          2.4[Mバイト]÷24[kバイト]<br>
+                          ＝2,400[kバイト]÷24[kバイト]<br>
+                          ＝100[秒]<br>
+                          この計算により再生時間100秒相当の音声データであるとわかります。<br>
+                          <br><br>
+                          次に音声データサイズを通信速度で割って、ダウンロードに要する時間を求めます。音声データサイズは2.4Mバイト、ネットワークの通信速度は128kビット／秒(＝16kバイト／秒)なので、ダウンロードに要する時間は、
+                          <br><br>
+                          2.4[Mバイト]÷16[kバイト]<br>
+                          ＝2,400[kバイト]÷16[kバイト]<br>
+                          ＝150[秒]
+                          <br><br>
+                          再生時間よりダウンロード時間が長い状態ではデータの転送が遅れ、再生途中で停止してしまうことになるため、再生開始前にある程度のデータをバッファリング(一時的に蓄えておく処理)する必要が生じます。再生時間と転送時間の差は50秒なので、この差分である「50秒分」のデータをあらかじめ蓄えた状態で再生を開始し、再生しながらデータをダウンロードすれば、最後まで途切れずに再生が行われることになります。
+                          <br><br>
+                          したがって「ア」が適切です。
+                          <br><br>
+                          ※符号化速度は、アナログデータをディジタルデータに変換するに際して、単位時間当たり何ビットで表現するかを示します。
                             <br><br>
                            
                             <br><br>
@@ -314,52 +642,72 @@
                 </div>
 
                   <div class="accbox">
-                  <h3>第問　</h3>
-                  <input type="checkbox" id="000" class="cssacc" />
+                  <h3>第88問　RAID</h3>
+                  <input type="checkbox" id="00088" class="cssacc" />
 
-                  <label for="000"><span><i class="fas fa-book"></i>READ</span></label>
+                  <label for="00088"><span><i class="fas fa-book"></i>READ</span></label>
                   <div class="accshow">
 
                     <em3></em3>
-                    <p id="feQuestion"></p>
+                    <p id="feQuestion">RAIDの分類において，ミラーリングを用いることで信頼性を高め，障害発生時には冗長ディスクを用いてデータ復元を行う方式はどれか。</p>
 
 
                     <h4>選択肢</h4>
                     <table id="feSelection">
                       <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
                       </tr>
                       <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>RAID1</td>
+                        <td>RAID2</td>
+                        <td>RAID3</td>
+                        <td>RAID4</td>
                       </tr>
                     </table>
 
                     <div id="answer">
                       答え
-                      <input type="checkbox" id="000a" class="cssacc" />
+                      <input type="checkbox" id="00088a" class="cssacc" />
 
-                      <label for="000a"><span>READ</span></label>
+                      <label for="00088a"><span>READ</span></label>
                       <div class="accshow">
 
                         <h4>正解</h4>
                         <div class="accbox">
                           <table id="feSelection">
                             <tr>
-                              <td></td>
+                              <td>ア</td>
                             </tr>
                             <tr>
-                              <td></td>
+                              <td>RAID1</td>
                             </tr>
                           </table>
-                          <P>
+                          <P>RAID(Redundant Arrays of Inexpensive Disks，レイド)は、複数のディスクを組み合わせ、一つの仮想的なディスクとして扱うことで信頼性や性能を向上させる技術です。
                             <br><br>
-                           
+                            RAIDには、次のような6つのレベルがあります。
+                            <br><br>
+                            RAID0(ストライピング)<br>
+                            複数のディスクに分散してデータを書き込むことで、アクセス性能を向上させる。
+                            <br><br>
+                            RAID1(ミラーリング)<br>
+                            同じデータを2台のディスクに書き込むことで、信頼性を向上させる。実質記憶容量は50%となるので記憶効率は悪い。
+                            <br><br>
+                            RAID2<br>
+                            データにエラー訂正用のハミング符号を付加したものをストライピングで書き込む。
+                            <br><br>
+                            RAID3<br>
+                            データのエラー訂正用にパリティビットを使用し、一つのディスクをエラー訂正符号の書き込み専用とする。
+                            <br><br>
+                            RAID4<br>
+                            RAID3とほぼ同じ。RAID3でビット/バイト単位だったストライピングをブロック単位で行う。
+                            <br><br>
+                            RAID5<br>
+                            情報データとともにパリティビットも各ディスクに分散して書き込む方式。信頼性、アクセス性能が共に高まる。
+                            <br><br>
+                            ミラーリングを行うのはRAID1なので「ア」が正解です。
                             <br><br>
                           </p>
                           <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
@@ -370,53 +718,59 @@
                 </div>
 
                   <div class="accbox">
-                  <h3>第問　</h3>
-                  <input type="checkbox" id="000" class="cssacc" />
+                  <h3>第89問　応答速度の遅延現象</h3>
+                  <input type="checkbox" id="00089" class="cssacc" />
 
-                  <label for="000"><span><i class="fas fa-book"></i>READ</span></label>
+                  <label for="00089"><span><i class="fas fa-book"></i>READ</span></label>
                   <div class="accshow">
 
                     <em3></em3>
-                    <p id="feQuestion"></p>
+                    <p id="feQuestion">仮想記憶方式のコンピュータシステムにおいて処理の多重度を増やしたところ，ページイン，ページアウトが多発して，システムの応答速度が急激に遅くなった。このような現象を何というか。</p>
 
 
                     <h4>選択肢</h4>
                     <table id="feSelection">
                       <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
                       </tr>
                       <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>オーバレイ</td>
+                        <td>スラッシング</td>
+                        <td>メモリコンパクション</td>
+                        <td>ロールアウト</td>
                       </tr>
                     </table>
 
                     <div id="answer">
                       答え
-                      <input type="checkbox" id="000a" class="cssacc" />
+                      <input type="checkbox" id="00089a" class="cssacc" />
 
-                      <label for="000a"><span>READ</span></label>
+                      <label for="00089a"><span>READ</span></label>
                       <div class="accshow">
 
                         <h4>正解</h4>
                         <div class="accbox">
                           <table id="feSelection">
                             <tr>
-                              <td></td>
+                              <td>イ</td>
                             </tr>
                             <tr>
-                              <td></td>
+                              <td>スラッシング</td>
                             </tr>
                           </table>
-                          <P>
+                          <P>仮想記憶システムにおいて主記憶の空きが少ない状態で多くのプログラムを実行すると、ページング処理が多発しシステムのオーバーヘッドが増加します。その結果アプリケーションのCPU使用率が極端に下がる現象のことをスラッシング(Thrashing)と呼びます。
                             <br><br>
-                           
+                            ※オーバーヘッド…ある処理を行うために余分に（間接的に）掛かってしまう処理のこと。<br>
+                            ここでのオーバーヘッドが増加とはシステムが目的としている処理ではなく、相当な数のページイン・ページアウト処理がCPUで実行されるため、システム本来の処理効率が著しく悪くなっていることを示してます。
                             <br><br>
+                            オーバレイは、主記憶の容量よりも大きなプログラムを実行させる場合などに、あらかじめプログラムを複数のモジュールに分割しておき、必要となる分だけを主記憶にロードする方式です。
+                            <br><br>
+                            メモリコンパクションは、主記憶上の外部フラグメンテーションを一つの連続領域にまとめる処理のことです。
+                            <br><br>
+                            ロールアウトは、主記憶に空き容量がない状態のときに、優先順位の低いデータを補助記憶装置へ退避させることです。
                           </p>
                           <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
                         </div>
@@ -426,331 +780,51 @@
                 </div>
 
                   <div class="accbox">
-                  <h3>第問　</h3>
-                  <input type="checkbox" id="000" class="cssacc" />
+                  <h3>第90問　アクチュエータ</h3>
+                  <input type="checkbox" id="00090" class="cssacc" />
 
-                  <label for="000"><span><i class="fas fa-book"></i>READ</span></label>
+                  <label for="00090"><span><i class="fas fa-book"></i>READ</span></label>
                   <div class="accshow">
 
-                    <em3></em3>
-                    <p id="feQuestion"></p>
+                    <em3>平成30年春期　問21</em3>
+                    <p id="feQuestion">アクチュエータの説明として，適切なものはどれか。</p>
 
 
                     <h4>選択肢</h4>
                     <table id="feSelection">
                       <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
                       </tr>
                       <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>与えられた目標量と，センサから得られた制御量を比較し，制御量を目標量に一致させるように操作量を出力する。</td>
+                        <td>位置，角度，速度，加速度，力，温度などを検出し，電気的な情報に変換する。</td>
+                        <td>エネルギー発生源からのパワーを，制御信号に基づき，回転，並進などの動きに変換する。</td>
+                        <td>マイクロフォン，センサなどが出力する微小な電気信号を増幅する。</td>
                       </tr>
                     </table>
 
                     <div id="answer">
                       答え
-                      <input type="checkbox" id="000a" class="cssacc" />
+                      <input type="checkbox" id="00090a" class="cssacc" />
 
-                      <label for="000a"><span>READ</span></label>
+                      <label for="00090a"><span>READ</span></label>
                       <div class="accshow">
 
                         <h4>正解</h4>
                         <div class="accbox">
                           <table id="feSelection">
                             <tr>
-                              <td></td>
+                              <td>ウ</td>
                             </tr>
                             <tr>
-                              <td></td>
+                              <td>エネルギー発生源からのパワーを，制御信号に基づき，回転，並進などの動きに変換する。</td>
                             </tr>
                           </table>
-                          <P>
-                            <br><br>
-                           
-                            <br><br>
-                          </p>
-                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-                  <div class="accbox">
-                  <h3>第問　</h3>
-                  <input type="checkbox" id="000" class="cssacc" />
-
-                  <label for="000"><span><i class="fas fa-book"></i>READ</span></label>
-                  <div class="accshow">
-
-                    <em3></em3>
-                    <p id="feQuestion"></p>
-
-
-                    <h4>選択肢</h4>
-                    <table id="feSelection">
-                      <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                      </tr>
-                      <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                      </tr>
-                    </table>
-
-                    <div id="answer">
-                      答え
-                      <input type="checkbox" id="000a" class="cssacc" />
-
-                      <label for="000a"><span>READ</span></label>
-                      <div class="accshow">
-
-                        <h4>正解</h4>
-                        <div class="accbox">
-                          <table id="feSelection">
-                            <tr>
-                              <td></td>
-                            </tr>
-                            <tr>
-                              <td></td>
-                            </tr>
-                          </table>
-                          <P>
-                            <br><br>
-                           
-                            <br><br>
-                          </p>
-                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-                  <div class="accbox">
-                  <h3>第問　</h3>
-                  <input type="checkbox" id="000" class="cssacc" />
-
-                  <label for="000"><span><i class="fas fa-book"></i>READ</span></label>
-                  <div class="accshow">
-
-                    <em3></em3>
-                    <p id="feQuestion"></p>
-
-
-                    <h4>選択肢</h4>
-                    <table id="feSelection">
-                      <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                      </tr>
-                      <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                      </tr>
-                    </table>
-
-                    <div id="answer">
-                      答え
-                      <input type="checkbox" id="000a" class="cssacc" />
-
-                      <label for="000a"><span>READ</span></label>
-                      <div class="accshow">
-
-                        <h4>正解</h4>
-                        <div class="accbox">
-                          <table id="feSelection">
-                            <tr>
-                              <td></td>
-                            </tr>
-                            <tr>
-                              <td></td>
-                            </tr>
-                          </table>
-                          <P>
-                            <br><br>
-                           
-                            <br><br>
-                          </p>
-                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-                  <div class="accbox">
-                  <h3>第問　</h3>
-                  <input type="checkbox" id="000" class="cssacc" />
-
-                  <label for="000"><span><i class="fas fa-book"></i>READ</span></label>
-                  <div class="accshow">
-
-                    <em3></em3>
-                    <p id="feQuestion"></p>
-
-
-                    <h4>選択肢</h4>
-                    <table id="feSelection">
-                      <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                      </tr>
-                      <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                      </tr>
-                    </table>
-
-                    <div id="answer">
-                      答え
-                      <input type="checkbox" id="000a" class="cssacc" />
-
-                      <label for="000a"><span>READ</span></label>
-                      <div class="accshow">
-
-                        <h4>正解</h4>
-                        <div class="accbox">
-                          <table id="feSelection">
-                            <tr>
-                              <td></td>
-                            </tr>
-                            <tr>
-                              <td></td>
-                            </tr>
-                          </table>
-                          <P>
-                            <br><br>
-                           
-                            <br><br>
-                          </p>
-                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-                  <div class="accbox">
-                  <h3>第問　</h3>
-                  <input type="checkbox" id="000" class="cssacc" />
-
-                  <label for="000"><span><i class="fas fa-book"></i>READ</span></label>
-                  <div class="accshow">
-
-                    <em3></em3>
-                    <p id="feQuestion"></p>
-
-
-                    <h4>選択肢</h4>
-                    <table id="feSelection">
-                      <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                      </tr>
-                      <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                      </tr>
-                    </table>
-
-                    <div id="answer">
-                      答え
-                      <input type="checkbox" id="000a" class="cssacc" />
-
-                      <label for="000a"><span>READ</span></label>
-                      <div class="accshow">
-
-                        <h4>正解</h4>
-                        <div class="accbox">
-                          <table id="feSelection">
-                            <tr>
-                              <td></td>
-                            </tr>
-                            <tr>
-                              <td></td>
-                            </tr>
-                          </table>
-                          <P>
-                            <br><br>
-                           
-                            <br><br>
-                          </p>
-                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-                  <div class="accbox">
-                  <h3>第問　</h3>
-                  <input type="checkbox" id="000" class="cssacc" />
-
-                  <label for="000"><span><i class="fas fa-book"></i>READ</span></label>
-                  <div class="accshow">
-
-                    <em3></em3>
-                    <p id="feQuestion"></p>
-
-
-                    <h4>選択肢</h4>
-                    <table id="feSelection">
-                      <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                      </tr>
-                      <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                      </tr>
-                    </table>
-
-                    <div id="answer">
-                      答え
-                      <input type="checkbox" id="000a" class="cssacc" />
-
-                      <label for="000a"><span>READ</span></label>
-                      <div class="accshow">
-
-                        <h4>正解</h4>
-                        <div class="accbox">
-                          <table id="feSelection">
-                            <tr>
-                              <td></td>
-                            </tr>
-                            <tr>
-                              <td></td>
-                            </tr>
-                          </table>
-                          <P>
-                            <br><br>
+                          <P>アクチュエータ(Actuator)は、入力された電気信号を力学的な運動に変換する駆動機構で、機械や電気回路の構成要素です。制御システムにおいては、コントローラから制御信号を受けとり制御対象に与える操作量を変化させる部位のことをいいます。
+                            <p><img src="gallery/techimg/20210514/アクチュエーター.png" alt=""></p>
                            
                             <br><br>
                           </p>
@@ -2696,7 +2770,7 @@
         </div> -->
 
 
-        <!-- <div id="20210510"></div>
+        <div id="20210510"></div>
         <div class="schedule_wrapper">
           <br>
           <p id="avocado">2021年05月10日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
@@ -3304,7 +3378,7 @@
                       <tr>
                         <td>log n</td>
                         <td>n</td>
-                        <td>n(²)</td>
+                        <td>n²</td>
                         <td>n log n</td>
                       </tr>
                     </table>
@@ -3351,7 +3425,7 @@
               </div>
             </div>
           </div>
-        </div> -->
+        </div>
 
 
 
