@@ -65,12 +65,15 @@
             <ol reversed>
               <!-- 
       
-               <li><a href="#20210513"> 2021年05月13日 基本情報処理技術者試験 ⑭「午前試験　テクノロジ系　過去問⑧」
+               <li><a href="#20210516"> 2021年05月16日 基本情報処理技術者試験 ⑰「午前試験　マネジメント系　過去問⑪」
+               <li><a href="#20210515"> 2021年05月15日 基本情報処理技術者試験 ⑯「午前試験　テクノロジ系　過去問⑩」
+               <li><a href="#20210514"> 2021年05月14日 基本情報処理技術者試験 ⑮「午前試験　テクノロジ系　過去問⑨」
+               <li><a href="#20210513"> 2021年05月13日 基本情報処理技術者試験 ⑭「午前試験　テクノロジ系　過去問⑧」-->
                <li><a href="#20210512"> 2021年05月12日 基本情報処理技術者試験 ⑬「午前試験　テクノロジ系　過去問⑦」
-               <li><a href="#20210511"> 2021年05月11日 基本情報処理技術者試験 ⑫「午前試験　テクノロジ系　過去問⑥」-->
-               <li><a href="#20210510"> 2021年05月10日 基本情報処理技術者試験 ⑪「午前試験　テクノロジ系　過去問⑤」
-               <li><a href="#20210509"> 2021年05月09日 基本情報処理技術者試験 ⑩「午前試験　テクノロジ系　過去問④」
-               <li><a href="#20210508"> 2021年05月08日 基本情報処理技術者試験 ⑨「午前試験　テクノロジ系　過去問③」
+               <li><a href="#20210511"> 2021年05月11日 基本情報処理技術者試験 ⑫「午前試験　テクノロジ系　過去問⑥」
+              <li><a href="#20210510"> 2021年05月10日 基本情報処理技術者試験 ⑪「午前試験　テクノロジ系　過去問⑤」
+              <li><a href="#20210509"> 2021年05月09日 基本情報処理技術者試験 ⑩「午前試験　テクノロジ系　過去問④」
+              <li><a href="#20210508"> 2021年05月08日 基本情報処理技術者試験 ⑨「午前試験　テクノロジ系　過去問③」
               <li><a href="#20210507"> 2021年05月07日 基本情報処理技術者試験 ⑧「午前試験　テクノロジ系　過去問②」
               <li><a href="#20210506"> 2021年05月06日 基本情報処理技術者試験 ⑦「2進数/16進数」
               <li><a href="#20210505"> 2021年05月05日 基本情報処理技術者試験 ⑥「午前試験　テクノロジ系　過去問①」</a></li>
@@ -178,12 +181,2254 @@
       </div>
           --------------------------------- -->
 
-
-
-<!--<div id="20210513"></div>
+        <!-- <div id="20210516"></div>
         <div class="schedule_wrapper">
           <br>
-          <p id="avocado">2021年05月13日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
+          <p id="avocado">2021年05月16日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
+          <h2 id="title">「午前試験　マネジメント系　過去問⑪」</h2>
+
+
+
+          <div class="accbox">
+
+            <p><img src="gallery/techimg/20210516/feQuiz11.png" alt="基本情報処理技術者試験 過去問⑪"></p>
+
+
+
+            <div class="accbox">
+
+              <input type="checkbox" id="過去問11" class="cssacc" />
+
+              <label for="過去問11"><span><i class="fas fa-book"></i>READ</span></label>
+              <div class="accshow">
+
+                <div class="accbox">
+                  <h3>第101問　可用性</h3>
+                  <input type="checkbox" id="00101" class="cssacc" />
+
+                  <label for="00101"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">マスタファイル管理に関するシステム監査項目のうち，可用性に該当するものはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>マスタファイルが置かれているサーバを二重化し，耐障害性の向上を図っていること</td>
+                        <td>マスタファイルのデータを複数件まとめて検索・加工するための機能が，システムに盛り込まれていること</td>
+                        <td>マスタファイルのメンテナンスは，特権アカウントを付与された者だけに許されていること</td>
+                        <td>マスタファイルへのデータ入力チェック機能が，システムに盛り込まれていること</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00101a" class="cssacc" />
+
+                      <label for="00101a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ア</td>
+                            </tr>
+                            <tr>
+                              <td>マスタファイルが置かれているサーバを二重化し，耐障害性の向上を図っていること</td>
+                            </tr>
+                          </table>
+                          <P>可用性(Availability)とは、システムが正常に稼働し続け、ユーザが必要な時にシステムが利用可能である特性を示します。
+                            <br><br>
+                            障害が起きてもサービスの提供を維持できるような対策が実施されているかどうかが、可用性の監査項目になります。
+
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第102問　工数の見積り</h3>
+                  <input type="checkbox" id="00102" class="cssacc" />
+
+                  <label for="00102"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">システム開発における工数の見積りに関する記述のうち，適切なものはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>COCOMOの使用には，自社における生産性のデータ収集が不可欠である。</td>
+                        <td>開発要員の技量が異なるので，過去に開発したプログラムの規模は見積りの参考になるが，工数は参考にならない。</td>
+                        <td>工数の見積りは，作業の進捗管理に有効であるが，ソフトウェアの品質管理には関係しない。</td>
+                        <td>ファンクションポイント法による見積りでは，プログラムステップ数を把握する必要がある。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00102a" class="cssacc" />
+
+                      <label for="00102a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ア</td>
+                            </tr>
+                            <tr>
+                              <td>COCOMOの使用には，自社における生産性のデータ収集が不可欠である。</td>
+                            </tr>
+                          </table>
+                          <P>COCOMO(Constructive Cost Model)は、ソフトウェアの見積もりで、予想されるプログラム行数にエンジニアの能力や要求の信頼性などの補正係数を掛け合わせて開発工数や期間，要員や生産性を見積もる手法です。
+                            <br><br>
+                            COCOMOを適用するには自社における生産性のデータ収集が不可欠です。
+                            <br><br>
+                            イ、過去の開発における技量と実際に要した工数の関係は、現在の見積りにおいても参考にすることができます。
+                            <br><br>
+                            ウ、見積もりと比較して実際に要した工数が多すぎたり少なすぎたりする場合には品質に問題がある可能性も考えられます。このように見積もられた工数は進捗管理だけでなく、品質管理の基準としても用いることができます。
+                            <br><br>
+                            エ、ファンクションポイント法では、外部入出力や内部ファイルの数と難易度の高さから開発規模を見積もるため、プログラムステップ数は見積りに関与しません。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第103問　プル型コミュニケーション</h3>
+                  <input type="checkbox" id="00103" class="cssacc" />
+
+                  <label for="00103"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">プロジェクトにおけるコミュニケーション手段のうち，プル型コミュニケーションはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>イントラネットサイト</td>
+                        <td>テレビ会議</td>
+                        <td>電子メール</td>
+                        <td>ファックス</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00103a" class="cssacc" />
+
+                      <label for="00103a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ア</td>
+                            </tr>
+                            <tr>
+                              <td>イントラネットサイト</td>
+                            </tr>
+                          </table>
+                          <P>プロジェクトにおけるコミュニケーション手段は次の3種類に分類することができます。<br><br>
+
+                            プル型コミュニケーション<br>
+                            掲示板やe-ラーニングなどのように受信者が自分の意思で必要になったときに情報にアクセスさせる方法。<br><br>
+
+                            プッシュ型コミュニケーション<br>
+                            電子メールや手紙、FAXなどのように特定の相手に向けて情報を発信する方法。<br><br>
+
+                            相互方向コミュニケーション<br>
+                            会議やテレビ電話などのように複数の参加者がそれぞれの参加者同士で情報をやり取りできる方法。
+
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第104問　システム監査</h3>
+                  <input type="checkbox" id="00104" class="cssacc" />
+
+                  <label for="00104"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">システム監査におけるヒアリングを実施する際に，システム監査人の対処として，適切なものはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>ヒアリングの結果，調査対象の現状に問題があると判断した場合は，その調査対象のあるべき姿について被監査部門の専門的な相談に応じる。</td>
+                        <td>ヒアリングの結果，問題と思われる事項を発見した場合は，その裏付けとなる記録の入手や現場確認を行う。
+                        </td>
+                        <td>ヒアリングを行っている際に，被監査部門との間で見解の相違が生じた場合は，相手が納得するまで十分に議論を行う。
+                        </td>
+                        <td>被監査部門のヒアリング対象者が複数の場合は，職制上の上位者から集中的に話を聞く。
+                        </td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00104a" class="cssacc" />
+
+                      <label for="00104a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>イ</td>
+                            </tr>
+                            <tr>
+                              <td>ヒアリングの結果，問題と思われる事項を発見した場合は，その裏付けとなる記録の入手や現場確認を行う。</td>
+                            </tr>
+                          </table>
+                          <P>システム監査基準によると「システム監査人は適切かつ慎重に監査手続を実施し、保証又は助言についての監査結果を裏付けるのに十分かつ適切な監査証拠を入手し、評価しなければならない。 」とあります。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第105問　監査証拠</h3>
+                  <input type="checkbox" id="00105" class="cssacc" />
+
+                  <label for="00105"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">システム監査において，監査証拠となるものはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>システム監査チームが監査意見を取りまとめるためのミーティングの議事録
+                        </td>
+                        <td>システム監査チームが監査報告書に記載した指摘事項
+                        </td>
+                        <td>システム監査チームが作成した個別監査計画書
+                        </td>
+                        <td>システム監査チームが被監査部門から入手したシステム運用記録
+                        </td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00105a" class="cssacc" />
+
+                      <label for="00105a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>エ</td>
+                            </tr>
+                            <tr>
+                              <td>システム監査チームが被監査部門から入手したシステム運用記録</td>
+                            </tr>
+                          </table>
+                          <P>監査証拠とは、情報システムで行った処理内容についてデータの発生から処理結果に至るまでを追跡できるログファイルやトランザクションデータ，出力帳票などや質問表による調査結果などのように、監査報告書の裏付けとなる記録のことです。システム監査人がシステム監査の本調査の段階で入手します。
+                            <br><br>
+                            したがって監査証拠となり得るのは「システム運用記録」だけということになります。
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="accbox">
+
+
+
+                  <h3>第106問　PDM</h3>
+                  <input type="checkbox" id="00106" class="cssacc" />
+
+                  <label for="00106"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成31年春期　問52</em3>
+                    <p id="feQuestion">ある会場で資格試験を実施する際のアクティビティである"受付"と"試験"の依存関係のうち，プレシデンスダイアグラム法(PDM)の開始-終了関係はどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>受付の開始から30分経過したら，試験を開始する。</td>
+                        <td>受付の終了から10分経過したら，試験を開始する。</td>
+                        <td>受付の終了から45分経過したら，試験を終了する。</td>
+                        <td>試験の開始から20分経過したら，受付を終了する。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00106a" class="cssacc" />
+
+                      <label for="00106a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>エ</td>
+                            </tr>
+                            <tr>
+                              <td>試験の開始から20分経過したら，受付を終了する。</td>
+                            </tr>
+                          </table>
+                          <P>プレシデンスダイアグラム法は、個々の作業を四角で囲み、作業同士を矢印で結ぶことで作業順序や依存関係を表現する図法です。作業同士の関係を表すという意味ではアローダイアグラムと同じですが、アローダイアグラムでは作業を矢印で、結合点を丸のノードで示すので、記述方法が根本的に異なります。<br><br>
+                            またアローダイアグラムでは、ある作業の終了が別の作業の開始条件となる「終了－開始」(FS：Finish to Start)の依存関係しか表現できませんが、プレシデンスダイアグラムではこの他に、「開始-開始」(SS：Start to Start)、「開始-終了」(SF：Start to Finish)、「完了-終了」(FF：Finish to Finish)の関係を記述できることが特徴です。
+                          <p><img src="gallery/techimg/20210516/プレシデンスダイアグラム.png" alt="プレシデンスダイアグラム"></p>
+                          <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第107問　システム監査人</h3>
+                  <input type="checkbox" id="00107" class="cssacc" />
+
+                  <label for="00107"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">アクセス制御を監査するシステム監査人の行為のうち，適切なものはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>ソフトウェアに関するアクセス制御の管理台帳を作成し，保管した。</td>
+                        <td>データに関するアクセス制御の管理規程を閲覧した。</td>
+                        <td>ネットワークに関するアクセス制御の管理方針を制定した。</td>
+                        <td>ハードウェアに関するアクセス制御の運用手続を実施した。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00107a" class="cssacc" />
+
+                      <label for="00107a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>イ</td>
+                            </tr>
+                            <tr>
+                              <td>データに関するアクセス制御の管理規程を閲覧した。</td>
+                            </tr>
+                          </table>
+                          <P>システム監査では、客観的な立場であるシステム監査人が情報システムを総合的に評価し、助言・勧告・改善活動のフォローアップまでを行います。
+                            <br><br>
+                            フォローアップでは、システム監査結果の改善提案等に基づき、被監査側が主体となって改善活動を実施します。システム監査人の役割は、改善状況をモニタリングして適切な措置が適時に講じられていることを確認することです。システム監査人自身が主体的に改善活動を行うことはありません。
+                            <br><br>
+                            これを踏まえると「管理表の作成と保管」「管理方針の制定」及び「運用手続の実施」はシステム監査人の立場上、不適切な行為と判断できます。したがって適切な行動は「イ」だけです。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第108問　ステークホルダ</h3>
+                  <input type="checkbox" id="00108" class="cssacc" />
+
+                  <label for="00108"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">プロジェクトに関わるステークホルダの説明のうち，適切なものはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>組織の内部に属しており，組織の外部にいることはない。
+                        </td>
+                        <td>プロジェクトに直接参加し，間接的な関与にとどまることはない。
+                        </td>
+                        <td>プロジェクトの成果が，自らの利益になる者と不利益になる者がいる。
+
+                        </td>
+                        <td>プロジェクトマネージャのように，個人として特定できることが必要である。
+                        </td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00108a" class="cssacc" />
+
+                      <label for="00108a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ウ</td>
+                            </tr>
+                            <tr>
+                              <td>プロジェクトの成果が，自らの利益になる者と不利益になる者がいる。</td>
+                            </tr>
+                          </table>
+                          <P>ステークホルダ(stakeholder)とは、従業員、顧客、株主、得意先、地域社会などのように、そのプロジェクトと利害関係をもつ者です。
+                            <br><br>
+                            ステークホルダには、そのプロジェクトが利益になる者、損害になる者の両方が含まれます。
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第109問　システム監査規程</h3>
+                  <input type="checkbox" id="00109" class="cssacc" />
+
+                  <label for="00109"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">システム監査規程の最終的な承認者はだれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>監査対象システムの利用部門の長</td>
+                        <td>経営者</td>
+                        <td>情報システム部門の長</td>
+                        <td>被監査部門の長</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00109a" class="cssacc" />
+
+                      <label for="00109a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <P>システム監査規程は、システム監査を実施する目的及び対象範囲、並びにシステム監査人の権限と責任などシステム監査の基本的事項を定めた規程であり、システム監査人がシステム監査を実施するにあたり必要とする一連の監査マニュアルの一つを構成するものです。
+                            <br><br>
+                            システム監査規程には次のような事項が文書化されます(システム監査基準(平成30年)より)。
+                            <em3>
+                              ・システム監査の目的に関する事<br>
+                              ・システム監査の対象範囲に関する事項<br>
+                              ・システム監査の報告に関する事項<br>
+                              ・システム監査人の権限・責任に関する事項<br>
+                              ・システム監査実施のための監査資源（監査時間、監査要員、監査費用等）の確保に関する事項<br>
+                              ・システム監査人の各種設備や情報資産等へのアクセス権限に関する事項<br>
+                              ・システム監査業務の委託の可否に関する事項<br>
+                              ・システム監査人の守秘義務に関する事項<br>
+                            </em3>
+                            システム監査基準(平成30年)によれば、「内部監査規程等の承認を行う主体は、組織体の個々の事情に応じて様々な形態をとりうる。…取締役等又は取締役会(監査委員会又は監査等委員会を含む。)でなされるかもしれない。」としており、システム監査規程の最終承認者が経営層である旨を記載しています。
+                            <br><br>
+                            したがって最終的な承認者としては「経営者」が適切です。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第110問　プロジェクトマネジメント</h3>
+                  <input type="checkbox" id="00110" class="cssacc" />
+
+                  <label for="00110"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">プロジェクトマネジメントにおいて，目的1をもつプロセスと目的2をもつプロセスとが含まれる対象群はどれか。</p>
+                    <em3>
+                    〔目的〕<br>
+                    目的1<br>
+                    プロジェクトの目標，成果物，要求事項及び境界を明確にする。<br>
+                    目的2<br>
+                    プロジェクトの目標や成果物などの変更によって生じる，プロジェクトの機会となる影響を最大化し，脅威となる影響を最小化する。<br>
+                    </em3>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>コミュニケーション</td>
+                        <td>スコープ</td>
+                        <td>調達</td>
+                        <td>リスク</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00110a" class="cssacc" />
+
+                      <label for="00110a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>イ</td>
+                            </tr>
+                            <tr>
+                              <td>スコープ</td>
+                            </tr>
+                          </table>
+                          <P>JIS Q 21500(プロジェクトマネジメントの手引)において、4つの対象群(PMBOKの知識エリアに相当する)は次のように定義されています。
+                          <br><br>
+                          「コミュニケーション」<br>
+                          プロジェクトに関連する情報の計画、マネジメント及び配布に必要なプロセスを含む
+                          <br><br>
+                          「スコープ」<br>
+                          作業及び成果物のうち必要とするものだけを特定し、定義するために必要なプロセスを含む
+                          <br><br>
+                          「調達」<br>
+                          製品、サービス又は結果を計画し、入手し、供給者との関係をマネジメントするために必要なプロセスを含む
+                          <br><br>
+                          「リスク」
+                          脅威及び機会を特定し、マネジメントするために必要なプロセスを含む
+                          <br><br>
+                          スコープ対象群は、プロジェクトの遂行に必要な作業を過不足なく含め、プロジェクトを成功させることが目的であり、スコープの定義、WBSの作成、活動(アクティビティ)の定義、スコープの管理などのプロセスを含みます。
+                          JIS Q 21500において、目的1は「スコープの定義」の目的、目的2は「スコープの管理」の目的として記載されています。よって該当する対象群は「スコープ」になります。
+                           
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第111問　キャパシティ管理プロセス</h3>
+                  <input type="checkbox" id="00111" class="cssacc" />
+
+                  <label for="00111"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">ITサービスマネジメントのキャパシティ管理プロセスにおける，オンラインシステムの容量・能力の利用の監視についての注意事項のうち，適切なものはどれか。</p>
+                   
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>応答時間やCPU使用率などの複数の測定項目を定常的に監視する。</td>
+                        <td>オンライン時間帯に性能を測定することはサービスレベルの低下につながるので，測定はオフライン時間帯に行う。</td>
+                        <td>キャパシティ及びパフォーマンスに関するインシデントを記録する。</td>
+                        <td>性能データのうちの一定期間内の最大値だけに着目し，管理の限界を逸脱しているかどうかを確認する。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00111a" class="cssacc" />
+
+                      <label for="00111a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ア</td>
+                            </tr>
+                            <tr>
+                              <td>応答時間やCPU使用率などの複数の測定項目を定常的に監視する。</td>
+                            </tr>
+                          </table>
+                          <P>オンラインシステムの容量・能力の利用の監視についての注意事項として、応答時間、CPU使用率、メモリ使用量、ストレージ容量、ネットワークトラフィック量などを常時監視します。
+                            <br><br>
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第112問　プロジェクトのスコープ</h3>
+                  <input type="checkbox" id="00112" class="cssacc" />
+
+                  <label for="00112"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成26年春期　問52</em3>
+                    <p id="feQuestion">図のように，プロジェクトチームが実行すべき作業を上位の階層から下位の階層へ段階的に分解したものを何と呼ぶか。</p>
+                    <p><img src="gallery/techimg/20210516/プロジェクトスコープ.png" alt="プロジェクトスコープ"></p>
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>CPM</td>
+                        <td>EVM</td>
+                        <td>PERT</td>
+                        <td>WBS</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00112a" class="cssacc" />
+
+                      <label for="00112a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>エ</td>
+                            </tr>
+                            <tr>
+                              <td>WBS</td>
+                            </tr>
+                          </table>
+                          <P>WBS(Work Breakdown Structure)は、プロジェクト目標を達成し、必要な成果物を過不足なく作成するために、プロジェクトチームが実行すべき作業を、成果物を主体に階層的に要素分解したものです。作業の漏れや抜けを防ぎ、プロジェクトの範囲を明確にすると同時に、作業単位ごとに内容・日程・目標を設定することでコントロールをしやすくする目的があります。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第113問　ファストトラッキング技法</h3>
+                  <input type="checkbox" id="00113" class="cssacc" />
+
+                  <label for="00113"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成23年特別　問51</em3>
+                    <p id="feQuestion">ファストトラッキング技法を用いてスケジュールの短縮を行う。当初の計画は図1のとおりである。作業Eを作業E1，E2，E3に分けて，図2のように計画を変更すると，スケジュールは全体で何日短縮できるか。</p>
+                    <p><img src="gallery/techimg/20210516/ファストトラッキング技法.png" alt="ファストトラッキング技法"></p>
+                    
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>1</td>
+                        <td>2</td>
+                        <td>3</td>
+                        <td>4</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00113a" class="cssacc" />
+
+                      <label for="00113a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ア</td>
+                            </tr>
+                            <tr>
+                              <td>1</td>
+                            </tr>
+                          </table>
+                          <P>ファストトラッキング技法とは、開始当初の計画では直列に並んでいた作業を同時並行的に行い期間短縮を図る方法です。本来順番通りになされるべき作業を並行して行うことになるので、順序や前後関係がより複雑になるなどの弊害もあります。
+                            <br><br>
+                            fast＝早い，tracking＝「跡をたどること」なので、ファストトラッキング技法は「計画当初の作業予定を早くたどるための技法」と訳されます。
+                            <br><br>
+                            単純なアローダイアグラムなので、それぞれのパスの日数計算は省きます。<br>
+                            図１では、「A→B→E→H→I」がクリティカルパスとなり、全体の最短完了日数は、
+                            <br><br>
+                            5＋8＋9＋4＋2＝28(日)
+                            <br><br>
+                            図２では、図１でクリティカルパスにあった作業E(9日)はファストトラッキング技法によって分割され、E2(4日)→E3(2日)の6日に短縮されています。<br>
+                            このまま最短完了日数が3日短縮といいたいところですが、作業Eが短縮されたことによって最短完了日数が変化し、その結果、図２では「A→B→D→G」がクリティカルパスとなり最短完了日数は、
+                            <br><br>
+                            5＋8＋7＋7＝27(日)
+                            <br><br>
+                            となります。
+                            <p><img src="gallery/techimg/20210516/ファストトラッキング技法比較.png" alt="ファストトラッキング技法比較"></p>
+                          したがってファストトラッキング技法を適用した図２では、図１の計画より1日のスケジュール短縮が可能です。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第114問　</h3>
+                  <input type="checkbox" id="00114" class="cssacc" />
+
+                  <label for="00114"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion"></p>
+                    
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00114a" class="cssacc" />
+
+                      <label for="00114a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <P>
+                            <br><br>
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第115問　</h3>
+                  <input type="checkbox" id="00115" class="cssacc" />
+
+                  <label for="00115"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion"></p>
+                   
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00115a" class="cssacc" />
+
+                      <label for="00115a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <P>
+                            <br><br>
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第116問　</h3>
+                  <input type="checkbox" id="00116" class="cssacc" />
+
+                  <label for="00116"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion"></p>
+                    
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00116a" class="cssacc" />
+
+                      <label for="00116a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <P>
+                            <br><br>
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第1問　</h3>
+                  <input type="checkbox" id="00117" class="cssacc" />
+
+                  <label for="00117"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion"></p>
+                    
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00117a" class="cssacc" />
+
+                      <label for="00117a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <P>
+                            <br><br>
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第118問　</h3>
+                  <input type="checkbox" id="00118" class="cssacc" />
+
+                  <label for="00118"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion"></p>
+                    
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00118a" class="cssacc" />
+
+                      <label for="00118a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <P>
+                            <br><br>
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第119問　</h3>
+                  <input type="checkbox" id="00119" class="cssacc" />
+
+                  <label for="0019"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion"></p>
+                 
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00119a" class="cssacc" />
+
+                      <label for="00119a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <P>
+                            <br><br>
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第120問　</h3>
+                  <input type="checkbox" id="00120" class="cssacc" />
+
+                  <label for="00120"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion"></p>
+                    
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00120a" class="cssacc" />
+
+                      <label for="00120a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <P>
+                            <br><br>
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第121問　</h3>
+                  <input type="checkbox" id="00121" class="cssacc" />
+
+                  <label for="00121"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion"></p>
+                   
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00121a" class="cssacc" />
+
+                      <label for="00121a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <P>
+                            <br><br>
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第122問　</h3>
+                  <input type="checkbox" id="00122" class="cssacc" />
+
+                  <label for="00122"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion"></p>
+                    
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00122a" class="cssacc" />
+
+                      <label for="00122a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <P>
+                            <br><br>
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第123問　</h3>
+                  <input type="checkbox" id="00123" class="cssacc" />
+
+                  <label for="00123"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion"></p>
+                   
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00123a" class="cssacc" />
+
+                      <label for="00123a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <P>
+                            <br><br>
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第124問　</h3>
+                  <input type="checkbox" id="00124" class="cssacc" />
+
+                  <label for="00124"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion"></p>
+                    
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00124a" class="cssacc" />
+
+                      <label for="00124a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <P>
+                            <br><br>
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第125問　</h3>
+                  <input type="checkbox" id="00125" class="cssacc" />
+
+                  <label for="00125"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion"></p>
+                
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00125a" class="cssacc" />
+
+                      <label for="00125a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <P>
+                            <br><br>
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第126問　</h3>
+                  <input type="checkbox" id="00126" class="cssacc" />
+
+                  <label for="00126"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion"></p>
+                  
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00126a" class="cssacc" />
+
+                      <label for="00126a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <P>
+                            <br><br>
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第127問　</h3>
+                  <input type="checkbox" id="00127" class="cssacc" />
+
+                  <label for="00127"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion"></p>
+                   
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00127a" class="cssacc" />
+
+                      <label for="00127a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td></td>
+                            </tr>
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <P>
+                            <br><br>
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <br>
+              </div>
+            </div>
+          </div>
+        </div> -->
+
+
+
+
+        <!--<div id="20210515"></div>
+        <div class="schedule_wrapper">
+          <br>
+          <p id="avocado">2021年05月15日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
+          <h2 id="title">「午前試験　テクノロジ系　過去問⑩」</h2>
+
+
+
+          <div class="accbox">
+
+            <p><img src="gallery/techimg/20210515/feQuiz10.png" alt="基本情報処理技術者試験 過去問⑩"></p>
+
+
+
+            <div class="accbox">
+
+              <input type="checkbox" id="過去問10" class="cssacc" />
+
+              <label for="過去問10"><span><i class="fas fa-book"></i>READ</span></label>
+              <div class="accshow">
+
+                <div class="accbox">
+                  <h3>第91問　外部割込み</h3>
+                  <input type="checkbox" id="00091" class="cssacc" />
+
+                  <label for="00091"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成23年特別　問9</em3>
+                    <p id="feQuestion">外部割込みが発生するものはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>仮想記憶管理での，主記憶に存在しないページへのアクセス</td>
+                        <td>システムコール命令の実行</td>
+                        <td>ゼロによる除算</td>
+                        <td>入出力動作の終了</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00091a" class="cssacc" />
+
+                      <label for="00091a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>エ</td>
+                            </tr>
+                            <tr>
+                              <td>入出力動作の終了</td>
+                            </tr>
+                          </table>
+                          <P>割込み(Interrupt)は、すぐに対処しなくてはならない問題などがシステムに生じたときに、実行中のプログラムの処理をいったん停止し、優先的に事象の解決を図ることを可能にする仕組みです。
+                            <br><br>
+                            割込みは、実行中のプログラムが原因でCPU内部で発生する内部割込みと、それ以外のCPU外部で発生する外部割込みに分類できます。
+                            <br><br>
+                            「内部割込み」<br>
+                            実行中のプログラムが原因で起こる割込み<br>
+                            ex.プログラム割込み，SVC割込み, ページフォールト
+                            <br><br>
+                            「外部割り込み」<br>
+                            内部割込み以外の原因で起こる割込み<br>
+                            ex.タイマ割込み，コンソール割込み，入出力割込み，機械チェック割込み<br><br>
+                            したがって外部割込みに分類されるのは「入出力動作の終了」のみ，その他の選択肢は内部割込みに分類されます。
+
+
+
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第92問　トランスポート層</h3>
+                  <input type="checkbox" id="00092" class="cssacc" />
+
+                  <label for="00092"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">トランスポート層のプロトコルであり，信頼性よりもリアルタイム性が重視される場合に用いられるものはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>HTTP</td>
+                        <td>IP</td>
+                        <td>TCP</td>
+                        <td>UDP</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00092a" class="cssacc" />
+
+                      <label for="00092a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>エ</td>
+                            </tr>
+                            <tr>
+                              <td>UDP</td>
+                            </tr>
+                          </table>
+                          <P>UDP(User Datagram Protocol)は、TCP/IPの通信処理で使われる伝送制御プロトコルのひとつでTCPと同じトランスポート層に位置します。
+                          <br><br>
+                          TCPでは信頼性を担保するために、コネクション確立、再送処理、輻輳処理などの様々な仕組みが取り入れられていますが、その分だけ通信のオーバヘッドは増加してしまいます。
+                          <br><br>
+                          UDPは、TCPから信頼性確保を取り除いたコネクションレス型の通信を実現するプロトコルです。ヘッダ構成もTCPと比べて簡素化されデータ比率が高められるようになっています。UDPは、リアルタイム性が重視される音声や画像のストリーム配信、および、DNS、DHCP、NTPなどのアプリケーション層プロトコルで用いられています。
+                            <br><br>
+                            TCP…信頼性重視<br>
+                            UDP…通信効率、リアルタイム性重視
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第93問　画像のデータ量</h3>
+                  <input type="checkbox" id="00093" class="cssacc" />
+
+                  <label for="00093"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">1画面が30万画素で，256色を同時に表示できるPCの画面全体を使って，30フレーム／秒のカラー動画を再生表示させる。このとき，1分間に表示される画像のデータ量(Mバイト)に最も近いものはどれか。ここで，データは圧縮しないものとする。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>77</td>
+                        <td>270</td>
+                        <td>540</td>
+                        <td>2,300</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00093a" class="cssacc" />
+
+                      <label for="00093a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ウ</td>
+                            </tr>
+                            <tr>
+                              <td>540</td>
+                            </tr>
+                          </table>
+                          <P>まず1フレームあたりのデータ量を計算します。256色を表現するのには8ビットつまり1バイトが必要28=256)なので、30万画素では30万バイトになります。
+                          <br><br>
+                          次に1分間のフレーム数ですが、30フレーム／秒なので1分間(60秒)では、<br>
+                          <br>
+                          30フレーム×60秒＝1,800フレーム<br>
+                          <br><br>
+                          つまり、1分間のデータ量は、<br>
+                          <br><br>
+                          30万バイト×1,800フレーム＝54,000万バイト<br>
+                          <br><br>
+                          単位をMバイトに直して、<br>
+                          <br><br>
+                          54,000万バイト＝540,000,000バイト＝540Mバイト<br>
+                          <br><br>
+                          正解は540Mバイトになります。<br>
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第94問　</h3>
+                  <input type="checkbox" id="00094" class="cssacc" />
+
+                  <label for="00094"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">コンピュータシステムの高信頼化技術は，目標とする特性からRASISと呼ばれる。RASISを構成する五つの要素はどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>信頼性，可用性，保守性，保全性，機密性</td>
+                        <td>信頼性，経済性，拡張性，再現性，操作性</td>
+                        <td>正確性，可用性，拡張性，保全性，機密性</td>
+                        <td>正確性，経済性，保守性，再現性，操作性</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00094a" class="cssacc" />
+
+                      <label for="00094a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ア</td>
+                            </tr>
+                            <tr>
+                              <td>信頼性，可用性，保守性，保全性，機密性</td>
+                            </tr>
+                          </table>
+                          <P>RASIS(レイシス)は、システムの信頼性を評価する5つの概念の頭文字を合わせた言葉です。<br><br>
+                          Reliability … 信頼性<br>
+                          故障を起こしにくさの度合い。評価指標としてMTBF(平均故障間隔)が用いられる<br><br>
+                          Availability … 可用性<br>
+                          必要な時に必要なだけシステムが使用可能状態である度合い。評価指標として稼働率が用いられる<br><br>
+                          Serviceability … 保守性<br>
+                          システム障害の時の修理しやすさの度合い。評価指標としてMTTR(平均修復時間)が用いられる<br><br>
+                          Integrity … 保全性・完全性<br>
+                          保存されているデータの完全であるかどうかの度合い<br><br>
+                          Security … 安全性・機密性<br>
+                          保存されているデータが、災害や障害などに対してもつ耐性の度合い
+                          <br><br>
+                          したがって「ア」の組合せが適切です。
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第95問　トップダウン方式</h3>
+                  <input type="checkbox" id="00095" class="cssacc" />
+
+                  <label for="00095"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">トップダウン方式で結合テストを行うとき，特に必要となるものはどれか。
+                    </p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>エミュレータ</td>
+                        <td>スタブ</td>
+                        <td>デバッガ</td>
+                        <td>ドライバ</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00095a" class="cssacc" />
+
+                      <label for="00095a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>イ</td>
+                            </tr>
+                            <tr>
+                              <td>スタブ</td>
+                            </tr>
+                          </table>
+                          <P>トップダウンテストは、上位のモジュールから下位のモジュールへと順に結合しながらテストをしていく手法です。上位のモジュールから先に検証していくので、未完成の下位モジュールの代わりに上位モジュールからの呼び出しに対して適切な値を返す役割を持つスタブが必要になります。
+                          <br><br>
+                          逆に下位モジュールから検証を開始するボトムアップテストでは、未完成の上位モジュールの代わりとなるドライバが必要となります。
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第96問　ブルートフォース攻撃</h3>
+                  <input type="checkbox" id="00096" class="cssacc" />
+
+                  <label for="00096"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成29年春期　問38</em3>
+                    <p id="feQuestion">共通鍵暗号の鍵を見つけ出そうとする，ブルートフォース攻撃に該当するものはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>一組みの平文と暗号文が与えられたとき，全ての鍵候補を一つずつ試して鍵を見つけ出す。</td>
+                        <td>平文と暗号文と鍵の関係を表す代数式を手掛かりにして鍵を見つけ出す。</td>
+                        <td>平文の一部分の情報と，暗号文の一部分の情報との間の統計的相関を手掛かりにして鍵を見つけ出す。</td>
+                        <td>平文を一定量変化させたときの暗号文の変化から鍵を見つけ出す。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00096a" class="cssacc" />
+
+                      <label for="00096a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ア</td>
+                            </tr>
+                            <tr>
+                              <td>一組みの平文と暗号文が与えられたとき，全ての鍵候補を一つずつ試して鍵を見つけ出す。</td>
+                            </tr>
+                          </table>
+                          <P>ブルートフォース攻撃は、特定の文字数、および、文字種で設定される可能性のあるすべての組合せを試すことで不正ログインやパスワード解析を試みる攻撃手法で、「総当たり攻撃」とも呼ばれます。パスワード長が短く、使用可能な文字種が少ない場合には、この手法によって破られる可能性が高くなってしまいます。
+                            <br><br>
+                            オンライン上での攻撃では数回の試行でロックアウトになってしまうことが多いため、主にオフライン環境で使用される解読手法です。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第97問　進法</h3>
+                  <input type="checkbox" id="00097" class="cssacc" />
+
+                  <label for="00097"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成18年春期　問2</em3>
+                    <p id="feQuestion">次の計算は何進法で成立するか。
+                    <br><br>
+                    　131－45＝53</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>6</td>
+                        <td>7</td>
+                        <td>8</td>
+                        <td>9</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00097a" class="cssacc" />
+
+                      <label for="00097a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>イ</td>
+                            </tr>
+                            <tr>
+                              <td>7</td>
+                            </tr>
+                          </table>
+                          <P>10進法の引き算と同様に一番小さい位から計算していきます。<br>1－5はできないので、ひとつ上の位から1を借りて11－5となります。この計算結果は3なので次の関係が成り立ちます。
+                            <br><br>
+                            　11－5＝3<br>
+                            →n＋1－5＝3<br>
+                            　n＝7<br>
+                            上の位から借りる値が7の時に式が成立するので、7進法で成立する式とわかります。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第98問　外部割込み</h3>
+                  <input type="checkbox" id="00098" class="cssacc" />
+
+                  <label for="00098"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成17年秋期　問20</em3>
+                    <p id="feQuestion">外部割込みに分類されるのはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>主記憶に存在しないページをアクセスしようとしたときに発生する割込み</td>
+                        <td>入出力要求など，OSに対してサービスを依頼したときに発生する割込み</td>
+                        <td>ハードウェアが異常を検知したときに発生する割込み</td>
+                        <td>浮動小数点演算でオーバフローが起こったときに発生する割込み</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00098a" class="cssacc" />
+
+                      <label for="00098a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ウ</td>
+                            </tr>
+                            <tr>
+                              <td>ハードウェアが異常を検知したときに発生する割込み</td>
+                            </tr>
+                          </table>
+                          <P>割込み(Interrupt)は、すぐに対処しなくてはならない問題などがシステムに生じたときに、実行中のプログラムの処理をいったん停止し、優先的に事象の解決を図ることを可能にする仕組みです。
+                          <br><br>
+                          割込みは、実行中のプログラムが原因でCPU内部で発生する内部割込みと、それ以外のCPU外部で発生する外部割込みに分類することができます。<br><br>
+                          「内部割込み」<br>
+                          実行中のプログラムが原因で起こる割込み<br>
+                          0除算やオーバフローなどのプログラム中での不正な処理や、ページフォールトの発生、入出力処理などの機能をシステムコールをしてOSに依頼するためのSVC(スーパバイザコール)割込みなどがある。<br><br>
+                          「外部割込み」<br>
+                          内部割込み以外の原因で起こる割込み<br>
+                          タイマ割込み、入力装置の操作などによって発生する入出力割込み、ハードウェアに障害が発生したときの機械チェック割込みなどがある。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第99問　</h3>
+                  <input type="checkbox" id="00099" class="cssacc" />
+
+                  <label for="00099"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">コンパイラにおける最適化の説明として，適切なものはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>オブジェクトコードを生成する代わりに，インタプリタ用の中間コードを生成する。</td>
+                        <td>コンパイルを実施するコンピュータとは異なるアーキテクチャをもったコンピュータで動作するオブジェクトコードを生成する。</td>
+                        <td>プログラムコードを解析して，実行時の処理効率を高めたオブジェクトコードを生成する。</td>
+                        <td>プログラムの実行時に，呼び出されたサブプログラム名やある時点での変数の内容を表示させるようなオブジェクトコードを生成する。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00099a" class="cssacc" />
+
+                      <label for="00099a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ウ</td>
+                            </tr>
+                            <tr>
+                              <td>プログラムコードを解析して，実行時の処理効率を高めたオブジェクトコードを生成する。</td>
+                            </tr>
+                          </table>
+                          <P>コンパイラは、高水準語で記述されたソースコードを機械語などに一括して翻訳するソフトウェアです。
+                            <br><br>
+                            コンパイラにおける最適化とは、そのプログラムが動作するコンピュータの設計・仕様に合わせて実行速度が速くなるような機械語に変換することをいい「不要な変数の省略」「関数のインライン展開」「レジスタ割当て」などの手法を用いることで、与えられたソースコードを最適化された機械語に変換を行います。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第100問　</h3>
+                  <input type="checkbox" id="00100" class="cssacc" />
+
+                  <label for="00100"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成18年春期　問58</em3>
+                    <p id="feQuestion">項目a～fからなるレコードがある。このレコードの主キーは，項目aとbを組み合わせたものである。また，項目fは項目bによって特定できる。このレコードを第3正規形にしたものはどれか。</p>
+                    <p><img src="gallery/techimg/20210515/レコード図.png" alt=""></p>
+
+
+                    <h4>選択肢</h4>
+                    
+                    <p><img src="gallery/techimg/20210515/レコード選択肢.png" alt=""></p>
+                        
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00100a" class="cssacc" />
+
+                      <label for="00100a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>イ</td>
+                            </tr>
+                          </table>
+                          <P>関係データベースの正規化は次のように3段階に分けて行います。
+                          <br><br>
+                          第１正規化<br>
+                          繰り返し項目をなくす
+                          <br><br>
+                          第２正規化<br>
+                          主キーの一部によって一意に決まる項目を別表に移す
+                          <br><br>
+                          第３正規化<br>
+                          主キー以外の項目によって一意に決まる項目を別表に移す
+                          <br><br>
+                          図のレコードは、繰り返し項目がないのですでに第１正規形になっています。<br>
+                          次に第２正規形にするには、主キーの一部である項目bによって一意に決まる項目fを別表に移す作業を行います。<br>
+                          最後に第３正規形ですが、このレコードには主キー以外の項目によって一意に決める項目がないため、この段階で第３正規形の条件を満たしています。<br><br>
+                          したがって第３正規形は、{b，f}から成る表と元のレコードから項目fを取り除いた{a，b，c，d，e}の2つで構成されます。
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <br>
+              </div>
+            </div>
+          </div>
+        </div> -->
+
+
+
+
+
+        <!--<div id="20210514"></div>
+        <div class="schedule_wrapper">
+          <br>
+          <p id="avocado">2021年05月14日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
           <h2 id="title">「午前試験　テクノロジ系　過去問⑨」</h2>
 
 
@@ -1466,7 +3711,7 @@
 
 
 
-       <!--<div id="20210512"></div>
+        <div id="20210512"></div>
         <div class="schedule_wrapper">
           <br>
           <p id="avocado">2021年05月12日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
@@ -2117,10 +4362,10 @@
               </div>
             </div>
           </div>
-        </div> -->
+        </div>
 
 
-        <!-- <div id="20210511"></div>
+        <div id="20210511"></div>
         <div class="schedule_wrapper">
           <br>
           <p id="avocado">2021年05月11日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
@@ -2434,9 +4679,9 @@
                             </tr>
                           </table>
                           <P>参照制約は、外部キーを持つ表にレコードを追加する場合に、その外部キー列の値は参照先の表の主キーとして存在するものでなければならない、また、別表から主キーの値を参照されている行は削除することができないという制限を課す制約です。
-                          <br><br>
-                          参照制約は、関係データベースの整合性を保つために設定され、その指定には次のように"FOREIGN KEY"と"REFERENCES"が使われます。
-                          <br>
+                            <br><br>
+                            参照制約は、関係データベースの整合性を保つために設定され、その指定には次のように"FOREIGN KEY"と"REFERENCES"が使われます。
+                            <br>
                           <pre><code>FOREIGN KEY 列リスト REFERENCES 親テーブル(列リスト)</code></pre>
                           <br>
                           したがって正解は「ウ」です。
@@ -2494,17 +4739,17 @@
                             </tr>
                           </table>
                           <P>
-                              1．[状態S1，入力t1] 空欄なので変化しません。<br>
-                              2．[状態S1，入力t2] S3に遷移します。<br>
-                              3．[状態S3，入力t3] S4に遷移します。<br>
-                              4．[状態S4，入力t4] S2に遷移します。<br>
-                              5．[状態S2，入力t1] S3に遷移します。<br>
-                              6. [状態S3，入力t2] S2に遷移します。<br>
-                              7．[状態S2，入力t3] 空欄なので変化しません。<br>
-                              8．[状態S2，入力t4] S1に遷移します。<br>
-                              <br><br>
-                              <p><img src="gallery/techimg/20210511/状態遷移表answer.jpg" alt="状態遷移表答え"></p>
-                              したがって最後の状態は「S1」になります。
+                            1．[状態S1，入力t1] 空欄なので変化しません。<br>
+                            2．[状態S1，入力t2] S3に遷移します。<br>
+                            3．[状態S3，入力t3] S4に遷移します。<br>
+                            4．[状態S4，入力t4] S2に遷移します。<br>
+                            5．[状態S2，入力t1] S3に遷移します。<br>
+                            6. [状態S3，入力t2] S2に遷移します。<br>
+                            7．[状態S2，入力t3] 空欄なので変化しません。<br>
+                            8．[状態S2，入力t4] S1に遷移します。<br>
+                            <br><br>
+                          <p><img src="gallery/techimg/20210511/状態遷移表answer.jpg" alt="状態遷移表答え"></p>
+                          したがって最後の状態は「S1」になります。
                           </p>
                           <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
                         </div>
@@ -2558,9 +4803,9 @@
                             </tr>
                           </table>
                           <P>デバイスドライバ(Device Driver)は、コンピュータに接続されてる周辺機器の管理・制御をするための抽象化したインタフェースを、他のアプリケーションソフトウェアに対して提供ためのソフトウェア／プログラムです。単にドライバともいいます。
-                          アプリケーションは、デバイスドライバを介してプログラム上からハードウェアを操作できるようになっています。
-                          <br><br>
-                          マウスやキーボード、ディスプレイ及びUSB接続などの一般的に使用される周辺機器についてはOSに標準でデバイスドライバが組み込まれていますが、その他の周辺機器を接続し使用する際には機種にあったドライバのインストールが必要となります。現在では、プラグアンドプレイによるインストールが一般化しているため、昔と比較するとインストールの煩雑さが軽減されています。
+                            アプリケーションは、デバイスドライバを介してプログラム上からハードウェアを操作できるようになっています。
+                            <br><br>
+                            マウスやキーボード、ディスプレイ及びUSB接続などの一般的に使用される周辺機器についてはOSに標準でデバイスドライバが組み込まれていますが、その他の周辺機器を接続し使用する際には機種にあったドライバのインストールが必要となります。現在では、プラグアンドプレイによるインストールが一般化しているため、昔と比較するとインストールの煩雑さが軽減されています。
                           </p>
                           <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
                         </div>
@@ -2614,8 +4859,8 @@
                             </tr>
                           </table>
                           <P>スループット(Throughput)は、システムが単位時間当たりに処理できる仕事量を表す指標で、利用者側から見た、システム性能の評価基準となります。
-                          <br><br>
-                          ア、MIPS(Million Instructions Per Second)は、CPUが1秒間に実行できる命令数を百万回単位で表した指標です。
+                            <br><br>
+                            ア、MIPS(Million Instructions Per Second)は、CPUが1秒間に実行できる命令数を百万回単位で表した指標です。
                           </p>
                           <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
                         </div>
@@ -2669,11 +4914,11 @@
                             </tr>
                           </table>
                           <P>5本のくじから2本のくじを選択する組合せ数は、組合せ数を求める公式を用いて次のように求めることができます。<br><br>
-                          <em3>5C2＝5・4／2・1＝10通り</em3>
-                          <br><br>
-                          2本の当たりくじをの両方を選択する組合せ数は，元々2本しか存在しない当たりくじをすべて引くので1通りです。したがって、くじを同時に2本引いたとき、2本とも当たりとなる確率は1／10になります。
-                          <br><br>
-                          2/5(当たりの確立) × 4/1(+もう一つ当たりになる確立) = 2/20 = 1/10
+                            <em3>5C2＝5・4／2・1＝10通り</em3>
+                            <br><br>
+                            2本の当たりくじをの両方を選択する組合せ数は，元々2本しか存在しない当たりくじをすべて引くので1通りです。したがって、くじを同時に2本引いたとき、2本とも当たりとなる確率は1／10になります。
+                            <br><br>
+                            2/5(当たりの確立) × 4/1(+もう一つ当たりになる確立) = 2/20 = 1/10
                           </p>
                           <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
                         </div>
@@ -2727,34 +4972,34 @@
                             </tr>
                           </table>
                           <P>複数機器で構成されているシステムの全体を計算するには、直列接続の稼働率および並列接続の稼働率を求める公式を使います。
-                          <br><br>
-                          「直列接続の稼働率」<br>
-                          <em3>
-                          稼働率がR1，R2である2つの機器の両方が稼働していなければシステムが停止してしまう場合の稼働率<br>
-                          ”R1×R2”
-                          </em3><br>
-                          「並列接続の稼働率」<br>
-                         <em3>
-                         稼働率がR1，R2である2つの機器の、少なくとも一方が稼働していればシステムとして稼働が継続する場合の稼働率<br>
-                         ”1－(1－R1)(1－R2)”
-                         </em3><br>
+                            <br><br>
+                            「直列接続の稼働率」<br>
+                            <em3>
+                              稼働率がR1，R2である2つの機器の両方が稼働していなければシステムが停止してしまう場合の稼働率<br>
+                              ”R1×R2”
+                            </em3><br>
+                            「並列接続の稼働率」<br>
+                            <em3>
+                              稼働率がR1，R2である2つの機器の、少なくとも一方が稼働していればシステムとして稼働が継続する場合の稼働率<br>
+                              ”1－(1－R1)(1－R2)”
+                            </em3><br>
 
-                         設問のシステム構成を整理すると、最低サーバ・クライアント・プリンタの各1台が稼働していれば、システムとしては稼働し続けられることがわかります。この様子を直列・並列が直感的にわかるように単純化して図にすると次のようになります。
-                         <br><br>
-                         <p><img src="gallery/techimg/20210511/サーバ関係図.jpg" alt="サーバ、クライアント、プリンタ関係図"></p>
-                         並列部分であるクライアント3台部分の稼働率は、<br><br>
-                         1－(1－b)(1－b)(1－b)＝1－(1－b)³
-                        <br><br>
-                        同様に並列部分であるプリンタ2台部分の稼働率は、
-                        <br><br>
-                        1－(1－c)(1－c)＝1－(1－c)²
-                        <br><br>
-                        と表せます。サーバ・クライアント・プリンタのそれぞれの部分は直列接続になるのでシステム全体としての稼働率は、
-                        <br><br>
-                        a×(1－(1－b)³)×(1－(1－c)²)<br>
-                        ＝a(1－(1－b)³)(1－(1－c)²)
-                        <br><br>
-                        になります。
+                            設問のシステム構成を整理すると、最低サーバ・クライアント・プリンタの各1台が稼働していれば、システムとしては稼働し続けられることがわかります。この様子を直列・並列が直感的にわかるように単純化して図にすると次のようになります。
+                            <br><br>
+                          <p><img src="gallery/techimg/20210511/サーバ関係図.jpg" alt="サーバ、クライアント、プリンタ関係図"></p>
+                          並列部分であるクライアント3台部分の稼働率は、<br><br>
+                          1－(1－b)(1－b)(1－b)＝1－(1－b)³
+                          <br><br>
+                          同様に並列部分であるプリンタ2台部分の稼働率は、
+                          <br><br>
+                          1－(1－c)(1－c)＝1－(1－c)²
+                          <br><br>
+                          と表せます。サーバ・クライアント・プリンタのそれぞれの部分は直列接続になるのでシステム全体としての稼働率は、
+                          <br><br>
+                          a×(1－(1－b)³)×(1－(1－c)²)<br>
+                          ＝a(1－(1－b)³)(1－(1－c)²)
+                          <br><br>
+                          になります。
                           </p>
                           <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
                         </div>
@@ -2767,7 +5012,7 @@
               </div>
             </div>
           </div>
-        </div> -->
+        </div>
 
 
         <div id="20210510"></div>
@@ -2896,7 +5141,7 @@
                               <td>NTP</td>
                             </tr>
                           </table>
-                          <P>NTP(Network Time Protocol)は、ネットワークに接続されている機器において、機器が持つ時計を正しい時刻(協定世界時:UTC)へ同期するための通信プロトコルです。メールの送受信時刻やログの取得時間が狂ってしまうこともあるため各機器がもつ時計を同期させておく必要があります。                 
+                          <P>NTP(Network Time Protocol)は、ネットワークに接続されている機器において、機器が持つ時計を正しい時刻(協定世界時:UTC)へ同期するための通信プロトコルです。メールの送受信時刻やログの取得時間が狂ってしまうこともあるため各機器がもつ時計を同期させておく必要があります。
                           </p>
                           <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
                         </div>
@@ -2954,13 +5199,13 @@
                             このうちソフトウェア方式設計で行われる作業項目は次の7点です。
                             <br><br>
                             <em3>
-                            1.ソフトウェア構造とコンポーネントの方式設計<br>
-                            2.外部，コンポーネント間の各インターフェースの方式設計<br>
-                            3.データベースの最上位レベルでの設計<br>
-                            4.利用者文書(暫定版)の作成<br>
-                            5.ソフトウェア結合のためのテスト要求事項の定義<br>
-                            6.ソフトウェア方式設計の評価<br>
-                            7.ソフトウェア方式設計の共同レビューの実施<br>
+                              1.ソフトウェア構造とコンポーネントの方式設計<br>
+                              2.外部，コンポーネント間の各インターフェースの方式設計<br>
+                              3.データベースの最上位レベルでの設計<br>
+                              4.利用者文書(暫定版)の作成<br>
+                              5.ソフトウェア結合のためのテスト要求事項の定義<br>
+                              6.ソフトウェア方式設計の評価<br>
+                              7.ソフトウェア方式設計の共同レビューの実施<br>
                             </em3>
 
                           </p>
@@ -3066,15 +5311,15 @@
                             </tr>
                           </table>
                           <P>プルダウンメニューは、ドロップダウンリストとも呼ばれ、決められた複数の選択肢の中からユーザが項目を選択するためのGUI部品の1つです。
-                          項目をクリックすると選択可能な項目の一覧が下に向かって"すだれ"のように表示され、ユーザはその中から適当な項目を選択できます。
+                            項目をクリックすると選択可能な項目の一覧が下に向かって"すだれ"のように表示され、ユーザはその中から適当な項目を選択できます。
                             <br><br>
                             プルダウンメニューは以下の条件を満たす場合に利用されます。
                             <br><br>
                             <em3>
-                            ・選択肢が少ない<br>
-                            ・直接入力するより素早く入力できる<br>
-                            ・ユーザが全ての項目の内容を読まなくても選択できる<br>
-                            ・複数の項目を選択することがない<br>
+                              ・選択肢が少ない<br>
+                              ・直接入力するより素早く入力できる<br>
+                              ・ユーザが全ての項目の内容を読まなくても選択できる<br>
+                              ・複数の項目を選択することがない<br>
                             </em3>
                             「商品番号」「商品名」「価格」は商品ごとに異なるので項目数が200近くになってしまいます。あまりに多い項目が表示されるとユーザは選択項目を探すのに手間取ったり、リストの大きさに混乱したりしてしまうため、これらの項目を選択させるのにプルダウンメニューは適していません。唯一、選択項目の文字長が短く、区分が5つと限られている「商品区分」が利用するのに適しています。
 
@@ -3131,18 +5376,18 @@
                             </tr>
                           </table>
                           <P>固定小数点数表現で負数を表現する場合には、最上位ビットを符号ビット(非負:0，負:1)とした2の補数表現が用いられます。nビットで表現できる範囲は「－2n-1～2n-1－1」となっていて、これにn=16を当てはめると、16ビットの符号付き固定小数点数では－32768～32767の範囲を表現できることになります。<br>
-                          最小値となる－32768の絶対値32768を2進数で表現すると「1000 0000 0000 0000」でこれを2の補数表現すると次のようになります。
+                            最小値となる－32768の絶対値32768を2進数で表現すると「1000 0000 0000 0000」でこれを2の補数表現すると次のようになります。
                             <br><br>
                             <em3>
-                            1000 0000 0000 0000<br>
-                            ↓(全ビットを反転)<br>
-                            0111 1111 1111 1111<br>
-                            ↓(1を加算)<br>
-                            1000 0000 0000 0000<br>
+                              1000 0000 0000 0000<br>
+                              ↓(全ビットを反転)<br>
+                              0111 1111 1111 1111<br>
+                              ↓(1を加算)<br>
+                              1000 0000 0000 0000<br>
                             </em3>
-                          <br><br>
-                          元のビット列と同じですが－32768を2の補数表現で表すと「1000 0000 0000 0000」になることがわかります。これを16進数に変換した「8000」が適切な答えになります。
-                      
+                            <br><br>
+                            元のビット列と同じですが－32768を2の補数表現で表すと「1000 0000 0000 0000」になることがわかります。これを16進数に変換した「8000」が適切な答えになります。
+
                           </p>
                           <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
                         </div>
@@ -3252,28 +5497,28 @@
                             </tr>
                           </table>
                           <P>スタックは、データ追加のときは最後尾にデータを追加し、データ取り出しのときはデータの最後尾から取り出す後入れ先出し(LIFO:Last-in First-out)のデータ構造です。
-                          スタックでは、データを追加するPUSH命令、データを取り出すPOP命令を使用してデータ操作を行います。
+                            スタックでは、データを追加するPUSH命令、データを取り出すPOP命令を使用してデータ操作を行います。
                             <br><br>
                             まず、スタック構造の動作を確認する意味を含めて1つの場合で試してみます。※[]の中を各スタックの内容として考えてください。一番右が最後尾のデータです。
                             <br><br>
                             <em3>
-                            push A：[A]
-                            push C：[A，C]
-                            push K：[A，C，K]
-                            push S：[A，C，K，S]
-                            pop 　：[A，C，K] → Sを出力
-                            push T：[A，C，K，T]
-                            pop　 ：[A，C，K] → Tを出力
-                            pop 　：[A，C，K] → Kを出力 //×
+                              push A：[A]
+                              push C：[A，C]
+                              push K：[A，C，K]
+                              push S：[A，C，K，S]
+                              pop 　：[A，C，K] → Sを出力
+                              push T：[A，C，K，T]
+                              pop　 ：[A，C，K] → Tを出力
+                              pop 　：[A，C，K] → Kを出力 //×
                             </em3>
                             <br><br>
                             STに続いてAが出力できないので無理です。<br>
                             次にスタックを2つ用意した場合を考えてみます。<br><br>
                             <em3>
-                            push A：[A]　[]
-                            push C：[A]　[C]
-                            push K：[A，K]　[C] //×
-                            …
+                              push A：[A]　[]
+                              push C：[A]　[C]
+                              push K：[A，K]　[C] //×
+                              …
                             </em3>
                             <br><br>
                             この時点でKをどちらに積んだとしてもAを先に出力することができなくなってしまうので目的の順番で出力できません。
@@ -3281,16 +5526,16 @@
                             スタックを3つ用意すると、CKよりも先に出力したいAを退避させておくことができます。
                             <br><br>
                             <em3>
-                            push A：[A]　[]　[]
-                            push C：[A]　[C]　[]
-                            push K：[A]　[C]　[K]
-                            push S：[A]　[C]　[K，S]
-                            pop 　：[A]　[C]　[K] → Sを出力
-                            push T：[A]　[C]　[K，T]
-                            pop 　：[A]　[C]　[K] → Tを出力
-                            pop 　：[]　[C]　[K] → Aを出力
-                            pop 　：[]　[]　[K] → Cを出力
-                            pop 　：[]　[]　[] → Kを出力
+                              push A：[A]　[]　[]
+                              push C：[A]　[C]　[]
+                              push K：[A]　[C]　[K]
+                              push S：[A]　[C]　[K，S]
+                              pop 　：[A]　[C]　[K] → Sを出力
+                              push T：[A]　[C]　[K，T]
+                              pop 　：[A]　[C]　[K] → Tを出力
+                              pop 　：[]　[C]　[K] → Aを出力
+                              pop 　：[]　[]　[K] → Cを出力
+                              pop 　：[]　[]　[] → Kを出力
                             </em3><br><br>
                             したがって、S，T，A，C，Kという順に文字を出力するためには、最低限スタックが3個必要です。
                           </p>
@@ -3401,18 +5646,18 @@
                             </tr>
                           </table>
                           <P>2分探索法は、要素が昇順または降順に整列された集合に対して、探索範囲を1／2に狭めて探索することを再帰的に繰り返して目的のデータを探索するアルゴリズムです。
-                          <br><br>
-                          2分探索法では、データの個数 n と計算量 x の関係は下表のようになっています。
+                            <br><br>
+                            2分探索法では、データの個数 n と計算量 x の関係は下表のようになっています。
                             <br><br>
                             <img src="gallery/techimg/20210510/2分探索法.jpg" alt="2分探索法">
-                            この関係を立式すると                     
+                            この関係を立式すると
                             <em3>
-                            n＝2x<br>
-                            2を底として対数(log)をとると、<br>
-                            log2n＝x<br>
+                              n＝2x<br>
+                              2を底として対数(log)をとると、<br>
+                              log2n＝x<br>
                             </em3>
                             つまり計算量のオーダは O(log n) になります。<br>
-                            
+
                           </p>
                           <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
                         </div>
@@ -3430,7 +5675,7 @@
 
 
 
-       <div id="20210509"></div>
+        <div id="20210509"></div>
         <div class="schedule_wrapper">
           <br>
           <p id="avocado">2021年05月09日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
@@ -3447,657 +5692,657 @@
 
               <label for="00021"><span><i class="fas fa-book"></i>READ</span></label>
               <div class="accshow">
-              <div class="accbox">
-            <h3>第31問　MIPS</h3>
+                <div class="accbox">
+                  <h3>第31問　MIPS</h3>
 
-            <input type="checkbox" id="0031" class="cssacc" />
+                  <input type="checkbox" id="0031" class="cssacc" />
 
-            <label for="0031"><span><i class="fas fa-book"></i>READ</span></label>
-            <div class="accshow">
+                  <label for="0031"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
 
-              <em3>平成28年春期　問32</em3>
-              <p id="feQuestion">複数のLANを接続するために用いる装置で，OSI基本参照モデルのデータリンク層のプロトコル情報に基づいてデータを中継する装置はどれか。</p>
+                    <em3>平成28年春期　問32</em3>
+                    <p id="feQuestion">複数のLANを接続するために用いる装置で，OSI基本参照モデルのデータリンク層のプロトコル情報に基づいてデータを中継する装置はどれか。</p>
 
-              <h4>選択肢</h4>
-              <table id="feSelection">
-                <tr>
-                  <td>ア</td>
-                  <td>イ</td>
-                  <td>ウ</td>
-                  <td>エ</td>
-                </tr>
-                <tr>
-                  <td>ゲートウェイ</td>
-                  <td>ブリッジ</td>
-                  <td>リピータ</td>
-                  <td>ルータ</td>
-                </tr>
-              </table>
-
-              <div id="answer">
-                答え
-                <input type="checkbox" id="0031a" class="cssacc" />
-
-                <label for="0031a"><span>READ</span></label>
-                <div class="accshow">
-
-                  <h4>正解</h4>
-
-                  <div class="accbox">
-                    <table id="feSelection">
-                      <tr>
-                        <td>イ</td>
-                      </tr>
-
-                      <tr>
-                        <td>ブリッジ</td>
-                      </tr>
-                    </table>
-
-                    <P>ブリッジは、OSI基本参照モデルの第２層であるデータリンク層で動作し、ネットワークを流れるMACフレーム(イーサネットフレーム)内のヘッダ情報に基づいて通信を中継する機器です。MACフレームを受け取ったブリッジは、ヘッダ情報内のMACアドレスと自身がもつMACアドレステーブルに基づき、宛先が存在するポートのみにMACフレームを送出します。
-                    </p>
-
-                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="accbox">
-            <h3>第32問　剰余</h3>
-            <input type="checkbox" id="00032" class="cssacc" />
-
-            <label for="00032"><span><i class="fas fa-book"></i>READ</span></label>
-            <div class="accshow">
-
-              <em3>平成17年秋期　問4</em3>
-              <p id="feQuestion">pを2以上の整数とする。任意の整数nに対して，
-                <br><br>n＝kp＋m (0≦m＜p)<br><br>
-                を満たす整数kとmが一意に存在する。このmをnのpによる剰余といい，n mod pで表す。(－10000) mod 32768に等しくなるものはどれか。
-              </p>
-
-
-              <h4>選択肢</h4>
-              <table id="feSelection">
-                <tr>
-                  <td>ア</td>
-                  <td>イ</td>
-                  <td>ウ</td>
-                  <td>エ</td>
-                </tr>
-                <tr>
-                  <td>－(10000 mod 32768)</td>
-                  <td>(－22768) mod 32768</td>
-                  <td>10000 mod 32768</td>
-                  <td>22768 mod 32768</td>
-                </tr>
-              </table>
-
-              <div id="answer">
-                答え
-                <input type="checkbox" id="00032a" class="cssacc" />
-
-                <label for="00032a"><span>READ</span></label>
-                <div class="accshow">
-
-                  <h4>正解</h4>
-                  <div class="accbox">
-                    <table id="feSelection">
-                      <tr>
-                        <td>エ</td>
-                      </tr>
-                      <tr>
-                        <td>22768 mod 32768</td>
-                      </tr>
-                    </table>
-                    <P>文字式 n＝kp＋m (0≦m＜p) において、nは除算の割られる数、pは割る数、kは商、mは剰余を表しています。
-                      <br><br>
-                      n＝kp＋m の式に、 (－10000) mod 32768 の n=10000、p=32768 を代入すると、m（剰余）は次のように表せます。
-                      <br><br>
-                      －10000＝32768k＋m<br>
-                      m＝－32768k－10000
-                      <br><br>
-                      剰余であるmは、0以上p未満（0≦m＜p）である必要があるので、整数kの範囲を以下のように求めます。
-                      <br><br>
-                      [mが0となるkの値]<br>
-                      －32768k－10000＝0<br>
-                      －32768k＝10000<br>
-                      k≒－0.3051
-                      <br><br>
-                      [mがpとなるkの値]<br>
-                      －32768k－10000＝32768<br>
-                      －32768k＝42768<br>
-                      k≒－1.3051
-                      <br><br>
-                      k（商）は（－1.3051＜k≦－0.3051）を満たす整数ですから「－1」とわかります。前述の式のkに－1を代入すると、
-                      <br><br>
-                      m＝－32768×(－1)－10000<br>
-                      m＝22768
-                      <br><br>
-                      (－10000) mod 32768＝22768 で、剰余mが22768になることがわかります。したがって、選択肢の中で剰余が22768となる「22768 mod 32768」が適切な答えです。
-                    </p>
-                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-
-          <div class="accbox">
-            <h3>第33問　ベン図</h3>
-            <input type="checkbox" id="00033" class="cssacc" />
-
-            <label for="00033"><span><i class="fas fa-book"></i>READ</span></label>
-            <div class="accshow">
-
-              <em3>平成25年秋期　問1</em3>
-              <p id="feQuestion">集合(A∩B∩C)∪(A∩B∩C)を網掛け部分(<img id="amikake" src="gallery/techimg/20210509/gray.jpg" alt="網掛け部分">) で表しているベン図はどれか。ここで，∩は積集合，∪は和集合，XはXの補集合を表す。</p>
-
-
-              <h4>選択肢</h4>
-              <table id="feSelection">
-                <tr>
-                  <td>ア</td>
-                  <td>イ</td>
-                  <td>ウ</td>
-                  <td>エ</td>
-                </tr>
-                <tr>
-                  <td><img id="amikake" src="gallery/techimg/20210509/ベン図ア.jpg" alt="ベン図ア"></td>
-                  <td><img id="amikake" src="gallery/techimg/20210509/ベン図イ.jpg" alt="ベン図イ"></td>
-                  <td><img id="amikake" src="gallery/techimg/20210509/ベン図ウ.jpg" alt="ベン図ウ"></td>
-                  <td><img id="amikake" src="gallery/techimg/20210509/ベン図エ.jpg" alt="ベン図エ"></td>
-                </tr>
-              </table>
-
-              <div id="answer">
-                答え
-                <input type="checkbox" id="00033a" class="cssacc" />
-
-                <label for="00033a"><span>READ</span></label>
-                <div class="accshow">
-
-                  <h4>正解</h4>
-                  <div class="accbox">
-                    <table id="feSelection">
-                      <tr>
-                        <td>ウ</td>
-                      </tr>
-                      <tr>
-                        <td><img id="amikake" src="gallery/techimg/20210509/ベン図ウ.jpg" alt="ベン図ウ"></td>
-                      </tr>
-                    </table>
-                    <P>
-                      設問のベン図で集合を表すと次のようになります。
-                    <p><img id="amikake" src="gallery/techimg/20210509/ベン図答え.jpg" alt="ベン図答え"></p>
-                    したがって「ウ」が適切です。
-                    </p>
-                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="accbox">
-            <h3>第34問　オープンソース</h3>
-            <input type="checkbox" id="00034" class="cssacc" />
-
-            <label for="00034"><span><i class="fas fa-book"></i>READ</span></label>
-            <div class="accshow">
-
-              <em3>平成16年秋期　問48</em3>
-              <p id="feQuestion">オープンソースに関する記述として，適切なものはどれか。</p>
-
-
-              <h4>選択肢</h4>
-              <table id="feSelection">
-                <tr>
-                  <td>ア</td>
-                  <td>イ</td>
-                  <td>ウ</td>
-                  <td>エ</td>
-                </tr>
-                <tr>
-                  <td>一定の条件の下で，ソースコードの変更を許している。</td>
-                  <td>使用分野とユーザを制限して再配布できる。</td>
-                  <td>著作権は，放棄されている。</td>
-                  <td>無償で配布されなければならない。</td>
-                </tr>
-              </table>
-
-              <div id="answer">
-                答え
-                <input type="checkbox" id="00034a" class="cssacc" />
-
-                <label for="00034a"><span>READ</span></label>
-                <div class="accshow">
-
-                  <h4>正解</h4>
-                  <div class="accbox">
+                    <h4>選択肢</h4>
                     <table id="feSelection">
                       <tr>
                         <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>ゲートウェイ</td>
+                        <td>ブリッジ</td>
+                        <td>リピータ</td>
+                        <td>ルータ</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="0031a" class="cssacc" />
+
+                      <label for="0031a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>イ</td>
+                            </tr>
+
+                            <tr>
+                              <td>ブリッジ</td>
+                            </tr>
+                          </table>
+
+                          <P>ブリッジは、OSI基本参照モデルの第２層であるデータリンク層で動作し、ネットワークを流れるMACフレーム(イーサネットフレーム)内のヘッダ情報に基づいて通信を中継する機器です。MACフレームを受け取ったブリッジは、ヘッダ情報内のMACアドレスと自身がもつMACアドレステーブルに基づき、宛先が存在するポートのみにMACフレームを送出します。
+                          </p>
+
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第32問　剰余</h3>
+                  <input type="checkbox" id="00032" class="cssacc" />
+
+                  <label for="00032"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成17年秋期　問4</em3>
+                    <p id="feQuestion">pを2以上の整数とする。任意の整数nに対して，
+                      <br><br>n＝kp＋m (0≦m＜p)<br><br>
+                      を満たす整数kとmが一意に存在する。このmをnのpによる剰余といい，n mod pで表す。(－10000) mod 32768に等しくなるものはどれか。
+                    </p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>－(10000 mod 32768)</td>
+                        <td>(－22768) mod 32768</td>
+                        <td>10000 mod 32768</td>
+                        <td>22768 mod 32768</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00032a" class="cssacc" />
+
+                      <label for="00032a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>エ</td>
+                            </tr>
+                            <tr>
+                              <td>22768 mod 32768</td>
+                            </tr>
+                          </table>
+                          <P>文字式 n＝kp＋m (0≦m＜p) において、nは除算の割られる数、pは割る数、kは商、mは剰余を表しています。
+                            <br><br>
+                            n＝kp＋m の式に、 (－10000) mod 32768 の n=10000、p=32768 を代入すると、m（剰余）は次のように表せます。
+                            <br><br>
+                            －10000＝32768k＋m<br>
+                            m＝－32768k－10000
+                            <br><br>
+                            剰余であるmは、0以上p未満（0≦m＜p）である必要があるので、整数kの範囲を以下のように求めます。
+                            <br><br>
+                            [mが0となるkの値]<br>
+                            －32768k－10000＝0<br>
+                            －32768k＝10000<br>
+                            k≒－0.3051
+                            <br><br>
+                            [mがpとなるkの値]<br>
+                            －32768k－10000＝32768<br>
+                            －32768k＝42768<br>
+                            k≒－1.3051
+                            <br><br>
+                            k（商）は（－1.3051＜k≦－0.3051）を満たす整数ですから「－1」とわかります。前述の式のkに－1を代入すると、
+                            <br><br>
+                            m＝－32768×(－1)－10000<br>
+                            m＝22768
+                            <br><br>
+                            (－10000) mod 32768＝22768 で、剰余mが22768になることがわかります。したがって、選択肢の中で剰余が22768となる「22768 mod 32768」が適切な答えです。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="accbox">
+                  <h3>第33問　ベン図</h3>
+                  <input type="checkbox" id="00033" class="cssacc" />
+
+                  <label for="00033"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成25年秋期　問1</em3>
+                    <p id="feQuestion">集合(A∩B∩C)∪(A∩B∩C)を網掛け部分(<img id="amikake" src="gallery/techimg/20210509/gray.jpg" alt="網掛け部分">) で表しているベン図はどれか。ここで，∩は積集合，∪は和集合，XはXの補集合を表す。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td><img id="amikake" src="gallery/techimg/20210509/ベン図ア.jpg" alt="ベン図ア"></td>
+                        <td><img id="amikake" src="gallery/techimg/20210509/ベン図イ.jpg" alt="ベン図イ"></td>
+                        <td><img id="amikake" src="gallery/techimg/20210509/ベン図ウ.jpg" alt="ベン図ウ"></td>
+                        <td><img id="amikake" src="gallery/techimg/20210509/ベン図エ.jpg" alt="ベン図エ"></td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00033a" class="cssacc" />
+
+                      <label for="00033a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ウ</td>
+                            </tr>
+                            <tr>
+                              <td><img id="amikake" src="gallery/techimg/20210509/ベン図ウ.jpg" alt="ベン図ウ"></td>
+                            </tr>
+                          </table>
+                          <P>
+                            設問のベン図で集合を表すと次のようになります。
+                          <p><img id="amikake" src="gallery/techimg/20210509/ベン図答え.jpg" alt="ベン図答え"></p>
+                          したがって「ウ」が適切です。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第34問　オープンソース</h3>
+                  <input type="checkbox" id="00034" class="cssacc" />
+
+                  <label for="00034"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成16年秋期　問48</em3>
+                    <p id="feQuestion">オープンソースに関する記述として，適切なものはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
                       </tr>
                       <tr>
                         <td>一定の条件の下で，ソースコードの変更を許している。</td>
+                        <td>使用分野とユーザを制限して再配布できる。</td>
+                        <td>著作権は，放棄されている。</td>
+                        <td>無償で配布されなければならない。</td>
                       </tr>
                     </table>
-                    <P>オープンソースは、ソフトウェア作者の著作権を守ったままソースコードを無償公開することを意味するライセンス形態、またはそのライセンス形態によって提供されるソフトウェアのことです。
-                      <br><br>
-                      「オープンソース」であるプログラムの配布条件には「オープンソースの定義」(The Open Source Definition, OSD)に記述されている基準を満たしていなければなりません。
-                      <br><br>
-                      <em3><a href="http://www.opensource.jp/osd/osd-japanese.html">参考URL:　オープンソースの定義</a>
-                        <em3>
-                    </p>
-                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00034a" class="cssacc" />
+
+                      <label for="00034a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ア</td>
+                            </tr>
+                            <tr>
+                              <td>一定の条件の下で，ソースコードの変更を許している。</td>
+                            </tr>
+                          </table>
+                          <P>オープンソースは、ソフトウェア作者の著作権を守ったままソースコードを無償公開することを意味するライセンス形態、またはそのライセンス形態によって提供されるソフトウェアのことです。
+                            <br><br>
+                            「オープンソース」であるプログラムの配布条件には「オープンソースの定義」(The Open Source Definition, OSD)に記述されている基準を満たしていなければなりません。
+                            <br><br>
+                            <em3><a href="http://www.opensource.jp/osd/osd-japanese.html">参考URL:　オープンソースの定義</a>
+                              <em3>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
-              </div>
-            </div>
-          </div>
 
-          <div class="accbox">
-            <h3>第35問　シフト演算</h3>
-            <input type="checkbox" id="00035" class="cssacc" />
+                <div class="accbox">
+                  <h3>第35問　シフト演算</h3>
+                  <input type="checkbox" id="00035" class="cssacc" />
 
-            <label for="00035"><span><i class="fas fa-book"></i>READ</span></label>
-            <div class="accshow">
+                  <label for="00035"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
 
-              <em3>平成28年春期　問1</em3>
-              <p id="feQuestion">数値を2進数で格納するレジスタがある。このレジスタに正の整数xを設定した後，"レジスタの値を2ビット左にシフトして，xを加える"操作を行うと，レジスタの値はxの何倍になるか。ここで，あふれ(オーバフロー)は，発生しないものとする。</p>
+                    <em3>平成28年春期　問1</em3>
+                    <p id="feQuestion">数値を2進数で格納するレジスタがある。このレジスタに正の整数xを設定した後，"レジスタの値を2ビット左にシフトして，xを加える"操作を行うと，レジスタの値はxの何倍になるか。ここで，あふれ(オーバフロー)は，発生しないものとする。</p>
 
 
-              <h4>選択肢</h4>
-              <table id="feSelection">
-                <tr>
-                  <td>ア</td>
-                  <td>イ</td>
-                  <td>ウ</td>
-                  <td>エ</td>
-                </tr>
-                <tr>
-                  <td>3</td>
-                  <td>4</td>
-                  <td>5</td>
-                  <td>6</td>
-                </tr>
-              </table>
-
-              <div id="answer">
-                答え
-                <input type="checkbox" id="00035a" class="cssacc" />
-
-                <label for="00035a"><span>READ</span></label>
-                <div class="accshow">
-
-                  <h4>正解</h4>
-                  <div class="accbox">
+                    <h4>選択肢</h4>
                     <table id="feSelection">
                       <tr>
-                        <td>ウ</td>
-                      </tr>
-                      <tr>
-                        <td>5</td>
-                      </tr>
-                    </table>
-                    <P>下記の例のように、2進数のビット列をnビット左にシフトする操作は、元の数値を2n倍することと同じです（逆に右シフトの場合は1／2n倍です）。
-                      <br><br>
-                      2進数 11 を左に1ビットシフト → 2進数 110
-                      数値（10進数、以下同じ）は、3 → 6 と 21倍＝2倍 になる
-                      2進数 11 を左に2ビットシフト → 2進数 1100
-                      数値は、3 → 12 と 22倍＝4倍 になる
-                      2進数 11 を左に3ビットシフト → 2進数 11000
-                      数値は、3 → 24 と 23倍＝8倍 になる
-                      <br><br>
-                      本問の操作を2つに分解して考えると、<br><br>
-
-                      レジスタに格納された2進数(x)を2ビット左にシフト<br>
-                      xを22倍、つまり4倍する<br>
-                      xを加える<br>
-                      xを4倍した数値にxを足す
-                      <br><br>
-                      という組合せなので、操作後のレジスタの値は元のxの値の5倍になります。したがって「ウ」が正解です。
-                    </p>
-                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="accbox">
-            <h3>第36問　CPU処理時間</h3>
-            <input type="checkbox" id="00036" class="cssacc" />
-
-            <label for="00036"><span><i class="fas fa-book"></i>READ</span></label>
-            <div class="accshow">
-
-              <em3>平成16年春期　問38</em3>
-              <p id="feQuestion">あるシステムのサーバ処理において，次の条件で1年後の処理時間が現在より長くならないようにするためには，CPUの1ステップ当たりの処理時間を少なくとも現在の何%にしなければならないか。</p>
-
-              <div id="feTerm">
-                <em3>〔条件〕</em3>
-                <p>(1)データ1件の処理は，CPU命令100万ステップと磁気ディスクへの入出力20回で構成されている。<br>
-                  (2)現在は，CPU処理が1ステップ当たり平均1マイクロ秒で，入出力は1回 25ミリ秒で処理されている。<br>
-                  (3)1年後は，入出力装置の性能改善によって，データ1件を処理する際の入出力時間が現在の80%に短縮される。<br>
-                  (4)1年後に，1日当たりデータの処理件数は現在の150%に増加する。<br>
-                  (5)待ち時間及びその他のオーバヘッドは考慮しないものとする。<br>
-                </p>
-              </div>
-
-
-              <h4>選択肢</h4>
-              <table id="feSelection">
-                <tr>
-                  <td>ア</td>
-                  <td>イ</td>
-                  <td>ウ</td>
-                  <td>エ</td>
-                </tr>
-                <tr>
-                  <td>42</td>
-                  <td>60</td>
-                  <td>80</td>
-                  <td>90</td>
-                </tr>
-              </table>
-
-              <div id="answer">
-                答え
-                <input type="checkbox" id="00036a" class="cssacc" />
-
-                <label for="00036a"><span>READ</span></label>
-                <div class="accshow">
-
-                  <h4>正解</h4>
-                  <div class="accbox">
-                    <table id="feSelection">
-                      <tr>
+                        <td>ア</td>
                         <td>イ</td>
-                      </tr>
-                      <tr>
-                        <td>60</td>
-                      </tr>
-                    </table>
-                    <P>現在のデータ1件の処理時間を表す式は、
-                      <br><br>
-                      　(100万×1マイクロ秒)＋(25ミリ秒×20)<br>
-                      ＝100万マイクロ秒＋500ミリ秒<br>
-                      ＝1500ミリ秒<br>
-                      <br><br>
-                      CPU処理時間をmとして，入出力時間を80%，件数増える分1.5を掛けると1年後のデータ1件の処理時間は、
-                      <br><br>
-                      　{(100万×m)＋(25ミリ秒×0.8)×20}×1.5<br>
-                      ＝(100万m＋20ミリ秒×20回)×1.5<br>
-                      ＝(100万m＋400ミリ秒)×1.5<br>
-                      ＝150万m＋600ミリ秒<br>
-                      <br><br>
-                      この2つを方程式にすると、
-                      <br><br>
-                      　150万m＋600ミリ秒≦1500ミリ秒<br>
-                      　150万m≦900ミリ秒<br>
-                      　m≦0.0006ミリ秒＝0.6マイクロ秒<br>
-                      <br><br>
-                      1年後のCPU処理時間が0.6マイクロ秒であれば現在よりも処理時間が長くならないため、現在の1マイクロ秒と比較して少なくとも60%以下にしなくてはならないことがわかります。
-                    </p>
-                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="accbox">
-            <h3>第37問　ソートマージ結合法</h3>
-            <input type="checkbox" id="00037" class="cssacc" />
-
-            <label for="00037"><span><i class="fas fa-book"></i>READ</span></label>
-            <div class="accshow">
-
-              <em3>平成29年春期　問27</em3>
-              <p id="feQuestion">RDBMSが二つの表を結合する方法のうち，ソートマージ結合法に関する記述はどれか。</p>
-
-
-              <h4>選択肢</h4>
-              <table id="feSelection">
-                <tr>
-                  <td>ア</td>
-                  <td>イ</td>
-                  <td>ウ</td>
-                  <td>エ</td>
-                </tr>
-                <tr>
-                  <td>一方の表の結合する列がインデックスに含まれている場合，もう一方の表の結合する列とインデックスの値で結合する。</td>
-                  <td>一方の表の結合する列の値でハッシュ表を作成し，もう一方の表の結合する列と結合する。</td>
-                  <td>一方の表の結合する列の値を順に読み出し，もう一方の表の結合する列と結合する。</td>
-                  <td>結合する列の値で並べ替えたそれぞれの表の行を，先頭から順に結合する。</td>
-                </tr>
-              </table>
-
-              <div id="answer">
-                答え
-                <input type="checkbox" id="00037a" class="cssacc" />
-
-                <label for="00037a"><span>READ</span></label>
-                <div class="accshow">
-
-                  <h4>正解</h4>
-                  <div class="accbox">
-                    <table id="feSelection">
-                      <tr>
+                        <td>ウ</td>
                         <td>エ</td>
                       </tr>
                       <tr>
+                        <td>3</td>
+                        <td>4</td>
+                        <td>5</td>
+                        <td>6</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00035a" class="cssacc" />
+
+                      <label for="00035a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ウ</td>
+                            </tr>
+                            <tr>
+                              <td>5</td>
+                            </tr>
+                          </table>
+                          <P>下記の例のように、2進数のビット列をnビット左にシフトする操作は、元の数値を2n倍することと同じです（逆に右シフトの場合は1／2n倍です）。
+                            <br><br>
+                            2進数 11 を左に1ビットシフト → 2進数 110
+                            数値（10進数、以下同じ）は、3 → 6 と 21倍＝2倍 になる
+                            2進数 11 を左に2ビットシフト → 2進数 1100
+                            数値は、3 → 12 と 22倍＝4倍 になる
+                            2進数 11 を左に3ビットシフト → 2進数 11000
+                            数値は、3 → 24 と 23倍＝8倍 になる
+                            <br><br>
+                            本問の操作を2つに分解して考えると、<br><br>
+
+                            レジスタに格納された2進数(x)を2ビット左にシフト<br>
+                            xを22倍、つまり4倍する<br>
+                            xを加える<br>
+                            xを4倍した数値にxを足す
+                            <br><br>
+                            という組合せなので、操作後のレジスタの値は元のxの値の5倍になります。したがって「ウ」が正解です。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第36問　CPU処理時間</h3>
+                  <input type="checkbox" id="00036" class="cssacc" />
+
+                  <label for="00036"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成16年春期　問38</em3>
+                    <p id="feQuestion">あるシステムのサーバ処理において，次の条件で1年後の処理時間が現在より長くならないようにするためには，CPUの1ステップ当たりの処理時間を少なくとも現在の何%にしなければならないか。</p>
+
+                    <div id="feTerm">
+                      <em3>〔条件〕</em3>
+                      <p>(1)データ1件の処理は，CPU命令100万ステップと磁気ディスクへの入出力20回で構成されている。<br>
+                        (2)現在は，CPU処理が1ステップ当たり平均1マイクロ秒で，入出力は1回 25ミリ秒で処理されている。<br>
+                        (3)1年後は，入出力装置の性能改善によって，データ1件を処理する際の入出力時間が現在の80%に短縮される。<br>
+                        (4)1年後に，1日当たりデータの処理件数は現在の150%に増加する。<br>
+                        (5)待ち時間及びその他のオーバヘッドは考慮しないものとする。<br>
+                      </p>
+                    </div>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>42</td>
+                        <td>60</td>
+                        <td>80</td>
+                        <td>90</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00036a" class="cssacc" />
+
+                      <label for="00036a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>イ</td>
+                            </tr>
+                            <tr>
+                              <td>60</td>
+                            </tr>
+                          </table>
+                          <P>現在のデータ1件の処理時間を表す式は、
+                            <br><br>
+                            　(100万×1マイクロ秒)＋(25ミリ秒×20)<br>
+                            ＝100万マイクロ秒＋500ミリ秒<br>
+                            ＝1500ミリ秒<br>
+                            <br><br>
+                            CPU処理時間をmとして，入出力時間を80%，件数増える分1.5を掛けると1年後のデータ1件の処理時間は、
+                            <br><br>
+                            　{(100万×m)＋(25ミリ秒×0.8)×20}×1.5<br>
+                            ＝(100万m＋20ミリ秒×20回)×1.5<br>
+                            ＝(100万m＋400ミリ秒)×1.5<br>
+                            ＝150万m＋600ミリ秒<br>
+                            <br><br>
+                            この2つを方程式にすると、
+                            <br><br>
+                            　150万m＋600ミリ秒≦1500ミリ秒<br>
+                            　150万m≦900ミリ秒<br>
+                            　m≦0.0006ミリ秒＝0.6マイクロ秒<br>
+                            <br><br>
+                            1年後のCPU処理時間が0.6マイクロ秒であれば現在よりも処理時間が長くならないため、現在の1マイクロ秒と比較して少なくとも60%以下にしなくてはならないことがわかります。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第37問　ソートマージ結合法</h3>
+                  <input type="checkbox" id="00037" class="cssacc" />
+
+                  <label for="00037"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成29年春期　問27</em3>
+                    <p id="feQuestion">RDBMSが二つの表を結合する方法のうち，ソートマージ結合法に関する記述はどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>一方の表の結合する列がインデックスに含まれている場合，もう一方の表の結合する列とインデックスの値で結合する。</td>
+                        <td>一方の表の結合する列の値でハッシュ表を作成し，もう一方の表の結合する列と結合する。</td>
+                        <td>一方の表の結合する列の値を順に読み出し，もう一方の表の結合する列と結合する。</td>
                         <td>結合する列の値で並べ替えたそれぞれの表の行を，先頭から順に結合する。</td>
                       </tr>
                     </table>
-                    <P>ソートマージ結合法は、双方の結合属性の値を整列し、先頭から突き合わせていくことで効率的に結合していく手法です。整列(ソート)と突合せ処理で併合(マージ)していくというのポイントです。
-                    </p>
-                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00037a" class="cssacc" />
+
+                      <label for="00037a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>エ</td>
+                            </tr>
+                            <tr>
+                              <td>結合する列の値で並べ替えたそれぞれの表の行を，先頭から順に結合する。</td>
+                            </tr>
+                          </table>
+                          <P>ソートマージ結合法は、双方の結合属性の値を整列し、先頭から突き合わせていくことで効率的に結合していく手法です。整列(ソート)と突合せ処理で併合(マージ)していくというのポイントです。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
-              </div>
-            </div>
-          </div>
 
-          <div class="accbox">
-            <h3>第38問　シリアルATA</h3>
-            <input type="checkbox" id="00038" class="cssacc" />
+                <div class="accbox">
+                  <h3>第38問　シリアルATA</h3>
+                  <input type="checkbox" id="00038" class="cssacc" />
 
-            <label for="00038"><span><i class="fas fa-book"></i>READ</span></label>
-            <div class="accshow">
+                  <label for="00038"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
 
-              <em3>平成20年秋期　問24</em3>
-              <p id="feQuestion">シリアルATAの特徴として，適切なものはどれか。</p>
+                    <em3>平成20年秋期　問24</em3>
+                    <p id="feQuestion">シリアルATAの特徴として，適切なものはどれか。</p>
 
 
-              <h4>選択肢</h4>
-              <table id="feSelection">
-                <tr>
-                  <td>ア</td>
-                  <td>イ</td>
-                  <td>ウ</td>
-                  <td>エ</td>
-                </tr>
-                <tr>
-                  <td>SAS(Serial Attached SCSI)と双方向の互換性がある。</td>
-                  <td>デイジーチェーン接続を採用している。</td>
-                  <td>パラレルATAとケーブル，コネクタに互換性がある。</td>
-                  <td>ホットスワップ対応が可能である。</td>
-                </tr>
-              </table>
-
-              <div id="answer">
-                答え
-                <input type="checkbox" id="00038a" class="cssacc" />
-
-                <label for="00038a"><span>READ</span></label>
-                <div class="accshow">
-
-                  <h4>正解</h4>
-                  <div class="accbox">
+                    <h4>選択肢</h4>
                     <table id="feSelection">
                       <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
                         <td>エ</td>
                       </tr>
                       <tr>
+                        <td>SAS(Serial Attached SCSI)と双方向の互換性がある。</td>
+                        <td>デイジーチェーン接続を採用している。</td>
+                        <td>パラレルATAとケーブル，コネクタに互換性がある。</td>
                         <td>ホットスワップ対応が可能である。</td>
                       </tr>
                     </table>
-                    <P>シリアルATA(Serial Advanced Technology Attachment)は、CPUと内蔵磁気ディスクドライブ，SSD，DVDドライブなどを接続するためのATAインタフェース規格の一つです。
-                      <br><br>
-                      ホットスワップ(ホットプラグ)とは電源を入れたまま機器の脱着を行うことができる仕組みのことです。
-                    </p>
-                    <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00038a" class="cssacc" />
+
+                      <label for="00038a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>エ</td>
+                            </tr>
+                            <tr>
+                              <td>ホットスワップ対応が可能である。</td>
+                            </tr>
+                          </table>
+                          <P>シリアルATA(Serial Advanced Technology Attachment)は、CPUと内蔵磁気ディスクドライブ，SSD，DVDドライブなどを接続するためのATAインタフェース規格の一つです。
+                            <br><br>
+                            ホットスワップ(ホットプラグ)とは電源を入れたまま機器の脱着を行うことができる仕組みのことです。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
-              </div>
-            </div>
-          </div>
 
-          <div class="accbox">
-            <h3>第39問　割込み発生時</h3>
-            <input type="checkbox" id="00039" class="cssacc" />
+                <div class="accbox">
+                  <h3>第39問　割込み発生時</h3>
+                  <input type="checkbox" id="00039" class="cssacc" />
 
-            <label for="00039"><span><i class="fas fa-book"></i>READ</span></label>
-            <div class="accshow">
+                  <label for="00039"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
 
-              <em3>平成30年秋期　問10</em3>
-              <p id="feQuestion">割込み処理の終了後に割込みによって中断された処理を割り込まれた場所から再開するために，割込み発生時にプロセッサが保存するものはどれか。</p>
+                    <em3>平成30年秋期　問10</em3>
+                    <p id="feQuestion">割込み処理の終了後に割込みによって中断された処理を割り込まれた場所から再開するために，割込み発生時にプロセッサが保存するものはどれか。</p>
 
 
-              <h4>選択肢</h4>
-              <table id="feSelection">
-                <tr>
-                  <td>ア</td>
-                  <td>イ</td>
-                  <td>ウ</td>
-                  <td>エ</td>
-                </tr>
-                <tr>
-                  <td>インデックスレジスタ</td>
-                  <td>データレジスタ</td>
-                  <td>プログラムカウンタ</td>
-                  <td>命令レジスタ</td>
-                </tr>
-              </table>
-
-              <div id="answer">
-                答え
-                <input type="checkbox" id="00039a" class="cssacc" />
-
-                <label for="00039a"><span>READ</span></label>
-                <div class="accshow">
-
-                  <h4>正解</h4>
-                  <div class="accbox">
+                    <h4>選択肢</h4>
                     <table id="feSelection">
                       <tr>
+                        <td>ア</td>
+                        <td>イ</td>
                         <td>ウ</td>
+                        <td>エ</td>
                       </tr>
                       <tr>
+                        <td>インデックスレジスタ</td>
+                        <td>データレジスタ</td>
                         <td>プログラムカウンタ</td>
+                        <td>命令レジスタ</td>
                       </tr>
                     </table>
-                    <P>割込み(Interrupt)は、すぐに対処しなくてはならない問題などがシステムに生じたときに、実行中のプログラムの処理をいったん停止し、優先的に事象の解決を図ることを可能にする仕組みです。
-                      <br><br>
-                      <p>割込み発生時は次の手順で処理が実行されます。<br>
-                    <div id="feTerm">
-                      <em3>手順</em3>
-                      <br><br>
-                      1.ユーザモードから特権モードへの移行<br>
-                      <em3>割込みが発生すると自動的に特権モード(スーパバイザモード)に切り替わる。</em3>
-                        <br><br>
-                        2.プログラムレジスタ(プログラムカウンタ)などの退避<br>
-                        <em3>割込み処理終了後にもとの命令位置に戻れるように現在のプログラムカウンタの値をスタックに退避させる。</em3>
-                        <br><br>
-                        3.割込み処理ルーチンの開始番地の決定<br>
-                        <em3>所定の割込み処理の開始アドレスを取得して、プログラムカウンタにセットする。</em3>
-                        <br><br>
-                        4.割込み処理ルーチンの実行<br>
-                        <em3>所定の割込み処理</em3>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00039a" class="cssacc" />
+
+                      <label for="00039a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ウ</td>
+                            </tr>
+                            <tr>
+                              <td>プログラムカウンタ</td>
+                            </tr>
+                          </table>
+                          <P>割込み(Interrupt)は、すぐに対処しなくてはならない問題などがシステムに生じたときに、実行中のプログラムの処理をいったん停止し、優先的に事象の解決を図ることを可能にする仕組みです。
+                            <br><br>
+                          <p>割込み発生時は次の手順で処理が実行されます。<br>
+                          <div id="feTerm">
+                            <em3>手順</em3>
+                            <br><br>
+                            1.ユーザモードから特権モードへの移行<br>
+                            <em3>割込みが発生すると自動的に特権モード(スーパバイザモード)に切り替わる。</em3>
+                            <br><br>
+                            2.プログラムレジスタ(プログラムカウンタ)などの退避<br>
+                            <em3>割込み処理終了後にもとの命令位置に戻れるように現在のプログラムカウンタの値をスタックに退避させる。</em3>
+                            <br><br>
+                            3.割込み処理ルーチンの開始番地の決定<br>
+                            <em3>所定の割込み処理の開始アドレスを取得して、プログラムカウンタにセットする。</em3>
+                            <br><br>
+                            4.割込み処理ルーチンの実行<br>
+                            <em3>所定の割込み処理</em3>
+                          </div>
+                          <br><br>
+                          プログラムカウンタは、次に実行するべき命令の格納先である主記憶上のアドレスを保持するレジスタです。割込み発生時にはプログラムカウンタの値をスタックに退避します。そして、割込み処理が終わるとスタックは退避していたアドレスをプログラムカウンタに戻し、中断時の場所から処理を再開します。
+                          <br><br>
+                          したがって「ウ」が正解です。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
                     </div>
-                    <br><br>
-                    プログラムカウンタは、次に実行するべき命令の格納先である主記憶上のアドレスを保持するレジスタです。割込み発生時にはプログラムカウンタの値をスタックに退避します。そして、割込み処理が終わるとスタックは退避していたアドレスをプログラムカウンタに戻し、中断時の場所から処理を再開します。
-                    <br><br>
-                    したがって「ウ」が正解です。
-                  </p>
-                  <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                  </div>
                 </div>
-              </div>
-            </div>
-          </div>
-        </div>
 
-        <div class="accbox">
-          <h3>第40問　モジュール単体テスト</h3>
-          <input type="checkbox" id="00040" class="cssacc" />
-
-          <label for="00040"><span><i class="fas fa-book"></i>READ</span></label>
-          <div class="accshow">
-
-            <em3>平成16年秋期　問53</em3>
-            <p id="feQuestion">モジュール単体テストに関する記述として，最も適切なものはどれか。</p>
-
-
-            <h4>選択肢</h4>
-            <table id="feSelection">
-              <tr>
-                <td>ア</td>
-                <td>イ</td>
-                <td>ウ</td>
-                <td>エ</td>
-              </tr>
-              <tr>
-                <td>通常はコーディングを行ったプログラマではなく，専任のテスト要員がテストケースを作成し，実行する。</td>
-                <td>モジュール間インタフェースは，モジュール単体ではテストできないので，単体テストの対象外となる。</td>
-                <td>モジュール設計書は，正しいことが検証済みであるので，テスト結果に問題があるときは，テストケース又はモジュールに誤りがある。</td>
-                <td>モジュール設計書を見ながら，原則としてすべてのロジックパスを一度は通るようなテストケースによって，検証を行う。</td>
-              </tr>
-            </table>
-
-            <div id="answer">
-              答え
-              <input type="checkbox" id="00040a" class="cssacc" />
-
-              <label for="00040a"><span>READ</span></label>
-              <div class="accshow">
-
-                <h4>正解</h4>
                 <div class="accbox">
-                  <table id="feSelection">
-                    <tr>
-                      <td>エ</td>
-                    </tr>
-                    <tr>
-                      <td>モジュール設計書を見ながら，原則としてすべてのロジックパスを一度は通るようなテストケースによって，検証を行う。</td>
-                    </tr>
-                  </table>
-                  <P>単体テストは、プログラムがモジュール単位で正常に動作するかを確かめるテスト工程です。プログラムの内部設計書に基づいてホワイトボックステストを実施し、要求性能を満たしているかの確認を行います。
-                  <br><br>
-                  ア、単体テストは、コーディングを行ったプログラマ自身が実施します。
-                  <br><br>
-                  イ、実際にモジュールの結合を行うのは結合テストですが、モジュール仕様書に記述されたインタフェースが適切に実装されているかの検証は単体テストの対象です。
-                  <br><br>
-                  ウ、モジュール設計書が誤っている可能性もあります。
-                  <br><br>
-                  単体テストでは、プログラムの内部構造に基づいて、内部仕様がモジュール仕様書通りに作成されているかを検証します。
-                  </p>
-                  <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                  <h3>第40問　モジュール単体テスト</h3>
+                  <input type="checkbox" id="00040" class="cssacc" />
+
+                  <label for="00040"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成16年秋期　問53</em3>
+                    <p id="feQuestion">モジュール単体テストに関する記述として，最も適切なものはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>通常はコーディングを行ったプログラマではなく，専任のテスト要員がテストケースを作成し，実行する。</td>
+                        <td>モジュール間インタフェースは，モジュール単体ではテストできないので，単体テストの対象外となる。</td>
+                        <td>モジュール設計書は，正しいことが検証済みであるので，テスト結果に問題があるときは，テストケース又はモジュールに誤りがある。</td>
+                        <td>モジュール設計書を見ながら，原則としてすべてのロジックパスを一度は通るようなテストケースによって，検証を行う。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00040a" class="cssacc" />
+
+                      <label for="00040a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>エ</td>
+                            </tr>
+                            <tr>
+                              <td>モジュール設計書を見ながら，原則としてすべてのロジックパスを一度は通るようなテストケースによって，検証を行う。</td>
+                            </tr>
+                          </table>
+                          <P>単体テストは、プログラムがモジュール単位で正常に動作するかを確かめるテスト工程です。プログラムの内部設計書に基づいてホワイトボックステストを実施し、要求性能を満たしているかの確認を行います。
+                            <br><br>
+                            ア、単体テストは、コーディングを行ったプログラマ自身が実施します。
+                            <br><br>
+                            イ、実際にモジュールの結合を行うのは結合テストですが、モジュール仕様書に記述されたインタフェースが適切に実装されているかの検証は単体テストの対象です。
+                            <br><br>
+                            ウ、モジュール設計書が誤っている可能性もあります。
+                            <br><br>
+                            単体テストでは、プログラムの内部構造に基づいて、内部仕様がモジュール仕様書通りに作成されているかを検証します。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
                 </div>
+
+                <br>
               </div>
             </div>
           </div>
         </div>
-
-        <br>
-    </div>
-    </div>
-    </div>
-    </div>
 
 
 
