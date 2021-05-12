@@ -46,6 +46,65 @@
         </li>
 
     <hr> -->
+    
+        2021年05月13日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                </a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                </a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                </a>
+        </li>
+
+    <hr>
+    
+        2021年05月12日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1235E0S1A510C2000000/" target="blank" rel="noopener">
+                東京都、新たに969人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCA0324C0T00C21A4000000/" target="blank" rel="noopener">
+                ワクチンパスポートとは　自由な移動・渡航へ布石</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFB125C80S1A510C2000000/" target="blank" rel="noopener">
+                北海道で529人感染、過去最多更新　5日連続400人超</a>
+        </li>
+
+    <hr>
+        2021年05月11日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC110K40R10C21A5000000/" target="blank" rel="noopener">
+                東京都、新たに925人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA1138T0R10C21A5000000/" target="blank" rel="noopener">
+                福島・長崎・熊本、「まん延防止」適用を要請</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA114AW0R10C21A5000000/" target="blank" rel="noopener">
+                大規模接種、受付業務など民間委託　防衛相</a>
+        </li>
+
+    <hr>
         2021年05月10日
     
         <li>
