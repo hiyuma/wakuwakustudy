@@ -13,8 +13,8 @@
     <!-- <li>2021年05月14日</li>
   <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY</a> （基本情報処理技術者試験 ⑮「午前試験　テクノロジ系　過去問⑨」）追加</span></div> -->
 
-    <!-- <li>2021年05月13日</li>
-  <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY</a> （基本情報処理技術者試験 ⑭「午前試験　テクノロジ系　過去問⑧」）追加</span></div> -->
+    <li>2021年05月13日</li>
+  <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY</a> （基本情報処理技術者試験 ⑭「午前試験　テクノロジ系　過去問⑧」）追加</span></div>
 
     <li>2021年05月12日</li>
   <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY</a> （基本情報処理技術者試験 ⑬「午前試験　テクノロジ系　過去問⑦」）追加</span></div>
