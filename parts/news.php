@@ -46,6 +46,25 @@
         </li>
 
     <hr> -->
+        2021年05月14日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC142270U1A510C2000000/" target="blank" rel="noopener">
+                東京都、新たに854人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA141AG0U1A510C2000000/" target="blank" rel="noopener">
+                北海道・岡山・広島に緊急事態宣言へ　当初案より強化</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB1417W0U1A510C2000000/" target="blank" rel="noopener">
+                2回接種ワクチン、異なると副作用が増加　英報告</a>
+        </li>
+
+    <hr>
 
         2021年05月13日
     
