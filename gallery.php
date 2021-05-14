@@ -98,7 +98,7 @@
             <div id="lightgallery10" class="album">
             <?php
               $x = 123;
-              while ($x < 287) {
+              while ($x < 295) {
                 echo '<a href="gallery2/2021年日常/favorite (' . $x . ').jpg" target="blank">
                 <img src="gallery2/2021年日常/resize/favorite (' . $x . ')small.jpg" alt=""></a>';
                 $x++;
