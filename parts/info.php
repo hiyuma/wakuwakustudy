@@ -7,8 +7,8 @@
     <!-- <li>2021年05月16日</li>
   <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY</a> （基本情報処理技術者試験 ⑰「午前試験　マネジメント系　過去問⑪」）追加</span></div> -->
 
-    <!-- <li>2021年05月15日</li>
-  <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY</a> （基本情報処理技術者試験 ⑯「午前試験　テクノロジ系　過去問⑩」）追加</span></div> -->
+    <li>2021年05月15日</li>
+  <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY</a> （基本情報処理技術者試験 ⑯「午前試験　テクノロジ系　過去問⑩」）追加</span></div>
 
   
   <li>2021年05月14日</li>

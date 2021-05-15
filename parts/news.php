@@ -46,6 +46,25 @@
         </li>
 
     <hr> -->
+        2021年05月15日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE100RN0Q1A510C2000000/" target="blank" rel="noopener">
+                待てど届かぬコロナ治療　自宅療養3万人、1カ月で4.7倍</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC151170V10C21A5000000/" target="blank" rel="noopener">
+                東京都、新たに772人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF1282I0S1A510C2000000/" target="blank" rel="noopener">
+                重症増の大阪「コロナ以外の医療半分にも」　府医師会長</a>
+        </li>
+
+    <hr>
         2021年05月14日
     
         <li>
