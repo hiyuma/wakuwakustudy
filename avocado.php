@@ -78,6 +78,8 @@
 
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li><a href="#20210515">　2021年05月15日　119.9cm</a></li>
+              <li><a href="#20210508">　2021年05月08日　118.7cm</a></li>
               <li><a href="#20210501">　2021年05月01日　118.6cm</a></li>
               <li><a href="#20210424">　2021年04月24日　118.2cm</a></li>
               <li><a href="#20210415">　2021年04月15日　115.6cm</a></li>
@@ -1225,8 +1227,10 @@
             </div>
           </div>
 
-           <!-- id="041" -->
-           <div class="schedule_wrapper">
+
+
+          <!-- id="041" -->
+          <div class="schedule_wrapper">
             <div id="20210508"></div>
             <p id="avocado"><strong>2021年05月08日</strong></p>
             <p><img src="gallery/avocado/avo20210508 (1).jpg" alt="アボカド71"></p>
@@ -1245,6 +1249,33 @@
                   午前は、より強い日差しが当たるようになってきました。
                   <br><br>
                   高さの変化はほとんどなかったですが、葉の変色は進まず、強い日差しにも負けず、成長しています。
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- id="042" -->
+          <div class="schedule_wrapper">
+            <div id="20210515"></div>
+            <p id="avocado"><strong>2021年05月15日</strong></p>
+            <p><img src="gallery/avocado/avo20210515 (1).jpg" alt="アボカド73"></p>
+            <div class="accbox">
+              <input type="checkbox" id="042" class="cssacc" />
+
+              <label for="042"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
+              <div class="accshow">
+                <p><img src="gallery/avocado/avo20210515 (2).jpg" alt="アボカド74"></p>
+                <p>2021年05月15日、東京都杉並区23時現在の気温は20℃。
+                  <br><br>
+                  最高気温は、27℃です。
+                  <br><br>
+                  ここ最近の気温で、背丈にも多少変化があり、119.9cmとなりました。
+                  <br><br>
+                  また、葉が少し大きくなりました。
+                  <br><br>
+                  今年は、もうすぐ梅雨になりそうなので、また成長が止まる時期に入ります。
+                  <br><br>
+                  陽が当たらないときは、液体や土で栄養を足しながら様子を見ていこうと思います。
                 </p>
               </div>
             </div>
