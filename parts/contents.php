@@ -32,7 +32,7 @@
   </p>
 
   <p id="study"><i class="fas fa-font"></i></a> <a href="https://developershirai.com/english.php">ENGLISH <i class="fas fa-angle-double-right"></i></a>
-    <br><small>”スタディサプリENGLISH”で毎日少しずつ勉強中。目指せTOIEC800点以上。</small>
+    <br><small>”スタディサプリENGLISH”で毎日少しずつ勉強中。目指せTOEIC800点以上。</small>
   </p>
 
   <p id="link"><i class="fas fa-link"></i> <a href="https://developershirai.com/link.php">LINK <i class="fas fa-angle-double-right"></i></a>
