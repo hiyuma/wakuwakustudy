@@ -215,7 +215,7 @@
             <p id="th">鑑賞日</p>
             <p id="td">2021年05月04日</p>
             <p id="th">鑑賞方法</p>
-            <p id="td">Amazon Prime Video</a></p>
+            <p id="td">地上波（金曜ロードショー）</p>
             <p id="th">評価</p>
             <p id="td">4.2(/5.0)</p>
 
