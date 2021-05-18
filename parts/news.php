@@ -46,6 +46,65 @@
         </li>
 
     <hr> -->
+        2021年05月18日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC180GO0Y1A510C2000000/" target="blank" rel="noopener">
+                東京都、新たに732人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC146AO0U1A510C2000000/" target="blank" rel="noopener">
+                日本のワクチン接種の混乱　悪いのは「お上」だけか</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGH1425H0U1A510C2000000/" target="blank" rel="noopener">
+                担い手不足のワクチン接種、なぜ薬剤師は蚊帳の外？</a>
+        </li>
+
+    <hr>
+        2021年05月17日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC170DA0X10C21A5000000/" target="blank" rel="noopener">
+                東京都、新たに419人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGH134QT0T10C21A5000000/" target="blank" rel="noopener">
+                花王社長「コロナ、あと1～2年は楽観できず」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE150O70V10C21A5000000/" target="blank" rel="noopener">
+                大規模接種、LINE予約に戸惑い　予約完了に35分</a>
+        </li>
+
+    <hr>
+
+    
+        2021年05月16日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC161ED0W1A510C2000000/" target="blank" rel="noopener">
+                東京都、新たに542人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA153Y20V10C21A5000000/" target="blank" rel="noopener">
+                大規模接種予約、東京17日午前11時から　大阪は午後1時</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC102BM0Q1A510C2000000/" target="blank" rel="noopener">
+                コロナ、変異型発生のメカニズム　高まる脅威</a>
+        </li>
+
+    <hr>
         2021年05月15日
     
         <li>

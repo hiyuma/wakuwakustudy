@@ -22,6 +22,7 @@
   <div class="studylist">
     <span><i class="fas fa-paw"></i><a href="https://developershirai.com/jspractice/omikuji.php"><small>今日のねこちゃんおみくじ</small></a></span>
     <br>
+    <span><i class="far fa-hand-scissors"></i><a href="https://developershirai.com/janken.php"><small>ねこちゃんジャンケン</small></a></span>
 
   <p>※お問い合わせフォームは<a href="contact.php">こちら</a>
   </p>
