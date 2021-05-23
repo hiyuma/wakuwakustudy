@@ -4,6 +4,9 @@
 
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+  <li>2021年05月22日</li>
+  <div class="info-children"><span><a href="avocado.php">AVOCADO</a> 更新</span></div>
+
   <li>2021年05月16日</li>
   <div class="info-children">
     <span><a href="movie.php">MOVIE</a>（タイタニック）追加</span>
