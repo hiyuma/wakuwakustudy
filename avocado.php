@@ -78,6 +78,7 @@
 
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li><a href="#20210522">　2021年05月22日　131.5cm</a></li>
               <li><a href="#20210515">　2021年05月15日　119.9cm</a></li>
               <li><a href="#20210508">　2021年05月08日　118.7cm</a></li>
               <li><a href="#20210501">　2021年05月01日　118.6cm</a></li>
@@ -1276,6 +1277,40 @@
                   今年は、もうすぐ梅雨になりそうなので、また成長が止まる時期に入ります。
                   <br><br>
                   陽が当たらないときは、液体や土で栄養を足しながら様子を見ていこうと思います。
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- id="043" -->
+          <div class="schedule_wrapper">
+            <div id="20210522"></div>
+            <p id="avocado"><strong>2021年05月22日</strong></p>
+            <p><img src="gallery/avocado/avo20210522 (1).jpg" alt="アボカド75"></p>
+            <div class="accbox">
+              <input type="checkbox" id="043" class="cssacc" />
+
+              <label for="043"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
+              <div class="accshow">
+                <p><img src="gallery/avocado/avo20210522 (3).jpg" alt="アボカド77"></p>
+                <p><img src="gallery/avocado/avo20210522 (2).jpg" alt="アボカド76"></p>
+                <p>2021年05月22日、東京都杉並区9時現在の気温は20℃。
+                  <br><br>
+                  最高気温は、26℃の予報です。
+                  <br><br>
+                  葉が上に開いたこともあり、背丈が131.5cmと急に高くなりました。
+                  <br><br>
+                  存在感が大きくなりました。
+                  <br><br>
+                  既に沖縄や九州は梅雨になりました、平年よりとても早いです。
+                  <br><br>
+                  そして、東京は既にジメジメして梅雨のような天気がが続いています。
+                  <br><br>
+                  明日から数日晴れ間がある予報ですが、今日の天気予報が晴れから曇りに変わったように変化するかもしれません。
+                  <br><br>
+                  しばらく陽に当たっていませんが、今のところ元気そうです。
+                  <br><br>
+                  この調子なら、梅雨を乗り越えられそうで安心しました。
                 </p>
               </div>
             </div>
