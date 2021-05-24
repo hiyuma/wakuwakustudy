@@ -53,9 +53,7 @@
           <img id="top-img" src="gallery/top/techtop.jpg" alt="">
         </p>
         <br>
-        <p>IT関連の技術的な日記を書くかもしれないし、書かないかもしれないです。
-          <br><br>
-          <em2>※2021年3月現在、フリーランス活動とTOEIC試験勉強中のため、更新頻度が低くなっています。</em2>
+        <p>プログラミングやIT関連の技術的な日記を書くかもしれないし、書かないかもしれないです。
         </p>
         <br>
         <h3><i class="far fa-list-alt"></i>Technical diary list</h3>
@@ -64,6 +62,7 @@
           <div id="schedule0" class="schedule_list">
             <ol reversed>
 
+              <li><a href="#20210516"> 2021年05月24日 基本情報処理技術者試験 ⑱「午前試験　ストラテジ系　過去問⑫」
               <li><a href="#20210516"> 2021年05月16日 基本情報処理技術者試験 ⑰「午前試験　マネジメント系　過去問⑪」
               <li><a href="#20210515"> 2021年05月15日 基本情報処理技術者試験 ⑯「午前試験　テクノロジ系　過去問⑩」
               <li><a href="#20210514"> 2021年05月14日 基本情報処理技術者試験 ⑮「午前試験　テクノロジ系　過去問⑨」
@@ -179,6 +178,1153 @@
         <br>
       </div>
           --------------------------------- -->
+
+        <div id="20210524"></div>
+        <div class="schedule_wrapper">
+          <br>
+          <p id="avocado">2021年05月24日 <i class="fas fa-laptop-code"></i>基本情報処理技術者試験</p>
+          <h2 id="title">「午前試験　ストラテジ系　過去問⑫」</h2>
+
+
+
+          <div class="accbox">
+
+            <p><img src="gallery/techimg/20210517/feQuiz12.png" alt="基本情報処理技術者試験 過去問⑫"></p>
+
+
+
+            <div class="accbox">
+
+              <input type="checkbox" id="過去問12" class="cssacc" />
+
+              <label for="過去問12"><span><i class="fas fa-book"></i>READ</span></label>
+              <div class="accshow">
+
+                <div class="accbox">
+                  <h3>第141問　SOA</h3>
+                  <input type="checkbox" id="00141" class="cssacc" />
+
+                  <label for="00141"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成22年秋期　問63</em3>
+                    <p id="feQuestion">SOAを説明したものはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>企業グループ全体の業務プロセスを統合的に管理し，経営資源を有効活用することによって，経営の効率向上を図る考え方のことである。</td>
+                        <td>業務の流れを単位ごとに分析し整理することによって問題点を明確化し，効果的に，また効率よく仕事ができるように継続的に改善する管理手法である。</td>
+                        <td>再利用可能なサービスとしてソフトウェアコンポーネントを構築し，そのサービスを活用することで高い生産性を実現するアーキテクチャである。</td>
+                        <td>自社の業務の一部を，業務システムだけでなく業務そのものを含めて，企画から運用までを一括して外部企業に委託することである。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="0010141a" class="cssacc" />
+
+                      <label for="0010141a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ウ</td>
+                            </tr>
+                            <tr>
+                              <td>再利用可能なサービスとしてソフトウェアコンポーネントを構築し，そのサービスを活用することで高い生産性を実現するアーキテクチャである。</td>
+                            </tr>
+                          </table>
+                          <P>SOA(Service-Oriented Architecture)は、業務上の一処理に相当するソフトウェアで実現されている機能や部品を独立したサービスとし、それらを組み合わせ連携させることで全体のシステムを構築するという手法、またはそのことを指す言葉です。
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+
+                <div class="accbox">
+                  <h3>第142問　アカウンタビリティ</h3>
+                  <input type="checkbox" id="00142" class="cssacc" />
+
+                  <label for="00142"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成25年秋期　問74</em3>
+                    <p id="feQuestion">経営層のアカウンタビリティを説明したものはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>株主やその他の利害関係者に対して，経営活動の内容・実績に関する説明責任を負う。</td>
+                        <td>企業が環境保全に掛けた費用とその効果を定量化して，財務情報として定期的に公表する。</td>
+                        <td>企業倫理に基づいたルール，マニュアル，チェックシステムなどを整備し，法令などを遵守する経営を行う。</td>
+                        <td>投資家やアナリストに対して，投資判断に必要とされる正確な情報を，適時にかつ継続して提供する。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="0010142a" class="cssacc" />
+
+                      <label for="0010142a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ア</td>
+                            </tr>
+                            <tr>
+                              <td>株主やその他の利害関係者に対して，経営活動の内容・実績に関する説明責任を負う。</td>
+                            </tr>
+                          </table>
+                          <P>アカウンタビリティ(Accountability)は、アカウンティング(会計)とレスポンシビリティ(責任)の合成語で「説明責任」と訳されます。元は出資者に対する会計報告の意味で使われていましたが、現在では意味が拡張され「広く社会に影響をもちうる活動を行う団体は、その利害関係者に対して、その活動や権限行使の予定、内容、結果等の報告をする必要がある」という考え方を表しています。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第143問　契約書</h3>
+                  <input type="checkbox" id="00143" class="cssacc" />
+
+                  <label for="00143"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成26年春期　問79</em3>
+                    <p id="feQuestion">ソフトウェア開発を外部業者へ委託する際に，納品後一定の期間内に発見された不具合を無償で修復してもらう根拠となる項目として，契約書に記載するものはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>瑕疵(かし)担保責任</td>
+                        <td>善管注意義務</td>
+                        <td>損害賠償責任</td>
+                        <td>秘密保持義務</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="0010143a" class="cssacc" />
+
+                      <label for="0010143a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ア</td>
+                            </tr>
+                            <tr>
+                              <td>瑕疵(かし)担保責任</td>
+                            </tr>
+                          </table>
+                          <P>瑕疵担保責任(かしたんぽせきにん)は、売買などの有償契約において受け渡された目的物や権利関係に瑕疵がある場合に、一定期間の間、売主が買主に対して負う責任のことをいいます。<br><br>
+                            担保責任の内容には、損害賠償や契約の解除、受け渡し物の修正・回復、代金の減額などがあります。
+                            <br><br>
+                            民法上では「事の目的物に瑕疵があるときは、注文者は、請負人に対し、相当の期間を定めて、その瑕疵の修補を請求することができる」と請負人の担保責任について定められています。
+                            <br><br>
+                            ※瑕疵(かし)…一般的には備わっているにもかかわらず本来あるべき機能・品質・性能・状態が備わっていないこと。
+
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第144問　XBRL</h3>
+                  <input type="checkbox" id="00144" class="cssacc" />
+
+                  <label for="00144"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成22年秋期　問71</em3>
+                    <p id="feQuestion">XBRLを説明したものはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>インターネットのホームページにおける画像，音声，ビデオなどを含むページを表現できるページ記述言語である。</td>
+                        <td>テキストや画像だけでなく，レイアウトやフォントの情報などもファイルに納めることができる文書表示用のフォーマットである。</td>
+                        <td>当初は小型コンピュータ用に開発された，様々な帳票を簡単に作成することを主たる目的としたプログラム言語である。</td>
+                        <td>文書情報やデータの構造を記述するためのマークアップ言語であるXMLを，財務情報の交換に応用したデータ記述言語である。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="0010144a" class="cssacc" />
+
+                      <label for="0010144a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>エ</td>
+                            </tr>
+                            <tr>
+                              <td>文書情報やデータの構造を記述するためのマークアップ言語であるXMLを，財務情報の交換に応用したデータ記述言語である。</td>
+                            </tr>
+                          </table>
+                          <P>XBRL(eXtensible Business Reporting Language)は、各種財務報告用の情報を電子化して作成・流通・利用できるように標準化されたXMLベースの言語です。
+                            <br><br>
+
+                            国内では日本公認会計士協会等が中心となって設立したXBRL Japanが作成、普及、啓蒙活動を行っており、2005年7月20日にJIS化(JIS X 7206)されています。
+                            <br><br>
+
+                            XBRLに対応した代表的なシステムは国税庁のe-Tax(電子申告・電子納税システム 財務諸表部分に使用)など。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第145問　OtoO</h3>
+                  <input type="checkbox" id="00145" class="cssacc" />
+
+                  <label for="00145"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">ネットビジネスでのOtoOの説明はどれか</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>基本的なサービスや製品を無料で提供し，高度な機能や特別な機能については料金を課金するビジネスモデルである。
+                        </td>
+                        <td>顧客仕様に応じたカスタマイズを実現するために，顧客からの注文後に最終製品の生産を始める方式である。</td>
+                        <td>電子商取引で，代金を払ったのに商品が届かない，商品を送ったのに代金が支払われないなどのトラブルが防止できる仕組みである。</td>
+                        <td>モバイル端末などを利用している顧客を，仮想店舗から実店舗に，又は実店舗から仮想店舗に誘導しながら，購入につなげる仕組みである。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="0010145a" class="cssacc" />
+
+                      <label for="0010145a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>エ</td>
+                            </tr>
+                            <tr>
+                              <td>モバイル端末などを利用している顧客を，仮想店舗から実店舗に，又は実店舗から仮想店舗に誘導しながら，購入につなげる仕組みである。</td>
+                            </tr>
+                          </table>
+                          <P>OtoO(Online to Offline)は、インターネット上(オンライン)から実世界(オフライン)への行動（またはその逆）を促進するマーケティング施策のことです。インターネット上で販売促進キャンペーンや割引クーポンを展開し、顧客を実世界の店舗に誘導するなどの例があります。モバイルアプリの提供やSNSでの発信、ECサイトと実店舗の連携など様々な形態があります。
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第146問　ソーシャルメディア</h3>
+                  <input type="checkbox" id="00146" class="cssacc" />
+
+                  <label for="00146"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">ソーシャルメディアの説明はどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>ECサイトが販売する商品を自分のWebページで紹介し，それを見た人が商品を購入した場合，購入額に応じた報酬をECサイトから受け取る仕組み</td>
+                        <td>携帯電話などの位置情報を利用して，周辺の店舗などから利用者に対して，リアルタイムに広告を配信する仕組み</td>
+                        <td>ターゲットとなるキーワードをあらかじめ指定し，そのキーワードが検索に用いられたときに広告が表示される仕組み</td>
+                        <td>利用者同士のつながりを促進することで，インターネットを介して利用者が発信する情報を多数の利用者に幅広く伝播させる仕組み</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="0010146a" class="cssacc" />
+
+                      <label for="0010146a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>エ</td>
+                            </tr>
+                            <tr>
+                              <td>利用者同士のつながりを促進することで，インターネットを介して利用者が発信する情報を多数の利用者に幅広く伝播させる仕組み</td>
+                            </tr>
+                          </table>
+                          <P>ソーシャルメディア(Social Media)は、従来からある情報を提供する側と情報を閲覧する側という形態ではなく、ユーザが主体的に参加でき、個人の情報を共有することで社会的な結びつき要素が構築されるように設計されたメディアの総称です。<br><br>
+                            ブログやSNS、TwitterなどのWebサービスは、個人がコミュニティに向けて情報を発信し、別の個人がそれに対する反応を投稿できるなど多数の人々が参加する双方向のコミュニケーションができるような仕組みになっています。
+
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第147問　SFA(Sales Force Automation)</h3>
+                  <input type="checkbox" id="00147" class="cssacc" />
+
+                  <label for="00147"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成23年特別　問68</em3>
+                    <p id="feQuestion">SFA(Sales Force Automation)の基本機能の一つであるコンタクト管理について説明しているものはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>営業担当者からの問合せに対して迅速に回答することによって，営業効率を高める。</td>
+                        <td>顧客への対応を営業担当者が個別に行うのではなく，営業組織全体で行うことによって受注率を向上させる。</td>
+                        <td>顧客訪問日，営業結果などの履歴を管理し，見込客や既存客に対して効果的な営業活動を行う。</td>
+                        <td>個人レベルで蓄積している営業テクニックを洗い出して共有化し，営業部門全体のレベル向上を図る。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="0010147a" class="cssacc" />
+
+                      <label for="0010147a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ウ</td>
+                            </tr>
+                            <tr>
+                              <td>顧客訪問日，営業結果などの履歴を管理し，見込客や既存客に対して効果的な営業活動を行う。</td>
+                            </tr>
+                          </table>
+                          <P>SFA(Sales Force Automation)とは、IT技術やネットワーク技術を活用して、営業部門の業務を支援し営業成績の向上を図る経営手法です。
+                            <br><br>
+                            コンタクト管理は、顧客との商談の履歴を記録しておく機能で、商談の進捗(経緯)を管理することを目的としています。また進捗状況を営業部門全体で共有することにより部門全体で戦略的な営業方法を策案することも可能となります。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第148問　プロット</h3>
+                  <input type="checkbox" id="00148" class="cssacc" />
+
+                  <label for="00148"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成26年春期　問77</em3>
+                    <p id="feQuestion">図は，製品の製造上のある要因の値xと品質特性の値yとの関係をプロットしたものである。この図から読み取れることはどれか。</p>
+                    <p><img src="gallery/techimg/20210517/プロット.png" alt="プロット"></p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>xからyを推定するためには，2次回帰係数の計算が必要である。</td>
+                        <td>xからyを推定するための回帰式は，yからxを推定する回帰式と同じである。</td>
+                        <td>xとyの相関係数は正である。</td>
+                        <td>xとyの相関係数は負である。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="0010148a" class="cssacc" />
+
+                      <label for="0010148a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>エ</td>
+                            </tr>
+                            <tr>
+                              <td>xとyの相関係数は負である。</td>
+                            </tr>
+                          </table>
+                          <P>散布図は、縦軸、横軸に2項目の量や大きさ等を対応させ、データを点でプロットしたもので2項目間の分布・相関関係を把握するのに用いられます。
+                            <br><br>
+                            データ群が右上がりに分布する傾向であれば正の相関があり、右下がりに分布する傾向であれば負の相関があると認められます。相関係数が0であれば無相関となります。
+                            相関係数は-1 ～ 1の間の実数値をとり、-1 に近ければ負の相関、1 に近ければ正の相関があるといいます。0 に近いときには２項目間の相関は弱くなります。
+                            <br><br>
+                            ちなみに負の相関といっても正に比べて関連性が弱いわけではありません。正負の方向は相関の強さには関係なく、より相関係数の絶対値が大きいものが強い相関性をもつことを示します。
+
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第149問　調達計画・実施</h3>
+                  <input type="checkbox" id="00149" class="cssacc" />
+
+                  <label for="00149"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成30年春期　問65</em3>
+                    <p id="feQuestion">国や地方公共団体などが，環境への配慮を積極的に行っていると評価されている製品・サービスを選んでいる。この取組みを何というか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>CSR</td>
+                        <td>エコマーク認定</td>
+                        <td>環境アセスメント</td>
+                        <td>グリーン購入</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="0010149a" class="cssacc" />
+
+                      <label for="0010149a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>エ</td>
+                            </tr>
+                            <tr>
+                              <td>グリーン購入</td>
+                            </tr>
+                          </table>
+                          <P>グリーン購入とは、製品やサービスを購入する際に、環境を考慮して、必要性をよく考え、環境への負荷ができるだけ少ないものを選んで購入することです。
+                            <br><br>
+                            平成13年4月から、グリーン購入法（国等による環境物品等の調達の推進等に関する法律）が施行されました。この法律は、国等の機関にグリーン購入を義務づけるとともに、地方公共団体や事業者・国民にもグリーン購入に努めることを求めています。
+                            (環境省HPより引用)
+
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第150問　CRM(Customer Relationship Management)</h3>
+                  <input type="checkbox" id="00150" class="cssacc" />
+
+                  <label for="00150"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">CRM(Customer Relationship Management)に関する説明として，適切なものはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>営業部門だけではなく企業内のすべての顧客チャネルで情報を共有し，サービスのレベルを引き上げて顧客満足度を高め，収益向上に結びつける考え方である。</td>
+                        <td>卸売業者・メーカが，小売店の経営活動を支援してその売上と利益を伸ばすことによって，自社との取引拡大につなげる方法である。</td>
+                        <td>企業全体の経営資源を有効かつ総合的に計画・管理し，経営の効率化を図るための手法である。</td>
+                        <td>生産，在庫，購買，販売，物流などのすべての情報をリアルタイムに交換することによって，サプライチェーン全体の効率を大幅に向上させる経営手法である。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="0010150a" class="cssacc" />
+
+                      <label for="0010150a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ア</td>
+                            </tr>
+                            <tr>
+                              <td>営業部門だけではなく企業内のすべての顧客チャネルで情報を共有し，サービスのレベルを引き上げて顧客満足度を高め，収益向上に結びつける考え方である。</td>
+                            </tr>
+                          </table>
+                          <P>CRM(Customer Relationship Management)は、顧客に関するあらゆる情報を統合管理し、企業活動に役立てる経営手法です。顧客との長期的な関係を築くことを重視し、顧客の満足度と利便性を高めることで、それぞれの顧客からの収益率を最大化することを目的としています。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第151問　システム管理基準</h3>
+                  <input type="checkbox" id="00151" class="cssacc" />
+
+                  <label for="00151"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成28年春期　問63</em3>
+                    <p id="feQuestion">"システム管理基準"によれば，情報戦略策定段階の成果物はどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>関連する他の情報システムと役割を分担し，組織体として最大の効果を上げる機能を実現するために，全体最適化計画との整合性を考慮して策定する開発計画</td>
+                        <td>経営戦略に基づいて組織体全体で整合性及び一貫性を確保した情報化を推進するために，方針及び目標に基づいて策定する全体最適化計画</td>
+                        <td>情報システムの運用を円滑に行うために，運用設計及び運用管理ルールに基づき，さらに規模，期間，システム特性を考慮して策定する運用手順</td>
+                        <td>組織体として一貫し，効率的な開発作業を確実に遂行するために，組織体として標準化された開発方法に基づいて策定する開発手順</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00151a" class="cssacc" />
+
+                      <label for="00151a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>イ</td>
+                            </tr>
+                            <tr>
+                              <td>経営戦略に基づいて組織体全体で整合性及び一貫性を確保した情報化を推進するために，方針及び目標に基づいて策定する全体最適化計画</td>
+                            </tr>
+                          </table>
+                          <P>全体最適化計画とは、組織内の個々のシステムが有機的に関連し、相互の整合性を保ちながら効率的かつ効果的に目的を達成するように、組織体全体の情報システムをあるべき姿に改善していくための計画です。情報戦略では、情報化投資の原則や全体最適化の方針・目標を明確にし、経営方針や中長期計画との整合性をもった全体最適化計画を策定するとされています。
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第152問　IoT(Internet of Things)</h3>
+                  <input type="checkbox" id="00152" class="cssacc" />
+
+                  <label for="00152"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">IoT(Internet of Things)の実用例として，適切でないものはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>インターネットにおけるセキュリティの問題を回避する目的で，サーバに接続せず，単独でファイルの管理，演算処理，印刷処理などの作業を行うコンピュータ</td>
+                        <td>大型の機械などにセンサと通信機能を内蔵して，稼働状況，故障箇所，交換が必要な部品などを，製造元がインターネットを介してリアルタイムに把握できるシステム</td>
+                        <td>検針員に代わって，電力会社と通信して電力使用量を送信する電力メータ</td>
+                        <td>自動車同士及び自動車と路側機が通信することによって，自動車の位置情報をリアルタイムに収集して，渋滞情報を配信するシステム</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00152a" class="cssacc" />
+
+                      <label for="00152a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ア</td>
+                            </tr>
+                            <tr>
+                              <td>インターネットにおけるセキュリティの問題を回避する目的で，サーバに接続せず，単独でファイルの管理，演算処理，印刷処理などの作業を行うコンピュータ</td>
+                            </tr>
+                          </table>
+                          <P>IoT(Internet of Things，モノのインターネット)は、情報端末ではない電子機器や機械類などの「モノ」にインターネット接続・通信機能やセンサー機能を持たせ、それらの機器が情報を相互にやり取りすることで自律的な制御を行わせる仕組みを指す言葉です。
+                            <br><br>
+                            「ア」の事例は、インターネットに接続せずに単独で作業を行うケースであるためIoTの例としては不適切です。
+
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第153問　ソーシャルメディア</h3>
+                  <input type="checkbox" id="00153" class="cssacc" />
+
+                  <label for="00153"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成27年秋期　問73</em3>
+                    <p id="feQuestion">ソーシャルメディアをビジネスにおいて活用している事例はどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>営業部門が発行部数の多い雑誌に商品記事を頻繁に掲載し，商品の認知度の向上を目指す。</td>
+                        <td>企業が自社製品の使用状況などの意見を共有する場をインターネット上に設けて，製品の改善につなげる。</td>
+                        <td>企業が市場の変化に合わせた経営戦略をビジネス専門誌に掲載し，企業の信頼度向上を目指す。</td>
+                        <td>企業の研究者が，国内では販売されていない最新の専門誌をネット通販で入手して，研究開発の推進につなげる。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00153a" class="cssacc" />
+
+                      <label for="00153a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>イ</td>
+                            </tr>
+                            <tr>
+                              <td>企業が自社製品の使用状況などの意見を共有する場をインターネット上に設けて，製品の改善につなげる。</td>
+                            </tr>
+                          </table>
+                          <P>ソーシャルメディア(Social Media)とは、TwitterやFaceBookなどのSNSや"クチコミサイト"に代表されるような、多くの利用者が情報を発信し合い双方向のコミュニケーションをとることを主目的としたコミュニティ型メディアの総称です。最近はスマートフォンの普及と相まって顧客とのコミュニケーション、企業情報の発信、キャンペーン活動などにソーシャルメディアを活用する動きが活発になっています。
+                            <br><br>
+                            ソーシャルメディアはインターネット上のサイトとして構築されるため、適切な活用事例は「イ」です。
+
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第154問　不正競争防止法</h3>
+                  <input type="checkbox" id="00154" class="cssacc" />
+
+                  <label for="00154"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成25年春期　問78</em3>
+                    <p id="feQuestion">不正競争防止法によって保護される対象として規定されているものはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>自然法則を利用した技術的思想の創作のうち高度なものであって，プログラム等を含む物と物を生産する方法</td>
+                        <td>著作物を翻訳し，編曲し，若しくは変形し，又は脚色し，映画化し，その他翻案することにより創作した著作物</td>
+                        <td>秘密として管理されている事業活動に有用な技術上又は営業上の情報であって，公然と知られていないもの</td>
+                        <td>法人等の発意に基づきその法人等の業務に従事する者が職務上作成するプログラム著作物</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00154a" class="cssacc" />
+
+                      <label for="00154a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ウ</td>
+                            </tr>
+                            <tr>
+                              <td>秘密として管理されている事業活動に有用な技術上又は営業上の情報であって，公然と知られていないもの</td>
+                            </tr>
+                          </table>
+                          <P>不正競争防止法は、事業者間の公正な競争と国際約束の的確な実施を確保するため、不正競争の防止を目的として設けられた法律です。<br><br>
+                            この法律の第2条6項において保護の対象となる営業秘密について「秘密として管理されている生産方法、販売方法その他の事業活動に有用な技術上又は営業上の情報であって、公然と知られていないものをいう。」と定義されています。
+
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第155問　SWOT分析</h3>
+                  <input type="checkbox" id="00155" class="cssacc" />
+
+                  <label for="00155"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">SWOT分析において，一般に脅威として位置付けられるものはどれか。
+                    </p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>競合他社に比べて高い生産効率</td>
+                        <td>事業ドメインの高い成長率</td>
+                        <td>市場への強力な企業の参入</td>
+                        <td>低いマーケットシェア</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00155a" class="cssacc" />
+
+                      <label for="00155a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ウ</td>
+                            </tr>
+                            <tr>
+                              <td>市場への強力な企業の参入</td>
+                            </tr>
+                          </table>
+                          <P>SWOT分析は、企業の置かれている経営環境を分析し、今後の戦略立案に活かす手法のひとつです。
+                            <br><br>
+                            SWOT分析では組織内外の様々な経営環境要因を、S(Strength，強み)、W(Weakness，弱み・弱点)、O(Opportunity，機会)、T(Threat，脅威)の4つに分類します。
+                            <br><br>
+                            このうち強みと弱みは企業の内部要因、機会と脅威は外部環境要因とされます。つまり脅威のカテゴリーには、外部環境要因のうち組織経営にマイナスの影響を与え得るものが分類されます。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第156問　BPM</h3>
+                  <input type="checkbox" id="00156" class="cssacc" />
+
+                  <label for="00156"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成24年秋期　問62</em3>
+                    <p id="feQuestion">BPMの説明はどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>企業活動の主となる生産，物流，販売，財務，人事などの業務の情報を一元管理することによって，経営資源の全体最適を実現する。</td>
+                        <td>業務プロセスに分析，設計，実行，改善のマネジメントサイクルを取り入れ，業務プロセスの改善見直しや最適なプロセスへの統合を継続的に実施する。</td>
+                        <td>顧客データベースを基に，商品の販売から保守サービス，問合せやクレームへの対応など顧客に関する業務プロセスを一貫して管理する。</td>
+                        <td>部品の供給から製品の販売までの一連の業務プロセスの情報をリアルタイムで交換することによって，在庫の削減とリードタイムの短縮を実現する。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00156a" class="cssacc" />
+
+                      <label for="00156a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>イ</td>
+                            </tr>
+                            <tr>
+                              <td>業務プロセスに分析，設計，実行，改善のマネジメントサイクルを取り入れ，業務プロセスの改善見直しや最適なプロセスへの統合を継続的に実施する。</td>
+                            </tr>
+                          </table>
+                          <P>BPM(Business Process Management)は、BPR(Business Process Reengineering)のように一回限りの革命的な変化でなく、組織が繰り返し行う日々の業務のなかで継続的にビジネスプロセスの発展を目指していくための技術・手法です。<br><br>他のマネジメントプロセスと同様に「業務分析及び設計→実行→監視→改善」というPDCAサイクルを繰り返して継続的な改善活動を行います。
+
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第157問　損益分岐点</h3>
+                  <input type="checkbox" id="00157" class="cssacc" />
+
+                  <label for="00157"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3></em3>
+                    <p id="feQuestion">損益分岐点の特性を説明したものはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>固定費が変わらないとき，変動費率が低くなると損益分岐点は高くなる。</td>
+                        <td>固定費が変わらないとき，変動費率の変化と損益分岐点の変化は正比例する。</td>
+                        <td>損益分岐点での売上高は，固定費と変動費の和に等しい。</td>
+                        <td>変動費率が変わらないとき，固定費が小さくなると損益分岐点は高くなる。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00157a" class="cssacc" />
+
+                      <label for="00157a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>イ</td>
+                            </tr>
+                            <tr>
+                              <td>損益分岐点での売上高は，固定費と変動費の和に等しい。</td>
+                            </tr>
+                          </table>
+                          <P>解き方としては、損益分岐点を求める公式に、当てはめて考えることで正誤を判断していきます。
+                            <br><br>
+                            「損益分岐点」＝固定費 ÷ (1－変動費率)
+                            <br><br>
+                            この公式を見ると、"固定費または変動費率が小さいほど、損益分岐点は低くなる関係にあること"がわかります。
+                            損益分岐点とは、売上と費用(固定費＋変動費)が同じ金額になり、利益がゼロとなる売上高のことです。
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第158問　OJT</h3>
+                  <input type="checkbox" id="00158" class="cssacc" />
+
+                  <label for="00158"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成29年秋期　問76</em3>
+                    <p id="feQuestion">OJTの特徴はどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>一般化された知識や技術に重点を置いた教育が受けられる。</td>
+                        <td>上司や先輩が実務に密着して実践的に知識や技術を教育するので，必要な能力が習得できる。</td>
+                        <td>上司や先輩の資質によらず，一定水準の業務知識が身に付けられる。</td>
+                        <td>職場から離れて教育に専念できる。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00158a" class="cssacc" />
+
+                      <label for="00158a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>イ</td>
+                            </tr>
+                            <tr>
+                              <td>上司や先輩が実務に密着して実践的に知識や技術を教育するので，必要な能力が習得できる。</td>
+                            </tr>
+                          </table>
+                          <P>OJT(On the Job Training)は、職場内訓練とも呼ばれ、実際の現場で上司や先輩の指導のもとで仕事を体系的・計画的に習得させていく教育方法です。主に原理を知ることではなく業務遂行をできることを目的とした指導を行うときに行われる教育方法です。
+                            <br><br>
+                            実際の現場で行われるOJTに対して、主に業務に当たる上で求められる理論や原理を学ぶことを目的として、職場を離れた場所で行われる人材教育(研修や勉強会)をOff-JTと言います。
+
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第159問　</h3>
+                  <input type="checkbox" id="00159" class="cssacc" />
+
+                  <label for="00159"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成26年春期　問74</em3>
+                    <p id="feQuestion">携帯電話端末の機能の一つであるテザリングの説明として，適切なものはどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>携帯電話端末に，異なる通信事業者のSIMカードを挿して使用すること</td>
+                        <td>携帯電話端末をモデム又はアクセスポイントのように用いて，PC，ゲーム機などから，インターネットなどを利用したデータ通信をすること</td>
+                        <td>契約している通信事業者のサービスエリア外でも，他の事業者のサービスによって携帯電話端末を使用すること</td>
+                        <td>通信事業者に申し込むことによって，青少年に有害なサイトなどを携帯電話端末に表示しないようにすること</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00159a" class="cssacc" />
+
+                      <label for="00159a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>イ</td>
+                            </tr>
+                            <tr>
+                              <td>携帯電話端末をモデム又はアクセスポイントのように用いて，PC，ゲーム機などから，インターネットなどを利用したデータ通信をすること</td>
+                            </tr>
+                          </table>
+                          <P>テザリング(Tethering)は、モバイル情報通信端末(スマートフォンなど)がもつ携帯回線などのインターネット接続機能を介して、モバイル端末に接続された他のコンピュータをインターネットに接続することです。<br><br>
+                            利用者側にはADSLや光ファイバなどの環境や、データ通信カードなどを新たに契約することなしに、電話機からの接続のみでインターネットが利用できるというメリットがあります。
+
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accbox">
+                  <h3>第160問　要件定義</h3>
+                  <input type="checkbox" id="00160" class="cssacc" />
+
+                  <label for="00160"><span><i class="fas fa-book"></i>READ</span></label>
+                  <div class="accshow">
+
+                    <em3>平成22年春期　問66</em3>
+                    <p id="feQuestion">要件定義の段階で行う作業はどれか。</p>
+
+
+                    <h4>選択肢</h4>
+                    <table id="feSelection">
+                      <tr>
+                        <td>ア</td>
+                        <td>イ</td>
+                        <td>ウ</td>
+                        <td>エ</td>
+                      </tr>
+                      <tr>
+                        <td>新たに構築する業務とシステムの仕様を明確化し，システム化範囲を明示する。</td>
+                        <td>顧客が記述したニーズに合ったソフトウェアを開発する。</td>
+                        <td>事業の目的，目標を達成するために必要なシステム化の方針を立案する。</td>
+                        <td>ソフトウェア製品の運用及び利用者に対する運用支援を行う。</td>
+                      </tr>
+                    </table>
+
+                    <div id="answer">
+                      答え
+                      <input type="checkbox" id="00160a" class="cssacc" />
+
+                      <label for="00160a"><span>READ</span></label>
+                      <div class="accshow">
+
+                        <h4>正解</h4>
+                        <div class="accbox">
+                          <table id="feSelection">
+                            <tr>
+                              <td>ア</td>
+                            </tr>
+                            <tr>
+                              <td>新たに構築する業務とシステムの仕様を明確化し，システム化範囲を明示する。</td>
+                            </tr>
+                          </table>
+                          <P>要件定義プロセスは次の通りです。<br><br>
+                            利害関係者ニーズの識別と制約事項の定義を行い、新たに構築する業務、システムの仕様、及びIT化の範囲と機能を明確にし、それらをシステム取得者側の利害関係者間で合意する。
+                            <br><br>
+                          </p>
+                          <em3><a href="https://www.fe-siken.com/">参考・引用：基本情報技術者試験.com</a></em3>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
 
         <div id="20210516"></div>
         <div class="schedule_wrapper">
@@ -2711,7 +3857,7 @@
               </div>
             </div>
           </div>
-        </div> -->
+        </div>
 
 
 
