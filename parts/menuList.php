@@ -11,8 +11,7 @@
     <li><i class="fas fa-money-check-alt"></i> <a href="smt.php">INVESTMENT</a></li>
     <li><i class="far fa-newspaper"></i> <a href="#news">NEWS</a></li>
     <li><i class="fas fa-film"></i> <a href="movie.php">MOVIE </a></li>
-    <li><i class="fas fa-headphones-alt"></i> <a href="music.php">MUSIC
-        ※NEW</a></li>
+    <li><i class="fas fa-headphones-alt"></i> <a href="music.php">MUSIC</a></li>
     <li><i class="fas fa-camera-retro"></i> <a href="gallery.php">PHOTO
       </a></li>
     <li><i class="fas fa-code"></i> <a href="#programming">PROGRAMMING</a>
