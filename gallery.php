@@ -76,7 +76,7 @@
         <div id="日常"></div>
         <h4><span class="material-icons">photo_camera</span>
           日常　<span class="material-icons">local_florist</span></i></h4>
-        
+
         <div id="route-line"></div>
         <p>日常的に撮影した写真をランダムに掲載します。
           <br><br>
@@ -96,16 +96,16 @@
 
           <div class="accshow">
             <div id="lightgallery10" class="album">
-            <?php
-              $x = 123;
-              while ($x < 295) {
+              <?php
+              $x = 307;
+              while ($x > 122) {
                 echo '<a href="gallery2/2021年日常/favorite (' . $x . ').jpg" target="blank">
                 <img src="gallery2/2021年日常/resize/favorite (' . $x . ')small.jpg" alt=""></a>';
-                $x++;
+                $x--;
               }
               ?>
 
-          
+
             </div>
           </div>
         </div>
@@ -114,7 +114,7 @@
         <div id="2008京都"></div>
         <h4><span class="material-icons">photo_camera</span>
           2008年4月 東京都⇔京都往復　自転車旅（7日間：清水寺）　<i class="fas fa-biking"></i></h4>
-        
+
         <p>当時、フリーランスで美容師とイベント主催をしていました。その関係もあり、フリーペーパー”Re:love”にて自転車旅を特集していただきました。
         <p>
         <div id="gallery-introduce"><img src="gallery/diary/Relove1.jpg" alt="フリーペーパーRe:loveで特集していただきました">
@@ -321,7 +321,7 @@
         <div id="2011福島"></div>
         <h4><span class="material-icons">photo_camera</span>
           2011年12月 東京都⇔福島県往復　自転車旅（7日間：相馬市）　<i class="fas fa-biking"></i></h4>
-        
+
         <p>2011年3月11日。東日本大震災。その被害の大きさを目の当たりにしてきました。福島県いわき市、相馬市の仮設住宅にてヘアカットのボランティアをさせていただきました。</p>
 
         <div id="route-line"></div>
@@ -353,7 +353,7 @@
         <div id="2012鋸山"></div>
         <h4><span class="material-icons">photo_camera</span>
           2012年11月 東京都⇔千葉県鋸山往復　自転車旅（5日間）　<i class="fas fa-biking"></i></h4>
-        
+
         <div id="route-line"></div>
         <div id="route"><i class="fas fa-biking"></i>Route：約250km
           <br>東京都杉並区→東京都新宿酉の市→千葉県船橋→千葉県習志野→千葉県袖ヶ浦→千葉県木更津→千葉県君津→千葉県富津→鋸山→千葉県富津→千葉県君津→千葉県袖ヶ浦→千葉県船橋→東京都杉並区
@@ -511,7 +511,7 @@
         <div id="2013長野"></div>
         <h4><span class="material-icons">photo_camera</span>
           2013年02月18日 長野県パーティ"NagaNo" @ 中目黒Solfa　<i class="fas fa-glass-cheers"></i></h4>
-        
+
         <div id="route-line"></div>
         <div id="route">
           長野県に特化し、長野県の魅力を周知する目的で主催したイベントも今回で4回目。<br><br>
@@ -548,7 +548,7 @@
         <div id="2013横浜みなとみらい"></div>
         <h4><span class="material-icons">photo_camera</span>
           2013年08月 "09EDGE" CRUISE'13 @ 横浜湾みなとみらいナイトクルージング　<i class="fas fa-glass-cheers"></i></h4>
-        
+
 
         <div id="route-line"></div>
         <div id="route">
@@ -943,16 +943,16 @@
 
           <div class="accshow">
             <div id="lightgallery8" class="album">
-            <?php
+              <?php
               $x = 40;
-              while ($x < 83) {
+              while ($x < 125) {
                 echo '<a href="gallery2/和田堀公園/和田堀公園 (' . $x . ').jpg" target="blank">
                 <img src="gallery2/和田堀公園/resize/和田堀公園 (' . $x . ')small.jpg" alt=""></a>';
                 $x++;
               }
               ?>
 
-          
+
             </div>
           </div>
         </div>
