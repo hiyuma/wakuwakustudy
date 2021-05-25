@@ -59,38 +59,38 @@
               <?php include('parts/facebook_twitter_button.php'); ?>
               <ul class="studylist slide-in-animation">
                      <span><i class="fas fa-paw"></i><a href="jspractice/omikuji.php"> 今 日 の ね こ ち ゃ ん お み く じ<br>
-                     <span><i class="far fa-hand-scissors"></i><a href="janken.php"> ね こ ち ゃ ん ジャ ン ケ ン </a></span>
-                     <br>
+                                   <span><i class="far fa-hand-scissors"></i><a href="janken.php"> ね こ ち ゃ ん ジャ ン ケ ン </a></span>
+                                   <br>
 
-                     <br><br>
-                     <em4>※現在、このWEBサイトは独学にて作成中のため、無意味・未完成箇所が複数あります。
-                            <br>　急にデザインが変わることがあります。
-                     </em4>
-                     <br><br>
-                     <div class="line">STUDY LIST <i class="fas fa-pencil-alt"></i></div>
-                     <div class="items"><span style="font-weight: normal;"><?php include('parts/weekly.php'); ?></span>
+                                   <br><br>
+                                   <em4>※現在、このWEBサイトは独学にて作成中のため、無意味・未完成箇所が複数あります。
+                                          <br>　急にデザインが変わることがあります。
+                                   </em4>
+                                   <br><br>
+                                   <div class="line">STUDY LIST <i class="fas fa-pencil-alt"></i></div>
+                                   <div class="items"><span style="font-weight: normal;"><?php include('parts/weekly.php'); ?></span>
 
-                            <div class="accbox2">
-                                   <input type="checkbox" id="studylistopen" class="cssacc2">
-                                   <label for="studylistopen"></label>
+                                          <div class="accbox2">
+                                                 <input type="checkbox" id="studylistopen" class="cssacc2">
+                                                 <label for="studylistopen"></label>
 
-                                   <div class="accshow2">
-                                          <li>PROGRAMMING</li>
-                                          <div class="info-children"><span>WEBアプリケーション開発（PHP / AWS ）</span></div>
-                                          <div class="info-children"><span>修学済：HTML / CSS / JavaScript / Java / JSP / Servlet / MySQL / Linux / Git</span></div>
-                                          <li>ENGLISH</li>
-                                          <div class="info-children"><span>Dictation ( スタディサプリ ) </span></div>
-                                          <div class="info-children"><span>Word / Listening / Writing ( スタディサプリ ) /
-                                                        Listening ( NHK即レス英会話 , MOVIES ）</span></div>
-                                          <div class="info-children"><span>Online Conversation ( Native Camp ）</span></div>
-                                          <li>INVESTMENT</li>
-                                          <div class="info-children"><span>LINE証券 / LINEスマート投資 / つみたてNISA</span>
+                                                 <div class="accshow2">
+                                                        <li>PROGRAMMING</li>
+                                                        <div class="info-children"><span>WEBアプリケーション開発（PHP / AWS ）</span></div>
+                                                        <div class="info-children"><span>修学済：HTML / CSS / JavaScript / Java / JSP / Servlet / MySQL / Linux / Git</span></div>
+                                                        <li>ENGLISH</li>
+                                                        <div class="info-children"><span>Dictation ( スタディサプリ ) </span></div>
+                                                        <div class="info-children"><span>Word / Listening / Writing ( スタディサプリ ) /
+                                                                      Listening ( NHK即レス英会話 , MOVIES ）</span></div>
+                                                        <div class="info-children"><span>Online Conversation ( Native Camp ）</span></div>
+                                                        <li>INVESTMENT</li>
+                                                        <div class="info-children"><span>LINE証券 / LINEスマート投資 / つみたてNISA</span>
+                                                        </div>
+                                                        <li>QUALIFICATION EXAM</li>
+                                                        <div class="info-children"><span>TOEIC / 応用情報技術者</span></div>
+                                                 </div>
                                           </div>
-                                          <li>QUALIFICATION EXAM</li>
-                                          <div class="info-children"><span>TOEIC / 応用情報技術者</span></div>
                                    </div>
-                            </div>
-                     </div>
               </ul>
 
               <div id="aside">
@@ -353,25 +353,26 @@
 
                                           <li><a href="https://www.jetbrains.com/ja-jp/idea/" target="blank" rel="noopener">IntelliJ IDEA</a>
                                           </li>
+                                          <p>チェコに本社を置くJetBrains社が開発した、Javaなど数多くのプログラミング言語に対応した統合開発環境（IDE）。</p>
                                           <li><a href="https://mergedoc.osdn.jp/" target="blank" rel="noopener">Eclipce</a></li>
-
+                                          <p>コンピュータプログラミングにおいて使用される統合開発環境（IDE）</p>
                                           <li><a href="https://www.apachefriends.org/jp/index.html" target="blank" rel="noopener">XAMPP</a></li>
-
+                                          <p>ウェブアプリケーションの実行に必要なフリーソフトウェアをパッケージとしてまとめたもので、apachefriends.orgから提供されている</p>
                                           <li><a href="https://px.a8.net/svt/ejp?a8mat=3BOCPF+G3ASDU+1JUK+ZS5GI" rel="nofollow" target="blank">XREA</a></li>
+                                          <p>GMOデジロックが運営する、共有型の無料および有料ウェブレンタルサーバサービス</p>
                                           <li><a href="https://px.a8.net/svt/ejp?a8mat=3BOCPF+G3W7ZM+1JUK+HXD0Y" rel="nofollow">VALUE-DOMAIN</a>
+                                                 <p>GMOデジロック株式会社の新規ドメインの登録代行、取得済みドメインのネームサーバーおよび、ドメインを運用するWEBサーバー・メールサーバーを提供するサービス</p>
                                                  <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=3BOCPF+G3W7ZM+1JUK+HXD0Y" alt="">
                                           </li>
 
-                                          <li><a href="https://azure.microsoft.com/ja-jp/products/visual-studio-code/" target="blank" rel="noopener">Visual
-                                                        Studio
-                                                        code</a></li>
+                                          <li><a href="https://azure.microsoft.com/ja-jp/products/visual-studio-code/" target="blank" rel="noopener">Visual Studio Code</a></li>
+                                          <p>Microsoftが開発しているWindows、Linux、macOS用のソースコードエディタ</p>
                                           <li>
                                                  <a href="https://www.mysql.com/jp/products/workbench/" target="blank" rel="noopener">MySQL Workbench</a>
-
+                                                 <p>MySQL Serverと共に配布されているデータベースの設計・開発・管理ができる無料ツール</p>
                                           </li>
                                           <li><a href="http://www2.biglobe.ne.jp/sota/ffftp.html" target="blank" rel="noopener">FFFTP</a></li>
-                                          <li><a href="https://tera-net.com/library/tpad.html" target="blank" rel="noopener">teraPad</a></li>
-                                          <li><a href="https://www.getpaint.net/index.html" target="blank" rel="noopener">paint.net</a></li>
+                                          <p>1997年に曽田純氏によって開発されたFTPクライアントソフトウェア。</p>
                                    </div>
                             </div>
                             <hr style="width: 93%;">
