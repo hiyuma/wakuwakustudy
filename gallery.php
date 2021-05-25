@@ -944,11 +944,11 @@
           <div class="accshow">
             <div id="lightgallery8" class="album">
               <?php
-              $x = 40;
-              while ($x < 125) {
+              $x = 124;
+              while ($x > 39) {
                 echo '<a href="gallery2/和田堀公園/和田堀公園 (' . $x . ').jpg" target="blank">
                 <img src="gallery2/和田堀公園/resize/和田堀公園 (' . $x . ')small.jpg" alt=""></a>';
-                $x++;
+                $x--;
               }
               ?>
 
