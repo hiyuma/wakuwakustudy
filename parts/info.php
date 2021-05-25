@@ -4,6 +4,16 @@
 
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+  
+  <li>2021年05月24日</li>
+  <div class="info-children"><span><a href="gallery.php">PHOTO</a>（日常）更新</span></div>
+
+  <li>2021年05月24日</li>
+  <div class="info-children"><span><a href="gallery.php">PHOTO</a>（和田堀公園）更新</span></div>
+
+  <li>2021年05月24日</li>
+  <div class="info-children"><span><a href="https://developershirai.com/technical-diary.php">TECHNICAL DIARY</a> （基本情報処理技術者試験 ⑱「午前試験　マネジメント系　過去問⑫」）追加</span></div>
+
   <li>2021年05月22日</li>
   <div class="info-children"><span><a href="avocado.php">AVOCADO</a> 更新</span></div>
 

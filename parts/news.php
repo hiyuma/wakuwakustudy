@@ -46,6 +46,25 @@
         </li>
 
     <hr> -->
+        2021年05月24日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC242FX0U1A520C2000000/" target="blank" rel="noopener">
+                東京都、新たに340人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA212TX0R20C21A5000000/" target="blank" rel="noopener">
+                東京・大阪で大規模接種開始　「早く打てて安心した」　モデルナ製を使用</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC218R30R20C21A5000000/" target="blank" rel="noopener">
+                ワクチン副作用は？　ファイザー・モデルナ製の注意点</a>
+        </li>
+
+    <hr>
         2021年05月23日
     
         <li>
