@@ -75,6 +75,7 @@
           <h3>Appreciated list</h3>
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li> <a href="#アラジン">アラジン　☆4.1</a></li>
               <li> <a href="#タイタニック">タイタニック　☆4.2</a></li>
               <li> <a href="#重力ピエロ">重力ピエロ　☆3.9</a></li>
               <li> <a href="#オンネリとアンネリのおうち">オンネリとアンネリのおうち　☆4.0</a></li>
@@ -180,6 +181,78 @@
           </div>
         </div>
 
+        <hr>
+
+        <!-- ※Don't forget to change the label 25 -->
+        <div id="アラジン"></div>
+        <h3 id="movies-title"><strong>アラジン</strong></h3>
+        <div id="movies">
+
+          <div id="movie-photo">
+          <img alt="アラジン" src="https://d2ueuvlup6lbue.cloudfront.net/attachments/17289626fdc72d5fad858f418983f793bb93e07b/store/fitpad/260/364/ebb917b4eb07536e9bcc42bf12aab24ad8477f79f434964eeb223a7bde90/_.jpg" width="300" height="420">
+          </div>
+
+          <div id="movie-info">
+            <p id="th">監督</p>
+            <p id="td">ガイ・リッチー</p>
+            <p id="th">出演</p>
+            <p id="td">メナ・マスード、ナオミ・スコット、ウィル・スミス、ビリー・マグヌッセン、ナヴィド・ネガーバン、カミル・レミシェウスキー、ヌーマン・エイカー、マーワン・ケンザリ、ジョーイ・アンサー、プリヤンカー・サルマール</p>
+            <p id="th">ジャンル</p>
+            <p id="td">アドベンチャー・冒険、ファミリー、ミュージカル</p>
+            <p id="th">上映日</p>
+            <p id="td">2019年06月07日</p>
+            <p id="th">製作国</p>
+            <p id="td">アメリカ</p>
+            <p id="th">上映時間</p>
+            <p id="td">128分</p>
+          </div>
+
+
+          <div id="movie-impressions">
+            <hr>
+            <p id="impression">アラジン <i class="far fa-comment-dots"></i></p>
+            <div id="line"></div>
+
+            <p id="th">鑑賞日</p>
+            <p id="td">2021年05月25日</p>
+            <p id="th">鑑賞方法</p>
+            <p id="td">地上波（金曜ロードショー）</p>
+            <p id="th">評価</p>
+            <p id="td">4.1(/5.0)</p>
+
+            <div id="line"></div>
+            <div class="accbox">
+              <input type="checkbox" id="label25" class="cssacc" />
+              <label for="label25">Summary</label>
+
+              <div class="accshow">
+              ダイヤモンドの心を持ちながら、本当の自分の居場所を探す貧しい青年アラジンが巡り合ったのは、王宮の外の世界での自由を求める王女ジャスミンと、 “３つの願い”を叶えることができる“ランプの魔人”ジーニー。<br>
+              果たして3人はこの運命の出会いによって、それぞれの“本当の願い”に気づき、それを叶えることはできるのだろうか──？
+              </div>
+            </div>
+
+            <div id="line"></div>
+            一番気になっていたジーニーの実写化は、違和感なく全体的に集中して観れました。
+            <br><br>
+            作中の歌やダンスにしっかりディズニーらしさがあり、まるでディズニーランドにいるのかの様なワクワク感もありました。
+
+
+            
+            
+            <div class="accbox">
+              <input type="checkbox" id="label25a" class="cssacc" />
+
+              <label for="label25a" class="closeButton">READ MORE</label>
+
+              <div class="accshow">
+              衣装は、脇役であろうと細部まで鮮やかで、とても手が込んでいてステキです。
+              <br><br>
+              アニメ版のアラジンとは別物の様に感じられ、予想以上にとても楽しめた作品です。
+              </div>
+            </div>
+            <i class="fas fa-video"></i> <a href="https://www.amazon.co.jp/%E3%82%A2%E3%83%A9%E3%82%B8%E3%83%B3-%E5%AD%97%E5%B9%95%E7%89%88-%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%BB%E3%82%B9%E3%83%9F%E3%82%B9/dp/B07X5HWQS4/ref=sr_1_12?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%A2%E3%83%A9%E3%82%B8%E3%83%B3&qid=1622084316&sr=8-12">アラジン</a>
+          </div>
+        </div>
         <hr>
 
         <!-- ※Don't forget to change the label 24 -->
