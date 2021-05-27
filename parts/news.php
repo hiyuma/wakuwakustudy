@@ -46,6 +46,45 @@
         </li>
 
     <hr> -->
+        2021年05月26日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC265KG0W1A520C2000000/" target="blank" rel="noopener">
+                東京都、新たに743人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA263MU0W1A520C2000000/" target="blank" rel="noopener">
+                宣言延長「専門家の意見踏まえ判断」　官房長官</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM260Z00W1A520C2000000/" target="blank" rel="noopener">
+                コロナ対策、今日の勝利国は明日の敗者</a>
+        </li>
+
+    <hr>
+        2021年05月25日
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC251G80V20C21A5000000/" target="blank" rel="noopener">
+                東京都、新たに542人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA2564E0V20C21A5000000/" target="blank" rel="noopener">
+                出生数9%減、21年1～3月　コロナ影響色濃く</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA256WB0V20C21A5000000/" target="blank" rel="noopener">
+                困窮世帯に最大30万円　政府、コロナ長期化で新支援金</a>
+        </li>
+
+       
+
+    <hr>
         2021年05月24日
     
         <li>
