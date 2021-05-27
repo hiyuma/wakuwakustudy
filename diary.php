@@ -56,6 +56,7 @@
           <!-- list -->
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li><a href="#20210528"> 2021年05月28日　「赤銅色」</a></li>
               <li><a href="#20210510"> 2021年05月10日　「ソイ」</a></li>
               <li><a href="#20210503"> 2021年05月03日　「誠」</a></li>
               <li><a href="#20210428"> 2021年04月28日　「英吉利」</a></li>
@@ -122,6 +123,60 @@
              </div>
           </div>
         </div> -->
+
+        <div id="20210528"></div>
+        <div class="schedule_wrapper">
+          <br>
+          <p id="avocado"><strong>　2021年05月28日 「赤銅色」</strong></p>
+          <div class="accbox">
+            <input type="checkbox" id="赤銅色" class="cssacc" />
+
+            <label for="赤銅色"><span><i class="fas fa-book"></i>READ</span></label>
+            <div class="accshow">
+              <p><img src="gallery/diary/diary20210528/皆既月食2.png" alt="皆既月食"></p>
+
+              <em3>写真：皆既月食</em3>
+              <p>2021年5月26日は、月が今年一番地球に接近するスーパームーンであり、かつ皆既月食が起こる日です。
+              <br><br>
+              日本で見られるのは1997年9月以来、約24年ぶりとのことです。
+              <br><br>
+              東京の天気予報は、晴れのち曇り。
+              <br><br>
+              18時半ごろから、ちょこちょこバルコニーへ出ては、月を探してみましたが、雲に覆われて見つかりません。
+              <br><br>
+              友人から撮影を頼まれていたのですが、見えません。
+              <br><br>
+              望遠レンズで撮影しようと準備していましたが、できなかったのは残念でした。
+              <br><br>
+              そのため、今回は、YouTubeの北海道や仙台の天文台からのライブ放送を視聴しました。
+              <br><br>
+              皆既月食は、太陽と地球と月が一直線に並び、地球の影に月が覆われる現象です。
+              <br><br>
+              月が赤銅色に見える理由は、地球の周りの大気を通過する時、青い光は散乱し、赤い光のみ月に届くからです。
+              
+              <p><img src="gallery/diary/diary20210528/皆既月食1.png" alt="皆既月食"></p>
+              
+              また、スーパームーンは、最も遠くにある時の満月と比べると、直径14％も大きく見えるようです。
+              <p><img src="gallery/diary/diary20210528/部分食終.png" alt="スーパームーン"></p>
+              今回の皆既月食は、20時11分～26分のわずか15分間でした。
+              <br><br>
+              その後は、月の欠けが始まり部分食の開始になりました。
+              <p><img src="gallery/diary/diary20210528/皆既月食3.png" alt="部分食の開始"></p>
+              段々と部分食が進み、先ほどのスーパームーンの写真の状態になります。
+              <p><img src="gallery/diary/diary20210528/部分食2.png" alt="部分食途中"></p>
+              <p><img src="gallery/diary/diary20210528/部分食1.png" alt="部分食途中"></p>
+              この現象を終始観れたのは初めてですが、とても神秘的でした。
+              <br><br>
+              素晴らしかった。
+              <br><br>
+              昨夜は、月の裏側まで観たくなりました。
+              <br><br>
+              次にスーパームーン&皆既月食が見られるのは、12年後の2033年10月になるようです。
+              </p>
+              <br><br>
+            </div>
+          </div>
+        </div>
 
         <div id="20210510"></div>
         <div class="schedule_wrapper">
