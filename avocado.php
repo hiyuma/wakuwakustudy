@@ -1348,6 +1348,35 @@
             </div>
           </div>
 
+           <!-- id="045" -->
+           <div class="schedule_wrapper">
+            <div id="20210604"></div>
+            <p id="avocado"><strong>2021年06月04日</strong></p>
+            <p><img src="gallery/avocado/avo20210604 (1).jpg" alt="アボカド78"></p>
+            <div class="accbox">
+              <input type="checkbox" id="045" class="cssacc" />
+
+              <label for="045"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
+              <div class="accshow">
+                
+                <p><img src="gallery/avocado/avo20210604 (2).jpg" alt="アボカド79"></p>
+
+                <p>2021年06月04日、東京都18時現在の気温は23.0℃。
+                  <br><br>
+                  最高気温は、26℃の予報です。
+                  <br><br>
+                  関東は、まだ梅雨入りは発表されていません。
+                  <br><br>
+                  今週も太陽が出る陽があり、新葉が開き始めました。
+                  <br><br>
+                  高さは、135.1cmとさらに伸び、存在感を増しています。
+                  <br><br>
+                  今のところ何も心配することはなさそうです。
+                  </p>
+              </div>
+            </div>
+          </div>
+
 
           <br>...なんとかまだ続くかも。
         </div>
