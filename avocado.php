@@ -78,6 +78,7 @@
 
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li><a href="#20210529">　2021年06月04日　135.1cm</a></li>
               <li><a href="#20210529">　2021年05月29日　132.3cm</a></li>
               <li><a href="#20210522">　2021年05月22日　131.5cm</a></li>
               <li><a href="#20210515">　2021年05月15日　119.9cm</a></li>
