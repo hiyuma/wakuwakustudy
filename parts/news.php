@@ -46,7 +46,45 @@
         </li>
 
     <hr> -->
-        2021年06月04日
+        2021年06月07日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC072IE0X00C21A6000000/" target="blank" rel="noopener">
+                東京都、新たに235人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGH035JB0T00C21A6000000/" target="blank" rel="noopener">
+                接種率「10%」に増す期待　株式相場、鉄道・旅行が上昇</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC072J00X00C21A6000000/" target="blank" rel="noopener">
+                東京の夜の人出、大型連休の1.9倍に　昼も1.5倍</a>
+        </li>
+
+    <hr>
+        2021年06月06日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC0618D0W1A600C2000000/" target="blank" rel="noopener">
+                東京都、新たに351人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODK2755F0X20C21A5000000/" target="blank" rel="noopener">
+                経済学者のコロナとの闘い　社会実装へ英知結集を</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODG25AGE0V20C21A5000000/" target="blank" rel="noopener">
+                コロナ禍、やまぬ差別偏見　水俣病学び心の糧に</a>
+        </li>
+
+    <hr>
+        2021年06月05日
     
         <li>
                 <i class="far fa-file-alt"></i>
@@ -63,6 +101,25 @@
                 <a href="https://www.nikkei.com/article/DGKKZO72629420V00C21A6NNE000/" target="blank" rel="noopener">
                 米感染研所長「武漢研究員の記録開示を」コロナ発生源巡り、中国へ圧力</a>
         </li>
+         2021年06月04日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC046XH0U1A600C2000000/" target="blank" rel="noopener">
+                東京都、新たに472人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC033IY0T00C21A6000000/" target="blank" rel="noopener">
+                新興、1～3月の純利益3倍　宣言下でもコロナ前も回復</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE04D9W0U1A600C2000000/" target="blank" rel="noopener">
+                新たな変異型、東京で確認　北アフリカ渡航の感染者</a>
+        </li>
+
+    <hr>
 
     <hr>
         2021年06月03日

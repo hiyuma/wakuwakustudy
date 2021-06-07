@@ -4,6 +4,11 @@
 
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+  <li>2021年06月06日</li>
+  <div class="info-children">
+    <span><a href="movie.php">MOVIE</a>（ボヘミアン・ラプソディ）追加</span>
+  </div>
+
   <li>2021年06月04日</li>
   <div class="info-children"><span><a href="avocado.php">AVOCADO</a> 更新</span></div>
 
