@@ -75,6 +75,7 @@
           <h3>Appreciated list</h3>
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li> <a href="#ボヘミアン・ラプソディ">ボヘミアン・ラプソディ　☆4.3</a></li>
               <li> <a href="#アラジン">アラジン　☆4.1</a></li>
               <li> <a href="#タイタニック">タイタニック　☆4.2</a></li>
               <li> <a href="#重力ピエロ">重力ピエロ　☆3.9</a></li>
@@ -183,6 +184,82 @@
 
         <hr>
 
+
+          <!-- ※Don't forget to change the label 26 -->
+          <div id="ボヘミアン・ラプソディ"></div>
+        <h3 id="movies-title"><strong>ボヘミアン・ラプソディ</strong></h3>
+        <div id="movies">
+
+          <div id="movie-photo">
+          <img alt="ボヘミアン・ラプソディ" src="https://d2ueuvlup6lbue.cloudfront.net/attachments/3b9c6b5ebf18b007730b64fe987051d8e60610e7/store/fitpad/260/364/5b3831fffcbcbfb5b8865604a6bf97ad6f3e5d75b58188358116e20f8865/_.jpg" width="300" height="420">
+          </div>
+
+          <div id="movie-info">
+            <p id="th">監督</p>
+            <p id="td">ブライアン・シンガー</p>
+            <p id="th">出演</p>
+            <p id="td">ラミ・マレック、ジョセフ・マッゼロ、エイダン・ギレン、ベン・ハーディ、ルーシー・ボイントン、トム・ホランダー、アレン・リーチ、グウィリム・リー、アーロン・マカスカー、ミッチェル・ダンカン</p>
+            <p id="th">ジャンル</p>
+            <p id="td">ドラマ、音楽</p>
+            <p id="th">上映日</p>
+            <p id="td">2018年11月09日</p>
+            <p id="th">製作国</p>
+            <p id="td">アメリカ、イギリス</p>
+            <p id="th">上映時間</p>
+            <p id="td">135分</p>
+          </div>
+
+
+          <div id="movie-impressions">
+            <hr>
+            <p id="impression">ボヘミアン・ラプソディの感想 <i class="far fa-comment-dots"></i></p>
+            <div id="line"></div>
+
+            <p id="th">鑑賞日</p>
+            <p id="td">2021年06月06日</p>
+            <p id="th">鑑賞方法</p>
+            <p id="td">地上波（金曜ロードショー）</p>
+            <p id="th">評価</p>
+            <p id="td">4.3(/5.0)</p>
+
+            <div id="line"></div>
+            <div class="accbox">
+              <input type="checkbox" id="label26" class="cssacc" />
+              <label for="label26">Summary</label>
+
+              <div class="accshow">
+              世界待望！伝説のバンド＜クイーン＞のフレディ・マーキュリーの華やかな成功と波乱万丈の人生を描く。<br>
+              クイーンのブライアン・メイとロジャー・テイラーが音楽総指揮を務め、32もの不朽の名曲が主としてフレディの歌声で甦り、心臓に鳥肌がたつほどの感動を呼び起こす。<br>
+              11月、悩める者、弱き者に捧げる、ミュージック・エンターテイメント開幕！
+              </div>
+            </div>
+
+            <div id="line"></div>
+            大切なものを失ってから、その大切さに気づきます。
+            <br><br>
+            そんな伝説のバンド、クイーンのボーカル、フレディ・マーキュリーの壮絶で孤独な人生は、共感できる部分もあります。
+        
+            
+            <div class="accbox">
+              <input type="checkbox" id="label26a" class="cssacc" />
+
+              <label for="label26a" class="closeButton">READ MORE</label>
+
+              <div class="accshow">
+              クイーンの数々の名曲から、人生とは？人間とは？と問いたくなるような気持ちの答えを感じ、心に沁みました。
+              <br><br>
+              フレディの父の口癖の「善き思い、善き言葉、善き行い」は、とても良い言葉だと思いました。
+              <br><br>
+              最後のライブシーンは素晴らしかったです。感動しました。
+              <br><br>
+              これからも、クイーンが残した名曲は継承されていくでしょう。 
+              </div>
+            </div>
+            <i class="fas fa-video"></i> <a href="https://www.amazon.co.jp/%E3%82%A2%E3%83%A9%E3%82%B8%E3%83%B3-%E5%AD%97%E5%B9%95%E7%89%88-%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%BB%E3%82%B9%E3%83%9F%E3%82%B9/dp/B07X5HWQS4/ref=sr_1_12?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%A2%E3%83%A9%E3%82%B8%E3%83%B3&qid=1622084316&sr=8-12">ボヘミアン・ラプソディ</a>
+          </div>
+        </div>
+        <hr>
+
         <!-- ※Don't forget to change the label 25 -->
         <div id="アラジン"></div>
         <h3 id="movies-title"><strong>アラジン</strong></h3>
@@ -210,7 +287,7 @@
 
           <div id="movie-impressions">
             <hr>
-            <p id="impression">アラジン <i class="far fa-comment-dots"></i></p>
+            <p id="impression">アラジンの感想 <i class="far fa-comment-dots"></i></p>
             <div id="line"></div>
 
             <p id="th">鑑賞日</p>
@@ -282,7 +359,7 @@
 
           <div id="movie-impressions">
             <hr>
-            <p id="impression">タイタニック <i class="far fa-comment-dots"></i></p>
+            <p id="impression">タイタニックの感想 <i class="far fa-comment-dots"></i></p>
             <div id="line"></div>
 
             <p id="th">鑑賞日</p>
@@ -359,7 +436,7 @@
 
           <div id="movie-impressions">
             <hr>
-            <p id="impression">オンネリとアンネリのおうち</a>の感想 <i class="far fa-comment-dots"></i></p>
+            <p id="impression">オンネリとアンネリのおうちの感想 <i class="far fa-comment-dots"></i></p>
             <div id="line"></div>
 
             <p id="th">鑑賞日</p>
