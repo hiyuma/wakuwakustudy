@@ -46,6 +46,25 @@
         </li>
 
     <hr> -->
+        2021年06月08日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                東京都、新たに369人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM087850Y1A600C2000000/" target="blank" rel="noopener">
+                インド感染者8万6千人　約2カ月ぶり10万人下回る</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE036B10T00C21A6000000/" target="blank" rel="noopener">
+                コロナの消費者相談、20年に8万件　マスク関連目立つ</a>
+        </li>
+
+    <hr>
         2021年06月07日
     
         <li>
