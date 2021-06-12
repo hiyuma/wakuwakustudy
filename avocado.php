@@ -78,7 +78,8 @@
 
           <div id="schedule0" class="schedule_list">
             <ol reversed>
-              <li><a href="#20210529">　2021年06月04日　135.1cm</a></li>
+              <li><a href="#20210612">　2021年06月12日　135.6cm</a></li>
+              <li><a href="#20210604">　2021年06月04日　135.1cm</a></li>
               <li><a href="#20210529">　2021年05月29日　132.3cm</a></li>
               <li><a href="#20210522">　2021年05月22日　131.5cm</a></li>
               <li><a href="#20210515">　2021年05月15日　119.9cm</a></li>
@@ -1349,7 +1350,7 @@
             </div>
           </div>
 
-           <!-- id="045" -->
+           <!-- id="046" -->
            <div class="schedule_wrapper">
             <div id="20210604"></div>
             <p id="avocado"><strong>2021年06月04日</strong></p>
@@ -1373,6 +1374,40 @@
                   高さは、135.1cmとさらに伸び、存在感を増しています。
                   <br><br>
                   今のところ何も心配することはなさそうです。
+                  </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="schedule_wrapper">
+            <div id="20210612"></div>
+            <p id="avocado"><strong>2021年06月12日</strong></p>
+            <p><img src="gallery/avocado/avo20210612 (1).jpg" alt="アボカド80"></p>
+            <div class="accbox">
+              <input type="checkbox" id="046" class="cssacc" />
+
+              <label for="046"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
+              <div class="accshow">
+                
+                <p><img src="gallery/avocado/avo20210612 (2).jpg" alt="アボカド81"></p>
+
+                <p>2021年06月12日、東京都18時現在の気温は26.6℃。
+                  <br><br>
+                  最高気温は、28℃の予報です。
+                  <br><br>
+                  関東は、相変わらず、梅雨入りは発表されていません。
+                  <br><br>
+                  今年は平年よりも遅い梅雨入りになります。
+                  <br><br>
+                  そのおかげで、日差しが出ている日が多く、朝から暑いです。
+                  <br><br>
+                  強い日差しの日は、新葉が数枚枯れていることがありました。
+                  <br><br>
+                  枯れた葉は全て剪定しています。
+                  <br><br>
+                  高さは、135.6cmです。
+                  <br><br>
+                  朝、強い日差しになると、また葉が枯れないかと少し心配です。
                   </p>
               </div>
             </div>
