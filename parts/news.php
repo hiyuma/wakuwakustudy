@@ -46,6 +46,64 @@
         </li>
 
     <hr> -->
+        2021年06月11日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC110J50R10C21A6000000/" target="blank" rel="noopener">
+                東京都、新たに435人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM02A2S0S1A600C2000000/" target="blank" rel="noopener">
+                インドで封鎖緩和広がる　新規感染者、ピークの2割に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF111AQ0R10C21A6000000/" target="blank" rel="noopener">
+                大阪知事「まん延防止に移行すべき」　緊急事態解除後</a>
+        </li>
+
+    <hr>
+        2021年06月10日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC102LY0Q1A610C2000000/" target="blank" rel="noopener">
+                東京都、新たに439人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA1052X0Q1A610C2000000/" target="blank" rel="noopener">
+                国内接種2000万回超す　新型コロナワクチン</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGKKZO72757600Q1A610C2MM0000/" target="blank" rel="noopener">
+                米、ワクチン5億回分寄付 G7に向け表明へ　ファイザー製、途上国に</a>
+        </li>
+
+    <hr>
+        2021年06月09日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC092R10Z00C21A6000000/" target="blank" rel="noopener">
+                東京都、新たに440人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA093P90Z00C21A6000000/" target="blank" rel="noopener">
+                全希望者ワクチン接種「10～11月に終える」　首相表明</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA091TH0Z00C21A6000000/" target="blank" rel="noopener">
+                20日宣言解除なら8月に再び緊急事態　京大教授が推計</a>
+        </li>
+        
+
+    <hr>
         2021年06月08日
     
         <li>
