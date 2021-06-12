@@ -75,6 +75,7 @@
           <h3>Appreciated list</h3>
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li> <a href="#リトル・フォレスト 夏・秋">リトル・フォレスト 夏・秋　☆4.4</a></li>
               <li> <a href="#ボヘミアン・ラプソディ">ボヘミアン・ラプソディ　☆4.3</a></li>
               <li> <a href="#アラジン">アラジン　☆4.1</a></li>
               <li> <a href="#タイタニック">タイタニック　☆4.2</a></li>
@@ -184,14 +185,96 @@
 
         <hr>
 
+        <!-- ※Don't forget to change the label 27 -->
+        <div id="リトル・フォレスト 夏・秋"></div>
+        <h3 id="movies-title"><strong>リトル・フォレスト 夏・秋</strong></h3>
+        <div id="movies">
 
-          <!-- ※Don't forget to change the label 26 -->
-          <div id="ボヘミアン・ラプソディ"></div>
+          <div id="movie-photo">
+            <img alt="リトル・フォレスト 夏・秋" src="https://d2ueuvlup6lbue.cloudfront.net/attachments/c259e8d6820deaf68878d1595cf92e461e4b8f9f/store/fitpad/260/364/d354e9e0282b1328133b5e1ae573ddadadf1c564297af72d162cab893456/_.jpg" width="300" height="420">
+          </div>
+
+          <div id="movie-info">
+            <p id="th">監督</p>
+            <p id="td">森淳一</p>
+            <p id="th">出演</p>
+            <p id="td">橋本愛、三浦貴大、松岡茉優、温水洋一、桐島かれん、佐藤さち子、千葉登喜代、笹川桃音、南中将志、山形吉信</p>
+            <p id="th">ジャンル</p>
+            <p id="td">ドラマ</p>
+            <p id="th">上映日</p>
+            <p id="td">2014年08月30日</p>
+            <p id="th">製作国</p>
+            <p id="td">日本</p>
+            <p id="th">上映時間</p>
+            <p id="td">111分</p>
+          </div>
+
+
+          <div id="movie-impressions">
+            <hr>
+            <p id="impression">リトル・フォレスト 夏・秋の感想 <i class="far fa-comment-dots"></i></p>
+            <div id="line"></div>
+
+            <p id="th">鑑賞日</p>
+            <p id="td">2021年06月11日</p>
+            <p id="th">鑑賞方法</p>
+            <p id="td">Amazon Prime Video</p>
+            <p id="th">評価</p>
+            <p id="td">4.4(/5.0)</p>
+
+            <div id="line"></div>
+            <div class="accbox">
+              <input type="checkbox" id="label27" class="cssacc" />
+              <label for="label27">Summary</label>
+
+              <div class="accshow">
+                “小森”は東北のとある村の中の小さな集落。いち子は一度都会に出たけれど、自分の居所をみつけることができず、ここに帰ってきた。近くにスーパーやコンビニもない小森の生活は自給自足に近い暮らし。<br>
+                稲を育て、畑仕事をし、周りの野山で採った季節の食材から、毎日の食事をつくる。夏は畑でとれたトマトを使ったパスタや麹から作った米サワー、秋には山で採ったくるみの炊き込みごはん、栗の渋皮煮、冬は温かいひっつみや小豆を入れて焼いたマフィン、春はふきのとうを使ったばっけ味噌、春キャベツのかき揚げ。<br>
+                四季折々に様々の恵みを与える一方で、厳しさも見せる東北の大自然。時に立ち入りながら、自分と向き合う日々の中で、いち子は美味しいものをもりもり食べて明日へ踏み出す元気を充電していく・・・。
+              </div>
+            </div>
+
+            <div id="line"></div>
+            この作品とても好きです。近所付き合いのある田舎暮らしの知恵がたくさん出てきて、学びにもなります。
+            <br><br>
+            今はまだ、新型コロナウイルスの影響で帰れないけれど、地元に帰りたくなりました。
+
+
+
+            <div class="accbox">
+              <input type="checkbox" id="label27a" class="cssacc" />
+
+              <label for="label27a" class="closeButton">READ MORE</label>
+
+              <div class="accshow">
+                作中では、数々の料理工程が丁寧に描かれていて、見ているだけでほっこりします。
+                <br><br>
+                栗の渋皮煮のシーンが特に好きです。
+                <br><br>
+                いち子が美味しそうに食事をする姿も良かった。
+                <br><br>
+                リスがくるみを食べている姿や、合鴨のひなたち、屋根裏に現れる猫ちゃんがとても可愛かった。
+                <br><br>
+                そして、誰かが処理してくれた動物を食べている人間として、「他人に殺させておいて、殺し方に文句つける様な、そんな大人にはなりたくないと思っている。」という言葉は、とても心に刺さりました。
+                <br><br>
+                ラストのFLOWER FLOWERの音楽と、岩手県奥州市の景色がまた心を動かされるほどの素敵なものでした。
+                 <br><br>
+                最後、届いた手紙の内容が気になります。
+              </div>
+            </div>
+            <i class="fas fa-video"></i> <a href="https://www.amazon.co.jp/%E3%83%AA%E3%83%88%E3%83%AB%E3%83%BB%E3%83%95%E3%82%A9%E3%83%AC%E3%82%B9%E3%83%88-%E5%A4%8F%E3%83%BB%E7%A7%8B-%E6%A9%8B%E6%9C%AC%E6%84%9B/dp/B00QRLJMZ0">リトル・フォレスト 夏・秋</a>
+          </div>
+        </div>
+        <hr>
+
+
+        <!-- ※Don't forget to change the label 26 -->
+        <div id="ボヘミアン・ラプソディ"></div>
         <h3 id="movies-title"><strong>ボヘミアン・ラプソディ</strong></h3>
         <div id="movies">
 
           <div id="movie-photo">
-          <img alt="ボヘミアン・ラプソディ" src="https://d2ueuvlup6lbue.cloudfront.net/attachments/3b9c6b5ebf18b007730b64fe987051d8e60610e7/store/fitpad/260/364/5b3831fffcbcbfb5b8865604a6bf97ad6f3e5d75b58188358116e20f8865/_.jpg" width="300" height="420">
+            <img alt="ボヘミアン・ラプソディ" src="https://d2ueuvlup6lbue.cloudfront.net/attachments/3b9c6b5ebf18b007730b64fe987051d8e60610e7/store/fitpad/260/364/5b3831fffcbcbfb5b8865604a6bf97ad6f3e5d75b58188358116e20f8865/_.jpg" width="300" height="420">
           </div>
 
           <div id="movie-info">
@@ -228,9 +311,9 @@
               <label for="label26">Summary</label>
 
               <div class="accshow">
-              世界待望！伝説のバンド＜クイーン＞のフレディ・マーキュリーの華やかな成功と波乱万丈の人生を描く。<br>
-              クイーンのブライアン・メイとロジャー・テイラーが音楽総指揮を務め、32もの不朽の名曲が主としてフレディの歌声で甦り、心臓に鳥肌がたつほどの感動を呼び起こす。<br>
-              11月、悩める者、弱き者に捧げる、ミュージック・エンターテイメント開幕！
+                世界待望！伝説のバンド＜クイーン＞のフレディ・マーキュリーの華やかな成功と波乱万丈の人生を描く。<br>
+                クイーンのブライアン・メイとロジャー・テイラーが音楽総指揮を務め、32もの不朽の名曲が主としてフレディの歌声で甦り、心臓に鳥肌がたつほどの感動を呼び起こす。<br>
+                11月、悩める者、弱き者に捧げる、ミュージック・エンターテイメント開幕！
               </div>
             </div>
 
@@ -238,21 +321,21 @@
             大切なものを失ってから、その大切さに気づきます。
             <br><br>
             そんな伝説のバンド、クイーンのボーカル、フレディ・マーキュリーの壮絶で孤独な人生は、共感できる部分もあります。
-        
-            
+
+
             <div class="accbox">
               <input type="checkbox" id="label26a" class="cssacc" />
 
               <label for="label26a" class="closeButton">READ MORE</label>
 
               <div class="accshow">
-              クイーンの数々の名曲から、人生とは？人間とは？と問いたくなるような気持ちの答えを感じ、心に沁みました。
-              <br><br>
-              フレディの父の口癖の「善き思い、善き言葉、善き行い」は、とても良い言葉だと思いました。
-              <br><br>
-              最後のライブシーンは素晴らしかったです。感動しました。
-              <br><br>
-              これからも、クイーンが残した名曲は継承されていくでしょう。 
+                クイーンの数々の名曲から、人生とは？人間とは？と問いたくなるような気持ちの答えを感じ、心に沁みました。
+                <br><br>
+                フレディの父の口癖の「善き思い、善き言葉、善き行い」は、とても良い言葉だと思いました。
+                <br><br>
+                最後のライブシーンは素晴らしかったです。感動しました。
+                <br><br>
+                これからも、クイーンが残した名曲は継承されていくでしょう。
               </div>
             </div>
             <i class="fas fa-video"></i> <a href="https://www.amazon.co.jp/%E3%82%A2%E3%83%A9%E3%82%B8%E3%83%B3-%E5%AD%97%E5%B9%95%E7%89%88-%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%BB%E3%82%B9%E3%83%9F%E3%82%B9/dp/B07X5HWQS4/ref=sr_1_12?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%A2%E3%83%A9%E3%82%B8%E3%83%B3&qid=1622084316&sr=8-12">ボヘミアン・ラプソディ</a>
@@ -266,7 +349,7 @@
         <div id="movies">
 
           <div id="movie-photo">
-          <img alt="アラジン" src="https://d2ueuvlup6lbue.cloudfront.net/attachments/17289626fdc72d5fad858f418983f793bb93e07b/store/fitpad/260/364/ebb917b4eb07536e9bcc42bf12aab24ad8477f79f434964eeb223a7bde90/_.jpg" width="300" height="420">
+            <img alt="アラジン" src="https://d2ueuvlup6lbue.cloudfront.net/attachments/17289626fdc72d5fad858f418983f793bb93e07b/store/fitpad/260/364/ebb917b4eb07536e9bcc42bf12aab24ad8477f79f434964eeb223a7bde90/_.jpg" width="300" height="420">
           </div>
 
           <div id="movie-info">
@@ -303,8 +386,8 @@
               <label for="label25">Summary</label>
 
               <div class="accshow">
-              ダイヤモンドの心を持ちながら、本当の自分の居場所を探す貧しい青年アラジンが巡り合ったのは、王宮の外の世界での自由を求める王女ジャスミンと、 “３つの願い”を叶えることができる“ランプの魔人”ジーニー。<br>
-              果たして3人はこの運命の出会いによって、それぞれの“本当の願い”に気づき、それを叶えることはできるのだろうか──？
+                ダイヤモンドの心を持ちながら、本当の自分の居場所を探す貧しい青年アラジンが巡り合ったのは、王宮の外の世界での自由を求める王女ジャスミンと、 “３つの願い”を叶えることができる“ランプの魔人”ジーニー。<br>
+                果たして3人はこの運命の出会いによって、それぞれの“本当の願い”に気づき、それを叶えることはできるのだろうか──？
               </div>
             </div>
 
@@ -314,17 +397,17 @@
             作中の歌やダンスにしっかりディズニーらしさがあり、まるでディズニーランドにいるのかの様なワクワク感もありました。
 
 
-            
-            
+
+
             <div class="accbox">
               <input type="checkbox" id="label25a" class="cssacc" />
 
               <label for="label25a" class="closeButton">READ MORE</label>
 
               <div class="accshow">
-              衣装は、脇役であろうと細部まで鮮やかで、とても手が込んでいてステキです。
-              <br><br>
-              アニメ版のアラジンとは別物の様に感じられ、予想以上にとても楽しめた作品です。
+                衣装は、脇役であろうと細部まで鮮やかで、とても手が込んでいてステキです。
+                <br><br>
+                アニメ版のアラジンとは別物の様に感じられ、予想以上にとても楽しめた作品です。
               </div>
             </div>
             <i class="fas fa-video"></i> <a href="https://www.amazon.co.jp/%E3%82%A2%E3%83%A9%E3%82%B8%E3%83%B3-%E5%AD%97%E5%B9%95%E7%89%88-%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%BB%E3%82%B9%E3%83%9F%E3%82%B9/dp/B07X5HWQS4/ref=sr_1_12?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E3%82%A2%E3%83%A9%E3%82%B8%E3%83%B3&qid=1622084316&sr=8-12">アラジン</a>
@@ -375,8 +458,8 @@
               <label for="label24">Summary</label>
 
               <div class="accshow">
-              1912年に実際に起きた英国客船タイタニック号沈没事故を基に、貧しい青年と上流階級の娘の悲恋を描いている。主にSFアクション映画を手掛けてきたキャメロン監督が、一転して挑んだラブロマンス大作である。<br>
-              タイタニック号沈没の史実を架空のラブストーリーを交えて展開される。前半のラブストーリーから一転して、後半ではパニック映画さながらの緊迫感のある展開で、ラストは悲劇的な別れとなる恋人たちが描かれている。
+                1912年に実際に起きた英国客船タイタニック号沈没事故を基に、貧しい青年と上流階級の娘の悲恋を描いている。主にSFアクション映画を手掛けてきたキャメロン監督が、一転して挑んだラブロマンス大作である。<br>
+                タイタニック号沈没の史実を架空のラブストーリーを交えて展開される。前半のラブストーリーから一転して、後半ではパニック映画さながらの緊迫感のある展開で、ラストは悲劇的な別れとなる恋人たちが描かれている。
               </div>
             </div>
 
