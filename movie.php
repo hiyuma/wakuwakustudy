@@ -75,6 +75,7 @@
           <h3>Appreciated list</h3>
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li> <a href="#9人の翻訳家 囚われたベストセラー">9人の翻訳家 囚われたベストセラー　☆4.0</a></li>
               <li> <a href="#リトル・フォレスト 夏・秋">リトル・フォレスト 夏・秋　☆4.4</a></li>
               <li> <a href="#ボヘミアン・ラプソディ">ボヘミアン・ラプソディ　☆4.3</a></li>
               <li> <a href="#アラジン">アラジン　☆4.1</a></li>
@@ -185,6 +186,89 @@
 
         <hr>
 
+        <!-- ※Don't forget to change the label 28 -->
+        <div id="9人の翻訳家 囚われたベストセラー"></div>
+        <h3 id="movies-title"><strong>9人の翻訳家 囚われたベストセラー</strong></h3>
+        <div id="movies">
+
+          <div id="movie-photo">
+          <img alt="9人の翻訳家 囚われたベストセラー" src="https://d2ueuvlup6lbue.cloudfront.net/attachments/74f1526ee6d6e9631b925141ed415d8976ebb7f8/store/fitpad/260/364/8db0d197e24c00c953e939eac5f6e12184095371194f736599e835d485a9/_.jpg" width="300" height="420">
+          </div>
+
+          <div id="movie-info">
+            <p id="th">監督</p>
+            <p id="td">レジス・ロワンサル</p>
+            <p id="th">出演</p>
+            <p id="td">ランベール・ウィルソン、オルガ・キュリレンコ、アレックス・ロウザー、シセ・バベット・クヌッセン、リッカルド・スカマルチョ</p>
+            <p id="th">ジャンル</p>
+            <p id="td">ドラマ</p>
+            <p id="th">上映日</p>
+            <p id="td">2020年01月24日</p>
+            <p id="th">製作国</p>
+            <p id="td">フランス</p>
+            <p id="th">上映時間</p>
+            <p id="td">105分</p>
+          </div>
+
+
+          <div id="movie-impressions">
+            <hr>
+            <p id="impression">9人の翻訳家 囚われたベストセラーの感想 <i class="far fa-comment-dots"></i></p>
+            <div id="line"></div>
+
+            <p id="th">鑑賞日</p>
+            <p id="td">2021年06月17日</p>
+            <p id="th">鑑賞方法</p>
+            <p id="td">Amazon Prime Video</p>
+            <p id="th">評価</p>
+            <p id="td">4.0(/5.0)</p>
+
+            <div id="line"></div>
+            <div class="accbox">
+              <input type="checkbox" id="label27" class="cssacc" />
+              <label for="label27">Summary</label>
+
+              <div class="accshow">
+                あなたは、この結末を「誤訳」する。<br>
+                舞台はフランスの人里離れた村にある洋館。全世界待望のミステリー小説「デダリュス」完結編の各国同時発売のため、9人の翻訳家が集められた。外部との接触が一切禁止され、日々原稿を翻訳する。<br>
+                しかしある夜、出版社社長の元に「冒頭10ページをネットに公開した。24時間以内に500万ユーロを支払わなければ、次の100ページも公開する。要求を拒めば、全ページを流出させる。」という脅迫メールが届く—誰が、どうやって？
+              </div>
+            </div>
+
+            <div id="line"></div>
+            後半から本番が始まる衝撃的なミステリー。
+            <br><br>
+            作中に日本製のコピー機が出てきます。
+
+            <div class="accbox">
+              <input type="checkbox" id="label27a" class="cssacc" />
+
+              <label for="label27a" class="closeButton">READ MORE</label>
+
+              <div class="accshow">
+                さすが、日本製だと思わされるシーンでした。
+                <br><br>
+                中盤で「え？もう出していいの？」と思ってしまいましたが、その後に待っている怒涛の謎解き展開が素晴らしかった。
+                <br><br>
+                最後まで、鑑賞しないと完結できない、そんな伏線が複数あります。
+                <br><br>
+                効果音やBGMも良かった。
+                <br><br>
+                特に、多言語が飛び交う緊迫した場面と、最後のやり取りはかなりの迫力があり、見入ってしまいました。
+                <br><br>
+                ただ、写真を見て気が変わった心情の描写や、翻訳家たちの背景など、雑な演出に感じるところは残念でした。
+                <br><br>
+                総じて、展開が早く、ぎゅっと詰まった傑作サスペンス映画です。
+                <br><br>
+                今はまだ、新型コロナウイルスの影響で帰れないけれど、地元に帰りたくなりました。
+              </div>
+            </div>
+            <i class="fas fa-video"></i> <a href="https://www.amazon.co.jp/9%E4%BA%BA%E3%81%AE%E7%BF%BB%E8%A8%B3%E5%AE%B6-%E5%9B%9A%E3%82%8F%E3%82%8C%E3%81%9F%E3%83%99%E3%82%B9%E3%83%88%E3%82%BB%E3%83%A9%E3%83%BC-%E5%AD%97%E5%B9%95%E7%89%88-%E3%83%A9%E3%83%B3%E3%83%99%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%BD%E3%83%B3/dp/B08B8QQ7XL/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=9%E4%BA%BA%E3%81%AE&qid=1623911892&sr=8-1">9人の翻訳家 囚われたベストセラー</a>
+          </div>
+        </div>
+        <hr>
+
+
         <!-- ※Don't forget to change the label 27 -->
         <div id="リトル・フォレスト 夏・秋"></div>
         <h3 id="movies-title"><strong>リトル・フォレスト 夏・秋</strong></h3>
@@ -258,7 +342,7 @@
                 そして、誰かが処理してくれた動物を食べている人間として、「他人に殺させておいて、殺し方に文句つける様な、そんな大人にはなりたくないと思っている。」という言葉は、とても心に刺さりました。
                 <br><br>
                 ラストのFLOWER FLOWERの音楽と、岩手県奥州市の景色がまた心を動かされるほどの素敵なものでした。
-                 <br><br>
+                <br><br>
                 最後、届いた手紙の内容が気になります。
               </div>
             </div>
