@@ -4,6 +4,11 @@
 
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+  <li>2021年06月17日</li>
+  <div class="info-children">
+    <span><a href="movie.php">MOVIE</a>（9人の翻訳家 囚われたベストセラー）追加</span>
+  </div>
+
   <li>2021年06月12日</li>
   <div class="info-children">
     <span><a href="movie.php">MOVIE</a>（リトル・フォレスト 夏・秋）追加</span>
