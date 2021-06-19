@@ -46,22 +46,41 @@
         </li>
 
     <hr> -->
+        2021年06月18日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC188NF0Y1A610C2000000/" target="blank" rel="noopener">
+                東京都、新たに453人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC173PV0X10C21A6000000/" target="blank" rel="noopener">
+                東京都、酒類提供「2人以下90分以内」　条件付き容認</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA185PD0Y1A610C2000000/" target="blank" rel="noopener">
+                宣言解除後の人出増、五輪中の再発令も　試算相次ぐ</a>
+        </li>
+
+    <hr>
         2021年06月17日
     
         <li>
                 <i class="far fa-file-alt"></i>
-                <a href="" target="blank" rel="noopener">
-                </a>
+                <a href="https://www.nikkei.com/article/DGXZQOCC172FW0X10C21A6000000/" target="blank" rel="noopener">
+                東京都、新たに452人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
-                <a href="" target="blank" rel="noopener">
-                </a>
+                <a href="https://www.nikkei.com/article/DGXZQOUA171370X10C21A6000000/" target="blank" rel="noopener">
+                ワクチン証明書「7月中下旬から発行」　官房長官</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
-                <a href="" target="blank" rel="noopener">
-                </a>
+                <a href="https://www.nikkei.com/article/DGXZQOUA16DSV0W1A610C2000000/" target="blank" rel="noopener">
+                9都道府県の宣言解除了承　東京・大阪などまん延防止へ</a>
         </li>
 
     <hr>

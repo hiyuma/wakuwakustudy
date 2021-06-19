@@ -4,6 +4,9 @@
 
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+  <li>2021年06月19日</li>
+  <div class="info-children"><span><a href="avocado.php">AVOCADO</a> 更新</span></div>
+
   <li>2021年06月17日</li>
   <div class="info-children">
     <span><a href="movie.php">MOVIE</a>（9人の翻訳家 囚われたベストセラー）追加</span>
