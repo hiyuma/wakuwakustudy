@@ -78,6 +78,7 @@
 
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li><a href="#20210619">　2021年06月19日　135.6cm</a></li>
               <li><a href="#20210612">　2021年06月12日　135.6cm</a></li>
               <li><a href="#20210604">　2021年06月04日　135.1cm</a></li>
               <li><a href="#20210529">　2021年05月29日　132.3cm</a></li>
@@ -1350,7 +1351,7 @@
             </div>
           </div>
 
-           <!-- id="046" -->
+           <!-- id="045" -->
            <div class="schedule_wrapper">
             <div id="20210604"></div>
             <p id="avocado"><strong>2021年06月04日</strong></p>
@@ -1378,7 +1379,8 @@
               </div>
             </div>
           </div>
-
+          
+          <!-- id="046" -->
           <div class="schedule_wrapper">
             <div id="20210612"></div>
             <p id="avocado"><strong>2021年06月12日</strong></p>
@@ -1408,6 +1410,35 @@
                   高さは、135.6cmです。
                   <br><br>
                   朝、強い日差しになると、また葉が枯れないかと少し心配です。
+                  </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- id="047" -->
+          <div class="schedule_wrapper">
+            <div id="20210619"></div>
+            <p id="avocado"><strong>2021年06月19日</strong></p>
+            <p><img src="gallery/avocado/avo20210619 (1).jpg" alt="アボカド82"></p>
+            <div class="accbox">
+              <input type="checkbox" id="047" class="cssacc" />
+
+              <label for="047"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
+              <div class="accshow">
+                
+                <p><img src="gallery/avocado/avo20210619 (2).jpg" alt="アボカド83"></p>
+
+                <p>2021年06月19日、東京都9時現在の気温は20.3℃。
+                  <br><br>
+                  最高気温は、26℃の予報です。
+                  <br><br>
+                  ついに、関東は梅雨入り発表されました。
+                  <br><br>
+                  平年より1週間遅く、直近10年間で一番遅い梅雨入りとなりました。
+                  <br><br>
+                  今週もまた新葉が開き、葉の数は増えましたが、高さは変わらずに、135.6cmです。
+                  <br><br>
+                  梅雨明けるまでは、ほとんど成長しないでしょう。
                   </p>
               </div>
             </div>
