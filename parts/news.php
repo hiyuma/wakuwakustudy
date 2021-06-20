@@ -46,6 +46,44 @@
         </li>
 
     <hr> -->
+        2021年06月20日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC201UY0Q1A620C2000000/" target="blank" rel="noopener">
+                東京都、新たに376人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCD143BX0U1A610C2000000/" target="blank" rel="noopener">
+                日本でも「V字」回復はあるか　1日100万回接種の先へ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC133M10T10C21A6000000/" target="blank" rel="noopener">
+                コロナ禍で顕在化、医師の働き方改革待ったなし</a>
+        </li>
+
+    <hr>
+        2021年06月19日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1920H0Z10C21A6000000/" target="blank" rel="noopener">
+                東京都、新たに388人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC191WX0Z10C21A6000000/" target="blank" rel="noopener">
+                小池氏「五輪パブリックビューイング中止」　首相と会談</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE18D1Z0Y1A610C2000000/" target="blank" rel="noopener">
+                コロナ禍の報道のあり方議論　日経・早大・コロンビア大</a>
+        </li>
+
+    <hr>
         2021年06月18日
     
         <li>
