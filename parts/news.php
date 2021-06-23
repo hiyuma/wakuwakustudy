@@ -46,6 +46,63 @@
         </li>
 
     <hr> -->
+        2021年06月23日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC231420T20C21A6000000/" target="blank" rel="noopener">
+                東京都、新たに619人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA234YH0T20C21A6000000/" target="blank" rel="noopener">
+                ワクチン2回接種、1000万人超える　1日100万回近づく</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC164H80W1A610C2000000/" target="blank" rel="noopener">
+                動けぬコロナ禍の就活、「ガクチカ」持ち味伝えて</a>
+        </li>
+
+    <hr>
+        2021年06月22日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2215E0S1A620C2000000/" target="blank" rel="noopener">
+                東京都、新たに435人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC210GY0R20C21A6000000/" target="blank" rel="noopener">
+                外食閉店1.9倍の5230店　20年度、リーマン危機上回る</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE226XN0S1A620C2000000/" target="blank" rel="noopener">
+                学校集団接種「推奨せず」、文科省通知、自治体に戸惑い</a>
+        </li>
+
+    <hr>
+        2021年06月21日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2171W0R20C21A6000000/" target="blank" rel="noopener">
+                東京都、新たに236人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN120100S1A510C2000000/" target="blank" rel="noopener">
+                米、子育て支援軽視のツケ　コロナで少子化危機浮上</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA2153A0R20C21A6000000/" target="blank" rel="noopener">
+                首相、五輪「緊急事態宣言なら無観客も辞さず」</a>
+        </li>
+
+    <hr>
         2021年06月20日
     
         <li>
