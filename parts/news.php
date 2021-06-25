@@ -46,6 +46,44 @@
         </li>
 
     <hr> -->
+        2021年06月25日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                </a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN24ELM0U1A620C2000000/" target="blank" rel="noopener">
+                ブラジルのコロナ感染、過去最多11.5万人　「第3波」か</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR24CW90U1A620C2000000/" target="blank" rel="noopener">
+                ロシアのコロナ感染、5カ月ぶり2万人超　　インド型猛威</a>
+        </li>
+
+    <hr>
+    2021年06月24日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC240GP0U1A620C2000000/" target="blank" rel="noopener">
+                東京都、新たに570人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC187OH0Y1A610C2000000/" target="blank" rel="noopener">
+                「第5波」防止が至上命題　迫る五輪、ワクチンは道半ば</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA242AO0U1A620C2000000/" target="blank" rel="noopener">
+                ワクチン接種上限「1日150万回」　河野氏</a>
+        </li>
+
+    <hr>
         2021年06月23日
     
         <li>
