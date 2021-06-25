@@ -63,10 +63,10 @@
                                    <br>
 
                                    <br><br>
-                                   <em4>※現在、このWEBサイトは独学にて作成中のため、無意味・未完成箇所が複数あります。
+                                   <!-- <em4>※現在、このWEBサイトは独学にて作成中のため、無意味・未完成箇所が複数あります。
                                           <br>　急にデザインが変わることがあります。
-                                   </em4>
-                                   <br><br>
+                                   </em4> 
+                                   <br><br>-->
                                    <div class="line">STUDY LIST <i class="fas fa-pencil-alt"></i></div>
                                    <div class="items"><span style="font-weight: normal;"><?php include('parts/weekly.php'); ?></span>
 
