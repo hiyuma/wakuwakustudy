@@ -50,8 +50,8 @@
     
         <li>
                 <i class="far fa-file-alt"></i>
-                <a href="" target="blank" rel="noopener">
-                </a>
+                <a href="https://www.nikkei.com/article/DGXZQOCC257ON0V20C21A6000000/" target="blank" rel="noopener">
+                東京都、新たに562人感染　新型コロナ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
