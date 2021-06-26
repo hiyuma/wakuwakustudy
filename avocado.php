@@ -78,6 +78,7 @@
 
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li><a href="#20210626">　2021年06月26日　135.8cm</a></li>
               <li><a href="#20210619">　2021年06月19日　135.6cm</a></li>
               <li><a href="#20210612">　2021年06月12日　135.6cm</a></li>
               <li><a href="#20210604">　2021年06月04日　135.1cm</a></li>
@@ -1440,6 +1441,37 @@
                   <br><br>
                   梅雨明けるまでは、ほとんど成長しないでしょう。
                   </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- id="048" -->
+          <div class="schedule_wrapper">
+            <div id="20210626"></div>
+            <p id="avocado"><strong>2021年06月26日</strong></p>
+            <p><img src="gallery/avocado/avo20210626 (1).jpg" alt="アボカド83"></p>
+            <div class="accbox">
+              <input type="checkbox" id="0478" class="cssacc" />
+
+              <label for="048"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
+              <div class="accshow">
+                
+                <p><img src="gallery/avocado/avo20210626 (2).jpg" alt="アボカド83"></p>
+
+                <p>2021年06月26日、東京都10時現在の気温は26.2℃。
+                  <br><br>
+                  最高気温は、30℃の予報です。
+                  <br><br>
+                  この日、午前中は強い日差しがありました。
+                  <br><br>
+                  今のところ、強い日差しによる葉焼けはないです。
+                  <br><br>
+                  葉の数が少しずつ増えています。
+                  <br><br>
+                  ですが、梅雨に入り、日当たりは少なく、成長はあまり見られません。
+                  <br><br>
+                  高さは、ほとんど変わらずに、135.8cmです
+                </p>
               </div>
             </div>
           </div>
