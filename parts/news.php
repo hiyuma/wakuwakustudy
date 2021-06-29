@@ -46,6 +46,82 @@
         </li>
 
     <hr> -->
+        2021年06月29日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC290F80Z20C21A6000000/" target="blank" rel="noopener">
+                東京都、新たに476人感染　7日平均で前週の121.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC22DKD0S1A620C2000000/" target="blank" rel="noopener">
+                コロナ前の環境にいつ戻る?　社長100人アンケートから</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE291FH0Z20C21A6000000/" target="blank" rel="noopener">
+                五輪への懸念「拝察」　宮内庁長官発言を考える</a>
+        </li>
+
+    <hr>
+        2021年06月28日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC280E40Y1A620C2000000/" target="blank" rel="noopener">
+                東京都、新たに317人感染　7日平均で前週の124.8%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA285SX0Y1A620C2000000/" target="blank" rel="noopener">
+                ワクチン接種2回完了、総人口の1割超える</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB2810G0Y1A620C2000000/" target="blank" rel="noopener">
+                アフリカに第3波、インドの「二の舞い」懸念</a>
+        </li>
+
+    <hr>
+        2021年06月27日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC271ID0X20C21A6000000/" target="blank" rel="noopener">
+                東京都、新たに386人感染　7日平均で前週の123%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA270VP0X20C21A6000000/" target="blank" rel="noopener">
+                副作用時の市販薬成分、イブプロフェンなど厚労省公表</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC210Q00R20C21A6000000/" target="blank" rel="noopener">
+                長引くコロナ後遺症、感染時無症状でも約2割で</a>
+        </li>
+
+    <hr>
+        2021年06月26日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2612T0W1A620C2000000/" target="blank" rel="noopener">
+                東京都、新たに534人感染　7日平均で前週の126.0%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC258H70V20C21A6000000/" target="blank" rel="noopener">
+                週末の人出、東京・大阪で13～21%増　感染再拡大に警戒</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE262NI0W1A620C2000000/" target="blank" rel="noopener">
+                「アイーン」姿で志村さん　故郷の東村山に銅像完成</a>
+        </li>
+
+    <hr>
         2021年06月25日
     
         <li>
