@@ -3,6 +3,15 @@
 
 
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
+  
+  <li>2021年07月03日</li>
+  <div class="info-children"><span><a href="avocado.php">AVOCADO</a> 更新</span></div>
+
+  <li>2021年06月30日</li>
+  <div class="info-children"><span><a href="diary.php">DIARY（解除）</a> 追加</span></div>
+
+  <li>2021年06月30日</li>
+  <div class="info-children"><span><a href="gallery.php">PHOTO</a>（日常）更新</span></div>
 
   <li>2021年06月26日</li>
   <div class="info-children"><span><a href="avocado.php">AVOCADO</a> 更新</span></div>

@@ -25,9 +25,9 @@
                 <a href="https://www.nikkei.com/article/DGXZQODG026OW0S1A200C2000000/" target="blank" rel="noopener">
                         知っておきたいコロナワクチン接種　手順や副作用は？</a>
         </li><br>
+        
 
-
-        <!-- 2021年06月XX日
+        <!-- 2021年07月XX日
     
         <li>
                 <i class="far fa-file-alt"></i>
@@ -46,6 +46,84 @@
         </li>
 
     <hr> -->
+        2021年07月03日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC031PJ0T00C21A7000000/" target="blank" rel="noopener">
+                東京都、新たに716人感染　7日平均で前週の118.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA0313W0T00C21A7000000/" target="blank" rel="noopener">
+                ワクチン予約、各地で停止　供給先細りで不足懸念</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE025TZ0S1A700C2000000/" target="blank" rel="noopener">
+                五輪開閉会式、無観客で検討　8日にも5者協議</a>
+        </li>
+
+    <hr>
+
+        2021年07月02日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC020EW0S1A700C2000000/" target="blank" rel="noopener">
+                東京都、新たに660人感染　7日平均で前週の118%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF012J40R00C21A7000000/" target="blank" rel="noopener">
+                ワクチン供給減、接種見直し自治体困惑　予約停止相次ぐ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA022EX0S1A700C2000000/" target="blank" rel="noopener">
+                東京の宣言発令・重点措置延長「消極的ではない」厚労相</a>
+        </li>
+
+    <hr>
+    2021年07月01日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC014VU0R00C21A7000000/" target="blank" rel="noopener">
+                東京都、新たに673人感染　7日平均で前週の119.0%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFD018P80R00C21A7000000/" target="blank" rel="noopener">
+                興和、コロナ治療薬の治験　イベルメクチンの転用目指す</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUB30D6S0Q1A630C2000000/" target="blank" rel="noopener">
+                世界株、デルタ株警戒じわり　空運・陸運、上値抑える</a>
+        </li>
+
+    <hr>
+
+        2021年06月30日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC300F50Q1A630C2000000/" target="blank" rel="noopener">
+                東京都、新たに714人感染　「ステージ4」に悪化</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA3094H0Q1A630C2000000/" target="blank" rel="noopener">
+                職場接種「新規受け付けの停止を継続」　首相表明</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC301LD0Q1A630C2000000/" target="blank" rel="noopener">
+                ワクチン供給減、都内でも影響　予約先送り呼びかけも</a>
+        </li>
+
+    <hr>
         2021年06月29日
     
         <li>
