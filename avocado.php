@@ -1451,7 +1451,7 @@
             <p id="avocado"><strong>2021年06月26日</strong></p>
             <p><img src="gallery/avocado/avo20210626 (1).jpg" alt="アボカド83"></p>
             <div class="accbox">
-              <input type="checkbox" id="0478" class="cssacc" />
+              <input type="checkbox" id="048" class="cssacc" />
 
               <label for="048"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
               <div class="accshow">
@@ -1475,6 +1475,42 @@
               </div>
             </div>
           </div>
+
+          <!-- id="049" -->
+          <div class="schedule_wrapper">
+            <div id="20210703"></div>
+            <p id="avocado"><strong>2021年07月03日</strong></p>
+            <p><img src="gallery/avocado/avo20210703 (1).jpg" alt="アボカド85"></p>
+            <div class="accbox">
+              <input type="checkbox" id="049" class="cssacc" />
+
+              <label for="049"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
+              <div class="accshow">
+                
+                <p><img src="gallery/avocado/avo20210703 (2).jpg" alt="アボカド86"></p>
+                <p><img src="gallery/avocado/avo20210703 (3).jpg" alt="アボカド87"></p>
+
+                <p>2021年07月03日、東京都16時現在の気温は25.4℃。
+                  <br><br>
+                  最高気温は、28℃の予報です。
+                  <br><br>
+                  梅雨本番に入り、陽の当たらない日が続いています。
+                  <br><br>
+                  急な気温の低下のせいなのか、一部の葉先に変色が見られます。
+                  <br><br>
+                  変色のある葉は、この後取りました。
+                  <br><br>
+                  それでも、新葉が開いた枝もあれば、新葉が開こうとして成長している様子もあります。
+                  <br><br>
+                  高さは、少しだけ伸びて、136.1cmです。
+                  <br><br>
+                  梅雨は、少し気持ちが落ちやすいですが、一緒に頑張ります。
+                  <br><br>
+                </p>
+              </div>
+            </div>
+          </div>
+
 
 
           <br>...なんとかまだ続くかも。
