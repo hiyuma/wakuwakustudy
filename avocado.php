@@ -1511,6 +1511,46 @@
             </div>
           </div>
 
+          <!-- id="050" -->
+          <div class="schedule_wrapper">
+            <div id="20210710"></div>
+            <p id="avocado"><strong>2021年07月10日</strong></p>
+            <p><img src="gallery/avocado/avo20210710 (1).jpg" alt="アボカド88"></p>
+            <div class="accbox">
+              <input type="checkbox" id="050" class="cssacc" />
+
+              <label for="050"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
+              <div class="accshow">
+                
+                <p><img src="gallery/avocado/avo20210710 (2).jpg" alt="アボカド89"></p>
+                <p><img src="gallery/avocado/avo20210710 (3).jpg" alt="アボカド90"></p>
+
+                <p>2021年07月10日、東京都11時現在の気温は30.4℃。
+                  <br><br>
+                  最高気温は、33℃の予報です。
+                  <br><br>
+                  今日は、梅雨本番に入ってからの久しぶりになる晴天です。
+                  <br><br>
+                  日光浴の気持ちよさを感じています。
+                  <br><br>
+                  とはいえ、気温も湿度が高く、不快指数は高め。
+                  <br><br>
+                  急な強い日差しで、朝からアボカドの新葉が萎れていました。
+                  <br><br>
+                  水をあげてしばらくしたら、元に戻ると思いますが、去年も夏の強い日差しに負けている葉がありました。
+                  <br><br>
+                  特に、新葉が負けて枯れてしまうことが多いので、水を切らさないようにケアをしていきます。
+                  <br><br>
+                  高さは、また少しだけ伸びて、136.3cmです。
+                  <br><br>
+                  天気予報を見ていると、早ければ関東の梅雨明けは、来週になりそうです。
+                  <br><br>
+                  今年も葉焼けが心配ですけど、アボカドの成長時期になるので、楽しみです。
+                </p>
+              </div>
+            </div>
+          </div>
+
 
 
           <br>...なんとかまだ続くかも。
