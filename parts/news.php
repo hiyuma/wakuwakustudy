@@ -46,6 +46,139 @@
         </li>
 
     <hr> -->
+        2021年07月10日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC101YP0Q1A710C2000000/" target="blank" rel="noopener">
+                東京都、新たに950人感染　7日平均で前週の127.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGS092KT0Z00C21A7000000/" target="blank" rel="noopener">
+                タイ・ベトナム、最大都市を封鎖　ビジネスに打撃</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUD282RI0Y1A620C2000000/" target="blank" rel="noopener">
+                39歳で考えた自分の終活…命ある今をありがたく</a>
+        </li>
+
+    <hr>
+        2021年07月09日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC092AF0Z00C21A7000000/" target="blank" rel="noopener">
+                東京都、新たに822人感染　7日平均で前週の127.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOKC227M80S1A620C2000000/" target="blank" rel="noopener">
+                歌舞伎座、コロナ禍の革新　Amazonで公演配信も</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN090I40Z00C21A7000000/" target="blank" rel="noopener">
+                米ファイザー、デルタ型対応ワクチン開発　追加接種向け</a>
+        </li>
+
+    <hr>
+        2021年07月08日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC083BI0Y1A700C2000000/" target="blank" rel="noopener">
+                東京都、新たに896人感染　7日平均で前週の126.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA0816T0Y1A700C2000000/" target="blank" rel="noopener">
+                東京都に4度目の緊急事態決定　「まん延防止」4府県延長</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB073XP0X00C21A7000000/" target="blank" rel="noopener">
+                アジア、再び感染拡大　日経コロナ回復指数</a>
+        </li>
+
+    <hr>
+        2021年07月07日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC070OC0X00C21A7000000/" target="blank" rel="noopener">
+                東京都、新たに920人感染　7日平均で前週の124.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODE06DME0W1A700C2000000/" target="blank" rel="noopener">
+                「まん延防止」延長、7日夕協議　酒類制限の強化策検討</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA073W00X00C21A7000000/" target="blank" rel="noopener">
+                「首都圏の医療ひっ迫も」尾身氏、感染者増に危機感</a>
+        </li>
+
+    <hr>
+        2021年07月06日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC060F80W1A700C2000000/" target="blank" rel="noopener">
+                東京都、新たに593人感染　7日平均で前週の121.7%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA062A00W1A700C2000000/" target="blank" rel="noopener">
+                モデルナ製ワクチン一時手薄に　6月末想定より6割少なく</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA063980W1A700C2000000/" target="blank" rel="noopener">
+                ワクチン接種、国内5000万回超す　1日120万回の日も</a>
+        </li>
+
+    <hr>
+        2021年07月05日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC050V20V00C21A7000000/" target="blank" rel="noopener">
+                東京都、新たに342人感染　7日平均で前週の119.8%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR044WV0U1A700C2000000/" target="blank" rel="noopener">
+                英首相「コロナと共生を」　19日に都市封鎖解除へ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA026NM0S1A700C2000000/" target="blank" rel="noopener">
+                東京・千葉の病床使用率上昇　接種進んでも逼迫懸念残る</a>
+        </li>
+
+    <hr>
+        2021年07月04日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC0424U0U1A700C2000000/" target="blank" rel="noopener">
+                東京都、新たに518人感染　7日平均で前週の121.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE0320M0T00C21A7000000/" target="blank" rel="noopener">
+                野球・サッカーも無観客で検討　東京五輪組織委</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC012340R00C21A7000000/" target="blank" rel="noopener">
+                東京都議選、投票進む　新型コロナ対策など争点</a>
+        </li>
+
+    <hr>
         2021年07月03日
     
         <li>
