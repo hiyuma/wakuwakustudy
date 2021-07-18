@@ -50,18 +50,18 @@
     
         <li>
                 <i class="far fa-file-alt"></i>
-                <a href="" target="blank" rel="noopener">
-                </a>
+                <a href="https://www.nikkei.com/article/DGXZQOCC181FC0Y1A710C2000000/" target="blank" rel="noopener">
+                東京都、新たに1008人感染　7日平均で前週の145.6%</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
-                <a href="" target="blank" rel="noopener">
-                </a>
+                <a href="https://www.nikkei.com/article/DGXZQOUC024BC0S1A700C2000000/" target="blank" rel="noopener">
+                デルタ型が国内席巻の恐れ　変異ウイルス8種にWHO警戒</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
-                <a href="" target="blank" rel="noopener">
-                </a>
+                <a href="https://www.nikkei.com/article/DGXZQOGN174630X10C21A7000000/" target="blank" rel="noopener">
+                米国のコロナ感染、3カ月ぶり高水準　マスク義務化広がる</a>
         </li>
 
     <hr>
