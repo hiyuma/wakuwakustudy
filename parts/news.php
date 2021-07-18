@@ -46,6 +46,158 @@
         </li>
 
     <hr> -->
+        2021年07月18日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                </a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                </a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                </a>
+        </li>
+
+    <hr>
+        2021年07月17日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC171NM0X10C21A7000000/" target="blank" rel="noopener">
+                東京都、新たに1410人感染　7日平均で前週の140.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE102870Q1A710C2000000/" target="blank" rel="noopener">
+                40度の熱、激烈な頭痛　接種後に記者襲った「デルタ型」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE171IL0X10C21A7000000/" target="blank" rel="noopener">
+                五輪選手村で初のコロナ陽性　関係者感染、1日で最多</a>
+        </li>
+
+    <hr>
+        2021年07月16日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC160HJ0W1A710C2000000/" target="blank" rel="noopener">
+                東京都、新たに1271人感染　7日平均で前週の137.8%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR15EZD0V10C21A7000000/" target="blank" rel="noopener">
+                スペインのコロナ対策外出制限は違憲　最高裁が判断</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA163ER0W1A710C2000000/" target="blank" rel="noopener">
+                ワクチン2回接種、人口の2割超　高齢者1回目は8割到達</a>
+        </li>
+
+    <hr>
+        2021年07月15日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC150HL0V10C21A7000000/" target="blank" rel="noopener">
+                東京都、新たに1308人感染　7日平均で前週の132.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC143V60U1A710C2000000/" target="blank" rel="noopener">
+                ワクチン接種予約、7割が停止・制限　主要都市調査</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA151CO0V10C21A7000000/" target="blank" rel="noopener">
+                モデルナ製ワクチン、対象12歳以上に引き下げへ　厚労省</a>
+        </li>
+
+    <hr>
+        2021年07月14日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC140H70U1A710C2000000/" target="blank" rel="noopener">
+                東京都、新たに1149人感染　5月の「第4波」ピーク超え</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA146E20U1A710C2000000/" target="blank" rel="noopener">
+                2回接種の高齢者、50%超える　7月13日時点</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE02C200S1A700C2000000/" target="blank" rel="noopener">
+                コロナ禍・SNS時代の報道　情報の検証重要に　日経・早大・米コロンビア大　共同プロジェクト</a>
+        </li>
+
+    <hr>
+        2021年07月13日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC134QJ0T10C21A7000000/" target="blank" rel="noopener">
+                東京都、新たに830人感染　7日平均で前週の131.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA131HQ0T10C21A7000000/" target="blank" rel="noopener">
+                ワクチン証明、仏など十数カ国と交渉 米中は原則対象外</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC0943J0Z00C21A7000000/" target="blank" rel="noopener">
+                東京五輪支持の中国、コロナ拡大より気にしていること</a>
+        </li>
+
+    <hr>
+        2021年07月12日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC122TB0S1A710C2000000/" target="blank" rel="noopener">
+                東京都、新たに502人感染　7日平均で前週の129.2%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA111590R10C21A7000000/" target="blank" rel="noopener">
+                東京に緊急事態宣言　発令4度目、変わらぬ朝 沖縄も8月22日まで　首都圏3県と大阪「まん延防止」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODK073Q30X00C21A7000000/" target="blank" rel="noopener">
+                「コロナ世代」を癒やせるか　精神と経済の傷深く</a>
+        </li>
+
+    <hr>
+        2021年07月11日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC111AB0R10C21A7000000/" target="blank" rel="noopener">
+                東京都、新たに614人感染　7日平均で前週の126.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODE110OI0R10C21A7000000/" target="blank" rel="noopener">
+                ワクチン証明、26日から申請開始　官房長官「渡航用」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA095H40Z00C21A7000000/" target="blank" rel="noopener">
+                経済と両立、試される知恵　コロナ病床上積みも逼迫懸念 東京都12日から4度目の緊急事態</a>
+        </li>
+
+    <hr>
         2021年07月10日
     
         <li>
