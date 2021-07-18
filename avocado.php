@@ -1551,6 +1551,40 @@
             </div>
           </div>
 
+          <!-- id="051" -->
+          <div class="schedule_wrapper">
+            <div id="20210718"></div>
+            <p id="avocado"><strong>2021年07月18日</strong></p>
+            <p><img src="gallery/avocado/avo20210718 (1).jpg" alt="アボカド91"></p>
+            <div class="accbox">
+              <input type="checkbox" id="051" class="cssacc" />
+
+              <label for="051"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
+              <div class="accshow">
+                
+                <p><img src="gallery/avocado/avo20210718 (2).jpg" alt="アボカド92"></p>
+                <p><img src="gallery/avocado/avo20210718 (3).jpg" alt="アボカド93"></p>
+
+                <p>2021年07月18日、東京都16時現在の気温は32.8℃。
+                  <br><br>
+                  最高気温は、35℃の予報です。
+                  <br><br>
+                  関東は梅雨明けて、日差しがよりいっそう強くなり、朝から暑いです。
+                  <br><br>
+                  今年の梅雨入りが遅かったので少し遅くなるかと心配でしたが、梅雨明けは平年より早めで安心しました。
+                  <br><br>
+                  アボカドは、暑さに負けず、順調に成長しています。
+                  <br><br>
+                  土の乾きが早くなったので、この時期は水をたっぷり多めにあげています。
+                  <br><br>
+                  高さは、136.6cmです。
+                  <br><br>
+                  水あげを忘れずに毎日しっかり観察して、暑い夏を乗り越えてもらいます。                  
+                </p>
+              </div>
+            </div>
+          </div>
+
 
 
           <br>...なんとかまだ続くかも。
