@@ -46,6 +46,25 @@
         </li>
 
     <hr> -->
+        2021年07月19日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC190EW0Z10C21A7000000/" target="blank" rel="noopener">
+                東京都、新たに727人感染　7日平均で前週の145.4%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA0671Q0W1A700C2000000/" target="blank" rel="noopener">
+                「東京じゃなくていい」　コロナ・デジタル化で地方回帰</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA1931S0Z10C21A7000000/" target="blank" rel="noopener">
+                ワクチン追加調達「厳しい」　河野氏、世界的不足で</a>
+        </li>
+
+    <hr>
         2021年07月18日
     
         <li>
