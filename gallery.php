@@ -97,7 +97,7 @@
           <div class="accshow">
             <div id="lightgallery10" class="album">
               <?php
-              $x = 354;
+              $x = 375;
               while ($x > 122) {
                 echo '<a href="gallery2/2021年日常/favorite (' . $x . ').jpg" target="blank">
                 <img src="gallery2/2021年日常/resize/favorite (' . $x . ')small.jpg" alt=""></a>';
