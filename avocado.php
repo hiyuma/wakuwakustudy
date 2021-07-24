@@ -78,6 +78,10 @@
 
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li><a href="#20210724">　2021年07月24日　141.5cm</a></li>
+              <li><a href="#20210718">　2021年07月18日　136.6cm</a></li>
+              <li><a href="#20210710">　2021年07月10日　136.3cm</a></li>
+              <li><a href="#20210703">　2021年07月03日　136.1cm</a></li>
               <li><a href="#20210626">　2021年06月26日　135.8cm</a></li>
               <li><a href="#20210619">　2021年06月19日　135.6cm</a></li>
               <li><a href="#20210612">　2021年06月12日　135.6cm</a></li>
@@ -1580,6 +1584,38 @@
                   高さは、136.6cmです。
                   <br><br>
                   水あげを忘れずに毎日しっかり観察して、暑い夏を乗り越えてもらいます。                  
+                </p>
+              </div>
+            </div>
+          </div>
+
+           <!-- id="052" -->
+           <div class="schedule_wrapper">
+            <div id="20210723"></div>
+            <p id="avocado"><strong>2021年07月24日</strong></p>
+            <p><img src="gallery/avocado/avo20210724 (1).jpg" alt="アボカド94"></p>
+            <div class="accbox">
+              <input type="checkbox" id="052" class="cssacc" />
+
+              <label for="052"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
+              <div class="accshow">
+                
+                <p><img src="gallery/avocado/avo20210724 (2).jpg" alt="アボカド95"></p>
+                <p><img src="gallery/avocado/avo20210724 (3).jpg" alt="アボカド96"></p>
+
+                <p>2021年07月24日、東京都18時現在の気温は29.0℃。
+                  <br><br>
+                  最高気温は、34℃の予報です。
+                  <br><br>
+                  連日の真夏日で、朝から日差しが痛いくらいの強さです。
+                  <br><br>
+                  朝と夕にお水と上げて土が乾かないように気を付けています。
+                  <br><br>
+                  土が乾いていなくても、朝の日差しで新葉が萎れてしまったり、焼け枯れてしまうことがあります。
+                  <br><br>
+                  それでも、高さはぐんと伸び、141.5cmまで伸びました。
+                  <br><br>
+                  今年の夏は長くなりそうな予感です。
                 </p>
               </div>
             </div>
