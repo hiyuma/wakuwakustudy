@@ -46,6 +46,139 @@
         </li>
 
     <hr> -->
+        2021年07月31日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC3122Y0R30C21A7000000/" target="blank" rel="noopener">
+                東京都、新たに4058人感染　全国は1万2000人台に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC28EKR0Y1A720C2000000/" target="blank" rel="noopener">
+                米「接種後も感染リスク」報告　重症化予防には効果</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE307FN0Q1A730C2000000/" target="blank" rel="noopener">
+                五輪運営に試練なお　高まる感染リスク、酷暑に不満も</a>
+        </li>
+
+    <hr>
+        2021年07月30日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC300M00Q1A730C2000000/" target="blank" rel="noopener">
+                東京都、新たに3300人感染　7日平均で前週の180.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA300OC0Q1A730C2000000/" target="blank" rel="noopener">
+                アストラ製ワクチン接種、原則40歳以上　分科会が了承</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC301FL0Q1A730C2000000/" target="blank" rel="noopener">
+                新規感染者の9%、ワクチン接種後に感染　東京・港区調べ</a>
+        </li>
+
+    <hr>
+        2021年07月29日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC290LC0Z20C21A7000000/" target="blank" rel="noopener">
+                東京都、新たに3865人感染　3日連続で最多更新</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC29AI50Z20C21A7000000/" target="blank" rel="noopener">
+                国内新規感染者が1万人超　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC268OC0W1A720C2000000/" target="blank" rel="noopener">
+                どこでも安心な出産を　コロナ下の医療、携帯機器で挑む</a>
+        </li>
+
+    <hr>
+        2021年07月28日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC280FV0Y1A720C2000000/" target="blank" rel="noopener">
+                東京の新規感染3177人　新型コロナ、首都圏3県も最多</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA284Y20Y1A720C2000000/" target="blank" rel="noopener">
+                西村経財相、3県への緊急事態宣言「要請あれば対応」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC225AU0S1A720C2000000/" target="blank" rel="noopener">
+                ワクチン接種率、7割の壁　若者向け啓発強化</a>
+        </li>
+
+    <hr>
+        2021年07月27日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC277J70X20C21A7000000/" target="blank" rel="noopener">
+                東京都、過去最多の2848人感染　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB2723B0X20C21A7000000/" target="blank" rel="noopener">
+                ドイツ、未接種なら行動制限も　首相側近発言が波紋</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC1373K0T10C21A7000000/" target="blank" rel="noopener">
+                コロナ禍で学ばなくなった　テレワークの意外な副作用</a>
+        </li>
+
+    <hr>
+        2021年07月26日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC261K80W1A720C2000000/" target="blank" rel="noopener">
+                東京都、新たに1429人感染　7日平均で前週の141.2%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM253850V20C21A7000000/" target="blank" rel="noopener">
+                ワクチンを2回接種しても感染するのはなぜか</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR254M10V20C21A7000000/" target="blank" rel="noopener">
+                ワクチン接種証明の活用、フランス・イタリアで反対デモ</a>
+        </li>
+
+    <hr>
+        2021年07月25日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC251W80V20C21A7000000/" target="blank" rel="noopener">
+                東京都、新たに1763人感染　7日平均で前週の136.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC197590Z10C21A7000000/" target="blank" rel="noopener">
+                都内飲食店の5割超、時短応じず　協力金遅れで離反</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODK195VZ0Z10C21A7000000/" target="blank" rel="noopener">
+                コロナ下の格差を正せるか　税制改革などで弱者に手を</a>
+        </li>
+
+    <hr>
         2021年07月24日
     
         <li>
