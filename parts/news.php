@@ -22,12 +22,12 @@
         <div class="line">新型コロナウイルス <i class="fas fa-virus-slash"></i></div>
         <li>
                 <i class="far fa-file-alt"></i>
-                <a href="https://www.nikkei.com/article/DGXZQODG026OW0S1A200C2000000/" target="blank" rel="noopener">
-                        知っておきたいコロナワクチン接種　手順や副作用は？</a>
+                <a href="https://www.nikkei.com/article/DGXZQOCA121BK0S1A710C2000000/" target="blank" rel="noopener">
+                知っておきたいワクチン証明書　どう申請？海外は？</a>
         </li><br>
         
 
-        <!-- 2021年07月XX日
+        <!-- 2021年08月XX日
     
         <li>
                 <i class="far fa-file-alt"></i>
@@ -46,6 +46,44 @@
         </li>
 
     <hr> -->
+        2021年08月02日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC020DH0S1A800C2000000/" target="blank" rel="noopener">
+                東京都、新たに2195人感染　7日平均で前週の206.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA023QX0S1A800C2000000/" target="blank" rel="noopener">
+                ワクチン3回目接種「情報収集し検討進める」　官房長官</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC025GE0S1A800C2000000/" target="blank" rel="noopener">
+                「ワクチン打った」でつぶやいて　東京都が呼びかけ</a>
+        </li>
+
+    <hr>
+        2021年08月01日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC011EM0R00C21A8000000/" target="blank" rel="noopener">
+                東京都、新たに3058人感染　7日平均で前週の213.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC15BH00V10C21A7000000/" target="blank" rel="noopener">
+                コロナ患者のデータ蓄積、創薬に活用　国主導で計画始動</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC315JK0R30C21A7000000/" target="blank" rel="noopener">
+                感染者急増の東京　高齢者、若者のワクチン接種状況</a>
+        </li>
+
+    <hr>
         2021年07月31日
     
         <li>
