@@ -46,6 +46,25 @@
         </li>
 
     <hr> -->
+        2021年08月03日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC034GK0T00C21A8000000/" target="blank" rel="noopener">
+                東京都、新たに3709人感染　7日平均で前週の189.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR172FN0X10C21A7000000/" target="blank" rel="noopener">
+                「新ウイルスの危険、日常に」　WHO事務局長特別顧問　ピーター・シンガー氏に聞く</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA026KS0S1A800C2000000/" target="blank" rel="noopener">
+                感染拡大の指標、宣言後も上昇　デルタ型・人出が影響　実効再生産数、都内1.4台に</a>
+        </li>
+
+    <hr>
         2021年08月02日
     
         <li>
