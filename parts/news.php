@@ -46,6 +46,63 @@
         </li>
 
     <hr> -->
+        2021年08月06日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC064QK0W1A800C2000000/" target="blank" rel="noopener">
+                東京都、新たに4515人感染　7日平均で前週の152.7%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF061230W1A800C2000000/" target="blank" rel="noopener">
+                塩野義のコロナ飲み薬、年内に100万人分以上の供給体制</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA067RY0W1A800C2000000/?unlock=1" target="blank" rel="noopener">
+                国内コロナ感染、累計100万人超す　死者数増加は抑制</a>
+        </li>
+
+    <hr>
+        2021年08月05日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC0524G0V00C21A8000000/" target="blank" rel="noopener">
+                東京都、新たに5042人感染　初めて5千人上回る</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCA047KU0U1A800C2000000/" target="blank" rel="noopener">
+                コロナ感染者2億人、デルタ型が新規感染の9割に 米接種後感染率0.1%未満　ワクチン有効性なお高く</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC054GE0V00C21A8000000/" target="blank" rel="noopener">
+                東京の感染「18日時点で1万人超」試算　都の専門家会議</a>
+        </li>
+
+    <hr>
+        2021年08月04日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC040FM0U1A800C2000000/" target="blank" rel="noopener">
+                東京都、新たに4166人感染　過去最多を更新</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM0428V0U1A800C2000000/" target="blank" rel="noopener">
+                米、ワクチンで中国に対抗　東南アへ供給拡大</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOKC043LB0U1A800C2000000/" target="blank" rel="noopener">
+                五輪関連、新たに29人コロナ陽性　選手4人含む</a>
+        </li>
+
+    <hr>
         2021年08月03日
     
         <li>
