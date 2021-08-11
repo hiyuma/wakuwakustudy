@@ -4,6 +4,14 @@
 
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+  <li>2021年08月11日</li>
+  <div class="info-children">
+    <span><a href="movie.php">MOVIE</a>（竜とそばかすの姫）追加</span>
+  </div>
+
+  <li>2021年08月07日</li>
+  <div class="info-children"><span><a href="avocado.php">AVOCADO</a> 更新</span></div>
+
   <li>2021年07月24日</li>
   <div class="info-children"><span><a href="gallery.php">PHOTO</a>（日常）更新</span></div>
   

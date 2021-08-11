@@ -46,6 +46,82 @@
         </li>
 
     <hr> -->
+        2021年08月10日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC105GF0Q1A810C2000000/" target="blank" rel="noopener">
+                東京都、新たに2612人感染　重症者は過去最多の176人</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUB071TC0X00C21A8000000/" target="blank" rel="noopener">
+                デルタ型急増、アジアの株価の重荷に　航空・観光に打撃</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB101YZ0Q1A810C2000000/" target="blank" rel="noopener">
+                コロナ下で先進国に広がる食料不安</a>
+        </li>
+
+    <hr>
+        2021年08月09日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC091JV0Z00C21A8000000/" target="blank" rel="noopener">
+                東京都、新たに2884人感染　7日平均で前週の128.7%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA091BL0Z00C21A8000000/" target="blank" rel="noopener">
+                首相、接種「1億回超えた」　旅行・帰省の自粛呼びかけ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/telling/DGXZTS00000160Y1A800C2000000/" target="blank" rel="noopener">
+                コロナ下、異例の五輪 写真で追う熱戦の裏側</a>
+        </li>
+
+    <hr>
+        2021年08月08日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC081IN0Y1A800C2000000/" target="blank" rel="noopener">
+                東京都、新たに4066人感染　7日平均で前週の130%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCD035VV0T00C21A8000000/" target="blank" rel="noopener">
+                デルタ型が招く経済暗雲　試練の2カ月しのぐ策を</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN0807V0Y1A800C2000000/" target="blank" rel="noopener">
+                米コロナ新規感染、1日あたり10万人突破　2月以来</a>
+        </li>
+
+    <hr>
+        2021年08月07日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC071B30X00C21A8000000/" target="blank" rel="noopener">
+                東京都、新たに4566人感染　7日平均で前週の133.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA05BT40V00C21A8000000/" target="blank" rel="noopener">
+                重症病床上積み1000床どまり　医療体制の再構築急務</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA06CK50W1A800C2000000/" target="blank" rel="noopener">
+                変異ウイルス「ラムダ型」国内初確認　羽田空港の検疫で</a>
+        </li>
+
+    <hr>
         2021年08月06日
     
         <li>
