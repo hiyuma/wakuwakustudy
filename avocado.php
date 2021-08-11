@@ -78,6 +78,7 @@
 
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li><a href="#20210807">　2021年08月07日　151.4cm</a></li>
               <li><a href="#20210724">　2021年07月24日　141.5cm</a></li>
               <li><a href="#20210718">　2021年07月18日　136.6cm</a></li>
               <li><a href="#20210710">　2021年07月10日　136.3cm</a></li>
@@ -1616,6 +1617,36 @@
                   それでも、高さはぐんと伸び、141.5cmまで伸びました。
                   <br><br>
                   今年の夏は長くなりそうな予感です。
+                </p>
+              </div>
+            </div>
+          </div>
+
+           <!-- id="053" -->
+           <div class="schedule_wrapper">
+            <div id="20210807"></div>
+            <p id="avocado"><strong>2021年08月07日</strong></p>
+            <p><img src="gallery/avocado/avo20210807 (1).jpg" alt="アボカド97"></p>
+            <div class="accbox">
+              <input type="checkbox" id="053" class="cssacc" />
+
+              <label for="053"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
+              <div class="accshow">
+                
+                <p><img src="gallery/avocado/avo20210807 (2).jpg" alt="アボカド98"></p>
+                <p><img src="gallery/avocado/avo20210807 (3).jpg" alt="アボカド99"></p>
+
+                <p>2021年08月07日、東京都14時現在の気温は29.6℃。
+                  <br><br>
+                  最高気温は、31℃の予報です。
+                  <br><br>
+                  今年もアボカドは、暑さや強い日差しに慣れてきたようで、葉焼けしなくなってきました。
+                  <br><br>
+                  水は、朝と夕方に以前よりもたっぷりめにあげています。
+                  <br><br>
+                  高さは、151.4cmまで一気に伸び、写真撮影時に枠へ収めるのも苦労する高さになりました。
+                  <br><br>
+                  台風が近づいてきているので、注意しながら、見守っていきます。
                 </p>
               </div>
             </div>
