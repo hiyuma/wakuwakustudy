@@ -75,6 +75,7 @@
           <h3>Appreciated list</h3>
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li> <a href="#竜とそばかすの姫">竜とそばかすの姫　☆4.2</a></li>
               <li> <a href="#9人の翻訳家 囚われたベストセラー">9人の翻訳家 囚われたベストセラー　☆4.0</a></li>
               <li> <a href="#リトル・フォレスト 夏・秋">リトル・フォレスト 夏・秋　☆4.4</a></li>
               <li> <a href="#ボヘミアン・ラプソディ">ボヘミアン・ラプソディ　☆4.3</a></li>
@@ -186,6 +187,91 @@
 
         <hr>
 
+        <!-- ※Don't forget to change the label 29 -->
+        <div id="竜とそばかすの姫"></div>
+        <h3 id="movies-title"><strong>竜とそばかすの姫</strong></h3>
+        <div id="movies">
+
+          <div id="movie-photo">
+          <img alt="竜とそばかすの姫" src="https://d2ueuvlup6lbue.cloudfront.net/attachments/0f3188536898514326096226e01203c951802d01/store/fitpad/260/364/d58072e95bda87166cf2ffcddd4c0fd74079dcd8c0a2430c3b2cd4fc6151/_.jpg" width="300" height="420">
+          </div>
+
+          <div id="movie-info">
+            <p id="th">監督</p>
+            <p id="td">細田守</p>
+            <p id="th">出演</p>
+            <p id="td">中村佳穂、成田凌、染谷将太、玉城ティナ、幾田りら、役所広司、森川智之、佐藤健、津田健次郎、小山茉美（小山まみ）</p>
+            <p id="th">ジャンル</p>
+            <p id="td">アニメ</p>
+            <p id="th">上映日</p>
+            <p id="td">2020年07月16日</p>
+            <p id="th">製作国</p>
+            <p id="td">日本</p>
+            <p id="th">上映時間</p>
+            <p id="td">121分</p>
+          </div>
+
+
+          <div id="movie-impressions">
+            <hr>
+            <p id="impression">竜とそばかすの姫の感想 <i class="far fa-comment-dots"></i></p>
+            <div id="line"></div>
+
+            <p id="th">鑑賞日</p>
+            <p id="td">2021年08月09日</p>
+            <p id="th">鑑賞方法</p>
+            <p id="td">TOHOシネマズ</p>
+            <p id="th">評価</p>
+            <p id="td">4.2(/5.0)</p>
+
+            <div id="line"></div>
+            <div class="accbox">
+              <input type="checkbox" id="label29" class="cssacc" />
+              <label for="label29">Summary</label>
+
+              <div class="accshow">
+              50億人がすれ違う<br>
+              美しくも残酷な仮想世界。<br>
+              ベルの歌声は世界を変える——<br>
+              自然豊かな高知の村に住む17歳の女子高校生・すずは、幼い頃に母を事故で亡くし、父と二人暮らし。<br>
+              母と一緒に歌うことが何よりも大好きだったすずは、その死をきっかけに歌うことができなくなっていた。<br>
+              曲を作ることだけが生きる糧となっていたある日、親友に誘われ、全世界で50億人以上が集うインターネット上の仮想世界＜U（ユー）＞に参加することに。<br>
+              ＜U＞では、「As（アズ）」と呼ばれる自分の分身を作り、まったく別の人生を生きることができる。歌えないはずのすずだったが、「ベル」と名付けたAsとしては自然と歌うことができた。ベルの歌は瞬く間に話題となり、歌姫として世界中の人気者になっていく。<br>
+              数億のAsが集うベルの大規模コンサートの日。突如、轟音とともにベルの前に現れたのは、「竜」と呼ばれる謎の存在だった。乱暴で傲慢な竜によりコンサートは無茶苦茶に。そんな竜が抱える大きな傷の秘密を知りたいと近づくベル。一方、竜もまた、ベルの優しい歌声に少しずつ心を開いていく。<br>
+              やがて世界中で巻き起こる、竜の正体探し（アンベイル）。<br>
+              ＜U＞の秩序を乱すものとして、正義を名乗るAsたちは竜を執拗に追いかけ始める。＜U＞と現実世界の双方で誹謗中傷があふれ、竜を二つの世界から排除しようという動きが加速する中、ベルは竜を探し出しその心を救いたいと願うが——。<br>
+              現実世界の片隅に生きるすずの声は、たった一人の「誰か」に届くのか。<br>
+              二つの世界がひとつになる時、奇跡が生まれる。
+              </div>
+            </div>
+
+            <div id="line"></div>
+            もうひとつの現実。もうひとりの自分。もう、ひとりじゃない。
+            <br><br>
+            序盤から作品の世界に引き込まれて、音楽と映像がとても素晴らしかった。
+
+            <div class="accbox">
+              <input type="checkbox" id="label29a" class="cssacc" />
+
+              <label for="label29a" class="closeButton">READ MORE</label>
+
+              <div class="accshow">
+              高知県の自然豊かな景色から、仮想世界の幾何学的な空間まで、素晴らしい映像を魅せてくれます。
+              <br><br>
+              登場人物の表情やしぐさ、声が繊細で心情を細かく表しているように感じましたし、特に歌声には感動して涙しました。
+              <br><br>
+              ストーリー展開は急な変化が多々あり、良い意味で物足りなさを覚えました。
+              <br><br>
+              ともかく、映像と音楽、効果音が圧倒的に素晴らしく、映画館で観た方がより楽しめる作品だと思いました。
+              <br><br>
+              総じて良かったです。
+              </div>
+            </div>
+            <i class="fas fa-video"></i> <a href="https://ryu-to-sobakasu-no-hime.jp/">竜とそばかすの姫</a>
+          </div>
+        </div>
+        <hr>
+
         <!-- ※Don't forget to change the label 28 -->
         <div id="9人の翻訳家 囚われたベストセラー"></div>
         <h3 id="movies-title"><strong>9人の翻訳家 囚われたベストセラー</strong></h3>
@@ -225,8 +311,8 @@
 
             <div id="line"></div>
             <div class="accbox">
-              <input type="checkbox" id="label27" class="cssacc" />
-              <label for="label27">Summary</label>
+              <input type="checkbox" id="label28" class="cssacc" />
+              <label for="label28">Summary</label>
 
               <div class="accshow">
                 あなたは、この結末を「誤訳」する。<br>
@@ -241,9 +327,9 @@
             作中に日本製のコピー機が出てきます。
 
             <div class="accbox">
-              <input type="checkbox" id="label27a" class="cssacc" />
+              <input type="checkbox" id="label28a" class="cssacc" />
 
-              <label for="label27a" class="closeButton">READ MORE</label>
+              <label for="label28a" class="closeButton">READ MORE</label>
 
               <div class="accshow">
                 さすが、日本製だと思わされるシーンでした。
