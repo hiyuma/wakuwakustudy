@@ -22,9 +22,15 @@
         <div class="line">新型コロナウイルス <i class="fas fa-virus-slash"></i></div>
         <li>
                 <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQONA034G30T00C21A8000000/" target="blank" rel="noopener">
+                抗体カクテル療法やECMO　知っておきたいコロナ治療</a>
+        </li><br>
+        <li>
+                <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCA121BK0S1A710C2000000/" target="blank" rel="noopener">
                 知っておきたいワクチン証明書　どう申請？海外は？</a>
         </li><br>
+       
         
 
         <!-- 2021年08月XX日
@@ -46,6 +52,63 @@
         </li>
 
     <hr> -->
+        2021年08月13日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC135TO0T10C21A8000000/" target="blank" rel="noopener">
+                東京都の感染、過去最多5773人　重症者も最多の227人</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC138CZ0T10C21A8000000/" target="blank" rel="noopener">
+                国内のコロナ新規感染2万人超　1都3県で1万人に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC138H70T10C21A8000000/" target="blank" rel="noopener">
+                緊急事態宣言の強化を国に要望　1都3県知事</a>
+        </li>
+
+    <hr>
+        2021年08月12日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1261I0S1A810C2000000/" target="blank" rel="noopener">
+                東京都、新たに4989人感染　重症者数は最多の200人超</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN11C6R0R10C21A8000000/" target="blank" rel="noopener">
+                デルタ型予防、ファイザーよりモデルナ製有効か　米研究</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC123AD0S1A810C2000000/" target="blank" rel="noopener">
+                病床使用率、地方でも急上昇　滋賀・沖縄は8割超</a>
+        </li>
+
+    <hr>
+        2021年08月11日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1145H0R10C21A8000000/" target="blank" rel="noopener">
+                東京都、新たに4200人感染　7日平均で前週の114.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE114SN0R10C21A8000000/" target="blank" rel="noopener">
+                搬送困難、増加続く　新型コロナで医療逼迫</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFE2857K0Y1A720C2000000/" target="blank" rel="noopener">
+                鼻で吸うコロナワクチンが臨床試験へ　期待される理由</a>
+        </li>
+
+    <hr>
         2021年08月10日
     
         <li>
