@@ -52,6 +52,101 @@
         </li>
 
     <hr> -->
+        2021年08月18日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC187SO0Y1A810C2000000/" target="blank" rel="noopener">
+                東京都、新たに5386人感染　過去2番目の多さ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB1816R0Y1A810C2000000/" target="blank" rel="noopener">
+                モデルナワクチン、半年後もデルタ型に効果　米研究所</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF187LQ0Y1A810C2000000/" target="blank" rel="noopener">
+                大阪府、18日の新規感染2296人　初の2000人台で最多</a>
+        </li>
+
+    <hr>
+    2021年08月17日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC170DW0X10C21A8000000/" target="blank" rel="noopener">
+                東京都、新たに4377人感染　7日平均で前週の113.8%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA2003M0Q1A620C2000000/" target="blank" rel="noopener">
+                政府を信頼、日本は37%　新型コロナ禍で下落</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODE164XG0W1A810C2000000/" target="blank" rel="noopener">
+                緊急事態13都府県に、9月12日まで　政府方針を国会報告 大規模商業施設に入場制限</a>
+        </li>
+
+    <hr>
+        2021年08月16日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC160DG0W1A810C2000000/" target="blank" rel="noopener">
+                東京都、新たに2962人感染　月曜日では過去最多</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODE166710W1A810C2000000/" target="blank" rel="noopener">
+                コロナワクチン、3回目接種へ必要量確保　河野氏</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGS1364E0T10C21A8000000/" target="blank" rel="noopener">
+                東南アの21年成長率、デルタ型が下押し タイやマレーシア、19年水準回復せず</a>
+        </li>
+
+    <hr>
+        2021年08月15日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                東京都、新たに4295人感染　7日平均で前週の105.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA1512S0V10C21A8000000/" target="blank" rel="noopener">
+                コロナ重症者数1563人、3日連続過去最多</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE150VL0V10C21A8000000/" target="blank" rel="noopener">
+                お盆Uターンの予約ピーク　コロナ禍、東京駅混雑なく</a>
+        </li>
+
+    <hr>
+        2021年08月14日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC141M00U1A810C2000000/" target="blank" rel="noopener">
+                東京都、新たに5094人感染　重症者は最多245人</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA1417C0U1A810C2000000/" target="blank" rel="noopener">
+                コロナ重症者数1521人、2日連続で過去最多更新</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFM136730T10C21A8000000/" target="blank" rel="noopener">
+                デルタ型へのワクチン効果は</a>
+        </li>
+
+    <hr>
         2021年08月13日
     
         <li>
