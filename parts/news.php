@@ -52,6 +52,44 @@
         </li>
 
     <hr> -->
+        2021年08月20日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC201VA0Q1A820C2000000/" target="blank" rel="noopener">
+                東京都、新たに5405人感染　7日平均で前週の113.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC193QC0Z10C21A8000000/" target="blank" rel="noopener">
+                オンライン診療、医師探しやすく　ドコモなど予約なしで</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUB127PF0S1A810C2000000/" target="blank" rel="noopener">
+                老後マネー狙う特殊詐欺　「コロナ」が新手口</a>
+        </li>
+
+    <hr>
+        2021年08月19日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC194DR0Z10C21A8000000/" target="blank" rel="noopener">
+                東京都、新たに5534人感染　7日平均で前週の120.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE1090S0Q1A810C2000000/" target="blank" rel="noopener">
+                自宅療養急増7万人、訪問ケア限界　オンライン活用急務</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC176H20X10C21A8000000/" target="blank" rel="noopener">
+                学生接種率8割の慶応大「副反応の体験談共有」</a>
+        </li>
+
+    <hr>
         2021年08月18日
     
         <li>
