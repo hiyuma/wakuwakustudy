@@ -78,6 +78,7 @@
 
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li><a href="#20210807">　2021年08月21日　162.1cm</a></li>
               <li><a href="#20210807">　2021年08月07日　151.4cm</a></li>
               <li><a href="#20210724">　2021年07月24日　141.5cm</a></li>
               <li><a href="#20210718">　2021年07月18日　136.6cm</a></li>
@@ -1648,6 +1649,38 @@
                   <br><br>
                   台風が近づいてきているので、注意しながら、見守っていきます。
                 </p>
+              </div>
+            </div>
+          </div>
+
+           <!-- id="054" -->
+           <div class="schedule_wrapper">
+            <div id="20210822"></div>
+            <p id="avocado"><strong>2021年08月22日</strong></p>
+            <p><img src="gallery/avocado/avo20210822 (1).jpg" alt="アボカド100"></p>
+            <div class="accbox">
+              <input type="checkbox" id="054" class="cssacc" />
+
+              <label for="054"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
+              <div class="accshow">
+                
+                <p><img src="gallery/avocado/avo20210822 (2).jpg" alt="アボカド101"></p>
+                <p><img src="gallery/avocado/avo20210822 (3).jpg" alt="アボカド102"></p>
+
+                <p>2021年08月22日、東京都18時現在の気温は30.7℃。
+                  <br><br>
+                  最高気温は、33℃の予報です。
+                  <br><br>
+                  しばらく雨や曇りなどの不安定な日が続き、蒸し暑い日々が始まっています。
+                  <br><br>
+                  夏も後半に入っていますが、まだまだ残暑が続きそうです。
+                  <br><br>
+                  そんな中、アボカドは高さを増して、162.1cmまで伸ばしました。
+                  <br><br>
+                  日差しの強い時に、少しでも水が足りないと葉が枯れてしまうので、水をこまめにあげています。
+                  <br><br>
+                  それにしても、4月1日は高さ114.2cmだったのに、50cmほども伸びて今季の成長著しいです。
+                  </p>
               </div>
             </div>
           </div>
