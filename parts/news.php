@@ -52,6 +52,44 @@
         </li>
 
     <hr> -->
+        2021年08月22日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC220J30S1A820C2000000/" target="blank" rel="noopener">
+                東京都、新たに4392人感染　7日平均で前週の111.0%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA220KY0S1A820C2000000/" target="blank" rel="noopener">
+                コロナ病床、消極的病院あれば「補助金返還も」　厚労相</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA220QI0S1A820C2000000/" target="blank" rel="noopener">
+                人流抑制「強い措置も選択肢」　西村氏</a>
+        </li>
+
+    <hr>
+        2021年08月21日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC211150R20C21A8000000/" target="blank" rel="noopener">
+                東京都、新たに5074人感染　7日平均で前週の111.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA211680R20C21A8000000/" target="blank" rel="noopener">
+                全国のコロナ重症者1888人、9日連続で過去最多を更新</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR2120Q0R20C21A8000000/" target="blank" rel="noopener">
+                サッカー欧州選手権で感染6000人超　英、調査結果公表</a>
+        </li>
+
+    <hr>
         2021年08月20日
     
         <li>
