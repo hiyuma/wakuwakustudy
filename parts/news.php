@@ -52,6 +52,25 @@
         </li>
 
     <hr> -->
+        2021年08月23日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC230EW0T20C21A8000000/" target="blank" rel="noopener">
+                東京都、新たに2447人感染　7日平均で前週の109%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA233O80T20C21A8000000/" target="blank" rel="noopener">
+                厚労省と東京都、医療機関にコロナ患者受け入れ要請</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA05CNL0V00C21A8000000/" target="blank" rel="noopener">
+                コロナ共生に感染症法の壁　「はしか並み」遠く</a>
+        </li>
+
+    <hr>
         2021年08月22日
     
         <li>
