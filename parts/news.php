@@ -33,7 +33,7 @@
        
         
 
-        <!-- 2021年08月XX日
+        <!-- 2021年09月XX日
     
         <li>
                 <i class="far fa-file-alt"></i>
@@ -52,6 +52,272 @@
         </li>
 
     <hr> -->
+        2021年09月06日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC060DK0W1A900C2000000/" target="blank" rel="noopener">
+                東京都968人感染、1000人切る　7日平均で前週の65.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA066IX0W1A900C2000000/" target="blank" rel="noopener">
+                「研修施設、20社がコロナ対策で提供」経団連会長</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA063A30W1A900C2000000/" target="blank" rel="noopener">
+                全国のコロナ重症者数2198人　2日連続減少は52日ぶり</a>
+        </li>
+
+    <hr>
+    2021年09月05日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC051G60V00C21A9000000/" target="blank" rel="noopener">
+                東京都、新たに1853人感染　7日平均で前週の67.4%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC3090Y0Q1A830C2000000/" target="blank" rel="noopener">
+                コロナワクチン、用量半分で接種拡大　WHOが研究奨励</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODK1918C0Z10C21A8000000/" target="blank" rel="noopener">
+                コロナ、経験生かし重症化防ぐ　薬剤選びや呼吸管理で</a>
+        </li>
+
+    <hr>
+        2021年09月04日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC042AS0U1A900C2000000/" target="blank" rel="noopener">
+                東京都、新たに2362人感染　7日平均で前週の68.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA041SB0U1A900C2000000/" target="blank" rel="noopener">
+                コロナ重症者数2223人　3日連続で過去最多を更新</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUD190MF0Z10C21A8000000/" target="blank" rel="noopener">
+                森林火災のPM2.5で新型コロナの死者が大幅増、米研究</a>
+        </li>
+
+    <hr>
+        2021年09月03日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC031340T00C21A9000000/" target="blank" rel="noopener">
+                東京都、新たに2539人感染　7日平均で前週の69.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE034500T00C21A9000000/" target="blank" rel="noopener">
+                コロナ対応「空白避けて」　首相、総裁選不出馬</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB0310L0T00C21A9000000/" target="blank" rel="noopener">
+                米国　待ち切れずに抜け駆け、3回目ワクチン接種</a>
+        </li>
+
+    <hr>
+        2021年09月02日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC020JY0S1A900C2000000/" target="blank" rel="noopener">
+                東京都、新たに3099人感染　7日平均で前週の72.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA023DI0S1A900C2000000/" target="blank" rel="noopener">
+                変異ウイルス「ミュー型」　官房長官「動向を監視」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA0249R0S1A900C2000000/" target="blank" rel="noopener">
+                コロナ重症者、再び最多2158人　前日比66人増</a>
+        </li>
+
+    <hr>
+        2021年09月01日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE01B8V0R00C21A9000000/" target="blank" rel="noopener">
+                2回接種で高い有効率　感染研、注射後14日以上</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUD190MF0Z10C21A8000000/" target="blank" rel="noopener">
+                森林火災のPM2.5で新型コロナの死者が大幅増、米研究</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC0126W0R00C21A9000000/" target="blank" rel="noopener">
+                東京都、新たに3168人感染　7日平均で前週の75.4%</a>
+        </li>
+
+    <hr>
+        2021年08月31日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC3135K0R30C21A8000000/" target="blank" rel="noopener">
+                東京都、新たに2909人感染　7日平均で前週の75.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODK244HI0U1A820C2000000/" target="blank" rel="noopener">
+                開業医、コロナ対応で試される真価　国・都が協力要請</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC314J40R30C21A8000000/" target="blank" rel="noopener">
+                都内のクラスター、第5波は企業や学校が主体に</a>
+        </li>
+
+    <hr>
+        2021年08月30日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC301WU0Q1A830C2000000/" target="blank" rel="noopener">
+                東京都、新たに1915人感染　7日平均で前週の79.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE303YG0Q1A830C2000000/" target="blank" rel="noopener">
+                子どもの感染、1週間で3万人超　20歳未満が初の2割</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC24BSO0U1A820C2000000/" target="blank" rel="noopener">
+                オンライン診療の活用模索　首都圏の医師会や自治体</a>
+        </li>
+
+    <hr>
+        2021年08月29日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2913R0Z20C21A8000000/" target="blank" rel="noopener">
+                東京都、新たに3081人感染　7日平均で前週の80.0%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA123HC0S1A810C2000000/" target="blank" rel="noopener">
+                ワクチン効かぬ低成長　「引きこもり」続く日本経済</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA290JL0Z20C21A8000000/" target="blank" rel="noopener">
+                3回目接種「一番早ければ10～11月から」河野氏 混合接種、厚労省に検討指示</a>
+        </li>
+
+    <hr>
+        2021年08月28日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC279Y90X20C21A8000000/" target="blank" rel="noopener">
+                東京都、新たに3581人感染　7日平均で前週の84.2%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA282520Y1A820C2000000/" target="blank" rel="noopener">
+                使用停止のモデルナワクチン、接種後に2人死亡</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE280NW0Y1A820C2000000/" target="blank" rel="noopener">
+                若者向け接種、抽選制でも希望者殺到　渋谷の会場</a>
+        </li>
+
+    <hr>
+        2021年08月27日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC273PC0X20C21A8000000/" target="blank" rel="noopener">
+                東京都、新たに4227人感染　7日平均で前週の88.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCA203LO0Q1A420C2000000/" target="blank" rel="noopener">
+                緊急事態、21都道府県に拡大　ビジュアル解説</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA27BH10X20C21A8000000/" target="blank" rel="noopener">
+                コロナ自宅療養者、全国で11.8万人　前週比2万人超増える</a>
+        </li>
+
+    <hr>
+        2021年08月26日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC260KC0W1A820C2000000/" target="blank" rel="noopener">
+                東京都、新たに4704人感染　7日平均で前週の91.2%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA25EKV0V20C21A8000000/" target="blank" rel="noopener">
+                モデルナワクチンの異物、一部は金属の可能性も　厚労省</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFE114OP0R10C21A8000000/" target="blank" rel="noopener">
+                野生シカ4割にコロナ抗体、集団感染か　米農務省調査</a>
+        </li>
+
+    <hr>
+        2021年08月25日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC250HR0V20C21A8000000/" target="blank" rel="noopener">
+                東京都、新たに4228人感染　7日平均で前週下回る</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA253HM0V20C21A8000000/" target="blank" rel="noopener">
+                緊急事態8道県追加、まん延防止は4県　政府決定 27日から9月12日まで</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF2582B0V20C21A8000000/" target="blank" rel="noopener">
+                大阪府、過去最多の2808人感染　自宅療養者も最多更新</a>
+        </li>
+
+    <hr>
+        2021年08月24日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC240GU0U1A820C2000000/" target="blank" rel="noopener">
+                東京都、新たに4220人感染　7日平均で前週の102.4%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB241GS0U1A820C2000000/?unlock=1" target="blank" rel="noopener">
+                ワクチン接種の有無　ウイルス量と無関係</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE2442E0U1A820C2000000/" target="blank" rel="noopener">
+                都内のコロナ救急搬送、12%が病院まで「5時間以上」</a>
+        </li>
+
+    <hr>
         2021年08月23日
     
         <li>
