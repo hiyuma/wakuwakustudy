@@ -52,6 +52,25 @@
         </li>
 
     <hr> -->
+        2021年09月07日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC070EN0X00C21A9000000/" target="blank" rel="noopener">
+                東京都、新たに1629人感染　7日平均で前週の63.4%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA072DH0X00C21A9000000/" target="blank" rel="noopener">
+                ノババックス製ワクチン、1億5千万回分で契約　厚労省</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB0729A0X00C21A9000000/" target="blank" rel="noopener">
+                米国で学校再開　デルタ型の感染拡大に揺れる</a>
+        </li>
+
+    <hr>
         2021年09月06日
     
         <li>
