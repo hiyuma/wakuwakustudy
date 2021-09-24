@@ -75,6 +75,7 @@
           <h3>Appreciated list</h3>
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li> <a href="#ドライブ・マイ・カー">ドライブ・マイ・カー　☆4.3</a></li>
               <li> <a href="#竜とそばかすの姫">竜とそばかすの姫　☆4.2</a></li>
               <li> <a href="#9人の翻訳家 囚われたベストセラー">9人の翻訳家 囚われたベストセラー　☆4.0</a></li>
               <li> <a href="#リトル・フォレスト 夏・秋">リトル・フォレスト 夏・秋　☆4.4</a></li>
@@ -186,6 +187,88 @@
         </div>
 
         <hr>
+
+        <!-- ※Don't forget to change the label 30 -->
+        <div id="ドライブ・マイ・カー"></div>
+        <h3 id="movies-title"><strong>ドライブ・マイ・カー</strong></h3>
+        <div id="movies">
+
+          <div id="movie-photo">
+          <img alt="ドライブ・マイ・カー" src="https://d2ueuvlup6lbue.cloudfront.net/attachments/706f1e08df195ae22648b4e2d64655a0bca1576b/store/fitpad/260/364/5baa86c646486e0e97709706ae02ad112c91c66db8eaf998d8d8f0e232cc/_.jpg" width="300" height="420">
+          </div>
+
+          <div id="movie-info">
+            <p id="th">監督</p>
+            <p id="td">濱口竜介</p>
+            <p id="th">出演</p>
+            <p id="td">西島秀俊、三浦透子、岡田将生、霧島れいか</p>
+            <p id="th">ジャンル</p>
+            <p id="td">ドラマ</p>
+            <p id="th">上映日</p>
+            <p id="td">2021年08月20日</p>
+            <p id="th">製作国</p>
+            <p id="td">日本</p>
+            <p id="th">上映時間</p>
+            <p id="td">179分</p>
+          </div>
+
+
+          <div id="movie-impressions">
+            <hr>
+            <p id="impression">ドライブ・マイ・カーの感想 <i class="far fa-comment-dots"></i></p>
+            <div id="line"></div>
+
+            <p id="th">鑑賞日</p>
+            <p id="td">2021年09月23日</p>
+            <p id="th">鑑賞方法</p>
+            <p id="td">TOHOシネマズ</p>
+            <p id="th">評価</p>
+            <p id="td">4.3(/5.0)</p>
+
+            <div id="line"></div>
+            <div class="accbox">
+              <input type="checkbox" id="label30" class="cssacc" />
+              <label for="label30">Summary</label>
+
+              <div class="accshow">
+              舞台俳優であり、演出家の家福悠介。彼は、脚本家の妻・音と満ち足りた日々を送っていた。しかし、妻はある秘密を残したまま突然この世からいなくなってしまう――。
+              <br>
+              ２年後、演劇祭で演出を任されることになった家福は、愛車のサーブで広島へと向かう。そこで出会ったのは、寡黙な専属ドライバーみさきだった。
+              <br>
+              喪失感を抱えたまま生きる家福は、みさきと過ごすなか、それまで目を背けていたあることに気づかされていく…
+              </div>
+            </div>
+
+            <div id="line"></div>
+            他人とは分かり合えないという前提で、演劇やドライブを通して言語や手話、文化、ルーツなどを乗り越えようとする。
+            <br><br>
+            印象的で無機質なセリフが多く、良い意味で不自然さのある、そんな179分長尺で繊細な作品でした。           
+            
+            <div class="accbox">
+              <input type="checkbox" id="label30a" class="cssacc" />
+
+              <label for="label30a" class="closeButton">READ MORE</label>
+
+              <div class="accshow">
+              結局、他人を完璧に理解しきることはできない。
+              <br>けど、自分の心には正直に折り合いをつけて、深く見つめていくことで自分を理解することはできる。
+              <br><br>
+              そうやって、結果的に他人を理解していけるのではないかと考えさせられました。
+              <br>個人的には、村上春樹の短編小説の映画化ということは意識せずに鑑賞することができました。
+              <br><br>
+              元々、舞台は韓国の予定だったそうですが、新型コロナの影響で、広島に変更して練り直されたそうです。
+              そして、北海道のシーンでは、しばらく無音になった時間が衝撃的で、意味深でした。
+              <br>映画館の空調の音が聞こえる程の無音でした。
+              <br><br>
+              最後、登場人物の心情と、演劇が繋がりを感じることで心にグッと刺さるものがありました。
+              <br>ラストの舞台シーンやセリフがとても好きです。
+              </div>
+            </div>
+            <i class="fas fa-video"></i> <a href="https://filmarks.com/movies/93709">ドライブ・マイ・カー</a>
+          </div>
+        </div>
+        <hr>
+
 
         <!-- ※Don't forget to change the label 29 -->
         <div id="竜とそばかすの姫"></div>
