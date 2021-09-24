@@ -52,6 +52,329 @@
         </li>
 
     <hr> -->
+        2021年09月24日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2411Z0U1A920C2000000/" target="blank" rel="noopener">
+                東京都、新たに235人感染　7日平均で前週の49.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA243L10U1A920C2000000/" target="blank" rel="noopener">
+                20代の1回目接種率47%　河野氏、年代別を初公表</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA233KQ0T20C21A9000000/" target="blank" rel="noopener">
+                コロナ飲み薬「国が購入」　公明、衆院選公約に明記へ</a>
+        </li>
+
+    <hr>
+
+        2021年09月23日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC231RD0T20C21A9000000/" target="blank" rel="noopener">
+                東京都、新たに531人感染　7日平均で前週の54.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2231G0S1A920C2000000/" target="blank" rel="noopener">
+                緊急事態19都道府県、病床使用50%下回る 宣言解除視野も第6波へ備え必須</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE2233Y0S1A920C2000000/" target="blank" rel="noopener">
+                コロナ「生活に影響」4人に1人　年収少ないほど打撃実感</a>
+        </li>
+
+    <hr>
+        2021年09月22日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC220HU0S1A920C2000000/" target="blank" rel="noopener">
+                東京都、新たに537人感染　7日平均で前週の52.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA22B5V0S1A920C2000000/" target="blank" rel="noopener">
+                国の大規模接種、予約を本格再開　23日から18歳以上対象</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA225NC0S1A920C2000000/" target="blank" rel="noopener">
+                ワクチン接種完了率、日本が米を逆転　19日時点で</a>
+        </li>
+
+    <hr>
+        2021年09月21日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC210EQ0R20C21A9000000/" target="blank" rel="noopener">
+                東京都、新たに253人感染　7日平均で前週の53.4%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA173ZX0X10C21A9000000/" target="blank" rel="noopener">
+                基準地価2年連続下落、商業地マイナス拡大　コロナ響く</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA212VL0R20C21A9000000/" target="blank" rel="noopener">
+                宣言解除「しかるべき時期に判断」　官房長官</a>
+        </li>
+
+    <hr>
+        2021年09月20日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC201AC0Q1A920C2000000/" target="blank" rel="noopener">
+                東京都、新たに302人感染　7日平均で前週の57.8%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE062XX0W1A900C2000000/" target="blank" rel="noopener">
+                10代のワクチン接種率5%　自治体、受験控え対応急ぐ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUB095BX0Z00C21A9000000/" target="blank" rel="noopener">
+                コロナ禍の地方移住のリアル</a>
+        </li>
+
+    <hr>
+        2021年09月19日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC191H00Z10C21A9000000/" target="blank" rel="noopener">
+                東京都、新たに565人感染　7日平均で前週の58.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE164KC0W1A610C2000000/" target="blank" rel="noopener">
+                「触れてお別れを」コロナ葬儀、広がる遺体の衛生保全</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODK170610X10C21A9000000/" target="blank" rel="noopener">
+                宿泊拒否には明確な基準を</a>
+        </li>
+
+    <hr>
+        2021年09月18日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC182470Y1A910C2000000/" target="blank" rel="noopener">
+                東京都、新たに862人感染　7日平均で前週の59.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB1826W0Y1A910C2000000/" target="blank" rel="noopener">
+                モデルナワクチン有効性、4カ月後も9割超　米CDC発表 ファイザーは77%に低下</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN17DQD0X10C21A9000000/" target="blank" rel="noopener">
+                米のコロナ新規死者2000人に迫る　累計で500人に1人死亡</a>
+        </li>
+
+    <hr>
+        2021年09月17日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1730G0X10C21A9000000/" target="blank" rel="noopener">
+                東京都、新たに782人感染　7日平均で1000人未満に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE179D20X10C21A9000000/" target="blank" rel="noopener">
+                厚労省が誤情報リスト公開　新型コロナワクチン</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA173R60X10C21A9000000/" target="blank" rel="noopener">
+                ワクチン3回目、2回目から8カ月以上経過後に　厚労省案</a>
+        </li>
+
+    <hr>
+        2021年09月16日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC161FA0W1A910C2000000/" target="blank" rel="noopener">
+                東京都、新たに831人感染　7日平均で前週の55.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN160A10W1A910C2000000/" target="blank" rel="noopener">
+                ワクチン予防効果「2カ月ごと6%低下」　ファイザーなど</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC164EI0W1A910C2000000/" target="blank" rel="noopener">
+                東京の病床使用、1カ月半ぶり50%下回る　重症は高水準</a>
+        </li>
+
+    <hr>
+        2021年09月15日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC150JC0V10C21A9000000/" target="blank" rel="noopener">
+                東京都、新たに1052人感染　7日平均で前週の55.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA152J50V10C21A9000000/" target="blank" rel="noopener">
+                コロナとの闘い「2～3年はかかる」　尾身氏が警告</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODE155B00V10C21A9000000/" target="blank" rel="noopener">
+                コロナ中和抗体薬、在宅でも使用可能に　首相が検討指示</a>
+        </li>
+
+    <hr>
+        2021年09月14日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="東京都、新たに1004人感染　7日平均で前週の55.7%" target="blank" rel="noopener">
+                </a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC143Z20U1A910C2000000/" target="blank" rel="noopener">
+                東京都、新型コロナ発熱外来のリスト公開</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB1413E0U1A910C2000000/" target="blank" rel="noopener">
+                南ア　ワクチンより日々の生活、接種を妨げる貧困</a>
+        </li>
+
+    <hr>
+        2021年09月13日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC130CI0T10C21A9000000/" target="blank" rel="noopener">
+                東京都、新たに611人感染　7日平均で前週の55.2%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA093NF0Z00C21A9000000/" target="blank" rel="noopener">
+                ワクチン接種2回完了、人口の5割超える　政府が公表</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA133IO0T10C21A9000000/" target="blank" rel="noopener">
+                コロナ重症者数1975人、18日ぶりに2000人下回る</a>
+        </li>
+
+    <hr>
+        2021年09月12日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1211Q0S1A910C2000000/" target="blank" rel="noopener">
+                東京都、新たに1067人感染　7日平均で前週の54.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA1226T0S1A910C2000000/" target="blank" rel="noopener">
+                コロナ新治療薬、月内にも承認へ　厚労省　英グラクソ製 軽・中等症向けの点滴薬「ソトロビマブ」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA09EFK0Z00C21A9000000/" target="blank" rel="noopener">
+                次の自民総裁の資質1位「説明能力」　対コロナ発信重視 本社世論調査　2位は「指導力」</a>
+        </li>
+        <hr>
+        2021年09月11日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1117W0R10C21A9000000/" target="blank" rel="noopener">
+                東京都、新たに1273人感染　7日平均で前週の54.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUD142510U1A710C2000000/" target="blank" rel="noopener">
+                コロナで消えゆく皆勤賞　「休むことは悪」風潮に変化 個性重視、精神論は通じず</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN10DU40Q1A910C2000000/" target="blank" rel="noopener">
+                米モデルナ、コロナ・インフル混合ワクチン開発に着手</a>
+        </li>
+
+    <hr>
+        2021年09月10日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC106XL0Q1A910C2000000/" target="blank" rel="noopener">
+                東京都、新たに1242人感染　7日平均で前週の57.0%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA104940Q1A910C2000000/" target="blank" rel="noopener">
+                行動制限緩和、30日までの宣言下はやらず　官房長官</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA103CP0Q1A910C2000000/" target="blank" rel="noopener">
+                宣言30日解除「多くの地域で見えてきている」　厚労相</a>
+        </li>
+
+    <hr>
+        2021年09月09日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC091OA0Z00C21A9000000/" target="blank" rel="noopener">
+                東京都、新たに1675人感染　7日平均で前週の58.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODE094K60Z00C21A9000000/" target="blank" rel="noopener">
+                19都道府県の緊急事態延長決定　東京・大阪など30日まで 宮城・岡山は「まん延防止措置」移行</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN0903P0Z00C21A9000000/" target="blank" rel="noopener">
+                3回接種、年内見合わせを　WHOトップが要求</a>
+        </li>
+
+    <hr>
+        2021年09月08日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC080H00Y1A900C2000000/" target="blank" rel="noopener">
+                東京都、新たに1834人感染　7日平均で前週の60.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA0812R0Y1A900C2000000/" target="blank" rel="noopener">
+                緊急事態の解除基準、病床使用率50%未満　分科会案</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUB018R10R00C21A9000000/" target="blank" rel="noopener">
+                日銀頼み、空転20年　黒田総裁「コロナ後も緩和継続」</a>
+        </li>
+
+    <hr>
         2021年09月07日
     
         <li>
