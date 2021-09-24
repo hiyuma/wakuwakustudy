@@ -53,7 +53,7 @@
           <h3><i class="fas fa-list-ul"></i>Gallery List</h3>
           <div id="schedule0" class="schedule_list">
             <ol reversed>
-              <li> <a href="#日常">～2021年7月 日常</a></li>
+              <li> <a href="#日常">～2021年9月 日常</a></li>
               <li> <a href="#2008京都">2008年4月 京都府(自転車旅) </li>
               <li> <a href="#2011福島">2011年12月 福島県(自転車旅)</a></li>
               <li> <a href="#2012鋸山">2012年11月 千葉県鋸山(自転車旅)</a></li>
@@ -97,7 +97,7 @@
           <div class="accshow">
             <div id="lightgallery10" class="album">
               <?php
-              $x = 375;
+              $x = 429;
               while ($x > 122) {
                 echo '<a href="gallery2/2021年日常/favorite (' . $x . ').jpg" target="blank">
                 <img src="gallery2/2021年日常/resize/favorite (' . $x . ')small.jpg" alt=""></a>';
