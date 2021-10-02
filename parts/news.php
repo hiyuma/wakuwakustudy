@@ -33,7 +33,7 @@
        
         
 
-        <!-- 2021年09月XX日
+        <!-- 2021年10月XX日
     
         <li>
                 <i class="far fa-file-alt"></i>
@@ -52,6 +52,158 @@
         </li>
 
     <hr> -->
+        2021年10月02日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC0222W0S1A001C2000000/" target="blank" rel="noopener">
+                東京都、新たに196人感染　重症者は5人減の88人</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE013CW0R01C21A0000000/" target="blank" rel="noopener">
+                緊急事態全面解除、初の週末　駅や高速に旅行客</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC020VG0S1A001C2000000/" target="blank" rel="noopener">
+                「『第5波』感染者減少の検証を」　知事会、政府に提言へ</a>
+        </li>
+
+    <hr>
+        2021年10月01日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC010EH0R01C21A0000000/" target="blank" rel="noopener">
+                東京都、新たに200人感染　重症者100人下回る</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC012VC0R01C21A0000000/" target="blank" rel="noopener">
+                ワクチン異物混入「人的ミス」　武田・モデルナ調査公表</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCD305IE0Q1A930C2000000/" target="blank" rel="noopener">
+                宣言解除、リベンジ消費は限定的　「全治には2年」</a>
+        </li>
+
+    <hr>
+        2021年09月30日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC308MO0Q1A930C2000000/" target="blank" rel="noopener">
+                東京都、新たに218人感染　7日平均で前週の47.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA309CK0Q1A930C2000000/" target="blank" rel="noopener">
+                少なくとも1回接種、国内人口の7割に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC3064Q0Q1A930C2000000/" target="blank" rel="noopener">
+                東京独自の感染指標、最悪から1段階改善　10カ月ぶり</a>
+        </li>
+
+    <hr>
+        2021年09月29日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2926H0Z20C21A9000000/" target="blank" rel="noopener">
+                東京都、新たに267人感染　7日平均で前週の51.2%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA2963M0Z20C21A9000000/" target="blank" rel="noopener">
+                全国のコロナ重症者数、55日ぶりに1000人下回る</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE283P40Y1A920C2000000/" target="blank" rel="noopener">
+                小中高で通常登校拡大へ　宣言解除、分散登校など縮小</a>
+        </li>
+
+    <hr>
+        2021年09月28日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2814A0Y1A920C2000000/" target="blank" rel="noopener">
+                東京都、新たに248人感染　7日平均で前週の51.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUB224I20S1A920C2000000/" target="blank" rel="noopener">
+                コロナ禍でも流入続く投資マネー、東京の地価を下支え</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA283MB0Y1A920C2000000/" target="blank" rel="noopener">
+                再宣言でも酒提供可能に、ワクチン証明条件　政府方針</a>
+        </li>
+
+    <hr>
+        2021年09月27日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA2731H0X20C21A9000000/" target="blank" rel="noopener">
+                緊急事態・「まん延防止」を全面解除　政府諮問へ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC270ED0X20C21A9000000/" target="blank" rel="noopener">
+                東京都、新たに154人感染　半年ぶり200人下回る</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA277NT0X20C21A9000000/" target="blank" rel="noopener">
+                コロナ検査キットの薬局販売解禁　厚労省、薬剤師が説明</a>
+        </li>
+
+    <hr>
+        2021年09月26日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC261IU0W1A920C2000000/" target="blank" rel="noopener">
+                東京都、新たに299人感染　7日平均で前週の44.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC1605Z0W1A910C2000000/" target="blank" rel="noopener">
+                コロナ変異型出現に拍車　遺伝子のコピーミス蓄積</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC160F60W1A910C2000000/" target="blank" rel="noopener">
+                コロナワクチン、変異型どう対処　接種率向上か3回目か</a>
+        </li>
+
+    <hr>
+        2021年09月25日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2516R0V20C21A9000000/" target="blank" rel="noopener">
+                東京都、新たに382人感染　7日平均で前週の45.2%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM250WF0V20C21A9000000/" target="blank" rel="noopener">
+                韓国コロナ感染急増、初の3000人超え　5連休影響か</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGS09A150Z00C21A9000000/" target="blank" rel="noopener">
+                新興国、コロナで教育に打撃　収入減で2400万人中退懸念</a>
+        </li>
+
+    <hr>
         2021年09月24日
     
         <li>
