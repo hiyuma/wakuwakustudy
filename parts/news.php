@@ -27,6 +27,11 @@
         </li><br>
         <li>
                 <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCA270CH0X20C21A9000000/" target="blank" rel="noopener">
+                2回接種しても…知っておきたいブレークスルー感染</a>
+        </li><br>
+        <li>
+                <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCA121BK0S1A710C2000000/" target="blank" rel="noopener">
                 知っておきたいワクチン証明書　どう申請？海外は？</a>
         </li><br>
@@ -52,6 +57,25 @@
         </li>
 
     <hr> -->
+        2021年10月03日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC031JC0T01C21A0000000/" target="blank" rel="noopener">
+                東京都、新たに161人感染　7日平均で前週の56.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC01AC20R01C21A0000000/" target="blank" rel="noopener">
+                都内繁華街で夜の人出2ケタ増　緊急事態解除、初の週末</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE2128M0R20C21A9000000/" target="blank" rel="noopener">
+                オンライン診療の強化急務　医師確保進まず「泥縄」状態 ウィズコロナ戦略を探る</a>
+        </li>
+
+    <hr>
         2021年10月02日
     
         <li>
