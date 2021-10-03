@@ -1685,6 +1685,36 @@
             </div>
           </div>
 
+           <!-- id="055" -->
+           <div class="schedule_wrapper">
+            <div id="20211003"></div>
+            <p id="avocado"><strong>2021年10月03日</strong></p>
+            <p><img src="gallery/avocado/avo20211003 (1).jpg" alt="アボカド103"></p>
+            <div class="accbox">
+              <input type="checkbox" id="055" class="cssacc" />
+
+              <label for="055"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
+              <div class="accshow">
+                
+                <p><img src="gallery/avocado/avo20211003 (3).jpg" alt="アボカド104"></p>
+                <p><img src="gallery/avocado/avo20211003 (2).jpg" alt="アボカド105"></p>
+
+                <p>2021年10月03日、東京都18時現在の気温は24℃。
+                  <br><br>
+                  最高気温は、27℃でした。
+                  <br><br>
+                  すっかり、秋の空気になり、日が短くなりました。
+                  <br><br>
+                  寒暖差が激しいですが、アボカドは元気そうです。
+                  <br><br>
+                  高さはついに180.1cmまで伸び、屋根に届く勢いです。
+                  <br><br>
+                  これから気温下がるので屋根に届く前に成長止まりそうですが、届いてからはどうなるのか気になります。
+                  </p>
+              </div>
+            </div>
+          </div>
+
 
 
           <br>...なんとかまだ続くかも。
