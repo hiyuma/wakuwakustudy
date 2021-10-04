@@ -57,6 +57,25 @@
         </li>
 
     <hr> -->
+        2021年10月04日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC040CP0U1A001C2000000/" target="blank" rel="noopener">
+                東京都、新たに87人感染　11カ月ぶり100人下回る</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF046QL0U1A001C2000000/" target="blank" rel="noopener">
+                大阪府、4日の新規感染96人　7月5日以来100人下回る</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA042EY0U1A001C2000000/" target="blank" rel="noopener">
+                コロナ特措法「改正含め、対応必要」　西村経財相</a>
+        </li>
+
+    <hr>
         2021年10月03日
     
         <li>
