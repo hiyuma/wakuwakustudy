@@ -57,6 +57,44 @@
         </li>
 
     <hr> -->
+        2021年10月06日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC070VE0X01C21A0000000/" target="blank" rel="noopener">
+                東京都、新たに143人感染　7日平均で前週の59.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB071670X01C21A0000000/" target="blank" rel="noopener">
+                北欧、若者へのモデルナ製接種中断　心筋炎巡り予防措置</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC0729H0X01C21A0000000/" target="blank" rel="noopener">
+                コロナ飲み薬、年内に供給開始目標　米メルク日本法人</a>
+        </li>
+
+    <hr>
+        2021年10月05日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC050CG0V01C21A0000000/" target="blank" rel="noopener">
+                東京都、新たに144人感染　7日平均で前週の53.4%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR04CSG0U1A001C2000000/" target="blank" rel="noopener">
+                EU当局、ワクチン追加接種認める　18歳以上対象に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF0540R0V01C21A0000000/" target="blank" rel="noopener">
+                田辺三菱製薬、植物由来コロナワクチンの国内治験開始</a>
+        </li>
+
+    <hr>
         2021年10月04日
     
         <li>
