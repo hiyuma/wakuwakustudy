@@ -57,7 +57,84 @@
         </li>
 
     <hr> -->
-        2021年10月06日
+        2021年10月11日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC112H20R11C21A0000000/" target="blank" rel="noopener">
+                東京都、新たに49人感染　50人未満は20年6月以来
+</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUD290US0Z20C21A9000000/" target="blank" rel="noopener">
+                新型コロナ、男性の性機能への影響　今わかっていること</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB1153S0R11C21A0000000/" target="blank" rel="noopener">
+                ブラジル大統領、サッカー観戦断られる　ワクチン未接種</a>
+        </li>
+
+    <hr>
+        2021年10月10日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1011K0Q1A011C2000000/" target="blank" rel="noopener">
+                東京都、新たに60人感染　7日平均で前週の55.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC27A530X20C21A9000000/" target="blank" rel="noopener">
+                接種率はヒミツ　内気な自治体、ワクチン統計ご都合主義</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA093CR0Z01C21A0000000/" target="blank" rel="noopener">
+                首相、新型コロナ飲み薬の治験を視察</a>
+        </li>
+
+    <hr>
+        2021年10月09日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC091QV0Z01C21A0000000/" target="blank" rel="noopener">
+                東京都、新たに82人感染　7日平均で前週の57.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC047FP0U1A001C2000000/" target="blank" rel="noopener">
+                縮む寿命、コロナ爪痕　欧米で第2次大戦以来の大幅低下</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC272PN0X20C21A9000000/" target="blank" rel="noopener">
+                子どもへのワクチン接種、検討本格化　米で申請</a>
+        </li>
+
+    <hr>
+        2021年10月08日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC081C70Y1A001C2000000/" target="blank" rel="noopener">
+                東京都、新たに138人感染　7日平均で前週の57.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA081N20Y1A001C2000000/" target="blank" rel="noopener">
+                ファイザー1.2億回分を追加契約　3回目接種へ厚労省</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCA073ZO0X01C21A0000000/" target="blank" rel="noopener">
+                コロナ感染者、120カ国で減少　欧米中心に経済再始動 供給制約解消、なお時間</a>
+        </li>
+
+    <hr>
+        2021年10月07日
     
         <li>
                 <i class="far fa-file-alt"></i>
@@ -73,6 +150,25 @@
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUC0729H0X01C21A0000000/" target="blank" rel="noopener">
                 コロナ飲み薬、年内に供給開始目標　米メルク日本法人</a>
+        </li>
+
+    <hr>
+    2021年10月06日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC060E20W1A001C2000000/" target="blank" rel="noopener">
+                東京都、新たに149人感染　7日平均で前週の54.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA068OG0W1A001C2000000/" target="blank" rel="noopener">
+                感染者数減少「第5波前の水準に」　厚労省専門家会議</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA0518U0V01C21A0000000/" target="blank" rel="noopener">
+                中国「発生時期」議論再燃も　PCR機器、19年5月に急増</a>
         </li>
 
     <hr>
