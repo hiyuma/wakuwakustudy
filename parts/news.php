@@ -57,6 +57,178 @@
         </li>
 
     <hr> -->
+        2021年10月20日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC200F60Q1A021C2000000/" target="blank" rel="noopener">
+                東京都、新たに41人感染　7日平均で前週の53.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC2029E0Q1A021C2000000/" target="blank" rel="noopener">
+                デジタル庁、2次元コード付き接種証明書は12月中旬に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC200G70Q1A021C2000000/" target="blank" rel="noopener">
+                埼玉・千葉・神奈川、20日に時短要請の解除協議</a>
+        </li>
+
+    <hr>
+        2021年10月19日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC190ES0Z11C21A0000000/" target="blank" rel="noopener">
+                東京都、新たに36人感染　7日平均で前週の51.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR198730Z11C21A0000000/" target="blank" rel="noopener">
+                ロシアで新型コロナ感染過去最悪、ワクチン接種低迷響く</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC184AH0Y1A011C2000000/" target="blank" rel="noopener">
+                東京都、時短要請を解除へ　酒提供含め認証店で25日から</a>
+        </li>
+
+    <hr>
+        2021年10月18日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                東京都、新たに29人感染　7日平均で前週の52.7%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUD044630U1A001C2000000/" target="blank" rel="noopener">
+                米コロナ死者数、「スペインかぜ」上回る　過去に学ぶ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFC1837E0Y1A011C2000000/" target="blank" rel="noopener">
+                政府の行動制限緩和実験、飲食店など札幌4施設でも</a>
+        </li>
+
+    <hr>
+        2021年10月17日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC171BH0X11C21A0000000/" target="blank" rel="noopener">
+                東京都、新たに40人感染　7日平均で前週の52.7%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC226JP0S1A920C2000000/" target="blank" rel="noopener">
+                ワクチン職場接種の義務化、日本に立ちはだかる法の壁</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC115AX0R11C21A0000000/" target="blank" rel="noopener">
+                コロナ、集団免疫難しく共存探る　ワクチン効果も減衰</a>
+        </li>
+
+    <hr>
+        2021年10月16日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC162MH0W1A011C2000000/" target="blank" rel="noopener">
+                東京都、新たに66人感染　7日平均で前週の49%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB1626R0W1A011C2000000/" target="blank" rel="noopener">
+                米国や東南ア、入国制限相次ぎ緩和　ワクチン証明条件に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="nikkei.com/article/DGXZQOUA1578F0V11C21A0000000/" target="blank" rel="noopener">
+                病床「見える化」実効性に懸念、コロナ第6波で新指針</a>
+        </li>
+
+    <hr>
+        2021年10月15日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC150F10V11C21A0000000/" target="blank" rel="noopener">
+                東京都、新たに57人感染　7日平均で前週の45.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA14E0C0U1A011C2000000/" target="blank" rel="noopener">
+                第6波、感染力2倍想定　首相「幽霊病床」改善指示</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE014LU0R00C21A9000000/" target="blank" rel="noopener">
+                結婚式中止でトラブル頻発　コロナ影響、訴訟に発展も</a>
+        </li>
+
+    <hr>
+        2021年10月14日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC140HZ0U1A011C2000000/" target="blank" rel="noopener">
+                東京都、新たに62人感染　7日平均で前週の50.0%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1584B0V10C21A9000000/" target="blank" rel="noopener">
+                都内の病院、通常医療再開の動き　コロナ病床縮小受け</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA145CV0U1A011C2000000/" target="blank" rel="noopener">
+                ワクチン接種券の様式見直し　厚労省、3回目接種向け</a>
+        </li>
+
+    <hr>
+        2021年10月13日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC133P60T11C21A0000000/" target="blank" rel="noopener">
+                東京都、新たに72人感染　7日平均で前週の53.8%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE07D340X01C21A0000000/" target="blank" rel="noopener">
+                コロナ感染不安で長期欠席3万人　20年度、文科省調査</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFD1382R0T11C21A0000000/" target="blank" rel="noopener">
+                Hey!Say!JUMP「満員コンサート」実験に出演　名古屋</a>
+        </li>
+
+    <hr>
+
+     2021年10月12日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB130H10T11C21A0000000/" target="blank" rel="noopener">
+                [FT]太平洋の島国、コロナ下COP26への長い旅路</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODL250V00V21C20A1000000/" target="blank" rel="noopener">
+                新型コロナ感染、新たに611人　累計171万1576人</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC120XW0S1A011C2000000/" target="blank" rel="noopener">
+                コロナ飲み薬実用化へ　米メルク「入院・死亡リスク減」</a>
+        </li>
+
+    <hr>
         2021年10月11日
     
         <li>
