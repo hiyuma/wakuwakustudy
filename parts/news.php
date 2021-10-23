@@ -57,6 +57,63 @@
         </li>
 
     <hr> -->
+        2021年10月23日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC231RJ0T21C21A0000000/" target="blank" rel="noopener">
+                東京都、新たに32人感染　7日平均で前週の54.2%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF06AGS0W1A001C2000000/" target="blank" rel="noopener">
+                ワクチン持続力、自治体が検査　3回目接種の判断材料に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN22E0C0S1A021C2000000/" target="blank" rel="noopener">
+                ファイザー、ワクチン有効性9割超　5～11歳用</a>
+        </li>
+
+    <hr>
+        2021年10月22日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC223WR0S1A021C2000000/" target="blank" rel="noopener">
+                東京都、新たに26人感染　今年最少を更新</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA224UH0S1A021C2000000/" target="blank" rel="noopener">
+                18年大卒の離職率31.2% 、コロナで転職控え</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC226610S1A021C2000000/" target="blank" rel="noopener">
+                「昨冬の感染急増忘れずに」　1都3県知事がメッセージ</a>
+        </li>
+
+    <hr>
+        2021年10月21日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2117M0R21C21A0000000/" target="blank" rel="noopener">
+                東京都、新たに36人感染　7日平均で前週の56.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC213LN0R21C21A0000000/" target="blank" rel="noopener">
+                東京ディズニー、営業時間7カ月ぶり延長　11月1日から</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN2000N0Q1A021C2000000/" target="blank" rel="noopener">
+                コロナ飲み薬、有効性確認できず　米社とロシュが開発</a>
+        </li>
+
+    <hr>
         2021年10月20日
     
         <li>
