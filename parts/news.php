@@ -38,7 +38,7 @@
        
         
 
-        <!-- 2021年10月XX日
+        <!-- 2021年11月XX日
     
         <li>
                 <i class="far fa-file-alt"></i>
@@ -57,6 +57,158 @@
         </li>
 
     <hr> -->
+        <!-- 2021年10月31日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                </a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                </a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                </a>
+        </li>
+
+    <hr> -->
+        2021年10月30日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC301RV0Q1A031C2000000/" target="blank" rel="noopener">
+                東京都、新たに23人感染　前週土曜より9人少なく</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE2565G0V21C21A0000000/?unlock=1" target="blank" rel="noopener">
+                コロナの「次」に今から備えよ　東京医科歯科大・具氏</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN301B70Q1A031C2000000/" target="blank" rel="noopener">
+                新型コロナ起源、中国研究所の流出説消えず　米報告書</a>
+        </li>
+
+    <hr>
+        2021年10月29日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC290AX0Z21C21A0000000/" target="blank" rel="noopener">
+                東京都、新たに24人感染　7日平均で前週の65.0%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA293G90Z21C21A0000000/" target="blank" rel="noopener">
+                ワクチン・検査パッケージ「11月早期に示す」官房副長官</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC12E080S1A011C2000000/" target="blank" rel="noopener">
+                DNAワクチン、コロナで初めて実用化　製造しやすく</a>
+        </li>
+
+    <hr>
+        2021年10月28日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC280GN0Y1A021C2000000/" target="blank" rel="noopener">
+                東京都、新たに21人感染　7日平均で前週の58.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFC27BB30X21C21A0000000/" target="blank" rel="noopener">
+                北海道がコロナ対策ほぼ解除　宿泊補助も全域対象に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA282SF0Y1A021C2000000/" target="blank" rel="noopener">
+                「コロナめぐる国の意思決定、早期検証を」感染症会議</a>
+        </li>
+
+    <hr>
+        2021年10月27日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC276UW0X21C21A0000000/" target="blank" rel="noopener">
+                東京都、新たに36人感染　7日平均で前週の59.0%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA272VQ0X21C21A0000000/" target="blank" rel="noopener">
+                ワクチン接種7割完了　磯崎氏「他国に類を見ない速度」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE270QP0X21C21A0000000/" target="blank" rel="noopener">
+                五輪・パラのコロナ対策、現場の力が支えた　感染症会議</a>
+        </li>
+
+    <hr>
+        2021年10月26日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC264SU0W1A021C2000000/" target="blank" rel="noopener">
+                東京都、新たに29人感染　7日平均で前週の55.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUB2418O0U1A021C2000000/" target="blank" rel="noopener">
+                ポストコロナ、飲食再生始動　ファンド支援相次ぐ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA263DG0W1A021C2000000/" target="blank" rel="noopener">
+                コロナ飲み薬の薬事承認「できる限り早く」　厚労相</a>
+        </li>
+
+    <hr>
+        2021年10月25日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC252HX0V21C21A0000000/" target="blank" rel="noopener">
+                東京都、新たに17人感染　今年最少を更新</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB252650V21C21A0000000/" target="blank" rel="noopener">
+                中東欧で新型コロナ猛威　政府不信でワクチン忌避</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC250CH0V21C21A0000000/" target="blank" rel="noopener">
+                5都府県、時短要請を解除　経済活動が本格再開</a>
+        </li>
+
+    <hr>
+        2021年10月24日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC241JE0U1A021C2000000/" target="blank" rel="noopener">
+                東京都、新たに19人感染　1年4カ月ぶり20人未満に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC234110T21C21A0000000/" target="blank" rel="noopener">
+                25日時短解除　小売り・サービス、薄氷の営業「正常化」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE241J10U1A021C2000000/" target="blank" rel="noopener">
+                コロナ禍、子の拒食症1.6倍　ストレスや不安影響か</a>
+        </li>
+
+    <hr>
         2021年10月23日
     
         <li>

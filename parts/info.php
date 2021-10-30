@@ -4,6 +4,15 @@
 
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+  <li>2021年10月31日</li>
+  <div class="info-children"><span><a href="gallery.php">PHOTO</a>（井の頭公園）更新</span></div>
+
+  <li>2021年10月31日</li>
+  <div class="info-children"><span><a href="gallery.php">PHOTO</a>（和田堀公園）更新</span></div>
+
+  <li>2021年10月31日</li>
+  <div class="info-children"><span><a href="gallery.php">PHOTO</a>（日常）更新</span></div>
+
   <li>2021年10月03日</li>
   <div class="info-children"><span><a href="avocado.php">AVOCADO</a> 更新</span></div>
 
