@@ -64,7 +64,8 @@
               <li> <a href="#和田堀公園">2014年～ 東京都杉並区 和田堀公園</a></li>
               <li> <a href="#大田黒公園">2020年11月 東京都杉並区 大田黒公園 紅葉ライトアップ</a></li>
               <li> <a href="#新宿御苑">2021年03月 東京都 新宿御苑 </a></li>
-              <li> <a href="#recommend"><i class="fab fa-amazon"></i>　しらひゅー推し</a></li>
+              <li> <a href="#井之頭公園">2021年10月 東京都 井の頭恩賜公園 </a></li>
+              
             </ol>
           </div>
         </div>
@@ -97,7 +98,7 @@
           <div class="accshow">
             <div id="lightgallery10" class="album">
               <?php
-              $x = 429;
+              $x = 451;
               while ($x > 122) {
                 echo '<a href="gallery2/2021年日常/favorite (' . $x . ').jpg" target="blank">
                 <img src="gallery2/2021年日常/resize/favorite (' . $x . ')small.jpg" alt=""></a>';
@@ -944,7 +945,7 @@
           <div class="accshow">
             <div id="lightgallery8" class="album">
               <?php
-              $x = 124;
+              $x = 125;
               while ($x > 39) {
                 echo '<a href="gallery2/和田堀公園/和田堀公園 (' . $x . ').jpg" target="blank">
                 <img src="gallery2/和田堀公園/resize/和田堀公園 (' . $x . ')small.jpg" alt=""></a>';
@@ -1065,7 +1066,42 @@
           </div>
         </div>
         <br><br><br>
+       
+        <hr>
+        <div id="井の頭公園"></div>
+        <h4><span class="material-icons">photo_camera</span>
+          2020年 　東京都 井の頭恩賜公園　<span class="material-icons">local_florist</span></i>
+        </h4>
+        <div id="route-line"></div>
+        <p>井の頭恩賜公園は、大正6年に開園し、2017年で開園100周年を迎えました。
+          <br>都会の公園でありながら、樹木や季節ごとに多種の草木が自生し、多様な生き物が暮らしています。生き物たちを身近に観察でき、自然の仕組みが学べる貴重な場所です。
+          <br>また、園内は、井の頭池周辺、雑木林のある御殿山、運動施設のある西園、第二公園と4区域に分かれています。
+          <br>動物園もあり、ランニングしている人も多く、池ではボートを楽しむこともできる人気のある公園です。
+        </p>
+        <div id="route-line"></div>
 
+
+        <div class="accbox">
+          <input type="checkbox" id="inogashira" class="cssacc" />
+
+          <label for="inogashira">OPEN</label>
+
+          <div class="accshow">
+            <div id="lightgallery11" class="album">
+              <?php
+              $x = 10;
+              while ($x > 0) {
+                echo '<a href="gallery2/2021井の頭公園/井の頭公園 (' . $x . ').jpg" target="blank">
+                <img src="gallery2/2021井の頭公園/resize/井の頭公園 (' . $x . ')small.jpg" alt=""></a>';
+                $x--;
+              }
+              ?>
+
+
+            </div>
+          </div>
+        </div>
+        <br><br><br>
       </section>
       <?php include('parts/contents.php'); ?>
     </div>
@@ -1183,6 +1219,15 @@
     $lg10.on('onCloseAfter.lg', function(event) {
       $lg10.data('lightgallery').destroy(true);
       $lg10.lightGallery();
+    });
+  </script>
+
+  <script type="text/javascript">
+    var $lg11 = $('#lightgallery11');
+    $lg11.lightGallery();
+    $lg11.on('onCloseAfter.lg', function(event) {
+      $lg11.data('lightgallery').destroy(true);
+      $lg11.lightGallery();
     });
   </script>
 
