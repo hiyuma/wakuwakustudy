@@ -57,25 +57,44 @@
         </li>
 
     <hr> -->
-        <!-- 2021年10月31日
+        2021年11月01日
     
         <li>
                 <i class="far fa-file-alt"></i>
-                <a href="" target="blank" rel="noopener">
-                </a>
+                <a href="https://www.nikkei.com/article/DGXZQOCC010DD0R01C21A1000000/" target="blank" rel="noopener">
+                東京都、新たに9人感染　10人以下は1年5カ月ぶり</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
-                <a href="" target="blank" rel="noopener">
-                </a>
+                <a href="https://www.nikkei.com/article/DGXZQOUD1829I0Y1A011C2000000/" target="blank" rel="noopener">
+                インフルとコロナ、米で同時流行｢ツインデミック｣の恐れ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
-                <a href="" target="blank" rel="noopener">
-                </a>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2874J0Y1A021C2000000/" target="blank" rel="noopener">
+                沖縄も時短要請終了　緊急事態解除の19都道府県で終わる</a>
         </li>
 
-    <hr> -->
+    <hr>
+        2021年10月31日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC3115Z0R31C21A0000000/" target="blank" rel="noopener">
+                東京都、新たに22人感染　7日平均で前週の78.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://vdata.nikkei.com/newsgraphics/coronavirus-japan-infection-status/" target="blank" rel="noopener">
+                47都道府県のステージ判断　コロナ感染指標を見る</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC264R30W1A021C2000000/" target="blank" rel="noopener">
+                飲食、夜も客足回復鈍く　午後8時以降　コロナ前の半分</a>
+        </li>
+
+    <hr>
         2021年10月30日
     
         <li>
