@@ -57,6 +57,44 @@
         </li>
 
     <hr> -->
+        2021年11月03日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC031OF0T01C21A1000000/" target="blank" rel="noopener">
+                東京都、新たに25人感染　7日平均で前週の72.8%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA222MP0S1A021C2000000/" target="blank" rel="noopener">
+                ワクチン記録ミス頻発　3回目接種や証明書、滞る懸念</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF026K40S1A101C2000000/" target="blank" rel="noopener">
+                田辺三菱コロナワクチン、カナダ実用化「21年度内に」</a>
+        </li>
+
+    <hr>
+    2021年11月02日
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC020BH0S1A101C2000000/" target="blank" rel="noopener">
+                東京都、新たに18人感染　7日平均で前週の76.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCD011KN0R01C21A1000000/" target="blank" rel="noopener">
+                緊急事態宣言解除、それでも個人消費の回復が鈍いワケ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA0123G0R01C21A1000000/" target="blank" rel="noopener">
+                働く女性の自殺が増加　21年版白書、コロナ禍も影響</a>
+        </li>
+
+    <hr>
+
         2021年11月01日
     
         <li>
