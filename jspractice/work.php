@@ -167,6 +167,34 @@
            
             </p>
            </div> -->
+           <div id="form"></div>
+           <p id="avocado"></p>
+           <p><em2>6:入力値検証用</em2></p>
+           <p>XXSなどの学習用に作成したエリアです。入力された値は、SUBMITボタンを押すことで下部にそのまま表示されます。RESETボタンは入力された値を消去します。</p>
+
+              <form action="#" method="POST" id="form1">
+                     <p>NAME: <input type="text" name="NAME" id="input-message"></P>
+                     <p>MAIL:　<input type="email" name="email" id="input-message2"></p>
+                     
+                     <div id="submitAria">
+                       <p><input type="button" onclick="showMessage()" value="SUBMIT" class="submitButton">　　<input type="reset" value="RESET" class="submitButton"><p>
+                     </div>
+              </form>
+              <p id="output-message"></p>
+              <p id="output-message2"></p>
+              <script>
+                     const showMessage = () => {
+                            const textbox = document.getElementById("input-message");
+                            const textbox2 = document.getElementById("input-message2");
+                            const inputValue = textbox.value;
+                            const inputValue2 = textbox2.value;
+
+                            const output = "入力されたNAMEは 「"+ inputValue +"」です。";
+                            const output2 = "入力されたMAILは 「"+ inputValue2 + "」です。" ;
+                            document.getElementById("output-message").innerHTML = output;
+                            document.getElementById("output-message2").innerHTML = output2;
+                     }
+              </script>
           </div>
 
 
