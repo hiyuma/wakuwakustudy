@@ -76,7 +76,7 @@
 
                                                  <div class="accshow2">
                                                         <li>PROGRAMMING</li>
-                                                        <div class="info-children"><span>WEBアプリケーション開発（PHP / AWS ）</span></div>
+                                                        <div class="info-children"><span>WEBアプリケーション開発（PHP / AWS ）/ サイバーセキュリティ</span></div>
                                                         <div class="info-children"><span>修学済：HTML / CSS / JavaScript / Java / JSP / Servlet / MySQL / Linux / Git</span></div>
                                                         <li>ENGLISH</li>
                                                         <div class="info-children"><span>Dictation ( スタディサプリ ) </span></div>
@@ -100,6 +100,10 @@
 
 
               <div id="article">
+
+
+
+
                      <?php include('parts/news.php'); ?>
 
 
