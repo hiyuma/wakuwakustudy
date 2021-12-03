@@ -247,7 +247,7 @@ table td{
           }
           echo '</td></tr></tbody></table>';
 
-          $textfile = '../log/log.txt';
+          $textfile = '../log.txt';
 
           $fp = fopen($textfile, 'r+b');
           if (!$fp) {

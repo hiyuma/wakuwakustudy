@@ -74,7 +74,7 @@
               <div id="article">
                      <section class="slide-in-animation">
                             <?php
-                            $textfile = '../log/log.txt';
+                            $textfile = '../log.txt';
                             
                             $fp = fopen($textfile, 'rb');   //rで読み込みモード、bで互換性維持 
 
