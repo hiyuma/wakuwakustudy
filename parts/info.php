@@ -4,6 +4,8 @@
 
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+  <li>2021年12月03日</li>
+  <div class="info-children"><span><a href="questionnaire.php">アンケート</a>機能バグ修正(PHP）</span></div>
   <li>2021年11月30日</li>
   <div class="info-children"><span><a href="gallery.php">PHOTO</a>（大田黒公園）更新</span></div>
   <li>2021年11月30日</li>
