@@ -24,12 +24,12 @@
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQONA034G30T00C21A8000000/" target="blank" rel="noopener">
                 抗体カクテル療法やECMO　知っておきたいコロナ治療</a>
-        </li><br>
+        </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCA270CH0X20C21A9000000/" target="blank" rel="noopener">
                 2回接種しても…知っておきたいブレークスルー感染</a>
-        </li><br>
+        </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCA121BK0S1A710C2000000/" target="blank" rel="noopener">
@@ -38,7 +38,7 @@
        
         
 
-        <!-- 2021年11月XX日
+        <!-- 2021年12月XX日
     
         <li>
                 <i class="far fa-file-alt"></i>
@@ -57,6 +57,577 @@
         </li>
 
     <hr> -->
+        2021年12月03日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC030E90T01C21A2000000/" target="blank" rel="noopener">
+                東京都、新たに14人感染　7日平均で前週の91.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC12BY60S1A011C2000000/" target="blank" rel="noopener">
+                米メルク、日本でコロナ飲み薬の承認申請</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC034VK0T01C21A2000000/" target="blank" rel="noopener">
+                東京都、オミクロン対応のPCR検査開始　1日以内で判別</a>
+        </li>
+
+    <hr>
+        2021年12月02日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC020FC0S1A201C2000000/" target="blank" rel="noopener">
+                東京都、新たに11人感染　7日平均で前週の98.0%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA020ZX0S1A201C2000000/" target="blank" rel="noopener">
+                3回目接種、前倒し表明へ　首相演説原案「8カ月待たず」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC01AAD0R01C21A2000000/" target="blank" rel="noopener">
+                オミクロン型への治療薬有効性　製薬会社で見解分かれる</a>
+        </li>
+
+    <hr>
+        2021年12月01日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC015140R01C21A2000000/" target="blank" rel="noopener">
+                東京都、新たに21人感染　7日平均で前週の121.0%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA0176Y0R01C21A2000000/" target="blank" rel="noopener">
+                オミクロン型、国内2例目の感染確認　ペルー滞在の男性</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFD224S40S1A121C2000000/" target="blank" rel="noopener">
+                「第6波感染者、1月中旬1日200人」　名工大の平田教授</a>
+        </li>
+
+    <hr>
+        2021年11月30日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC301N40Q1A131C2000000/" target="blank" rel="noopener">
+                東京都、新たに21人感染　7日平均で前週の86.2%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB291180Z21C21A1000000/" target="blank" rel="noopener">
+                オミクロン型、デルタ超えの懸念　世界に拡散</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA306V00Q1A131C2000000/" target="blank" rel="noopener">
+                オミクロン型の感染者、日本で初確認　ナミビア滞在男性</a>
+        </li>
+
+    <hr>
+        2021年11月29日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC294BU0Z21C21A1000000/" target="blank" rel="noopener">
+                東京都、新たに8人感染　7日平均で前週の84.2%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA281I70Y1A121C2000000/" target="blank" rel="noopener">
+                新変異型オミクロン、ワクチン見通しや政府の対応は？</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA291I60Z21C21A1000000/" target="blank" rel="noopener">
+                外国人の新規入国を原則停止　政府、オミクロン型に対応</a>
+        </li>
+
+    <hr>
+        2021年11月28日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2814M0Y1A121C2000000/" target="blank" rel="noopener">
+                東京都、新たに9人感染　7日平均で前週の81.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB273FL0X21C21A1000000/" target="blank" rel="noopener">
+                オミクロン型が欧州拡大、英独伊で確認　日本は対策強化</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC1921W0Z11C21A1000000/" target="blank" rel="noopener">
+                国産コロナワクチン量産間近　KMバイオ、工場改造中</a>
+        </li>
+
+    <hr>
+        2021年11月27日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC271A20X21C21A1000000/" target="blank" rel="noopener">
+                東京都、新たに16人感染　7日平均で前週の89.2%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN26EEW0W1A121C2000000/" target="blank" rel="noopener">
+                新変異型で世界株安　市場、経済正常化シナリオ修正も</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE098IS0Z00C21A7000000/" target="blank" rel="noopener">
+                失われるバス、都市でも　コロナ下で消える生活の足</a>
+        </li>
+
+    <hr>
+        2021年11月26日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC260C70W1A121C2000000/" target="blank" rel="noopener">
+                東京都、新たに19人感染　7日平均で前週の84%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC2658N0W1A121C2000000/" target="blank" rel="noopener">
+                南アフリカで新たな変異型　専門家「高い感染力の恐れ」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA2619C0W1A121C2000000/" target="blank" rel="noopener">
+                コロナ労災、保険料増額せず　厚労省が軽減措置</a>
+        </li>
+
+    <hr>
+        2021年11月25日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC250G70V21C21A1000000/" target="blank" rel="noopener">
+                東京都、新たに27人感染　7日平均で前週の78.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA252P20V21C21A1000000/" target="blank" rel="noopener">
+                「第6波」協力金に1.5兆円　地方臨時交付金を大幅増額</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC257RV0V21C21A1000000/" target="blank" rel="noopener">
+                東京都、3回目接種へ大規模会場6カ所　無料PCRも準備</a>
+        </li>
+
+    <hr>
+        2021年11月24日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC240FZ0U1A121C2000000/" target="blank" rel="noopener">
+                東京都、新たに5人感染　7日平均で前週の67.8%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE2322O0T21C21A1000000/" target="blank" rel="noopener">
+                飲みニケーション、「不要」6割　コロナで意識変化</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB243LG0U1A121C2000000/" target="blank" rel="noopener">
+                韓国感染、初の4000人台　首相「予想より深刻」</a>
+        </li>
+
+    <hr>
+        2021年11月23日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC231QY0T21C21A1000000/" target="blank" rel="noopener">
+                東京都、新たに17人感染　7日平均で前週の83.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE212Z40R21C21A1000000/" target="blank" rel="noopener">
+                コロナ影響で転職活動半年以上、非正規女性で2割超</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC087YN0Y1A101C2000000/" target="blank" rel="noopener">
+                観光業者7割「7～8月より客数増」　コロナ前には届かず</a>
+        </li>
+
+    <hr>
+        2021年11月22日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC221FE0S1A121C2000000/" target="blank" rel="noopener">
+                東京都、新たに6人感染　7日平均で前週の74.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODE041BR0U1A600C2000000/?unlock=1" target="blank" rel="noopener">
+                国をむしばむ機能不全　コロナ下、自宅で尽きた命 ニッポンの統治　危機にすくむ①</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUD083U40Y1A101C2000000/" target="blank" rel="noopener">
+                車社会の米で自転車利用者が増えている　コロナが影響</a>
+        </li>
+
+    <hr>
+        2021年11月21日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC211G20R21C21A1000000/" target="blank" rel="noopener">
+                東京都、新たに20人感染　7日平均で前週の70.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCD171180X11C21A1000000/" target="blank" rel="noopener">
+                コロナ対応の債務膨張　インフレ「誤算」で世界に暗雲</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR2025I0Q1A121C2000000/" target="blank" rel="noopener">
+                欧州の新規感染最多　規制強化に逆戻り、飲み薬承認も</a>
+        </li>
+
+    <hr>
+        2021年11月20日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC201VB0Q1A121C2000000/" target="blank" rel="noopener">
+                東京都、新たに16人感染　前週土曜より8人少なく</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCD128NH0S1A111C2000000/" target="blank" rel="noopener">
+                ワクチン3回目なぜ必要？　コロナ第6波に備え抗体活性化</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR19DOJ0Z11C21A1000000/" target="blank" rel="noopener">
+                欧米、コロナが冬の流行期へ　各国で規制復活相次ぐ オーストリアは再び都市封鎖</a>
+        </li>
+
+    <hr>
+        2021年11月19日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC192HV0Z11C21A1000000/" target="blank" rel="noopener">
+                東京都、新たに16人感染　7日平均で前週の74.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA18CJN0Y1A111C2000000/" target="blank" rel="noopener">
+                コロナ制限、25日めどに緩和　接種で飲食の人数上限撤廃</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/live/event/EVT210915001" target="blank" rel="noopener">
+                コロナ禍の救世主ｍRNAワクチンの可能性</a>
+        </li>
+
+    <hr>
+        2021年11月18日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC188G30Y1A111C2000000/" target="blank" rel="noopener">
+                東京都、新たに20人感染　7日平均で前週の76.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC046WH0U1A101C2000000/" target="blank" rel="noopener">
+                コロナ検査、5分で高精度　川崎重工はロボで大量処理</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFC1703I0X11C21A1000000/" target="blank" rel="noopener">
+                ワクチン初動の遅れ「3回目」に影、札幌の高齢者は越年</a>
+        </li>
+
+    <hr>
+        2021年11月17日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC170ER0X11C21A1000000/" target="blank" rel="noopener">
+                東京都、新たに27人感染　7日平均で前週の91.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA174V80X11C21A1000000/" target="blank" rel="noopener">
+                職場接種3回目もモデルナ製、厚労省方針　22年3月開始</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC1574A0V11C21A1000000/" target="blank" rel="noopener">
+                新型コロナに続く脅威　「薬剤耐性菌」</a>
+        </li>
+
+    <hr>
+        2021年11月16日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC160EG0W1A111C2000000/" target="blank" rel="noopener">
+                東京都、新たに15人感染　7日平均で前週の90.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA161EV0W1A111C2000000/" target="blank" rel="noopener">
+                ワクチン接種証明、画像やコピーでも　有効期限設けず</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC15BOX0V11C21A1000000/" target="blank" rel="noopener">
+                山梨県、コロナ新規感染者20日連続でゼロ</a>
+        </li>
+
+    <hr>
+        2021年11月15日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC150AI0V11C21A1000000/" target="blank" rel="noopener">
+                東京都、新たに7人感染　今年最少を更新</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA023F10S1A101C2000000/" target="blank" rel="noopener">
+                コロナ対策、岸田首相は脱「厚労省」試す　財務省を軸に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA151XR0V11C21A1000000/" target="blank" rel="noopener">
+                ワクチン追加接種「2回目から6カ月後」も容認　厚労省</a>
+        </li>
+
+    <hr>
+        2021年11月14日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC141GI0U1A111C2000000/" target="blank" rel="noopener">
+                東京都、新たに22人感染　7日平均で前週の122.4%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA131E70T11C21A1000000/" target="blank" rel="noopener">
+                「GoTo」1月中旬にも再開、上限1万3000円相当で調整</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA12E600S1A111C2000000/" target="blank" rel="noopener">
+                中小企業向け無利子融資　政府、3月末まで延長</a>
+        </li>
+
+    <hr>
+        2021年11月13日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC131LU0T11C21A1000000/" target="blank" rel="noopener">
+                東京都、新たに24人感染　7日平均で前週の120.2%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN25BPZ0V21C21A0000000/" target="blank" rel="noopener">
+                コロナ時代の米レストラン　看板メニューを非接触で提供</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR12EBE0S1A111C2000000/" target="blank" rel="noopener">
+                オランダ、飲食店8時以降禁止　欧州でコロナ規制相次ぐ</a>
+        </li>
+
+    <hr>
+        2021年11月12日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC120GU0S1A111C2000000/" target="blank" rel="noopener">
+                東京都、新たに22人感染　7日平均で前週の129.4%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA11BLL0R11C21A1000000/" target="blank" rel="noopener">
+                コロナ第6波対策、月内に病床3.7万人分確保　政府が決定</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA1236N0S1A111C2000000/" target="blank" rel="noopener">
+                イベント人数上限撤廃へ　政府案、宣言下も条件付きで</a>
+        </li>
+
+    <hr>
+        2021年11月11日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC110F40R11C21A1000000/" target="blank" rel="noopener">
+                東京都、新たに31人感染　7日平均で前週の132.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF1510S0V11C21A0000000/" target="blank" rel="noopener">
+                塩野義製薬、コロナに資源集中　研究者の8割投入</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA112XW0R11C21A1000000/" target="blank" rel="noopener">
+                米ファイザー製ワクチン、3回目接種を特例承認　厚労省</a>
+        </li>
+
+    <hr>
+        2021年11月10日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1066N0Q1A111C2000000/" target="blank" rel="noopener">
+                東京都、新たに25人感染　7日平均で前週の113.8%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC103R80Q1A111C2000000/" target="blank" rel="noopener">
+                ファイザー、5～11歳向けワクチン接種を日本で承認申請</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA09D8D0Z01C21A1000000/" target="blank" rel="noopener">
+                コロナ重症者、20年秋以降で最低　厚労省専門家組織</a>
+        </li>
+
+    <hr>
+        2021年11月09日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC093M60Z01C21A1000000/" target="blank" rel="noopener">
+                東京都、新たに30人感染　7日平均で前週の105.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE099NG0Z01C21A1000000/" target="blank" rel="noopener">
+                全国の重症者100人下回る、昨年8月以来　新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA07CJT0X00C21A9000000/" target="blank" rel="noopener">
+                若者世代「もっと働きたい」　コロナ禍で苦悩</a>
+        </li>
+
+    <hr>
+        2021年11月08日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUD251KW0V21C21A0000000/" target="blank" rel="noopener">
+                ワクチン接種した高齢者、コロナのリスクはどれぐらい？</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA081A20Y1A101C2000000/" target="blank" rel="noopener">
+                無症状者も無料PCR検査　コロナ第6波対策、政策転換へ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC071KY0X01C21A1000000/" target="blank" rel="noopener">
+                東京都、新たに21人感染　7日平均で前週の81.7%</a>
+        </li>
+        
+
+    <hr>
+     2021年11月07日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC071KY0X01C21A1000000/" target="blank" rel="noopener">
+                東京都、新たに21人感染　7日平均で前週の81.7%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA292P50Z21C21A0000000/" target="blank" rel="noopener">
+                在宅型治験、遅れる日本　コロナが突破口に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE040I60U1A001C2000000/" target="blank" rel="noopener">
+                外国人のワクチン接種遅れ鮮明　1回目完了、5割の地域も</a>
+        </li>
+
+    <hr>
+        2021年11月06日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC061J90W1A101C2000000/" target="blank" rel="noopener">
+                東京都、新たに29人感染　7日平均で前週の84.2%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA053I50V01C21A1000000/" target="blank" rel="noopener">
+                入国時の待機、8日から緩和　接種済みなら最短3日</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN05CM20V01C21A1000000/" target="blank" rel="noopener">
+                米、5～11歳へワクチン接種開始　学校で接種も</a>
+        </li>
+
+    <hr>
+        2021年11月05日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC057QA0V01C21A1000000/" target="blank" rel="noopener">
+                東京都、新たに25人感染　7日平均で前週の76.4%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB05BNW0V01C21A1000000/" target="blank" rel="noopener">
+                米ファイザーのコロナ飲み薬、入院・死亡リスク9割減</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE02C970S1A101C2000000/" target="blank" rel="noopener">
+                コロナ予算の活用ずさん　全体の3割未執行、無駄も</a>
+        </li>
+
+    <hr>
+        2021年11月04日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC041YW0U1A101C2000000/" target="blank" rel="noopener">
+                東京都、新たに14人感染　7日平均で前週の75.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF046DB0U1A101C2000000/" target="blank" rel="noopener">
+                タカラバイオ、mRNAワクチン受託製造で新興と提携</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC049KL0U1A101C2000000/" target="blank" rel="noopener">
+                都内のコロナ病床4868床に　ピーク比27%減</a>
+        </li>
+
+    <hr>
         2021年11月03日
     
         <li>
