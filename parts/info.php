@@ -4,6 +4,18 @@
 
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+  <li>2021年11月30日</li>
+  <div class="info-children"><span><a href="gallery.php">PHOTO</a>（大田黒公園）更新</span></div>
+  <li>2021年11月30日</li>
+  <div class="info-children"><span><a href="gallery.php">PHOTO</a>（井の頭公園）更新</span></div>
+  <li>2021年11月30日</li>
+  <div class="info-children"><span><a href="gallery.php">PHOTO</a>（浜離宮恩賜庭園）更新</span></div>
+  <li>2021年11月30日</li>
+  <div class="info-children"><span><a href="gallery.php">PHOTO</a>（日常）更新</span></div>
+
+  <li>2021年11月29日</li>
+  <div class="info-children"><span><a href="jspractice/work.php#form">WORK</a>入力値検証用フォーム設置</span></div>
+
   <li>2021年10月31日</li>
   <div class="info-children"><span><a href="gallery.php">PHOTO</a>（井の頭公園）更新</span></div>
 
