@@ -57,6 +57,273 @@
         </li>
 
     <hr> -->
+        2021年12月17日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC172O60X11C21A2000000/" target="blank" rel="noopener">
+                東京都、新たに20人感染　7日平均で前週の111.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA16APJ0W1A211C2000000/" target="blank" rel="noopener">
+                オミクロン、迫る「市中感染」　国内体制整備が急務</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC16DVQ0W1A211C2000000/" target="blank" rel="noopener">
+                ここまで分かったオミクロン型　感染力は？ワクチンは？</a>
+        </li>
+
+    <hr>
+        2021年12月16日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC168EB0W1A211C2000000/" target="blank" rel="noopener">
+                東京都、新たに30人感染　7日平均で前週の126.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC167T00W1A211C2000000/" target="blank" rel="noopener">
+                東京都、オミクロン型感染者を確認　海外からの帰国者</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN15ELA0V11C21A2000000/" target="blank" rel="noopener">
+                オミクロン型の増殖速度「70倍超」　肺では増えにくく</a>
+        </li>
+
+    <hr>
+        2021年12月15日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC157C20V11C21A2000000/" target="blank" rel="noopener">
+                東京都、新たに29人感染　7日平均で前週の121.4%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC101M40Q1A211C2000000/" target="blank" rel="noopener">
+                がんはコロナに比べても大きなリスク　検診心がけて</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR14DQM0U1A211C2000000/" target="blank" rel="noopener">
+                ファイザー製2回接種、重症化7割防止　南アで調査</a>
+        </li>
+
+    <hr>
+        2021年12月14日
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC143GF0U1A211C2000000/" target="blank" rel="noopener">
+                東京都、新たに24人感染　7日平均で前週の113.8%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN14CM10U1A211C2000000/" target="blank" rel="noopener">
+                ファイザーの飲み薬「オミクロン型に効果」　初期分析</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE028TJ0S1A201C2000000/" target="blank" rel="noopener">
+                「オミクロン態勢」構築急ぐ　医療現場、専用個室など</a>
+        </li>
+
+    <hr>
+        2021年12月13日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC135XY0T11C21A2000000/" target="blank" rel="noopener">
+                東京都、新たに7人感染　7日平均で前週の108.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFH1320T0T11C21A2000000/" target="blank" rel="noopener">
+                オミクロン型は「終わりの始まり」か【動画解説】</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUD294020Z21C21A1000000/" target="blank" rel="noopener">
+                コロナワクチンの開発にヒトの胎児細胞が使われる理由</a>
+        </li>
+
+    <hr>
+        2021年12月12日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1210Q0S1A211C2000000/" target="blank" rel="noopener">
+                東京都、新たに13人感染　7日平均で前週の106.7%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA120IE0S1A211C2000000/" target="blank" rel="noopener">
+                3回目ワクチン、混合接種を推奨　厚労相</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                オミクロン型、自宅待機者で初の感染確認　岐阜で</a>
+        </li>
+
+    <hr>
+    2021年12月11日
+    
+    <li>
+            <i class="far fa-file-alt"></i>
+            <a href="https://www.nikkei.com/article/DGXZQOCC111H80R11C21A2000000/" target="blank" rel="noopener">
+            東京都、新たに20人感染　7日平均で前週の125.2%</a>
+    </li>
+    <li>
+            <i class="far fa-file-alt"></i>
+            <a href="https://www.nikkei.com/article/DGXZQOGN08D3G0Y1A201C2000000/" target="blank" rel="noopener">
+            米、コロナ入院患者再び増加　医療逼迫で手術延期も</a>
+    </li>
+    <li>
+            <i class="far fa-file-alt"></i>
+            <a href="https://www.nikkei.com/article/DGXZQOCB113QW0R11C21A2000000/" target="blank" rel="noopener">
+            台湾でオミクロン型初確認　3人、米英などから入境</a>
+    </li>
+
+<hr>
+        2021年12月10日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC111H80R11C21A2000000/" target="blank" rel="noopener">
+                東京都、新たに13人感染　7日平均で前週の106.7%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC1117A0R11C21A2000000/" target="blank" rel="noopener">
+                オミクロンの再感染「デルタの3～8倍」　英の初期調査</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC020Z90S1A201C2000000/" target="blank" rel="noopener">
+                進まぬ接種、止まらぬ変異　オミクロン型アフリカで猛威</a>
+        </li>
+
+    <hr>
+        2021年12月09日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC0930L0Z01C21A2000000/" target="blank" rel="noopener">
+                東京都、新たに17人感染　7日平均で前週の111.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC095NJ0Z01C21A2000000/" target="blank" rel="noopener">
+                東京都の独自検査、オミクロン型はゼロ　38件にPCR実施</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN08CO70Y1A201C2000000/" target="blank" rel="noopener">
+                ファイザー、3回目接種「オミクロン型にも効果」</a>
+        </li>
+
+    <hr>
+
+    2021年12月08日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC080BP0Y1A201C2000000/" target="blank" rel="noopener">
+                東京都、新たに21人感染　7日平均で前週の91.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM050Q30V01C21A2000000/" target="blank" rel="noopener">
+                中国、「ゼロコロナ」にくすぶる不満　初感染から2年</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB080LL0Y1A201C2000000/" target="blank" rel="noopener">
+                オミクロン型、ワクチンの有効性が大幅減少　小規模研究</a>
+        </li>
+
+    <hr>
+
+    2021年12月07日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC070D60X01C21A2000000/" target="blank" rel="noopener">
+                東京都、新たに19人感染　7日平均で前週の106%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC0713T0X01C21A2000000/" target="blank" rel="noopener">
+                そーせい、コロナ薬研究で英財団から助成金受領</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR06CQE0W1A201C2000000/" target="blank" rel="noopener">
+                WHO、コロナ治療に血漿投与「勧めない」</a>
+        </li>
+
+    <hr>
+     2021年12月06日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC060DF0W1A201C2000000/" target="blank" rel="noopener">
+                東京都、新たに7人感染　7日平均で前週の111.8%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA035GD0T01C21A2000000/" target="blank" rel="noopener">
+                財政より経済、経済よりコロナ　首相が示す優先順位</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB060JU0W1A201C2000000/" target="blank" rel="noopener">
+                オミクロン型、40カ国・地域に　英で拡大</a>
+        </li>
+
+    <hr>
+    2021年12月05日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC051G90V01C21A2000000/" target="blank" rel="noopener">
+                東京都、新たに20人感染　7日平均で前週の115.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC011ZJ0R01C21A2000000/" target="blank" rel="noopener">
+                コロナ、変異繰り返し「盾」獲得か　感染力長く保つ恐れ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCD290PB0Z21C21A1000000/" target="blank" rel="noopener">
+                オミクロン型に岸田流防疫　水際対策で時間を稼ぐ</a>
+        </li>
+
+    <hr>
+    2021年12月04日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                東京都、新たに19人感染　7日平均で前週の93.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA042IB0U1A201C2000000/" target="blank" rel="noopener">
+                全陽性者にオミクロン型検査　厚労省、市中感染を警戒</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB040X80U1A201C2000000/" target="blank" rel="noopener">
+                オミクロン型世界で拡大　米10州で確認、南ア「第4波」</a>
+        </li>
+
+    <hr>
         2021年12月03日
     
         <li>
