@@ -38,7 +38,159 @@
        
         
 
-        <!-- 2021年12月XX日
+        <!--  2021年12月XX日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                </a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                </a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                </a>
+        </li> 
+
+    <hr> -->
+         2021年12月29日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC292BF0Z21C21A2000000/" target="blank" rel="noopener">
+                東京都、新たに76人感染　50人超は10月16日以来</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODK243WX0U1A221C2000000/" target="blank" rel="noopener">
+                コロナ入国規制、研究交流妨げ　イノベーション力に影</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC2895V0Y1A221C2000000/" target="blank" rel="noopener">
+                半導体不足・コロナ感染拡大・脱炭素</a>
+        </li> 
+
+    <hr>
+         2021年12月28日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC280CQ0Y1A221C2000000/" target="blank" rel="noopener">
+                東京都、新たに46人感染　7日平均で前週の147.0%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF271GJ0X21C21A2000000/" target="blank" rel="noopener">
+                塩野義製薬、コロナワクチンの最終治験入り</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR27CMP0X21C21A2000000/" target="blank" rel="noopener">
+                フランス、追加接種まで3カ月に短縮　在宅勤務を義務化</a>
+        </li> 
+
+    <hr>
+         2021年12月27日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC271820X21C21A2000000/" target="blank" rel="noopener">
+                東京都、新たに35人感染　7日平均で前週の154.4%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC27AKP0X21C21A2000000/" target="blank" rel="noopener">
+                オミクロン市中感染7都府県に　自治体、無料検査を拡大　</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODL250V00V21C20A1000000/" target="blank" rel="noopener">
+                国内コロナ感染、新たに214人　累計173万1602人</a>
+        </li> 
+
+    <hr>
+         2021年12月26日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2617T0W1A221C2000000/" target="blank" rel="noopener">
+                東京都、新たに43人感染　7日平均で前週の143.9%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCD134FU0T11C21A2000000/" target="blank" rel="noopener">
+                かかりつけ医どこに　コロナ下、診療受けられぬ患者続出</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFD261X10W1A221C2000000/" target="blank" rel="noopener">
+                オミクロン市中感染、愛知県でも確認　5都府県で25人に</a>
+        </li> 
+
+    <hr>
+         2021年12月25日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2511W0V21C21A2000000/" target="blank" rel="noopener">
+                東京都、新たに38人感染　7日平均で前週の156.0%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC252TA0V21C21A2000000/" target="blank" rel="noopener">
+                オミクロン型市中感染、4都府県で計16人　福岡でも確認</a>
+        </li> 
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB2468P0U1A221C2000000/" target="blank" rel="noopener">
+                オミクロン、拡散力デルタの3倍　南ア「入院必要」2%台</a>
+        </li> 
+
+    <hr>
+         2021年12月24日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC240BD0U1A221C2000000/" target="blank" rel="noopener">
+                東京都、新たに39人感染　7日平均で前週の158.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC245KK0U1A221C2000000/" target="blank" rel="noopener">
+                東京都、初のオミクロン型市中感染を確認</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC232IR0T21C21A2000000/" target="blank" rel="noopener">
+                メルクのコロナ飲み薬、24日承認審議　3つのポイント</a>
+        </li> 
+
+    <hr>
+         2021年12月23日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC230G00T21C21A2000000/" target="blank" rel="noopener">
+                東京都、新たに37人感染　7日平均で前週の140.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA233A10T21C21A2000000/" target="blank" rel="noopener">
+                希望者に無料検査、首相表明　オミクロン型感染地域で</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF235NU0T21C21A2000000/" target="blank" rel="noopener">
+                京都の20代女性、オミクロン型感染　知事「市中感染」</a>
+        </li> 
+
+    <hr>
+         2021年12月22日
     
         <li>
                 <i class="far fa-file-alt"></i>
@@ -52,11 +204,87 @@
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
-                <a href="" target="blank" rel="noopener">
-                </a>
+                <a href="https://www.nikkei.com/article/DGXZQOGR22EKI0S1A221C2000000/" target="blank" rel="noopener">
+                南ア研究所、オミクロン型で重症化「7～8割低く</a>
+        </li> 
+
+    <hr>
+         2021年12月21日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC210FT0R21C21A2000000/" target="blank" rel="noopener">
+                東京都、新たに38人感染　7日平均で前週の149.2%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFE0910V0Z01C21A2000000/" target="blank" rel="noopener">
+                コロナ下の子どもの防犯　「見守り」リレー</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCD174I00X11C21A2000000/" target="blank" rel="noopener">
+                コロナ、自宅で「放置死」　終わらない遺族の葛藤</a>
+        </li> 
+
+    <hr>
+        2021年12月20日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC200CP0Q1A221C2000000/" target="blank" rel="noopener">
+                東京都、新たに11人感染　7日平均で前週の143.7%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODE093030Z01C21A2000000/" target="blank" rel="noopener">
+                コロナ対応、緊急時は国に権限集中を　菅氏インタビュー</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB200HA0Q1A221C2000000/" target="blank" rel="noopener">
+                オミクロン型「重症化しにくい証拠なし」　英研究者</a>
         </li>
 
-    <hr> -->
+    <hr>
+        2021年12月19日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1918V0Z11C21A2000000/" target="blank" rel="noopener">
+                東京都、新たに33人感染　7日平均で前週の140.2%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA1810L0Y1A211C2000000/" target="blank" rel="noopener">
+                オミクロン拡大、世界で対応急ぐ　日本でも60人超確認</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA264G80W1A121C2000000/" target="blank" rel="noopener">
+                3回目接種、厚労省周知に不安　首相自ら前倒し発表</a>
+        </li>
+
+    <hr>
+        2021年12月18日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC181RY0Y1A211C2000000/" target="blank" rel="noopener">
+                東京都、新たに28人感染　7日平均で前週の117.4%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA173I40X11C21A2000000/" target="blank" rel="noopener">
+                3回目接種前倒し、円滑配送・打ち手確保が課題に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR17EJZ0X11C21A2000000/" target="blank" rel="noopener">
+                世界の新規感染、欧米軸に1カ月で2割増　重症化は抑制</a>
+        </li>
+
+    <hr>
         2021年12月17日
     
         <li>
