@@ -19,26 +19,9 @@
 </ul>
 
 <ul class="news slide-in-animation">
-        <div class="line">新型コロナウイルス <i class="fas fa-virus-slash"></i></div>
-        <li>
-                <i class="far fa-file-alt"></i>
-                <a href="https://www.nikkei.com/article/DGXZQONA034G30T00C21A8000000/" target="blank" rel="noopener">
-                抗体カクテル療法やECMO　知っておきたいコロナ治療</a>
-        </li>
-        <li>
-                <i class="far fa-file-alt"></i>
-                <a href="https://www.nikkei.com/article/DGXZQOCA270CH0X20C21A9000000/" target="blank" rel="noopener">
-                2回接種しても…知っておきたいブレークスルー感染</a>
-        </li>
-        <li>
-                <i class="far fa-file-alt"></i>
-                <a href="https://www.nikkei.com/article/DGXZQOCA121BK0S1A710C2000000/" target="blank" rel="noopener">
-                知っておきたいワクチン証明書　どう申請？海外は？</a>
-        </li><br>
-       
-        
+        <div class="line">新型コロナウイルス <i class="fas fa-virus-slash"></i></div><br>
 
-        <!--  2021年12月XX日
+        <!--  2022年01月XX日
     
         <li>
                 <i class="far fa-file-alt"></i>
@@ -57,6 +40,82 @@
         </li> 
 
     <hr> -->
+         2022年01月02日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC020QL0S2A100C2000000/" target="blank" rel="noopener">
+                東京都、新たに84人感染　7日平均で前週の188.0%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUB165PB0W1A211C2000000/" target="blank" rel="noopener">
+                どこ吹くコロナ、新富裕層台頭　金融機関が熱視線</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN012490R00C22A1000000/" target="blank" rel="noopener">
+                米の新規感染、4日続き最多更新　「ピークは数週間先」</a>
+        </li> 
+
+    <hr>
+         2022年01月01日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC010PU0R00C22A1000000/" target="blank" rel="noopener">
+                東京都、新たに79人感染　7日平均で前週の178.3%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE0118R0R00C22A1000000/" target="blank" rel="noopener">
+                在沖縄米軍で235人感染　県発表、過去最多</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN28C2A0Y1A221C2000000/" target="blank" rel="noopener">
+                オミクロン型、早期収束は楽観論　米研究者デニソン氏</a>
+        </li> 
+
+    <hr>
+         2021年12月31日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC3112C0R31C21A2000000/" target="blank" rel="noopener">
+                東京都、新たに78人感染　7日平均で前週の168.1%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODK2245N0S1A221C2000000/" target="blank" rel="noopener">
+                時計の針戻すオミクロン型、コロナ終息に数年</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR304GI0Q1A231C2000000/" target="blank" rel="noopener">
+                英とイタリア、コロナ感染最多を更新　仏も20万人超</a>
+        </li> 
+
+    <hr>
+        2021年12月30日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC301JB0Q1A231C2000000/" target="blank" rel="noopener">
+                東京都、新たに64人感染　7日平均で前週の164.5%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR295FR0Z21C21A2000000/" target="blank" rel="noopener">
+                英仏でコロナ感染過去最多　死者は抑制</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN28BZ40Y1A221C2000000/" target="blank" rel="noopener">
+                新型コロナの新規感染、世界で最高に　死者数は横ばい</a>
+        </li> 
+
+    <hr>
          2021年12月29日
     
         <li>
