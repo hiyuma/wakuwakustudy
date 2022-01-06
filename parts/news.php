@@ -40,6 +40,82 @@
         </li> 
 
     <hr> -->
+         2022年01月06日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC060E90W2A100C2000000/" target="blank" rel="noopener">
+                東京都、新たに641人感染　7日平均で前週の4.5倍</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA060NN0W2A100C2000000/" target="blank" rel="noopener">
+                沖縄・広島・山口「まん延防止」適用へ　7日にも決定</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF066310W2A100C2000000/" target="blank" rel="noopener">
+                ブレークスルー感染5割超　大阪府がオミクロン型調査</a>
+        </li> 
+
+    <hr>
+         2022年01月05日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC050CO0V00C22A1000000/" target="blank" rel="noopener">
+                東京都、新たに390人感染　7日平均で前週の3倍</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR04BVM0U2A100C2000000/" target="blank" rel="noopener">
+                フランス南部で新たな変異型　感染力・毒性は不明</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB052CD0V00C22A1000000/" target="blank" rel="noopener">
+                コロナ後遺症、世界で1億人超　どこまで解明？</a>
+        </li> 
+
+    <hr>
+         2022年01月04日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC040840U2A100C2000000/" target="blank" rel="noopener">
+                東京都、新たに151人感染　7日平均で前週の228.5%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA301X40Q1A231C2000000/" target="blank" rel="noopener">
+                ファイザー3回目接種で4割発熱　2回目と同頻度、厚労省</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA042KI0U2A100C2000000/" target="blank" rel="noopener">
+                首相、オミクロン陽性者の入院見直し　自宅療養など活用</a>
+        </li> 
+
+    <hr>
+         2022年01月03日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC030XJ0T00C22A1000000/" target="blank" rel="noopener">
+                東京都、新たに103人感染　21年10月8日以来の100人超</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC031750T00C22A1000000/" target="blank" rel="noopener">
+                神奈川県、オミクロン型で初の市中感染</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC0319J0T00C22A1000000/" target="blank" rel="noopener">
+                山口県、新型コロナ56人感染確認　米軍岩国基地でも50人</a>
+        </li> 
+
+    <hr>
          2022年01月02日
     
         <li>
