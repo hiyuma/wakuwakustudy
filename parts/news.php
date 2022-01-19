@@ -40,6 +40,120 @@
         </li> 
 
     <hr> -->
+         2022年01月19日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                </a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA18D0L0Y2A110C2000000/" target="blank" rel="noopener">
+                13都県にまん延防止、19日夕決定　酒類提供は自治体判断</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA0617L0W2A100C2000000/" target="blank" rel="noopener">
+                「まん延防止」どんな制限？　地域限定で飲食店時短</a>
+        </li> 
+
+    <hr>
+         2022年01月18日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC186H80Y2A110C2000000/" target="blank" rel="noopener">
+                東京都、新たに5185人感染　7日平均で前週の4.3倍</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB181G90Y2A110C2000000/" target="blank" rel="noopener">
+                オミクロン予防「4回接種でも不十分」　イスラエル研究</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFC185590Y2A110C2000000/" target="blank" rel="noopener">
+                さっぽろ雪まつり、2年連続で事実上中止　オンラインに</a>
+        </li> 
+
+    <hr>
+         2022年01月17日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC171LN0X10C22A1000000/" target="blank" rel="noopener">
+                東京都、新たに3719人感染　7日平均で前週の4.2倍</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA170D90X10C22A1000000/" target="blank" rel="noopener">
+                大規模接種、31日に東京で再開へ　接種券で予約可能 大阪は2月以降開設の見通し</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN1414Y0U2A110C2000000/" target="blank" rel="noopener">
+                コロナ共生、競争の火蓋　米国「最悪」からの模索 本社コメンテーター　菅野幹雄</a>
+        </li> 
+
+    <hr>
+         2022年01月16日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC161IF0W2A110C2000000/" target="blank" rel="noopener">
+                東京都、新たに4172人感染　7日平均で前週の4.3倍</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM153RB0V10C22A1000000/" target="blank" rel="noopener">
+                中国、北京でオミクロン型を初確認　上海や広東省でも</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN14ECX0U2A110C2000000/" target="blank" rel="noopener">
+                従業員のワクチン義務差し止め　米企業に戸惑い</a>
+        </li> 
+
+    <hr>
+         2022年01月15日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC151U20V10C22A1000000/" target="blank" rel="noopener">
+                東京都、新たに4561人感染　7日平均で前週の4.8倍</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN13DW80T10C22A1000000/" target="blank" rel="noopener">
+                コロナ感染、米欧の一部でピーク越えか　NYや英で減少</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC1110O0R10C22A1000000/" target="blank" rel="noopener">
+                米でシカのコロナ感染、変異増幅？　進化の追跡必要</a>
+        </li> 
+
+    <hr>
+         2022年01月14日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1422X0U2A110C2000000/" target="blank" rel="noopener">
+                東京都、新たに4051人感染　7日平均で前週の5.8倍</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODK130SZ0T10C22A1000000/" target="blank" rel="noopener">
+                対オミクロン、「2類相当」で大丈夫か</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC1433T0U1A111C2000000/" target="blank" rel="noopener">
+                ファイザー、コロナ飲み薬を国内で承認申請</a>
+        </li> 
+
+    <hr>
          2022年01月13日
     
         <li>
