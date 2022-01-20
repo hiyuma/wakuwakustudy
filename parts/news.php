@@ -40,12 +40,31 @@
         </li> 
 
     <hr> -->
+         2022年01月20日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC200EI0Q2A120C2000000/" target="blank" rel="noopener">
+                東京都、新たに8638人感染　7日平均で前週の3.6倍</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR19DP10Z10C22A1000000/" target="blank" rel="noopener">
+                英、コロナ規制緩和　重症者増えずマスク着用義務撤廃</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC196WA0Z10C22A1000000/" target="blank" rel="noopener">
+                新規感染、初めて4万人上回る　東京・大阪も過去最多</a>
+        </li> 
+
+    <hr>
          2022年01月19日
     
         <li>
                 <i class="far fa-file-alt"></i>
-                <a href="" target="blank" rel="noopener">
-                </a>
+                <a href="https://www.nikkei.com/article/DGXZQOCC191HT0Z10C22A1000000/" target="blank" rel="noopener">
+                東京都、新たに7377人感染　過去最多を更新</a>
         </li>
          <li>
                 <i class="far fa-file-alt"></i>
