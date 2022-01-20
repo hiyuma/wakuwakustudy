@@ -75,6 +75,7 @@
           <h3>Appreciated list</h3>
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li> <a href="#星になった少年">星になった少年　☆4.4</a></li>
               <li> <a href="#ドライブ・マイ・カー">ドライブ・マイ・カー　☆4.3</a></li>
               <li> <a href="#竜とそばかすの姫">竜とそばかすの姫　☆4.2</a></li>
               <li> <a href="#9人の翻訳家 囚われたベストセラー">9人の翻訳家 囚われたベストセラー　☆4.0</a></li>
@@ -188,6 +189,89 @@
 
         <hr>
 
+        <!-- ※Don't forget to change the label 30 -->
+        <div id="星になった少年"></div>
+        <h3 id="movies-title"><strong>星になった少年 Shining Boy & Little Randy</strong></h3>
+        <div id="movies">
+
+          <div id="movie-photo">
+          <img alt="星になった少年 Shining Boy &amp; Little Randy" src="https://d2ueuvlup6lbue.cloudfront.net/attachments/f0168860c6b83f82b405ade5340636997d1f1ee9/store/fitpad/260/364/58f05022236c41986d1ae745410cccb0e6cf5528b776dab892024348a498/_.jpg" width="300" height="420">
+          </div>
+
+          <div id="movie-info">
+            <p id="th">監督</p>
+            <p id="td">河毛俊作</p>
+            <p id="th">出演</p>
+            <p id="td">柳楽優弥、常盤貴子、高橋克実、蒼井優、倍賞美津子</p>
+            <p id="th">ジャンル</p>
+            <p id="td">ドラマ</p>
+            <p id="th">上映日</p>
+            <p id="td">2005年07月16日</p>
+            <p id="th">製作国</p>
+            <p id="td">日本</p>
+            <p id="th">上映時間</p>
+            <p id="td">113分</p>
+          </div>
+
+
+          <div id="movie-impressions">
+            <hr>
+            <p id="impression">星になった少年 Shining Boy & Little Randyの感想 <i class="far fa-comment-dots"></i></p>
+            <div id="line"></div>
+
+            <p id="th">鑑賞日</p>
+            <p id="td">2022年01月19日</p>
+            <p id="th">鑑賞方法</p>
+            <p id="td">Amazon Prime Video</p>
+            <p id="th">評価</p>
+            <p id="td">4.4(/5.0)</p>
+
+            <div id="line"></div>
+            <div class="accbox">
+              <input type="checkbox" id="label31" class="cssacc" />
+              <label for="label31">Summary</label>
+
+              <div class="accshow">
+              実話を基に、日本人初のゾウ使いとなり、二十歳で夭逝した少年・坂本哲夢をめぐる感動の物語を映画化。<br>
+              ゾウ使いを志す少年と動物たちとの触れ合いや家族との絆、年上の女性との淡い恋の行方を温かなタッチで綴る。<br>
+              原作は哲夢の母・坂本小百合が著した『ちび象ランディと星になった少年』。監督はＴＶ畑出身の河毛俊作。<br>
+              主演は「誰も知らない」でカンヌ史上最年少の最優秀男優賞を受賞した柳楽優弥。 片田舎で動物プロダクションを営む小川家。<br>
+              息子の哲夢も毎日動物たちと楽しく触れ合っていた。そんなある日、母・佐緒里がタイからゾウの“ミッキーが...
+              
+              </div>
+            </div>
+
+            <div id="line"></div>
+            見終わって、タイトルの「星になった少年」の意味を考え、切なくなりましたが、とても好きな映画です。
+            <br><br>  
+            動物好きな人なら、より楽しめるし、より悲しくなる作品だと思います。
+            
+            <div class="accbox">
+              <input type="checkbox" id="label31a" class="cssacc" />
+
+              <label for="label31a" class="closeButton">READ MORE</label>
+
+              <div class="accshow">
+              演出と音楽がとても良かった。
+              <br><br> 
+              大きな象達の行列は壮観です。
+              <br><br> 
+              あれだけの動物たちの撮影がよくできたなと驚かされます。
+              <br><br> 
+              母象と子象を離すシーンは特にリアリティがあり、辛い気持ちになりました。
+              <br><br> 
+              動物達の色々な姿が垣間見え、可愛いシーンやドキドキ、ハラハラするシーンもあります。
+              <br><br> 
+              総じて、とても素敵で愛を感じる作品でした。
+            
+              </div>
+            </div>
+            <i class="fas fa-video"></i> <a href="https://filmarks.com/movies/20143?mark_id=126528874">星になった少年 Shining Boy & Little Randy</a>
+          </div>
+        </div>
+        <hr>
+
+        
         <!-- ※Don't forget to change the label 30 -->
         <div id="ドライブ・マイ・カー"></div>
         <h3 id="movies-title"><strong>ドライブ・マイ・カー</strong></h3>
