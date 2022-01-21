@@ -40,6 +40,25 @@
         </li> 
 
     <hr> -->
+         2022年01月21日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC210EG0R20C22A1000000/" target="blank" rel="noopener">
+                東京都、新たに9699人感染　7日平均で前週の3.2倍</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA211SY0R20C22A1000000/" target="blank" rel="noopener">
+                米ファイザー製ワクチン、5～11歳向け承認　厚労省</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC146KV0U2A110C2000000/" target="blank" rel="noopener">
+                ワクチン追加接種、サイトで治験参加者募集　バズリーチ</a>
+        </li> 
+
+    <hr>
          2022年01月20日
     
         <li>
