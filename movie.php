@@ -189,7 +189,7 @@
 
         <hr>
 
-        <!-- ※Don't forget to change the label 30 -->
+        <!-- ※Don't forget to change the label 31 -->
         <div id="星になった少年"></div>
         <h3 id="movies-title"><strong>星になった少年 Shining Boy & Little Randy</strong></h3>
         <div id="movies">

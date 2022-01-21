@@ -78,6 +78,7 @@
 
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li><a href="#20220121">　2022年01月21日　180.3cm</a></li>
               <li><a href="#20211003">　2021年10月03日　180.1cm</a></li>
               <li><a href="#20210821">　2021年08月21日　162.1cm</a></li>
               <li><a href="#20210807">　2021年08月07日　151.4cm</a></li>
@@ -138,6 +139,7 @@
         </div>
 
         <div id="avocado-wrapper">
+
           <div class="schedule_wrapper">
             <div id="20190318"></div>
             <p id="avocado"><strong>2019年03月18日</strong></p>
@@ -1338,7 +1340,7 @@
 
               <label for="044"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
               <div class="accshow">
-                
+
                 <p><img src="gallery/avocado/avo20210529 (2).jpg" alt="アボカド78"></p>
 
                 <p>2021年05月29日、東京都15時現在の気温は28.6℃。
@@ -1354,13 +1356,13 @@
                   いよいよ、来週あたりには梅雨入りしそうな予報がでてます。
                   <br><br>
                   陽が出ない期間は、追加で液体肥料をあげながら様子を観ていきます。<br><br>
-                  </p>
+                </p>
               </div>
             </div>
           </div>
 
-           <!-- id="045" -->
-           <div class="schedule_wrapper">
+          <!-- id="045" -->
+          <div class="schedule_wrapper">
             <div id="20210604"></div>
             <p id="avocado"><strong>2021年06月04日</strong></p>
             <p><img src="gallery/avocado/avo20210604 (1).jpg" alt="アボカド78"></p>
@@ -1369,7 +1371,7 @@
 
               <label for="045"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
               <div class="accshow">
-                
+
                 <p><img src="gallery/avocado/avo20210604 (2).jpg" alt="アボカド79"></p>
 
                 <p>2021年06月04日、東京都18時現在の気温は23.0℃。
@@ -1383,11 +1385,11 @@
                   高さは、135.1cmとさらに伸び、存在感を増しています。
                   <br><br>
                   今のところ何も心配することはなさそうです。
-                  </p>
+                </p>
               </div>
             </div>
           </div>
-          
+
           <!-- id="046" -->
           <div class="schedule_wrapper">
             <div id="20210612"></div>
@@ -1398,7 +1400,7 @@
 
               <label for="046"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
               <div class="accshow">
-                
+
                 <p><img src="gallery/avocado/avo20210612 (2).jpg" alt="アボカド81"></p>
 
                 <p>2021年06月12日、東京都18時現在の気温は26.6℃。
@@ -1418,7 +1420,7 @@
                   高さは、135.6cmです。
                   <br><br>
                   朝、強い日差しになると、また葉が枯れないかと少し心配です。
-                  </p>
+                </p>
               </div>
             </div>
           </div>
@@ -1433,7 +1435,7 @@
 
               <label for="047"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
               <div class="accshow">
-                
+
                 <p><img src="gallery/avocado/avo20210619 (2).jpg" alt="アボカド83"></p>
 
                 <p>2021年06月19日、東京都9時現在の気温は20.3℃。
@@ -1447,7 +1449,7 @@
                   今週もまた新葉が開き、葉の数は増えましたが、高さは変わらずに、135.6cmです。
                   <br><br>
                   梅雨明けるまでは、ほとんど成長しないでしょう。
-                  </p>
+                </p>
               </div>
             </div>
           </div>
@@ -1462,7 +1464,7 @@
 
               <label for="048"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
               <div class="accshow">
-                
+
                 <p><img src="gallery/avocado/avo20210626 (2).jpg" alt="アボカド83"></p>
 
                 <p>2021年06月26日、東京都10時現在の気温は26.2℃。
@@ -1493,7 +1495,7 @@
 
               <label for="049"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
               <div class="accshow">
-                
+
                 <p><img src="gallery/avocado/avo20210703 (2).jpg" alt="アボカド86"></p>
                 <p><img src="gallery/avocado/avo20210703 (3).jpg" alt="アボカド87"></p>
 
@@ -1528,7 +1530,7 @@
 
               <label for="050"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
               <div class="accshow">
-                
+
                 <p><img src="gallery/avocado/avo20210710 (2).jpg" alt="アボカド89"></p>
                 <p><img src="gallery/avocado/avo20210710 (3).jpg" alt="アボカド90"></p>
 
@@ -1568,7 +1570,7 @@
 
               <label for="051"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
               <div class="accshow">
-                
+
                 <p><img src="gallery/avocado/avo20210718 (2).jpg" alt="アボカド92"></p>
                 <p><img src="gallery/avocado/avo20210718 (3).jpg" alt="アボカド93"></p>
 
@@ -1586,14 +1588,14 @@
                   <br><br>
                   高さは、136.6cmです。
                   <br><br>
-                  水あげを忘れずに毎日しっかり観察して、暑い夏を乗り越えてもらいます。                  
+                  水あげを忘れずに毎日しっかり観察して、暑い夏を乗り越えてもらいます。
                 </p>
               </div>
             </div>
           </div>
 
-           <!-- id="052" -->
-           <div class="schedule_wrapper">
+          <!-- id="052" -->
+          <div class="schedule_wrapper">
             <div id="20210723"></div>
             <p id="avocado"><strong>2021年07月24日</strong></p>
             <p><img src="gallery/avocado/avo20210724 (1).jpg" alt="アボカド94"></p>
@@ -1602,7 +1604,7 @@
 
               <label for="052"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
               <div class="accshow">
-                
+
                 <p><img src="gallery/avocado/avo20210724 (2).jpg" alt="アボカド95"></p>
                 <p><img src="gallery/avocado/avo20210724 (3).jpg" alt="アボカド96"></p>
 
@@ -1624,8 +1626,8 @@
             </div>
           </div>
 
-           <!-- id="053" -->
-           <div class="schedule_wrapper">
+          <!-- id="053" -->
+          <div class="schedule_wrapper">
             <div id="20210807"></div>
             <p id="avocado"><strong>2021年08月07日</strong></p>
             <p><img src="gallery/avocado/avo20210807 (1).jpg" alt="アボカド97"></p>
@@ -1634,7 +1636,7 @@
 
               <label for="053"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
               <div class="accshow">
-                
+
                 <p><img src="gallery/avocado/avo20210807 (2).jpg" alt="アボカド98"></p>
                 <p><img src="gallery/avocado/avo20210807 (3).jpg" alt="アボカド99"></p>
 
@@ -1654,8 +1656,8 @@
             </div>
           </div>
 
-           <!-- id="054" -->
-           <div class="schedule_wrapper">
+          <!-- id="054" -->
+          <div class="schedule_wrapper">
             <div id="20210822"></div>
             <p id="avocado"><strong>2021年08月22日</strong></p>
             <p><img src="gallery/avocado/avo20210822 (1).jpg" alt="アボカド100"></p>
@@ -1664,7 +1666,7 @@
 
               <label for="054"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
               <div class="accshow">
-                
+
                 <p><img src="gallery/avocado/avo20210822 (2).jpg" alt="アボカド101"></p>
                 <p><img src="gallery/avocado/avo20210822 (3).jpg" alt="アボカド102"></p>
 
@@ -1681,13 +1683,13 @@
                   日差しの強い時に、少しでも水が足りないと葉が枯れてしまうので、水をこまめにあげています。
                   <br><br>
                   それにしても、4月1日は高さ114.2cmだったのに、50cmほども伸びて今季の成長著しいです。
-                  </p>
+                </p>
               </div>
             </div>
           </div>
 
-           <!-- id="055" -->
-           <div class="schedule_wrapper">
+          <!-- id="055" -->
+          <div class="schedule_wrapper">
             <div id="20211003"></div>
             <p id="avocado"><strong>2021年10月03日</strong></p>
             <p><img src="gallery/avocado/avo20211003 (1).jpg" alt="アボカド103"></p>
@@ -1696,7 +1698,7 @@
 
               <label for="055"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
               <div class="accshow">
-                
+
                 <p><img src="gallery/avocado/avo20211003 (3).jpg" alt="アボカド104"></p>
                 <p><img src="gallery/avocado/avo20211003 (2).jpg" alt="アボカド105"></p>
 
@@ -1711,7 +1713,47 @@
                   高さはついに180.1cmまで伸び、屋根に届く勢いです。
                   <br><br>
                   これから気温下がるので屋根に届く前に成長止まりそうですが、届いてからはどうなるのか気になります。
-                  </p>
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="schedule_wrapper">
+            <div id="20220121"></div>
+            <p id="avocado"><strong>2022年01月21日</strong></p>
+            <img src="gallery/avocado/avo20220121 (1).jpg" alt="アボカド106">
+
+            <div class="accbox">
+              <input type="checkbox" id="056" class="cssacc" />
+
+              <label for="056"><span><img id="icon" src="gallery/ICONS/avocado.png" alt="">READ</span></label>
+              <div class="accshow">
+
+                <p><img src="gallery/avocado/avo20220121 (3).jpg" alt="アボカド107"></p>
+                <p><img src="gallery/avocado/avo20220121 (2).jpg" alt="アボカド108"></p>
+                <p>
+                  東京都12時現在の気温は5℃。
+                  <br><br>
+                  最高気温は、8℃の予報。
+                  <br><br>
+                  寒くなってきてから、アボカドの成長は止まりました。
+                  <br><br>
+                  ただ、少しだけ幹が太くなったように見えます。
+                  <br><br>
+                  12月に入ってから、枝や葉っぱの剪定しました。
+                  <br><br>
+                  去年の夏は成長早かったので、どんどん横にも伸びていました。
+                  <br><br>
+                  高さは180.3cmと10月からほとんど変わりないですが、去年の1月から70cm程も伸びています。
+                  <br><br>
+                  葉っぱは葉先から少しずつ茶色になってきているので、今年も2月、3月で全体的に茶色になるかもしれません。
+                  <br><br>
+                  冬の間は、水をあげる頻度を1週間に1回程度にしています。
+                  <br><br>
+                  もうすぐ天井に届いてしまうので、今のところ鉢増しは考えていません。
+                  <br><br>
+                  しばらくは、このまま様子を見守っていきます。
+                </p>
               </div>
             </div>
           </div>

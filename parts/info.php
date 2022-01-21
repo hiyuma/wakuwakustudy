@@ -4,14 +4,24 @@
 
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+  <li>2022年01月21日</li>
+  <div class="info-children"><span><a href="avocado.php">AVOCADO</a> 更新</span></div>
+
+  <li>2022年01月19日</li>
+  <div class="info-children"><span><a href="movie.php">MOVIE</a>（星になった少年）追加</span></div>
+
   <li>2021年12月03日</li>
   <div class="info-children"><span><a href="questionnaire.php">アンケート</a>機能バグ修正(PHP）</span></div>
+
   <li>2021年11月30日</li>
   <div class="info-children"><span><a href="gallery.php">PHOTO</a>（大田黒公園）更新</span></div>
+
   <li>2021年11月30日</li>
   <div class="info-children"><span><a href="gallery.php">PHOTO</a>（井の頭公園）更新</span></div>
+
   <li>2021年11月30日</li>
   <div class="info-children"><span><a href="gallery.php">PHOTO</a>（浜離宮恩賜庭園）更新</span></div>
+
   <li>2021年11月30日</li>
   <div class="info-children"><span><a href="gallery.php">PHOTO</a>（日常）更新</span></div>
 
