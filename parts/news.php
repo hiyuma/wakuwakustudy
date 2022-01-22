@@ -40,6 +40,25 @@
         </li> 
 
     <hr> -->
+         2022年01月22日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC220WN0S2A120C2000000/" target="blank" rel="noopener">
+                東京都、新たに1万1227人感染　初の1万人超え</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN21F400R20C22A1000000/" target="blank" rel="noopener">
+                ワクチン追加接種、入院の予防効果90%　米CDC</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGH181XX0Y2A110C2000000/" target="blank" rel="noopener">
+                コロナは小売りどう変えた？　消費者、商品の世界観重視</a>
+        </li> 
+
+    <hr>
          2022年01月21日
     
         <li>
