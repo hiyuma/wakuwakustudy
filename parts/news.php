@@ -40,6 +40,25 @@
         </li> 
 
     <hr> -->
+         2022年02月02日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC0234W0S2A200C2000000/" target="blank" rel="noopener">
+                東京都、新たに2万1576人感染　初の2万人超え</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC0212Y0S2A200C2000000/" target="blank" rel="noopener">
+                オミクロン感染確率、店内対策で3分の1　「富岳」試算</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC012WT0R00C22A2000000/" target="blank" rel="noopener">
+                オミクロン派生型、感染リスクは主流の2倍以上か ここまで分かったオミクロン型</a>
+        </li> 
+
+    <hr>
          2022年02月01日
     
         <li>
