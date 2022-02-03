@@ -40,6 +40,25 @@
         </li> 
 
     <hr> -->
+         2022年02月03日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC030FT0T00C22A2000000/" target="blank" rel="noopener">
+                東京都、新たに2万679人感染　7日平均で前週の1.5倍</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA033E60T00C22A2000000/" target="blank" rel="noopener">
+                発熱外来、3割が非公表　報酬加算も医療なお後ろ向き</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC03BOH0T00C22A2000000/" target="blank" rel="noopener">
+                新規感染者、初の10万人超　オミクロン急拡大続く</a>
+        </li> 
+
+    <hr>
          2022年02月02日
     
         <li>
