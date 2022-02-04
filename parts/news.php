@@ -40,6 +40,25 @@
         </li> 
 
     <hr> -->
+         2022年02月04日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC040GK0U2A200C2000000/" target="blank" rel="noopener">
+                東京都、新たに1万9798人感染　7日平均で前週の1.3倍</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA0468Y0U2A200C2000000/" target="blank" rel="noopener">
+                コロナ重症者、4カ月ぶり1000人超　前日から131人増</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC035FE0T00C22A2000000/" target="blank" rel="noopener">
+                東京都が緊急事態要請の新基準　重症者や7日平均感染数</a>
+        </li> 
+
+    <hr>
          2022年02月03日
     
         <li>
