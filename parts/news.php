@@ -40,6 +40,25 @@
         </li> 
 
     <hr> -->
+         2022年02月05日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC0512Z0V00C22A2000000/" target="blank" rel="noopener">
+                東京都、新たに2万1122人感染　7日平均で前週の129.8%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB315GZ0R30C22A1000000/" target="blank" rel="noopener">
+                コロナ感染、過半の国で減少　追加接種の進展で明暗</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA051E60V00C22A2000000/" target="blank" rel="noopener">
+                尾身氏「種類にかかわらず打って」　ワクチン追加接種で</a>
+        </li> 
+
+    <hr>
          2022年02月04日
     
         <li>
