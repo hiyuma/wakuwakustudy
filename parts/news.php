@@ -40,6 +40,44 @@
         </li> 
 
     <hr> -->
+         2022年02月07日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC070A40X00C22A2000000/" target="blank" rel="noopener">
+                東京都、新たに1万2211人感染　7日平均で前週の120.0%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA071TB0X00C22A2000000/" target="blank" rel="noopener">
+                塩野義のコロナ飲み薬、治験完了前に実用化も　首相検討</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB076SG0X00C22A2000000/" target="blank" rel="noopener">
+                カナダ首都に非常事態宣言　コロナ対策めぐりデモ激化</a>
+        </li> 
+
+    <hr>
+         2022年02月06日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC061GK0W2A200C2000000/" target="blank" rel="noopener">
+                東京都、新たに1万7526人感染　7日平均で前週の123.3%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC049D70U2A200C2000000/" target="blank" rel="noopener">
+                「まん延防止」地域の病床使用率、16都府県が50%以上</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA054E60V00C22A2000000/" target="blank" rel="noopener">
+                国の大規模接種、大阪も7日再開　1日あたり960人</a>
+        </li> 
+
+    <hr>
          2022年02月05日
     
         <li>
