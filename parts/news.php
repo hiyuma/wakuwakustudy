@@ -40,6 +40,82 @@
         </li> 
 
     <hr> -->
+         2022年02月11日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC111JC0R10C22A2000000/" target="blank" rel="noopener">
+                東京都、新たに1万8660人感染　7日平均で前週の101.8%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC113510R10C22A2000000/" target="blank" rel="noopener">
+                コロナ死者、国内累計2万人超　オミクロンで増加傾向</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA106MW0Q2A210C2000000/" target="blank" rel="noopener">
+                ファイザー製飲み薬承認　コロナ軽症・中等症患者向け まず4万人分</a>
+        </li> 
+
+    <hr>
+         2022年02月10日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1076P0Q2A210C2000000/" target="blank" rel="noopener">
+                東京都、新たに1万8891人感染　7日平均で前週の104.6%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC102ID0Q2A210C2000000/" target="blank" rel="noopener">
+                東京の感染拡大ペース鈍化　ピークアウト「時期読めず」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF100RS0Q2A210C2000000/" target="blank" rel="noopener">
+                塩野義、鼻に噴霧するコロナワクチン　千葉大と開発へ</a>
+        </li> 
+
+    <hr>
+         2022年02月09日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC0943O0Z00C22A2000000/" target="blank" rel="noopener">
+                東京都、新たに1万8287人感染　7日平均で前週の109.9%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN090B00Z00C22A2000000/" target="blank" rel="noopener">
+                世界のコロナ感染者4億人に　オミクロン型で急増</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA08DU90Y2A200C2000000/" target="blank" rel="noopener">
+                13都県のまん延防止延長へ、午後に閣僚協議　高知は追加</a>
+        </li> 
+
+    <hr>
+         2022年02月08日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC080EX0Y2A200C2000000/" target="blank" rel="noopener">
+                東京都、新たに1万7113人感染　7日平均で前週の120.6%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC04BGX0U2A200C2000000/" target="blank" rel="noopener">
+                オミクロン派生型、50カ国超で確認　流行長引く要因か</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC082340Y2A200C2000000/" target="blank" rel="noopener">
+                東京都、濃厚接触者に抗原検査キット配布</a>
+        </li> 
+
+    <hr>
          2022年02月07日
     
         <li>
