@@ -40,6 +40,44 @@
         </li> 
 
     <hr> -->
+         2022年02月13日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC130NM0T10C22A2000000/" target="blank" rel="noopener">
+                東京都、新たに1万3074人感染　7日平均で前週の86.7%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA21A690R20C22A1000000/" target="blank" rel="noopener">
+                侮れない「コロナ太り」　筋力低下や精神面の問題も</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUB023N70S2A200C2000000/" target="blank" rel="noopener">
+                コロナ転機に戸建て躍進、マンションは最高値</a>
+        </li> 
+
+    <hr>
+         2022年02月12日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC121U10S2A210C2000000/" target="blank" rel="noopener">
+                東京で1万1765人感染　1週間平均、2カ月ぶり前週下回る</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC08CDJ0Y2A200C2000000/" target="blank" rel="noopener">
+                「魔の遺伝子パズル」で新たなコロナ　ヒトで増殖容易に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR10FIR0Q2A210C2000000/" target="blank" rel="noopener">
+                欧州のコロナ規制、相次ぎ緩和　英は水際対策ほぼ撤廃</a>
+        </li> 
+
+    <hr>
          2022年02月11日
     
         <li>
