@@ -40,6 +40,25 @@
         </li> 
 
     <hr> -->
+         2022年02月14日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC141YJ0U2A210C2000000/" target="blank" rel="noopener">
+                東京都、新たに1万334人感染　7日平均で前週の84.9%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM142FI0U2A210C2000000/" target="blank" rel="noopener">
+                香港「ゼロコロナ」政策が行き詰まり　中国が関与強める</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA144VZ0U2A210C2000000/" target="blank" rel="noopener">
+                ファイザー製ワクチン、追加1000万回分供給で厚労省合意</a>
+        </li> 
+
+    <hr>
          2022年02月13日
     
         <li>
