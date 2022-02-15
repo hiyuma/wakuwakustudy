@@ -40,6 +40,25 @@
         </li> 
 
     <hr> -->
+         2022年02月15日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC152L00V10C22A2000000/" target="blank" rel="noopener">
+                東京都、新たに1万5525人感染　7日平均で前週の81.9%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA149EH0U2A210C2000000/" target="blank" rel="noopener">
+                GDP、コロナ前に1兆円弱届かず　回復力で米欧に見劣り</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA151VV0V10C22A2000000/" target="blank" rel="noopener">
+                3回目接種用ワクチン、全対象者分を5月中旬までに配送</a>
+        </li> 
+
+    <hr>
          2022年02月14日
     
         <li>
