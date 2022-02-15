@@ -75,6 +75,7 @@
           <h3>Appreciated list</h3>
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li> <a href="#劇場版 呪術廻戦 0">劇場版 呪術廻戦 0　☆4.3</a></li>
               <li> <a href="#ものすごくうるさくて、ありえないほど近い">ものすごくうるさくて、ありえないほど近い　☆4.2</a></li>
               <li> <a href="#星になった少年">星になった少年　☆4.4</a></li>
               <li> <a href="#ドライブ・マイ・カー">ドライブ・マイ・カー　☆4.3</a></li>
@@ -190,6 +191,86 @@
 
         <hr>
 
+        <!-- ※Don't forget to change the label 33-->
+        <div id="劇場版 呪術廻戦 0"></div>
+        <h3 id="movies-title"><strong>劇場版 呪術廻戦 0</strong></h3>
+        <div id="movies">
+
+          <div id="movie-photo">
+          <img alt="劇場版 呪術廻戦 0" src="https://d2ueuvlup6lbue.cloudfront.net/attachments/7f1682b703cba45bb4c4afcbcd1afc2f6735af53/store/fitpad/260/364/532450113fdb26c7fad02d9334fab6ab3d234e9ec2e53e930b7edfde46e3/_.jpg" width="300" height="420">
+          </div>
+
+          <div id="movie-info">
+            <p id="th">監督</p>
+            <p id="td">朴性厚</p>
+            <p id="th">出演</p>
+            <p id="td">緒方恵美、花澤香菜、小松未可子、内山昂輝、関智一、中村悠一、櫻井孝宏</p>
+            <p id="th">ジャンル</p>
+            <p id="td">アニメ</p>
+            <p id="th">上映日</p>
+            <p id="td">2012年12月24日</p>
+            <p id="th">製作国</p>
+            <p id="td">日本</p>
+            <p id="th">上映時間</p>
+            <p id="td">105分</p>
+          </div>
+
+
+          <div id="movie-impressions">
+            <hr>
+            <p id="impression">劇場版 呪術廻戦 0の感想 <i class="far fa-comment-dots"></i></p>
+            <div id="line"></div>
+
+            <p id="th">鑑賞日</p>
+            <p id="td">2022年01月26日</p>
+            <p id="th">鑑賞方法</p>
+            <p id="td">TOHOシネマズ新宿</p>
+            <p id="th">評価</p>
+            <p id="td">4.3(/5.0)</p>
+
+            <div id="line"></div>
+            <div class="accbox">
+              <input type="checkbox" id="label33" class="cssacc" />
+              <label for="label33">Summary</label>
+
+              <div class="accshow">
+              幼少のころ、幼なじみの祈本里香を交通事故により目の前で失った乙骨憂太。<br>
+              「約束だよ 里香と憂太は大人になったら結婚するの」怨霊と化した里香の呪いに苦しみ、自身の死を望む乙骨だったが、最強の呪術師・五条悟によって、呪術高専に迎え入れられた。<br>
+              そして、同級生の禪院真希・狗巻棘・パンダと出会い、乙骨はある決意をする。「生きてていいって自信が欲しいんだ」「僕は呪術高専で里香ちゃんの呪いを解きます」一方、乙骨たちの前にかつて一般人を大量虐殺し高専を追放された最悪の呪詛師・夏油傑が現れる。<br>
+              「来たる12月24日我々は百鬼夜行を行う」呪術師だけの楽園を標榜する夏油は、非術師を殲滅させんと、ついに新宿・京都に千の呪いを放ち――果たして、乙骨は夏油を止められるのか、そして、里香の解呪の行方は‥‥。
+
+              </div>
+            </div>
+
+            <div id="line"></div>
+            「愛ほど歪んだ呪いはない」と五条悟の持論。
+            <br><br>
+            愛と呪いは別物だと信じたいけれど、一理あると思いました。…
+
+            <div class="accbox">
+              <input type="checkbox" id="label33a" class="cssacc" />
+
+              <label for="label33a" class="closeButton">READ MORE</label>
+
+              <div class="accshow">
+              また、禅院真希の「弱い奴ほどよく群れる」という言葉。
+              <br><br>
+              さらに、乙骨優太の「生きてていいって自信が欲しいんだ」という言葉。
+              <br><br>
+              などなど、心に響いた名言がいくつかありました。
+              <br><br>
+              迫力ある映像、ストーリー、声優さん達の演技、どれも素晴らしかった。
+              <br><br>
+              そして、King Gnuの主題歌『一途』、エンディングテーマ『逆夢』もかなりかっこよく、映画館で聞けて良かった。
+              <br><br>
+              2023年のアニメ2期の放送が待ち遠しいです。
+              </div>
+            </div>
+            <i class="fas fa-video"></i> <a href="https://filmarks.com/movies/96267">劇場版 呪術廻戦 0</a>
+          </div>
+        </div>
+        <hr>
+
         <!-- ※Don't forget to change the label 32 -->
         <div id="ものすごくうるさくて、ありえないほど近い"></div>
         <h3 id="movies-title"><strong>ものすごくうるさくて、ありえないほど近い</strong></h3>
@@ -225,7 +306,7 @@
             <p id="th">鑑賞方法</p>
             <p id="td">Amazon Prime Video</p>
             <p id="th">評価</p>
-            <p id="td">4.4(/5.0)</p>
+            <p id="td">4.2(/5.0)</p>
 
             <div id="line"></div>
             <div class="accbox">
