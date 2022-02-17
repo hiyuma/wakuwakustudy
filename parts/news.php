@@ -40,6 +40,44 @@
         </li> 
 
     <hr> -->
+         2022年02月17日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                </a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR15F970V10C22A2000000/" target="blank" rel="noopener">
+                コロナ後遺症、ワクチン接種で半減　英政府調査</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA163T20W2A210C2000000/" target="blank" rel="noopener">
+                高齢者3回目の2月完了難路　「接種券なしも可」周知不足</a>
+        </li> 
+
+    <hr>
+         2022年02月16日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC164S20W2A210C2000000/" target="blank" rel="noopener">
+                東京都、新たに1万7331人感染　7日平均で前週の83.3%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA16CZY0W2A210C2000000/" target="blank" rel="noopener">
+                コロナ第6波、死者数4000人超も　専門家が試算</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA14BZH0U2A210C2000000/" target="blank" rel="noopener">
+                留学生の入国拡大、政府が容認へ　「開国」はなお遠く</a>
+        </li> 
+
+    <hr>
          2022年02月15日
     
         <li>
