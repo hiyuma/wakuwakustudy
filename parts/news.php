@@ -40,12 +40,50 @@
         </li> 
 
     <hr> -->
+         2022年02月19日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href=https://www.nikkei.com/article/DGXZQOCC1920O0Z10C22A2000000/" target="blank" rel="noopener">
+                東京都、新たに1万3516人感染　7日平均で前週の90.7%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF126OJ0S2A110C2000000/" target="blank" rel="noopener">
+                コロナ、トゲにしたたかさ　感染狙う姿を追跡</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC192QY0Z10C22A2000000/" target="blank" rel="noopener">
+                コロナ死者、5日連続200人超　新規感染8.1万人</a>
+        </li> 
+
+    <hr>
+         2022年02月18日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC180DF0Y2A210C2000000/" target="blank" rel="noopener">
+                東京都、新たに1万6129人感染　7日平均で前週の82.4%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC165FS0W2A210C2000000/" target="blank" rel="noopener">
+                オミクロン派生型、感染サイクルさらに短い可能性 ここまで分かったオミクロン型</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA17AS30X10C22A2000000/" target="blank" rel="noopener">
+                まん延防止5県解除、分科会了承　17道府県は3月6日まで</a>
+        </li> 
+
+    <hr>
          2022年02月17日
     
         <li>
                 <i class="far fa-file-alt"></i>
-                <a href="" target="blank" rel="noopener">
-                </a>
+                <a href="https://www.nikkei.com/article/DGXZQOCC170JG0X10C22A2000000/" target="blank" rel="noopener">
+                東京都、新たに1万7864人感染　7日平均で前週の83.7%</a>
         </li>
          <li>
                 <i class="far fa-file-alt"></i>
