@@ -75,6 +75,7 @@
           <h3>Appreciated list</h3>
           <div id="schedule0" class="schedule_list">
             <ol reversed>
+              <li> <a href="#HOMESTAY">HOMESTAY　☆3.9</a></li>
               <li> <a href="#劇場版 呪術廻戦 0">劇場版 呪術廻戦 0　☆4.3</a></li>
               <li> <a href="#ものすごくうるさくて、ありえないほど近い">ものすごくうるさくて、ありえないほど近い　☆4.2</a></li>
               <li> <a href="#星になった少年">星になった少年　☆4.4</a></li>
@@ -189,6 +190,83 @@
           </div>
         </div>
 
+        <hr>
+
+        <!-- ※Don't forget to change the label 34-->
+        <div id="HOMESTAY"></div>
+        <h3 id="movies-title"><strong>HOMESTAY</strong></h3>
+        <div id="movies">
+
+          <div id="movie-photo">
+          <img alt="HOMESTAY" src="https://d2ueuvlup6lbue.cloudfront.net/attachments/32101235b54cc0b9bf425137fcffa51c86f415a6/store/fitpad/260/364/ac83b1e4a1996d722dafea3bd23af35e87b4fd4722227a44d9e381c1b20c/_.jpg" width="300" height="420">
+          </div>
+
+          <div id="movie-info">
+            <p id="th">監督</p>
+            <p id="td">瀬田なつき</p>
+            <p id="th">出演</p>
+            <p id="td">長尾謙杜、山田杏奈、八木莉可子、望月歩、眞島秀和、渋川清彦、阿川佐和子、篠井英介、渡辺大知、濱田岳</p>
+            <p id="th">ジャンル</p>
+            <p id="td">ドラマ、ファンタジー、ロマンス</p>
+            <p id="th">上映日</p>
+            <p id="td">2022年02月11日</p>
+            <p id="th">製作国</p>
+            <p id="td">日本</p>
+            <p id="th">上映時間</p>
+            <p id="td">112分</p>
+          </div>
+
+
+          <div id="movie-impressions">
+            <hr>
+            <p id="impression">HOMESTAYの感想 <i class="far fa-comment-dots"></i></p>
+            <div id="line"></div>
+
+            <p id="th">鑑賞日</p>
+            <p id="td">2022年02月18日</p>
+            <p id="th">鑑賞方法</p>
+            <p id="td">Amazon Prime Video</p>
+            <p id="th">評価</p>
+            <p id="td">3.9(/5.0)</p>
+
+            <div id="line"></div>
+            <div class="accbox">
+              <input type="checkbox" id="label34" class="cssacc" />
+              <label for="label34">Summary</label>
+
+              <div class="accshow">
+              管理人と名乗る謎の人物に選ばれた魂・シロは同時期に死んだ高校生・小林真の身体にホームステイし、管理人に課された転生の条件に挑むことになる。<br>
+              条件とは、「小林真が死んだ原因を突き止める」というもの。<br>
+              100日間のリミットの中で、ちょっと違和感のある家族との時間、優しい幼馴染や学校での憧れの先輩との日々などつかの間の真として過ごすシロ。<br>
+              だがその死の真相には小さな光と大きな闇が交錯していた。
+
+              </div>
+            </div>
+
+            <div id="line"></div>
+            不思議な設定で進むストーリー。
+            <br><br>
+            長尾謙杜さん、山田杏奈さんの演技がとても良かった。…
+            
+            <div class="accbox">
+              <input type="checkbox" id="label34a" class="cssacc" />
+
+
+              <label for="label34a" class="closeButton">READ MORE</label>
+
+              <div class="accshow">
+              様々な要因が複雑に絡み合う一人の人生を客観的に描いているのが面白い。
+              <br><br>
+              最後に謎が解けた時のシーンはとても感動しました。
+              <br><br>
+              「人生は長めのHOMESTAY」という言葉に納得です。
+              <br><br>
+              皆の人生に寄り添ってくれるような素敵な作品です。
+              </div>
+            </div>
+            <i class="fas fa-video"></i> <a href="https://filmarks.com/movies/100025">HOMESTAY</a>
+          </div>
+        </div>
         <hr>
 
         <!-- ※Don't forget to change the label 33-->

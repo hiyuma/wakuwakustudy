@@ -4,6 +4,9 @@
 
   <div class="line"> INFO <i class="fas fa-info-circle"></i></div>
 
+  <li>2022年02月19日</li>
+  <div class="info-children"><span><a href="movie.php">MOVIE</a>（HOMESTAY）追加</span></div>
+
   <li>2022年02月15日</li>
   <div class="info-children"><span><a href="movie.php">MOVIE</a>（劇場版 呪術廻戦 0）追加</span></div>
 
