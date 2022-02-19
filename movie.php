@@ -264,7 +264,7 @@
               皆の人生に寄り添ってくれるような素敵な作品です。
               </div>
             </div>
-            <i class="fas fa-video"></i> <a href="https://filmarks.com/movies/100025">HOMESTAY</a>
+            <i class="fas fa-video"></i> <a href="https://www.amazon.co.jp/HOMESTAY-%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%86%E3%82%A4-%E9%95%B7%E5%B0%BE%E8%AC%99%E6%9D%9C/dp/B09QFVTCRD/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=32RUF5J6XWFDI&keywords=HOMESTAY&qid=1645266521&sprefix=homestay%2Caps%2C260&sr=8-1">HOMESTAY</a>
           </div>
         </div>
         <hr>
