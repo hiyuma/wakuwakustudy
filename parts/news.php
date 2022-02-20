@@ -40,6 +40,25 @@
         </li> 
 
     <hr> -->
+         2022年02月20日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC201CZ0Q2A220C2000000/" target="blank" rel="noopener">
+                東京都、新たに1万2935人感染　7日平均で前週の94.2%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA191090Z10C22A2000000/" target="blank" rel="noopener">
+                まん延防止5県解除　東京など3月初旬判断、経済再開探る</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA18AQA0Y2A210C2000000/" target="blank" rel="noopener">
+                3回目モデルナの交互接種　抗体の値高く、発熱も高頻度</a>
+        </li> 
+
+    <hr>
          2022年02月19日
     
         <li>
