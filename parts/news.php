@@ -40,6 +40,25 @@
         </li> 
 
     <hr> -->
+         2022年02月21日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC216WA0R20C22A2000000/" target="blank" rel="noopener">
+                東京都、新たに8805人感染　約1カ月ぶり1万人下回る</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUD072CQ0X00C22A2000000/" target="blank" rel="noopener">
+                薬剤耐性菌、次のパンデミックの恐れも　コロナで懸念</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC311JO0R30C22A1000000/" target="blank" rel="noopener">
+                飲食店員の接種済み表示広がる　「まん延防止」前の3倍</a>
+        </li> 
+
+    <hr>
          2022年02月20日
     
         <li>
