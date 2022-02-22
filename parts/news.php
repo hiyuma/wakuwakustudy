@@ -40,6 +40,25 @@
         </li> 
 
     <hr> -->
+         2022年02月22日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2270D0S2A220C2000000/" target="blank" rel="noopener">
+                東京都、新たに1万1443人感染　7日平均で前週の92.0%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR21D6L0R20C22A2000000/" target="blank" rel="noopener">
+                英、コロナ規制を24日に全廃　扱いインフルと同様に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE049L00U2A200C2000000/" target="blank" rel="noopener">
+                「買い物代行」にじむ苦境　自宅療養50万人</a>
+        </li> 
+
+    <hr>
          2022年02月21日
     
         <li>
