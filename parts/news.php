@@ -40,6 +40,44 @@
         </li> 
 
     <hr> -->
+         2022年02月24日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC240C90U2A220C2000000/" target="blank" rel="noopener">
+                東京都、新たに1万169人感染　7日平均で前週の83.8%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC218SP0R20C22A2000000/" target="blank" rel="noopener">
+                ワクチン3回目接種、抗体の量だけでなく「質」が高まる</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN2352I0T20C22A2000000/" target="blank" rel="noopener">
+                米コロナ感染、ピークの10分の1　感染対策緩める動きも</a>
+        </li> 
+
+    <hr>
+         2022年02月23日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC231CS0T20C22A2000000/" target="blank" rel="noopener">
+                東京都、新たに1万4567人感染　7日平均で前週の90.2%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR2306X0T20C22A2000000/" target="blank" rel="noopener">
+                WHO、オミクロン派生型「毒性に差がない可能性」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA223QY0S2A220C2000000/" target="blank" rel="noopener">
+                コロナ治療薬、活用進まず　第6波で投与14万人どまり</a>
+        </li> 
+
+    <hr>
          2022年02月22日
     
         <li>
