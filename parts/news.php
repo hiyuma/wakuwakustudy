@@ -40,6 +40,45 @@
         </li> 
 
     <hr> -->
+         2022年02月26日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC262KX0W2A220C2000000/" target="blank" rel="noopener">
+                東京都、新たに1万1562人感染　7日平均で前週の77.7%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF169SN0W2A210C2000000/" target="blank" rel="noopener">
+                コロナ症状、脳にも飛び火　うつ発症の一因も</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF2561B0V20C22A2000000/" target="blank" rel="noopener">
+                コロナ薬、日本勢ようやく実用化段階　塩野義や田辺三菱
+</a>
+        </li> 
+
+    <hr>
+         2022年02月25日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC250DA0V20C22A2000000/" target="blank" rel="noopener">
+                東京都、新たに1万1125人感染　7日平均で前週の80.9%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2538U0V20C22A2000000/" target="blank" rel="noopener">
+                東京都、発熱外来すべて公表　オミクロン派生型30件確認</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA24CO90U2A220C2000000/" target="blank" rel="noopener">
+                コロナとインフル比較「近いうちに見解」　厚労省専門家</a>
+        </li> 
+
+    <hr>
          2022年02月24日
     
         <li>
