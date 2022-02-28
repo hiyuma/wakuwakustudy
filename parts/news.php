@@ -21,7 +21,7 @@
 <ul class="news slide-in-animation">
         <div class="line">新型コロナウイルス <i class="fas fa-virus-slash"></i></div><br>
 
-        <!--  2022年02月XX日
+        <!--  2022年03月XX日
     
         <li>
                 <i class="far fa-file-alt"></i>
@@ -40,6 +40,44 @@
         </li> 
 
     <hr> -->
+         2022年02月28日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC280DN0Y2A220C2000000/" target="blank" rel="noopener">
+                東京都、新たに9632人感染　7日平均で前週の77.2%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUD140KI0U2A210C2000000/" target="blank" rel="noopener">
+                オミクロン型別系統が急増、なぜ「ステルス」　危険度は</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN2803L0Y2A220C2000000/" target="blank" rel="noopener">
+                新型コロナ発生源は「武漢の市場」　新研究指摘、異論も</a>
+        </li> 
+
+    <hr>
+         2022年02月27日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC271TM0X20C22A2000000/" target="blank" rel="noopener">
+                東京都、新たに1万321人感染　7日平均で前週の75.3%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUB158AY0V10C22A2000000/" target="blank" rel="noopener">
+                雇用保険の料率引き上げ　コロナ禍の支給増が影響</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA25EQ40V20C22A2000000/" target="blank" rel="noopener">
+                未接種理由「接種券届かず」33%　政府計画「順調でない」57%</a>
+        </li> 
+
+    <hr>
          2022年02月26日
     
         <li>
