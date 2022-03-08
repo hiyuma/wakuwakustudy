@@ -40,6 +40,25 @@
         </li> 
 
     <hr> -->
+         2022年03月08日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC080AY0Y2A300C2000000/" target="blank" rel="noopener">
+                東京都、新たに8925人感染　3日連続で1万人下回る</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC04C780U2A300C2000000/" target="blank" rel="noopener">
+                コロナ軽症でも後遺症　脳縮小や心臓病リスク増加</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOKC215O30R20C22A2000000/" target="blank" rel="noopener">
+                病原体を作り出す「魔術師」　ワクチン開発に貢献</a>
+        </li> 
+
+    <hr>
          2022年03月07日
     
         <li>
