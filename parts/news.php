@@ -40,6 +40,25 @@
         </li> 
 
     <hr> -->
+         2022年03月09日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC090CL0Z00C22A3000000/" target="blank" rel="noopener">
+                東京都、新たに1万823人感染　7日平均で前週の87.9%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC019E40R00C22A3000000/" target="blank" rel="noopener">
+                オミクロン型でのワクチン効果、米分析「子供でも低下」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB262UJ0W2A220C2000000/" target="blank" rel="noopener">
+                香港、揺らぐハブ空港機能　ゼロコロナが影 直行便・旅客減る</a>
+        </li> 
+
+    <hr>
          2022年03月08日
     
         <li>
