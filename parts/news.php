@@ -40,6 +40,25 @@
         </li> 
 
     <hr> -->
+         2022年03月10日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC104RX0Q2A310C2000000/" target="blank" rel="noopener">
+                東京都、新たに1万80人感染　7日平均で前週の82.9%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCD049H60U2A300C2000000/" target="blank" rel="noopener">
+                セブンの中になぜダイソー？　コロナで「便利さ」再設計</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC093FV0Z00C22A3000000/" target="blank" rel="noopener">
+                オミクロン派生型「BA.2」、抗体薬は一定の効果</a>
+        </li> 
+
+    <hr>
          2022年03月09日
     
         <li>
