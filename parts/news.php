@@ -40,6 +40,25 @@
         </li> 
 
     <hr> -->
+         2022年03月11日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC114N80R10C22A3000000/" target="blank" rel="noopener">
+                東京都、新たに8464人感染　7日平均で前週の80.9%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA111FL0R10C22A3000000/" target="blank" rel="noopener">
+                政府、ワクチン接種4回目を検討　3月中にも議論開始</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR110G60R10C22A3000000/" target="blank" rel="noopener">
+                パンデミック宣言から2年　コロナとの共存模索</a>
+        </li> 
+
+    <hr>
          2022年03月10日
     
         <li>
