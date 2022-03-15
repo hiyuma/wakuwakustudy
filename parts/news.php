@@ -40,6 +40,82 @@
         </li> 
 
     <hr> -->
+         2022年03月15日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC154UR0V10C22A3000000/" target="blank" rel="noopener">
+                東京都、新たに7836人感染　7日平均で前週の84.9%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC157A40V10C22A3000000/" target="blank" rel="noopener">
+                東京都、まん延防止の延長求めず　21日の期限で解除へ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM151N40V10C22A3000000/" target="blank" rel="noopener">
+                中国の市中感染、1日5000人超　広がる都市封鎖</a>
+        </li> 
+
+    <hr>
+         2022年03月14日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1449G0U2A310C2000000/" target="blank" rel="noopener">
+                東京都、新たに4836人感染　7日平均で前週の83.1%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC286Y30Y2A220C2000000/" target="blank" rel="noopener">
+                コロナ患者受け入れ、リアルタイムで把握　アルム開発</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM11BYH0R10C22A3000000/" target="blank" rel="noopener">
+                トヨタ、中国・長春の工場稼働停止　都市封鎖で</a>
+        </li> 
+
+    <hr>
+         2022年03月13日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC131L50T10C22A3000000/" target="blank" rel="noopener">
+                東京都、新たに8131人感染　7日平均で前週の79.2%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA062W20W2A300C2000000/" target="blank" rel="noopener">
+                がん未発見、数万人規模か　コロナ禍で検診受診が大幅減</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA070NK0X00C22A3000000/" target="blank" rel="noopener">
+                システムと闘う厚労省　コロナ対策、自縄自縛で足踏み</a>
+        </li> 
+
+    <hr>
+         2022年03月12日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1224X0S2A310C2000000/" target="blank" rel="noopener">
+                東京都、新たに9164人感染　7日平均で前週の79.6%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC087O90Y2A300C2000000/" target="blank" rel="noopener">
+                最強コロナに弱気な一面　進化のつまずき、対策の糸口</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA115CN0R10C22A3000000/" target="blank" rel="noopener">
+                まん延防止、感染微増でも解除可能　病床使用率低下なら</a>
+        </li> 
+
+    <hr>
          2022年03月11日
     
         <li>
