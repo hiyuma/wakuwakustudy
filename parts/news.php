@@ -40,6 +40,25 @@
         </li> 
 
     <hr> -->
+         2022年03月16日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1661Q0W2A310C2000000/" target="blank" rel="noopener">
+                東京都、新たに1万221人感染　7日平均で前週の86.4%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM166FE0W2A310C2000000/" target="blank" rel="noopener">
+                韓国のコロナ感染、今や世界最悪　制限緩和で死者も増加</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA15CED0V10C22A3000000/" target="blank" rel="noopener">
+                まん延防止、全面解除へ　政府17日に諮問</a>
+        </li> 
+
+    <hr>
          2022年03月15日
     
         <li>
