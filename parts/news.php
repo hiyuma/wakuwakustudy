@@ -40,6 +40,25 @@
         </li> 
 
     <hr> -->
+         2022年03月17日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC170F40X10C22A3000000/" target="blank" rel="noopener">
+                東京都、新たに8461人感染　7日平均で前週の86.8%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA163M40W2A310C2000000/" target="blank" rel="noopener">
+                まん延防止の全面解除、分科会が了承　期限の21日で 18都道府県、17日中に決定へ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF242630U2A220C2000000/" target="blank" rel="noopener">
+                大阪のコロナ死者急増、70代以上が9割　集団感染多発</a>
+        </li> 
+
+    <hr>
          2022年03月16日
     
         <li>
