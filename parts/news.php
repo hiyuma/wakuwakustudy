@@ -40,6 +40,25 @@
         </li> 
 
     <hr> -->
+         2022年03月18日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC180ET0Y2A310C2000000/" target="blank" rel="noopener">
+                東京都、新たに7825人感染　7日平均で前週の88.6%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC169RT0W2A310C2000000/" target="blank" rel="noopener">
+                新型コロナ「デルタクロン」　欧州などで複数種の報告</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC17ARU0X10C22A3000000/" target="blank" rel="noopener">
+                3回目接種で抗体10倍に　千葉大病院「効果確認」</a>
+        </li> 
+
+    <hr>
          2022年03月17日
     
         <li>
