@@ -40,6 +40,101 @@
         </li> 
 
     <hr> -->
+         2022年03月23日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC236DS0T20C22A3000000/" target="blank" rel="noopener">
+                東京都、新たに6430人感染　7日平均で前週の75.0%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN22D6X0S2A320C2000000/" target="blank" rel="noopener">
+                米のコロナ感染、「派生型」が35%に　CDC推計</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN22CD50S2A320C2000000/" target="blank" rel="noopener">
+                米ファイザー、コロナ飲み薬400万回分　途上国向け契約</a>
+        </li> 
+
+    <hr>
+         2022年03月22日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC226930S2A320C2000000/" target="blank" rel="noopener">
+                東京都、新たに3533人感染　7日平均で前週の80.6%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA2239Z0S2A320C2000000/" target="blank" rel="noopener">
+                コロナ無料検査、6月末まで延長　経財相「キット確保」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA1618S0W2A310C2000000/" target="blank" rel="noopener">
+                公示地価2年ぶり上昇　都心商業地は下落、コロナ爪痕も</a>
+        </li> 
+
+    <hr>
+         2022年03月21日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC210U10R20C22A3000000/" target="blank" rel="noopener">
+                東京都、新たに3855人感染　7日平均で前週の86.3%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN18EI90Y2A310C2000000/" target="blank" rel="noopener">
+                米コロナ2年、出社回復まだ4割　レジャーが先行</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM2826J0Y2A220C2000000/" target="blank" rel="noopener">
+                中国南部、コロナ再燃で暗躍する違法船　密航で隔離回避</a>
+        </li> 
+
+    <hr>
+         2022年03月20日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2012F0Q2A320C2000000/" target="blank" rel="noopener">
+                東京都、新たに6502人感染　7日平均で前週の87.1%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC189GX0Y2A310C2000000/" target="blank" rel="noopener">
+                「まん延防止」解除直前、人出増　観光地に客足戻る</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC017EM0R00C21A6000000/" target="blank" rel="noopener">
+                コロナ下うつ病、重症化しやすく　オンライン相談も活用を</a>
+        </li> 
+
+    <hr>
+         2022年03月19日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC191V50Z10C22A3000000/" target="blank" rel="noopener">
+                東京都、新たに7444人感染　7日平均で前週の88.1%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN18DVP0Y2A310C2000000/" target="blank" rel="noopener">
+                米、コロナ感染再拡大に懸念強まる　下水ウイルス検出増</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR18EO50Y2A310C2000000/" target="blank" rel="noopener">
+                ドイツ、コロナ規制をほぼ撤廃　感染増でも共生へ</a>
+        </li> 
+
+    <hr>
          2022年03月18日
     
         <li>
