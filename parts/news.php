@@ -40,6 +40,44 @@
         </li> 
 
     <hr> -->
+         2022年03月25日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2587R0V20C22A3000000/" target="blank" rel="noopener">
+                東京都、新たに7289人感染　7日平均で前週の77.8%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA251LQ0V20C22A3000000/" target="blank" rel="noopener">
+                塩野義のコロナ飲み薬、承認後100万人分購入　政府合意</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUD119NK0R10C22A3000000/" target="blank" rel="noopener">
+                寝ても疲れとれず…実は病気？　コロナ後不調との類似も</a>
+        </li> 
+
+    <hr>
+         2022年03月24日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC244UI0U2A320C2000000/" target="blank" rel="noopener">
+                東京都、新たに8875人感染　7日平均で前週の77.9%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN23D3U0T20C22A3000000/" target="blank" rel="noopener">
+                米のアルコール関連死、コロナ禍で急増　20年に3割増</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA2419N0U2A320C2000000/" target="blank" rel="noopener">
+                4回目接種準備開始を了承　厚労省分科会、間隔など検討</a>
+        </li> 
+
+    <hr>
          2022年03月23日
     
         <li>
