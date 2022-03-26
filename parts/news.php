@@ -40,6 +40,25 @@
         </li> 
 
     <hr> -->
+         2022年03月26日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2624K0W2A320C2000000/" target="blank" rel="noopener">
+                東京都、新たに7440人感染　7日平均で前週の80.2%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR25DSM0V20C22A3000000/" target="blank" rel="noopener">
+                アナログ日本の水際対策　紙での確認抜け出せず</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCD083GS0Y2A300C2000000/" target="blank" rel="noopener">
+                日本のコロナ対策を検証する3冊　失敗・迷走の原因は</a>
+        </li> 
+
+    <hr>
          2022年03月25日
     
         <li>
