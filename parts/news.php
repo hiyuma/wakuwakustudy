@@ -40,1509 +40,1680 @@
         </li> 
 
     <hr> -->
-         2022年04月01日
+         2022年04月10日
     
         <li>
                 <i class="far fa-file-alt"></i>
-                <a href="https://www.nikkei.com/article/DGXZQOCC010AP0R00C22A4000000/" target="blank" rel="noopener">
-                東京都、新型コロナ7982人感染　1週間平均は4日連続増</a>
+                <a href="https://www.nikkei.com/article/DGXZQOCC101D90Q2A410C2000000/" target="blank" rel="noopener">
+                東京都、新たに8026人感染　7日平均で前週の99.2%</a>
         </li>
          <li>
                 <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR14D8A0U2A210C2000000/" target="blank" rel="noopener">
+                モデルナ、途上国でもコロナワクチン製造　EUは資金支援</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA254T70V20C22A3000000/" target="blank" rel="noopener">
+                10日に入国制限1万人、検疫逼迫の懸念も　海外は簡略化</a>
+        </li> 
+
+    <hr>
+         2022年04月09日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC091ME0Z00C22A4000000/" target="blank" rel="noopener">
+                東京都、新たに8102人感染　7日平均で前週の99.1%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC17AKM0X11C21A2000000/" target="blank" rel="noopener">
+                Z世代「つながり」が合言葉　音声SNSや仮想空間で交流</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://vdata.nikkei.com/newsgraphics/coronavirus-chart-list/" target="blank" rel="noopener">
+                世界の新規感染、前週比22%減　7日平均112万人</a>
+        </li> 
+
+    <hr>
+         2022年04月08日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC081D30Y2A400C2000000/" target="blank" rel="noopener">
+                東京都、新たに8112人感染　7日平均で前週の97.7%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN07D9X0X00C22A4000000/" target="blank" rel="noopener">
+                米失業保険申請、16.6万件　53年半ぶり低水準</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM0532J0V00C22A4000000/" target="blank" rel="noopener">
+                上海「コロナ共生」挫折　封鎖が実質継続、習政権圧力か</a>
+        </li> 
+
+    <hr>
+         2022年04月07日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC070WI0X00C22A4000000/" target="blank" rel="noopener">
+                東京都、新たに8753人感染　7日平均で前週の98.7%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC072MT0X00C22A4000000/" target="blank" rel="noopener">
+                オミクロン、派生型BA.2が主流に　「XE」など雑種も</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA06AJB0W2A400C2000000/" target="blank" rel="noopener">
+                「すでに第7波」の見方も　厚労省コロナ専門家会合</a>
+        </li> 
+
+    <hr>
+         2022年04月06日
+    
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC060RY0W2A400C2000000/" target="blank" rel="noopener">
+                東京都、新たに8652人感染　7日平均で前週の96.5%</a>
+        </li>
+         <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUB0671R0W2A400C2000000/" target="blank" rel="noopener">
+                中国関連の消費株下落　コロナ最多、ロックダウン継続で</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA053JF0V00C22A4000000/" target="blank" rel="noopener">
+                ワクチン3回目、遅れる現役世代　対象の2割が未接種</a>
+        </li> 
+
+    <hr>
+        2022年04月05日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFC050FT0V00C22A4000000/" target="blank" rel="noopener">
+                        東京都、新たに6968人感染　7日平均で前週の104.2%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC319XT0R30C22A3000000/" target="blank" rel="noopener">
+                        新型コロナ、第7波は来るのか？</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM04D7P0U2A400C2000000/" target="blank" rel="noopener">
+                        中国・上海、都市封鎖を延長へ　コロナ感染拡大止まらず</a>
+        </li>
+
+        <hr>
+        2022年04月04日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC040900U2A400C2000000/" target="blank" rel="noopener">
+                        東京都、新たに4384人感染　7日平均で前週の115.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA012620R00C22A4000000/" target="blank" rel="noopener">
+                岸田政権、きょう発足半年　支持率50～60%台保つ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN034FK0T00C22A4000000/" target="blank" rel="noopener">
+                米の「出社」回復まだ4割　コロナ2年、レジャー先行　</a>
+        </li>
+
+        <hr>
+        2022年04月03日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC031Y10T00C22A4000000/" target="blank" rel="noopener">
+                        東京都、新たに7899人感染　7日平均で前週の118.0%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA284YC0Y2A320C2000000/" target="blank" rel="noopener">
+                        コロナ検査値下げ、厚労省と現場のすれ違い</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC284CS0Y2A320C2000000/" target="blank" rel="noopener">
+                        進む需要回復、消えぬ感染不安　難路の経済正常化</a>
+        </li>
+
+        <hr>
+        2022年04月02日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC021S20S2A400C2000000/" target="blank" rel="noopener">
+                        東京都、新たに7395人感染　7日平均で前週の121.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN01E020R00C22A4000000/" target="blank" rel="noopener">
+                        高校生の半数、コロナ禍で精神的虐待を体験　米CDC調査</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC1033H0Q2A310C2000000/" target="blank" rel="noopener">
+                        新型コロナ論文、日本の存在感薄く　研究者の連携カギ</a>
+        </li>
+
+        <hr>
+        2022年04月01日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC010AP0R00C22A4000000/" target="blank" rel="noopener">
+                        東京都、新型コロナ7982人感染　1週間平均は4日連続増</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGM30CPR0Q2A330C2000000/" target="blank" rel="noopener">
-                オミクロン派生型「BA.2」、世界で主流　米国で過半に</a>
+                        オミクロン派生型「BA.2」、世界で主流　米国で過半に</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGM010JC0R00C22A4000000/" target="blank" rel="noopener">
-                中国・上海市、西部で都市封鎖開始</a>
-        </li> 
+                        中国・上海市、西部で都市封鎖開始</a>
+        </li>
 
-    <hr>
-         2022年03月31日
-    
+        <hr>
+        2022年03月31日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC311DI0R30C22A3000000/" target="blank" rel="noopener">
-                東京都、新たに8226人感染　7日平均で前週の118.5%</a>
+                        東京都、新たに8226人感染　7日平均で前週の118.5%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA313240R30C22A3000000/" target="blank" rel="noopener">
-                新型コロナ感染再拡大、官房長官「最大限の警戒」</a>
+                        新型コロナ感染再拡大、官房長官「最大限の警戒」</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC312D70R30C22A3000000/" target="blank" rel="noopener">
-                東京都の人口10カ月連続減少　3月は前月比8千人減</a>
-        </li> 
+                        東京都の人口10カ月連続減少　3月は前月比8千人減</a>
+        </li>
 
-    <hr>
-         2022年03月30日
-    
+        <hr>
+        2022年03月30日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC300AB0Q2A330C2000000/" target="blank" rel="noopener">
-                東京都、新たに9520人感染　7日平均で前週の121.1%</a>
+                        東京都、新たに9520人感染　7日平均で前週の121.1%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCB28AQ40Y2A320C2000000/" target="blank" rel="noopener">
-                新型コロナ「アジアの優等生」つまずく　中韓で感染増</a>
+                        新型コロナ「アジアの優等生」つまずく　中韓で感染増</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQODK25BRF0V20C22A3000000/" target="blank" rel="noopener">
-                花粉飛散量ピーク、コロナに似た症状も</a>
-        </li> 
+                        花粉飛散量ピーク、コロナに似た症状も</a>
+        </li>
 
-    <hr>
-         2022年03月29日
-    
+        <hr>
+        2022年03月29日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC290A30Z20C22A3000000/" target="blank" rel="noopener">
-                東京都、新たに7846人感染　7日平均で前週の105.1%</a>
+                        東京都、新たに7846人感染　7日平均で前週の105.1%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUC112NH0R10C22A3000000/" target="blank" rel="noopener">
-                コロナ流行、下水で把握　北海道大学准教授・北島正章氏</a>
+                        コロナ流行、下水で把握　北海道大学准教授・北島正章氏</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGM2822V0Y2A320C2000000/" target="blank" rel="noopener">
-                中国「ゼロコロナ」代償大きく　感染増で上海都市封鎖</a>
-        </li> 
+                        中国「ゼロコロナ」代償大きく　感染増で上海都市封鎖</a>
+        </li>
 
-    <hr>
-         2022年03月28日
-    
+        <hr>
+        2022年03月28日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC2809S0Y2A320C2000000/" target="blank" rel="noopener">
-                東京都、新たに4544人感染　7日平均で前週の88.1%</a>
+                        東京都、新たに4544人感染　7日平均で前週の88.1%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCB273WS0X20C22A3000000/" target="blank" rel="noopener">
-                上海市東部、感染拡大で都市封鎖　テスラが工場一時停止</a>
+                        上海市東部、感染拡大で都市封鎖　テスラが工場一時停止</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUE17BM80X10C22A2000000/" target="blank" rel="noopener">
-                コロナ第6波、妊婦ケア強化も一時逼迫　情報共有課題</a>
-        </li> 
+                        コロナ第6波、妊婦ケア強化も一時逼迫　情報共有課題</a>
+        </li>
 
-    <hr>
-         2022年03月27日
-    
+        <hr>
+        2022年03月27日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC271O00X20C22A3000000/" target="blank" rel="noopener">
-                東京都、新たに7844人感染　前週の日曜日上回る</a>
+                        東京都、新たに7844人感染　前週の日曜日上回る</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUC214BU0R21C21A2000000/" target="blank" rel="noopener">
-                高齢者、長引く受診控え　コロナ下で認知症治療22%減</a>
+                        高齢者、長引く受診控え　コロナ下で認知症治療22%減</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUC1847G0Y2A310C2000000/" target="blank" rel="noopener">
-                4回目接種、拙速に注意？　間隔短いと効果限定的か</a>
-        </li> 
+                        4回目接種、拙速に注意？　間隔短いと効果限定的か</a>
+        </li>
 
-    <hr>
-         2022年03月26日
-    
+        <hr>
+        2022年03月26日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC2624K0W2A320C2000000/" target="blank" rel="noopener">
-                東京都、新たに7440人感染　7日平均で前週の80.2%</a>
+                        東京都、新たに7440人感染　7日平均で前週の80.2%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGR25DSM0V20C22A3000000/" target="blank" rel="noopener">
-                アナログ日本の水際対策　紙での確認抜け出せず</a>
+                        アナログ日本の水際対策　紙での確認抜け出せず</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCD083GS0Y2A300C2000000/" target="blank" rel="noopener">
-                日本のコロナ対策を検証する3冊　失敗・迷走の原因は</a>
-        </li> 
+                        日本のコロナ対策を検証する3冊　失敗・迷走の原因は</a>
+        </li>
 
-    <hr>
-         2022年03月25日
-    
+        <hr>
+        2022年03月25日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC2587R0V20C22A3000000/" target="blank" rel="noopener">
-                東京都、新たに7289人感染　7日平均で前週の77.8%</a>
+                        東京都、新たに7289人感染　7日平均で前週の77.8%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA251LQ0V20C22A3000000/" target="blank" rel="noopener">
-                塩野義のコロナ飲み薬、承認後100万人分購入　政府合意</a>
+                        塩野義のコロナ飲み薬、承認後100万人分購入　政府合意</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUD119NK0R10C22A3000000/" target="blank" rel="noopener">
-                寝ても疲れとれず…実は病気？　コロナ後不調との類似も</a>
-        </li> 
+                        寝ても疲れとれず…実は病気？　コロナ後不調との類似も</a>
+        </li>
 
-    <hr>
-         2022年03月24日
-    
+        <hr>
+        2022年03月24日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC244UI0U2A320C2000000/" target="blank" rel="noopener">
-                東京都、新たに8875人感染　7日平均で前週の77.9%</a>
+                        東京都、新たに8875人感染　7日平均で前週の77.9%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGN23D3U0T20C22A3000000/" target="blank" rel="noopener">
-                米のアルコール関連死、コロナ禍で急増　20年に3割増</a>
+                        米のアルコール関連死、コロナ禍で急増　20年に3割増</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA2419N0U2A320C2000000/" target="blank" rel="noopener">
-                4回目接種準備開始を了承　厚労省分科会、間隔など検討</a>
-        </li> 
+                        4回目接種準備開始を了承　厚労省分科会、間隔など検討</a>
+        </li>
 
-    <hr>
-         2022年03月23日
-    
+        <hr>
+        2022年03月23日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC236DS0T20C22A3000000/" target="blank" rel="noopener">
-                東京都、新たに6430人感染　7日平均で前週の75.0%</a>
+                        東京都、新たに6430人感染　7日平均で前週の75.0%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGN22D6X0S2A320C2000000/" target="blank" rel="noopener">
-                米のコロナ感染、「派生型」が35%に　CDC推計</a>
+                        米のコロナ感染、「派生型」が35%に　CDC推計</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGN22CD50S2A320C2000000/" target="blank" rel="noopener">
-                米ファイザー、コロナ飲み薬400万回分　途上国向け契約</a>
-        </li> 
+                        米ファイザー、コロナ飲み薬400万回分　途上国向け契約</a>
+        </li>
 
-    <hr>
-         2022年03月22日
-    
+        <hr>
+        2022年03月22日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC226930S2A320C2000000/" target="blank" rel="noopener">
-                東京都、新たに3533人感染　7日平均で前週の80.6%</a>
+                        東京都、新たに3533人感染　7日平均で前週の80.6%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA2239Z0S2A320C2000000/" target="blank" rel="noopener">
-                コロナ無料検査、6月末まで延長　経財相「キット確保」</a>
+                        コロナ無料検査、6月末まで延長　経財相「キット確保」</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA1618S0W2A310C2000000/" target="blank" rel="noopener">
-                公示地価2年ぶり上昇　都心商業地は下落、コロナ爪痕も</a>
-        </li> 
+                        公示地価2年ぶり上昇　都心商業地は下落、コロナ爪痕も</a>
+        </li>
 
-    <hr>
-         2022年03月21日
-    
+        <hr>
+        2022年03月21日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC210U10R20C22A3000000/" target="blank" rel="noopener">
-                東京都、新たに3855人感染　7日平均で前週の86.3%</a>
+                        東京都、新たに3855人感染　7日平均で前週の86.3%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGN18EI90Y2A310C2000000/" target="blank" rel="noopener">
-                米コロナ2年、出社回復まだ4割　レジャーが先行</a>
+                        米コロナ2年、出社回復まだ4割　レジャーが先行</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGM2826J0Y2A220C2000000/" target="blank" rel="noopener">
-                中国南部、コロナ再燃で暗躍する違法船　密航で隔離回避</a>
-        </li> 
+                        中国南部、コロナ再燃で暗躍する違法船　密航で隔離回避</a>
+        </li>
 
-    <hr>
-         2022年03月20日
-    
+        <hr>
+        2022年03月20日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC2012F0Q2A320C2000000/" target="blank" rel="noopener">
-                東京都、新たに6502人感染　7日平均で前週の87.1%</a>
+                        東京都、新たに6502人感染　7日平均で前週の87.1%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC189GX0Y2A310C2000000/" target="blank" rel="noopener">
-                「まん延防止」解除直前、人出増　観光地に客足戻る</a>
+                        「まん延防止」解除直前、人出増　観光地に客足戻る</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUC017EM0R00C21A6000000/" target="blank" rel="noopener">
-                コロナ下うつ病、重症化しやすく　オンライン相談も活用を</a>
-        </li> 
+                        コロナ下うつ病、重症化しやすく　オンライン相談も活用を</a>
+        </li>
 
-    <hr>
-         2022年03月19日
-    
+        <hr>
+        2022年03月19日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC191V50Z10C22A3000000/" target="blank" rel="noopener">
-                東京都、新たに7444人感染　7日平均で前週の88.1%</a>
+                        東京都、新たに7444人感染　7日平均で前週の88.1%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGN18DVP0Y2A310C2000000/" target="blank" rel="noopener">
-                米、コロナ感染再拡大に懸念強まる　下水ウイルス検出増</a>
+                        米、コロナ感染再拡大に懸念強まる　下水ウイルス検出増</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGR18EO50Y2A310C2000000/" target="blank" rel="noopener">
-                ドイツ、コロナ規制をほぼ撤廃　感染増でも共生へ</a>
-        </li> 
+                        ドイツ、コロナ規制をほぼ撤廃　感染増でも共生へ</a>
+        </li>
 
-    <hr>
-         2022年03月18日
-    
+        <hr>
+        2022年03月18日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC180ET0Y2A310C2000000/" target="blank" rel="noopener">
-                東京都、新たに7825人感染　7日平均で前週の88.6%</a>
+                        東京都、新たに7825人感染　7日平均で前週の88.6%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUC169RT0W2A310C2000000/" target="blank" rel="noopener">
-                新型コロナ「デルタクロン」　欧州などで複数種の報告</a>
+                        新型コロナ「デルタクロン」　欧州などで複数種の報告</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC17ARU0X10C22A3000000/" target="blank" rel="noopener">
-                3回目接種で抗体10倍に　千葉大病院「効果確認」</a>
-        </li> 
+                        3回目接種で抗体10倍に　千葉大病院「効果確認」</a>
+        </li>
 
-    <hr>
-         2022年03月17日
-    
+        <hr>
+        2022年03月17日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC170F40X10C22A3000000/" target="blank" rel="noopener">
-                東京都、新たに8461人感染　7日平均で前週の86.8%</a>
+                        東京都、新たに8461人感染　7日平均で前週の86.8%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA163M40W2A310C2000000/" target="blank" rel="noopener">
-                まん延防止の全面解除、分科会が了承　期限の21日で 18都道府県、17日中に決定へ</a>
+                        まん延防止の全面解除、分科会が了承　期限の21日で 18都道府県、17日中に決定へ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUF242630U2A220C2000000/" target="blank" rel="noopener">
-                大阪のコロナ死者急増、70代以上が9割　集団感染多発</a>
-        </li> 
+                        大阪のコロナ死者急増、70代以上が9割　集団感染多発</a>
+        </li>
 
-    <hr>
-         2022年03月16日
-    
+        <hr>
+        2022年03月16日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC1661Q0W2A310C2000000/" target="blank" rel="noopener">
-                東京都、新たに1万221人感染　7日平均で前週の86.4%</a>
+                        東京都、新たに1万221人感染　7日平均で前週の86.4%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGM166FE0W2A310C2000000/" target="blank" rel="noopener">
-                韓国のコロナ感染、今や世界最悪　制限緩和で死者も増加</a>
+                        韓国のコロナ感染、今や世界最悪　制限緩和で死者も増加</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA15CED0V10C22A3000000/" target="blank" rel="noopener">
-                まん延防止、全面解除へ　政府17日に諮問</a>
-        </li> 
+                        まん延防止、全面解除へ　政府17日に諮問</a>
+        </li>
 
-    <hr>
-         2022年03月15日
-    
+        <hr>
+        2022年03月15日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC154UR0V10C22A3000000/" target="blank" rel="noopener">
-                東京都、新たに7836人感染　7日平均で前週の84.9%</a>
+                        東京都、新たに7836人感染　7日平均で前週の84.9%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC157A40V10C22A3000000/" target="blank" rel="noopener">
-                東京都、まん延防止の延長求めず　21日の期限で解除へ</a>
+                        東京都、まん延防止の延長求めず　21日の期限で解除へ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGM151N40V10C22A3000000/" target="blank" rel="noopener">
-                中国の市中感染、1日5000人超　広がる都市封鎖</a>
-        </li> 
+                        中国の市中感染、1日5000人超　広がる都市封鎖</a>
+        </li>
 
-    <hr>
-         2022年03月14日
-    
+        <hr>
+        2022年03月14日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC1449G0U2A310C2000000/" target="blank" rel="noopener">
-                東京都、新たに4836人感染　7日平均で前週の83.1%</a>
+                        東京都、新たに4836人感染　7日平均で前週の83.1%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUC286Y30Y2A220C2000000/" target="blank" rel="noopener">
-                コロナ患者受け入れ、リアルタイムで把握　アルム開発</a>
+                        コロナ患者受け入れ、リアルタイムで把握　アルム開発</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGM11BYH0R10C22A3000000/" target="blank" rel="noopener">
-                トヨタ、中国・長春の工場稼働停止　都市封鎖で</a>
-        </li> 
+                        トヨタ、中国・長春の工場稼働停止　都市封鎖で</a>
+        </li>
 
-    <hr>
-         2022年03月13日
-    
+        <hr>
+        2022年03月13日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC131L50T10C22A3000000/" target="blank" rel="noopener">
-                東京都、新たに8131人感染　7日平均で前週の79.2%</a>
+                        東京都、新たに8131人感染　7日平均で前週の79.2%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA062W20W2A300C2000000/" target="blank" rel="noopener">
-                がん未発見、数万人規模か　コロナ禍で検診受診が大幅減</a>
+                        がん未発見、数万人規模か　コロナ禍で検診受診が大幅減</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA070NK0X00C22A3000000/" target="blank" rel="noopener">
-                システムと闘う厚労省　コロナ対策、自縄自縛で足踏み</a>
-        </li> 
+                        システムと闘う厚労省　コロナ対策、自縄自縛で足踏み</a>
+        </li>
 
-    <hr>
-         2022年03月12日
-    
+        <hr>
+        2022年03月12日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC1224X0S2A310C2000000/" target="blank" rel="noopener">
-                東京都、新たに9164人感染　7日平均で前週の79.6%</a>
+                        東京都、新たに9164人感染　7日平均で前週の79.6%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUC087O90Y2A300C2000000/" target="blank" rel="noopener">
-                最強コロナに弱気な一面　進化のつまずき、対策の糸口</a>
+                        最強コロナに弱気な一面　進化のつまずき、対策の糸口</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA115CN0R10C22A3000000/" target="blank" rel="noopener">
-                まん延防止、感染微増でも解除可能　病床使用率低下なら</a>
-        </li> 
+                        まん延防止、感染微増でも解除可能　病床使用率低下なら</a>
+        </li>
 
-    <hr>
-         2022年03月11日
-    
+        <hr>
+        2022年03月11日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC114N80R10C22A3000000/" target="blank" rel="noopener">
-                東京都、新たに8464人感染　7日平均で前週の80.9%</a>
+                        東京都、新たに8464人感染　7日平均で前週の80.9%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA111FL0R10C22A3000000/" target="blank" rel="noopener">
-                政府、ワクチン接種4回目を検討　3月中にも議論開始</a>
+                        政府、ワクチン接種4回目を検討　3月中にも議論開始</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGR110G60R10C22A3000000/" target="blank" rel="noopener">
-                パンデミック宣言から2年　コロナとの共存模索</a>
-        </li> 
+                        パンデミック宣言から2年　コロナとの共存模索</a>
+        </li>
 
-    <hr>
-         2022年03月10日
-    
+        <hr>
+        2022年03月10日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC104RX0Q2A310C2000000/" target="blank" rel="noopener">
-                東京都、新たに1万80人感染　7日平均で前週の82.9%</a>
+                        東京都、新たに1万80人感染　7日平均で前週の82.9%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCD049H60U2A300C2000000/" target="blank" rel="noopener">
-                セブンの中になぜダイソー？　コロナで「便利さ」再設計</a>
+                        セブンの中になぜダイソー？　コロナで「便利さ」再設計</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUC093FV0Z00C22A3000000/" target="blank" rel="noopener">
-                オミクロン派生型「BA.2」、抗体薬は一定の効果</a>
-        </li> 
+                        オミクロン派生型「BA.2」、抗体薬は一定の効果</a>
+        </li>
 
-    <hr>
-         2022年03月09日
-    
+        <hr>
+        2022年03月09日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC090CL0Z00C22A3000000/" target="blank" rel="noopener">
-                東京都、新たに1万823人感染　7日平均で前週の87.9%</a>
+                        東京都、新たに1万823人感染　7日平均で前週の87.9%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUC019E40R00C22A3000000/" target="blank" rel="noopener">
-                オミクロン型でのワクチン効果、米分析「子供でも低下」</a>
+                        オミクロン型でのワクチン効果、米分析「子供でも低下」</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCB262UJ0W2A220C2000000/" target="blank" rel="noopener">
-                香港、揺らぐハブ空港機能　ゼロコロナが影 直行便・旅客減る</a>
-        </li> 
+                        香港、揺らぐハブ空港機能　ゼロコロナが影 直行便・旅客減る</a>
+        </li>
 
-    <hr>
-         2022年03月08日
-    
+        <hr>
+        2022年03月08日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC080AY0Y2A300C2000000/" target="blank" rel="noopener">
-                東京都、新たに8925人感染　3日連続で1万人下回る</a>
+                        東京都、新たに8925人感染　3日連続で1万人下回る</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUC04C780U2A300C2000000/" target="blank" rel="noopener">
-                コロナ軽症でも後遺症　脳縮小や心臓病リスク増加</a>
+                        コロナ軽症でも後遺症　脳縮小や心臓病リスク増加</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOKC215O30R20C22A2000000/" target="blank" rel="noopener">
-                病原体を作り出す「魔術師」　ワクチン開発に貢献</a>
-        </li> 
+                        病原体を作り出す「魔術師」　ワクチン開発に貢献</a>
+        </li>
 
-    <hr>
-         2022年03月07日
-    
+        <hr>
+        2022年03月07日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC070AQ0X00C22A3000000/" target="blank" rel="noopener">
-                東京都、新たに5374人感染　約7週間ぶり6000人下回る</a>
+                        東京都、新たに5374人感染　約7週間ぶり6000人下回る</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA04CVD0U2A300C2000000/" target="blank" rel="noopener">
-                まん延防止21日まで延長　東京・大阪など18都道府県</a>
+                        まん延防止21日まで延長　東京・大阪など18都道府県</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA168EW0W2A210C2000000/" target="blank" rel="noopener">
-                コロナ、生活への影響「2年以上続く」86%　長期化覚悟</a>
-        </li> 
+                        コロナ、生活への影響「2年以上続く」86%　長期化覚悟</a>
+        </li>
 
-    <hr>
-         2022年03月06日
-    
+        <hr>
+        2022年03月06日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC061070W2A300C2000000/" target="blank" rel="noopener">
-                東京都、新たに9289人感染　7日平均で前週の98.7%</a>
+                        東京都、新たに9289人感染　7日平均で前週の98.7%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUC283QW0Y2A220C2000000/" target="blank" rel="noopener">
-                分化するオミクロン型、感染力高いBA.2に置き換わりも</a>
+                        分化するオミクロン型、感染力高いBA.2に置き換わりも</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUE053H80V00C22A3000000/" target="blank" rel="noopener">
-                図書館「一度は閉館」97%　コロナ対応で全国調査</a>
-        </li> 
+                        図書館「一度は閉館」97%　コロナ対応で全国調査</a>
+        </li>
 
-    <hr>
-         2022年03月05日
-    
+        <hr>
+        2022年03月05日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC0529U0V00C22A3000000/" target="blank" rel="noopener">
-                東京都、新たに1万806人感染　7日平均で前週の96.8%</a>
+                        東京都、新たに1万806人感染　7日平均で前週の96.8%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA042YG0U2A300C2000000/" target="blank" rel="noopener">
-                まん延防止、18都道府県の延長決定　21日まで</a>
+                        まん延防止、18都道府県の延長決定　21日まで</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGN04EA70U2A300C2000000/" target="blank" rel="noopener">
-                米人口9割がマスク不要に　CDC、感染状況改善</a>
-        </li> 
+                        米人口9割がマスク不要に　CDC、感染状況改善</a>
+        </li>
 
-    <hr>
-         2022年03月04日
-    
+        <hr>
+        2022年03月04日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC046NP0U2A300C2000000/" target="blank" rel="noopener">
-                東京都、新たに1万517人感染　7日平均で前週の95.4%</a>
+                        東京都、新たに1万517人感染　7日平均で前週の95.4%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA03ERH0T00C22A3000000/" target="blank" rel="noopener">
-                ワクチン3回目接種、2月18日に100万回超す　政府公表</a>
+                        ワクチン3回目接種、2月18日に100万回超す　政府公表</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC0437A0U2A300C2000000/" target="blank" rel="noopener">
-                「まん延防止」効果鈍く　延長9都府県で病床使用5割以上</a>
-        </li> 
+                        「まん延防止」効果鈍く　延長9都府県で病床使用5割以上</a>
+        </li>
 
-    <hr>
-         2022年03月03日
-    
+        <hr>
+        2022年03月03日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC036H10T00C22A3000000/" target="blank" rel="noopener">
-                東京都、新たに1万2251人感染　7日平均で前週の90.7%</a>
+                        東京都、新たに1万2251人感染　7日平均で前週の90.7%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA0351U0T00C22A3000000/" target="blank" rel="noopener">
-                第6波、感染者数減少ペース鈍く　病床使用率なお高水準</a>
+                        第6波、感染者数減少ペース鈍く　病床使用率なお高水準</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA033SW0T00C22A3000000/" target="blank" rel="noopener">
-                入国者総数、1日7000人に上げ　政府が水際対策緩和</a>
-        </li> 
+                        入国者総数、1日7000人に上げ　政府が水際対策緩和</a>
+        </li>
 
-    <hr>
-         2022年03月02日
-    
+        <hr>
+        2022年03月02日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC020FD0S2A300C2000000/" target="blank" rel="noopener">
-                東京都、新たに1万2693人感染　7日平均で前週の81.2%</a>
+                        東京都、新たに1万2693人感染　7日平均で前週の81.2%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA02AR20S2A300C2000000/" target="blank" rel="noopener">
-                オミクロン致死率「インフルより高い」専門家が見解</a>
+                        オミクロン致死率「インフルより高い」専門家が見解</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGN01FIY0R00C22A3000000/" target="blank" rel="noopener">
-                小児向けコロナワクチン、予防効果に見劣り　米調査</a>
-        </li> 
+                        小児向けコロナワクチン、予防効果に見劣り　米調査</a>
+        </li>
 
-    <hr>
-         2022年03月01日
-    
+        <hr>
+        2022年03月01日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC010E40R00C22A3000000/" target="blank" rel="noopener">
-                東京都、新たに1万1813人感染　累計で100万人超える
-</a>
+                        東京都、新たに1万1813人感染　累計で100万人超える
+                </a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA2828L0Y2A220C2000000/" target="blank" rel="noopener">
-                1日に水際緩和、入国枠なお狭く　米中からは待機免除</a>
+                        1日に水際緩和、入国枠なお狭く　米中からは待機免除</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC016BF0R00C22A3000000/" target="blank" rel="noopener">
-                都内感染者、累計100万人超す　1カ月で倍増</a>
-        </li> 
+                        都内感染者、累計100万人超す　1カ月で倍増</a>
+        </li>
 
-    <hr>
-         2022年02月28日
-    
+        <hr>
+        2022年02月28日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC280DN0Y2A220C2000000/" target="blank" rel="noopener">
-                東京都、新たに9632人感染　7日平均で前週の77.2%</a>
+                        東京都、新たに9632人感染　7日平均で前週の77.2%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUD140KI0U2A210C2000000/" target="blank" rel="noopener">
-                オミクロン型別系統が急増、なぜ「ステルス」　危険度は</a>
+                        オミクロン型別系統が急増、なぜ「ステルス」　危険度は</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGN2803L0Y2A220C2000000/" target="blank" rel="noopener">
-                新型コロナ発生源は「武漢の市場」　新研究指摘、異論も</a>
-        </li> 
+                        新型コロナ発生源は「武漢の市場」　新研究指摘、異論も</a>
+        </li>
 
-    <hr>
-         2022年02月27日
-    
+        <hr>
+        2022年02月27日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC271TM0X20C22A2000000/" target="blank" rel="noopener">
-                東京都、新たに1万321人感染　7日平均で前週の75.3%</a>
+                        東京都、新たに1万321人感染　7日平均で前週の75.3%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUB158AY0V10C22A2000000/" target="blank" rel="noopener">
-                雇用保険の料率引き上げ　コロナ禍の支給増が影響</a>
+                        雇用保険の料率引き上げ　コロナ禍の支給増が影響</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA25EQ40V20C22A2000000/" target="blank" rel="noopener">
-                未接種理由「接種券届かず」33%　政府計画「順調でない」57%</a>
-        </li> 
+                        未接種理由「接種券届かず」33%　政府計画「順調でない」57%</a>
+        </li>
 
-    <hr>
-         2022年02月26日
-    
+        <hr>
+        2022年02月26日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC262KX0W2A220C2000000/" target="blank" rel="noopener">
-                東京都、新たに1万1562人感染　7日平均で前週の77.7%</a>
+                        東京都、新たに1万1562人感染　7日平均で前週の77.7%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUF169SN0W2A210C2000000/" target="blank" rel="noopener">
-                コロナ症状、脳にも飛び火　うつ発症の一因も</a>
+                        コロナ症状、脳にも飛び火　うつ発症の一因も</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUF2561B0V20C22A2000000/" target="blank" rel="noopener">
-                コロナ薬、日本勢ようやく実用化段階　塩野義や田辺三菱
-</a>
-        </li> 
+                        コロナ薬、日本勢ようやく実用化段階　塩野義や田辺三菱
+                </a>
+        </li>
 
-    <hr>
-         2022年02月25日
-    
+        <hr>
+        2022年02月25日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC250DA0V20C22A2000000/" target="blank" rel="noopener">
-                東京都、新たに1万1125人感染　7日平均で前週の80.9%</a>
+                        東京都、新たに1万1125人感染　7日平均で前週の80.9%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC2538U0V20C22A2000000/" target="blank" rel="noopener">
-                東京都、発熱外来すべて公表　オミクロン派生型30件確認</a>
+                        東京都、発熱外来すべて公表　オミクロン派生型30件確認</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA24CO90U2A220C2000000/" target="blank" rel="noopener">
-                コロナとインフル比較「近いうちに見解」　厚労省専門家</a>
-        </li> 
+                        コロナとインフル比較「近いうちに見解」　厚労省専門家</a>
+        </li>
 
-    <hr>
-         2022年02月24日
-    
+        <hr>
+        2022年02月24日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC240C90U2A220C2000000/" target="blank" rel="noopener">
-                東京都、新たに1万169人感染　7日平均で前週の83.8%</a>
+                        東京都、新たに1万169人感染　7日平均で前週の83.8%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUC218SP0R20C22A2000000/" target="blank" rel="noopener">
-                ワクチン3回目接種、抗体の量だけでなく「質」が高まる</a>
+                        ワクチン3回目接種、抗体の量だけでなく「質」が高まる</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGN2352I0T20C22A2000000/" target="blank" rel="noopener">
-                米コロナ感染、ピークの10分の1　感染対策緩める動きも</a>
-        </li> 
+                        米コロナ感染、ピークの10分の1　感染対策緩める動きも</a>
+        </li>
 
-    <hr>
-         2022年02月23日
-    
+        <hr>
+        2022年02月23日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC231CS0T20C22A2000000/" target="blank" rel="noopener">
-                東京都、新たに1万4567人感染　7日平均で前週の90.2%</a>
+                        東京都、新たに1万4567人感染　7日平均で前週の90.2%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGR2306X0T20C22A2000000/" target="blank" rel="noopener">
-                WHO、オミクロン派生型「毒性に差がない可能性」</a>
+                        WHO、オミクロン派生型「毒性に差がない可能性」</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA223QY0S2A220C2000000/" target="blank" rel="noopener">
-                コロナ治療薬、活用進まず　第6波で投与14万人どまり</a>
-        </li> 
+                        コロナ治療薬、活用進まず　第6波で投与14万人どまり</a>
+        </li>
 
-    <hr>
-         2022年02月22日
-    
+        <hr>
+        2022年02月22日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC2270D0S2A220C2000000/" target="blank" rel="noopener">
-                東京都、新たに1万1443人感染　7日平均で前週の92.0%</a>
+                        東京都、新たに1万1443人感染　7日平均で前週の92.0%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGR21D6L0R20C22A2000000/" target="blank" rel="noopener">
-                英、コロナ規制を24日に全廃　扱いインフルと同様に</a>
+                        英、コロナ規制を24日に全廃　扱いインフルと同様に</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUE049L00U2A200C2000000/" target="blank" rel="noopener">
-                「買い物代行」にじむ苦境　自宅療養50万人</a>
-        </li> 
+                        「買い物代行」にじむ苦境　自宅療養50万人</a>
+        </li>
 
-    <hr>
-         2022年02月21日
-    
+        <hr>
+        2022年02月21日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC216WA0R20C22A2000000/" target="blank" rel="noopener">
-                東京都、新たに8805人感染　約1カ月ぶり1万人下回る</a>
+                        東京都、新たに8805人感染　約1カ月ぶり1万人下回る</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUD072CQ0X00C22A2000000/" target="blank" rel="noopener">
-                薬剤耐性菌、次のパンデミックの恐れも　コロナで懸念</a>
+                        薬剤耐性菌、次のパンデミックの恐れも　コロナで懸念</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUC311JO0R30C22A1000000/" target="blank" rel="noopener">
-                飲食店員の接種済み表示広がる　「まん延防止」前の3倍</a>
-        </li> 
+                        飲食店員の接種済み表示広がる　「まん延防止」前の3倍</a>
+        </li>
 
-    <hr>
-         2022年02月20日
-    
+        <hr>
+        2022年02月20日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC201CZ0Q2A220C2000000/" target="blank" rel="noopener">
-                東京都、新たに1万2935人感染　7日平均で前週の94.2%</a>
+                        東京都、新たに1万2935人感染　7日平均で前週の94.2%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA191090Z10C22A2000000/" target="blank" rel="noopener">
-                まん延防止5県解除　東京など3月初旬判断、経済再開探る</a>
+                        まん延防止5県解除　東京など3月初旬判断、経済再開探る</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA18AQA0Y2A210C2000000/" target="blank" rel="noopener">
-                3回目モデルナの交互接種　抗体の値高く、発熱も高頻度</a>
-        </li> 
+                        3回目モデルナの交互接種　抗体の値高く、発熱も高頻度</a>
+        </li>
 
-    <hr>
-         2022年02月19日
-    
+        <hr>
+        2022年02月19日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href=https://www.nikkei.com/article/DGXZQOCC1920O0Z10C22A2000000/" target="blank" rel="noopener">
-                東京都、新たに1万3516人感染　7日平均で前週の90.7%</a>
+                        東京都、新たに1万3516人感染　7日平均で前週の90.7%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUF126OJ0S2A110C2000000/" target="blank" rel="noopener">
-                コロナ、トゲにしたたかさ　感染狙う姿を追跡</a>
+                        コロナ、トゲにしたたかさ　感染狙う姿を追跡</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC192QY0Z10C22A2000000/" target="blank" rel="noopener">
-                コロナ死者、5日連続200人超　新規感染8.1万人</a>
-        </li> 
+                        コロナ死者、5日連続200人超　新規感染8.1万人</a>
+        </li>
 
-    <hr>
-         2022年02月18日
-    
+        <hr>
+        2022年02月18日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC180DF0Y2A210C2000000/" target="blank" rel="noopener">
-                東京都、新たに1万6129人感染　7日平均で前週の82.4%</a>
+                        東京都、新たに1万6129人感染　7日平均で前週の82.4%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUC165FS0W2A210C2000000/" target="blank" rel="noopener">
-                オミクロン派生型、感染サイクルさらに短い可能性 ここまで分かったオミクロン型</a>
+                        オミクロン派生型、感染サイクルさらに短い可能性 ここまで分かったオミクロン型</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA17AS30X10C22A2000000/" target="blank" rel="noopener">
-                まん延防止5県解除、分科会了承　17道府県は3月6日まで</a>
-        </li> 
+                        まん延防止5県解除、分科会了承　17道府県は3月6日まで</a>
+        </li>
 
-    <hr>
-         2022年02月17日
-    
+        <hr>
+        2022年02月17日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC170JG0X10C22A2000000/" target="blank" rel="noopener">
-                東京都、新たに1万7864人感染　7日平均で前週の83.7%</a>
+                        東京都、新たに1万7864人感染　7日平均で前週の83.7%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGR15F970V10C22A2000000/" target="blank" rel="noopener">
-                コロナ後遺症、ワクチン接種で半減　英政府調査</a>
+                        コロナ後遺症、ワクチン接種で半減　英政府調査</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA163T20W2A210C2000000/" target="blank" rel="noopener">
-                高齢者3回目の2月完了難路　「接種券なしも可」周知不足</a>
-        </li> 
+                        高齢者3回目の2月完了難路　「接種券なしも可」周知不足</a>
+        </li>
 
-    <hr>
-         2022年02月16日
-    
+        <hr>
+        2022年02月16日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC164S20W2A210C2000000/" target="blank" rel="noopener">
-                東京都、新たに1万7331人感染　7日平均で前週の83.3%</a>
+                        東京都、新たに1万7331人感染　7日平均で前週の83.3%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA16CZY0W2A210C2000000/" target="blank" rel="noopener">
-                コロナ第6波、死者数4000人超も　専門家が試算</a>
+                        コロナ第6波、死者数4000人超も　専門家が試算</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA14BZH0U2A210C2000000/" target="blank" rel="noopener">
-                留学生の入国拡大、政府が容認へ　「開国」はなお遠く</a>
-        </li> 
+                        留学生の入国拡大、政府が容認へ　「開国」はなお遠く</a>
+        </li>
 
-    <hr>
-         2022年02月15日
-    
+        <hr>
+        2022年02月15日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC152L00V10C22A2000000/" target="blank" rel="noopener">
-                東京都、新たに1万5525人感染　7日平均で前週の81.9%</a>
+                        東京都、新たに1万5525人感染　7日平均で前週の81.9%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA149EH0U2A210C2000000/" target="blank" rel="noopener">
-                GDP、コロナ前に1兆円弱届かず　回復力で米欧に見劣り</a>
+                        GDP、コロナ前に1兆円弱届かず　回復力で米欧に見劣り</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA151VV0V10C22A2000000/" target="blank" rel="noopener">
-                3回目接種用ワクチン、全対象者分を5月中旬までに配送</a>
-        </li> 
+                        3回目接種用ワクチン、全対象者分を5月中旬までに配送</a>
+        </li>
 
-    <hr>
-         2022年02月14日
-    
+        <hr>
+        2022年02月14日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC141YJ0U2A210C2000000/" target="blank" rel="noopener">
-                東京都、新たに1万334人感染　7日平均で前週の84.9%</a>
+                        東京都、新たに1万334人感染　7日平均で前週の84.9%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGM142FI0U2A210C2000000/" target="blank" rel="noopener">
-                香港「ゼロコロナ」政策が行き詰まり　中国が関与強める</a>
+                        香港「ゼロコロナ」政策が行き詰まり　中国が関与強める</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA144VZ0U2A210C2000000/" target="blank" rel="noopener">
-                ファイザー製ワクチン、追加1000万回分供給で厚労省合意</a>
-        </li> 
+                        ファイザー製ワクチン、追加1000万回分供給で厚労省合意</a>
+        </li>
 
-    <hr>
-         2022年02月13日
-    
+        <hr>
+        2022年02月13日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC130NM0T10C22A2000000/" target="blank" rel="noopener">
-                東京都、新たに1万3074人感染　7日平均で前週の86.7%</a>
+                        東京都、新たに1万3074人感染　7日平均で前週の86.7%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA21A690R20C22A1000000/" target="blank" rel="noopener">
-                侮れない「コロナ太り」　筋力低下や精神面の問題も</a>
+                        侮れない「コロナ太り」　筋力低下や精神面の問題も</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUB023N70S2A200C2000000/" target="blank" rel="noopener">
-                コロナ転機に戸建て躍進、マンションは最高値</a>
-        </li> 
+                        コロナ転機に戸建て躍進、マンションは最高値</a>
+        </li>
 
-    <hr>
-         2022年02月12日
-    
+        <hr>
+        2022年02月12日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC121U10S2A210C2000000/" target="blank" rel="noopener">
-                東京で1万1765人感染　1週間平均、2カ月ぶり前週下回る</a>
+                        東京で1万1765人感染　1週間平均、2カ月ぶり前週下回る</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUC08CDJ0Y2A200C2000000/" target="blank" rel="noopener">
-                「魔の遺伝子パズル」で新たなコロナ　ヒトで増殖容易に</a>
+                        「魔の遺伝子パズル」で新たなコロナ　ヒトで増殖容易に</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGR10FIR0Q2A210C2000000/" target="blank" rel="noopener">
-                欧州のコロナ規制、相次ぎ緩和　英は水際対策ほぼ撤廃</a>
-        </li> 
+                        欧州のコロナ規制、相次ぎ緩和　英は水際対策ほぼ撤廃</a>
+        </li>
 
-    <hr>
-         2022年02月11日
-    
+        <hr>
+        2022年02月11日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC111JC0R10C22A2000000/" target="blank" rel="noopener">
-                東京都、新たに1万8660人感染　7日平均で前週の101.8%</a>
+                        東京都、新たに1万8660人感染　7日平均で前週の101.8%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC113510R10C22A2000000/" target="blank" rel="noopener">
-                コロナ死者、国内累計2万人超　オミクロンで増加傾向</a>
+                        コロナ死者、国内累計2万人超　オミクロンで増加傾向</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA106MW0Q2A210C2000000/" target="blank" rel="noopener">
-                ファイザー製飲み薬承認　コロナ軽症・中等症患者向け まず4万人分</a>
-        </li> 
+                        ファイザー製飲み薬承認　コロナ軽症・中等症患者向け まず4万人分</a>
+        </li>
 
-    <hr>
-         2022年02月10日
-    
+        <hr>
+        2022年02月10日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC1076P0Q2A210C2000000/" target="blank" rel="noopener">
-                東京都、新たに1万8891人感染　7日平均で前週の104.6%</a>
+                        東京都、新たに1万8891人感染　7日平均で前週の104.6%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC102ID0Q2A210C2000000/" target="blank" rel="noopener">
-                東京の感染拡大ペース鈍化　ピークアウト「時期読めず」</a>
+                        東京の感染拡大ペース鈍化　ピークアウト「時期読めず」</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUF100RS0Q2A210C2000000/" target="blank" rel="noopener">
-                塩野義、鼻に噴霧するコロナワクチン　千葉大と開発へ</a>
-        </li> 
+                        塩野義、鼻に噴霧するコロナワクチン　千葉大と開発へ</a>
+        </li>
 
-    <hr>
-         2022年02月09日
-    
+        <hr>
+        2022年02月09日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC0943O0Z00C22A2000000/" target="blank" rel="noopener">
-                東京都、新たに1万8287人感染　7日平均で前週の109.9%</a>
+                        東京都、新たに1万8287人感染　7日平均で前週の109.9%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGN090B00Z00C22A2000000/" target="blank" rel="noopener">
-                世界のコロナ感染者4億人に　オミクロン型で急増</a>
+                        世界のコロナ感染者4億人に　オミクロン型で急増</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA08DU90Y2A200C2000000/" target="blank" rel="noopener">
-                13都県のまん延防止延長へ、午後に閣僚協議　高知は追加</a>
-        </li> 
+                        13都県のまん延防止延長へ、午後に閣僚協議　高知は追加</a>
+        </li>
 
-    <hr>
-         2022年02月08日
-    
+        <hr>
+        2022年02月08日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC080EX0Y2A200C2000000/" target="blank" rel="noopener">
-                東京都、新たに1万7113人感染　7日平均で前週の120.6%</a>
+                        東京都、新たに1万7113人感染　7日平均で前週の120.6%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUC04BGX0U2A200C2000000/" target="blank" rel="noopener">
-                オミクロン派生型、50カ国超で確認　流行長引く要因か</a>
+                        オミクロン派生型、50カ国超で確認　流行長引く要因か</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC082340Y2A200C2000000/" target="blank" rel="noopener">
-                東京都、濃厚接触者に抗原検査キット配布</a>
-        </li> 
+                        東京都、濃厚接触者に抗原検査キット配布</a>
+        </li>
 
-    <hr>
-         2022年02月07日
-    
+        <hr>
+        2022年02月07日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC070A40X00C22A2000000/" target="blank" rel="noopener">
-                東京都、新たに1万2211人感染　7日平均で前週の120.0%</a>
+                        東京都、新たに1万2211人感染　7日平均で前週の120.0%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA071TB0X00C22A2000000/" target="blank" rel="noopener">
-                塩野義のコロナ飲み薬、治験完了前に実用化も　首相検討</a>
+                        塩野義のコロナ飲み薬、治験完了前に実用化も　首相検討</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCB076SG0X00C22A2000000/" target="blank" rel="noopener">
-                カナダ首都に非常事態宣言　コロナ対策めぐりデモ激化</a>
-        </li> 
+                        カナダ首都に非常事態宣言　コロナ対策めぐりデモ激化</a>
+        </li>
 
-    <hr>
-         2022年02月06日
-    
+        <hr>
+        2022年02月06日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC061GK0W2A200C2000000/" target="blank" rel="noopener">
-                東京都、新たに1万7526人感染　7日平均で前週の123.3%</a>
+                        東京都、新たに1万7526人感染　7日平均で前週の123.3%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC049D70U2A200C2000000/" target="blank" rel="noopener">
-                「まん延防止」地域の病床使用率、16都府県が50%以上</a>
+                        「まん延防止」地域の病床使用率、16都府県が50%以上</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA054E60V00C22A2000000/" target="blank" rel="noopener">
-                国の大規模接種、大阪も7日再開　1日あたり960人</a>
-        </li> 
+                        国の大規模接種、大阪も7日再開　1日あたり960人</a>
+        </li>
 
-    <hr>
-         2022年02月05日
-    
+        <hr>
+        2022年02月05日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC0512Z0V00C22A2000000/" target="blank" rel="noopener">
-                東京都、新たに2万1122人感染　7日平均で前週の129.8%</a>
+                        東京都、新たに2万1122人感染　7日平均で前週の129.8%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCB315GZ0R30C22A1000000/" target="blank" rel="noopener">
-                コロナ感染、過半の国で減少　追加接種の進展で明暗</a>
+                        コロナ感染、過半の国で減少　追加接種の進展で明暗</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA051E60V00C22A2000000/" target="blank" rel="noopener">
-                尾身氏「種類にかかわらず打って」　ワクチン追加接種で</a>
-        </li> 
+                        尾身氏「種類にかかわらず打って」　ワクチン追加接種で</a>
+        </li>
 
-    <hr>
-         2022年02月04日
-    
+        <hr>
+        2022年02月04日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC040GK0U2A200C2000000/" target="blank" rel="noopener">
-                東京都、新たに1万9798人感染　7日平均で前週の1.3倍</a>
+                        東京都、新たに1万9798人感染　7日平均で前週の1.3倍</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA0468Y0U2A200C2000000/" target="blank" rel="noopener">
-                コロナ重症者、4カ月ぶり1000人超　前日から131人増</a>
+                        コロナ重症者、4カ月ぶり1000人超　前日から131人増</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC035FE0T00C22A2000000/" target="blank" rel="noopener">
-                東京都が緊急事態要請の新基準　重症者や7日平均感染数</a>
-        </li> 
+                        東京都が緊急事態要請の新基準　重症者や7日平均感染数</a>
+        </li>
 
-    <hr>
-         2022年02月03日
-    
+        <hr>
+        2022年02月03日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC030FT0T00C22A2000000/" target="blank" rel="noopener">
-                東京都、新たに2万679人感染　7日平均で前週の1.5倍</a>
+                        東京都、新たに2万679人感染　7日平均で前週の1.5倍</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA033E60T00C22A2000000/" target="blank" rel="noopener">
-                発熱外来、3割が非公表　報酬加算も医療なお後ろ向き</a>
+                        発熱外来、3割が非公表　報酬加算も医療なお後ろ向き</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC03BOH0T00C22A2000000/" target="blank" rel="noopener">
-                新規感染者、初の10万人超　オミクロン急拡大続く</a>
-        </li> 
+                        新規感染者、初の10万人超　オミクロン急拡大続く</a>
+        </li>
 
-    <hr>
-         2022年02月02日
-    
+        <hr>
+        2022年02月02日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC0234W0S2A200C2000000/" target="blank" rel="noopener">
-                東京都、新たに2万1576人感染　初の2万人超え</a>
+                        東京都、新たに2万1576人感染　初の2万人超え</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUC0212Y0S2A200C2000000/" target="blank" rel="noopener">
-                オミクロン感染確率、店内対策で3分の1　「富岳」試算</a>
+                        オミクロン感染確率、店内対策で3分の1　「富岳」試算</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUC012WT0R00C22A2000000/" target="blank" rel="noopener">
-                オミクロン派生型、感染リスクは主流の2倍以上か ここまで分かったオミクロン型</a>
-        </li> 
+                        オミクロン派生型、感染リスクは主流の2倍以上か ここまで分かったオミクロン型</a>
+        </li>
 
-    <hr>
-         2022年02月01日
-    
+        <hr>
+        2022年02月01日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC0139O0R00C22A2000000/" target="blank" rel="noopener">
-                東京都、新たに1万4445人感染　7日平均で前週の約1.6倍　</a>
+                        東京都、新たに1万4445人感染　7日平均で前週の約1.6倍　</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGR010070R00C22A2000000/" target="blank" rel="noopener">
-                医療廃棄物、コロナで大量発生　環境汚染も　WHO</a>
+                        医療廃棄物、コロナで大量発生　環境汚染も　WHO</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGR31D640R30C22A1000000/" target="blank" rel="noopener">
-                オミクロン派生型、感染力3割高く　デンマーク研究 重症化リスクは同程度か</a>
-        </li> 
+                        オミクロン派生型、感染力3割高く　デンマーク研究 重症化リスクは同程度か</a>
+        </li>
 
-    <hr>
-         2022年01月31日
-    
+        <hr>
+        2022年01月31日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC317IO0R30C22A1000000/" target="blank" rel="noopener">
-                東京都、新たに1万1751人感染　病床使用率49.2%</a>
+                        東京都、新たに1万1751人感染　病床使用率49.2%</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA315D00R30C22A1000000/" target="blank" rel="noopener">
-                首相、緊急事態宣言「現時点で検討せず」「最後は政府として判断」とも強調</a>
+                        首相、緊急事態宣言「現時点で検討せず」「最後は政府として判断」とも強調</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGM128QT0S2A110C2000000/" target="blank" rel="noopener">
-                ベトナム最大都市、労働者9万人不足　世界供給に影響も</a>
-        </li> 
+                        ベトナム最大都市、労働者9万人不足　世界供給に影響も</a>
+        </li>
 
-    <hr>
-         2022年01月30日
-    
+        <hr>
+        2022年01月30日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC301RV0Q2A130C2000000/" target="blank" rel="noopener">
-                東京都、新たに1万5895人感染　7日平均で前週の1.9倍</a>
+                        東京都、新たに1万5895人感染　7日平均で前週の1.9倍</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA277W40X20C22A1000000/" target="blank" rel="noopener">
-                第6波重症化率、第5波の25分の1　コロナで民間試算</a>
+                        第6波重症化率、第5波の25分の1　コロナで民間試算</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUC18A990Y2A110C2000000/" target="blank" rel="noopener">
-                オミクロン、「感染→感染」2日の短さ　急拡大の要因に</a>
-        </li> 
+                        オミクロン、「感染→感染」2日の短さ　急拡大の要因に</a>
+        </li>
 
-    <hr>
-         2022年01月29日
-    
+        <hr>
+        2022年01月29日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC291X40Z20C22A1000000/" target="blank" rel="noopener">
-                東京都、新たに1万7433人感染　7日平均で前週の1.9倍</a>
+                        東京都、新たに1万7433人感染　7日平均で前週の1.9倍</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC27D6G0X20C22A1000000/" target="blank" rel="noopener">
-                まん延防止地域の病床使用率、10府県で50%超す</a>
+                        まん延防止地域の病床使用率、10府県で50%超す</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGR2802Z0Y2A120C2000000/" target="blank" rel="noopener">
-                コロナ水際規制、世界で進む「開国」　日本のみ厳しく</a>
-        </li> 
+                        コロナ水際規制、世界で進む「開国」　日本のみ厳しく</a>
+        </li>
 
-    <hr>
-     2022年01月28日
-    
+        <hr>
+        2022年01月28日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC280HO0Y2A120C2000000/" target="blank" rel="noopener">
-                東京都、新たに1万7631人感染　4日連続で最多更新</a>
+                        東京都、新たに1万7631人感染　4日連続で最多更新</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA277D80X20C22A1000000/" target="blank" rel="noopener">
-                濃厚接触者の待機7日に　10日間から短縮、政府最終調整</a>
+                        濃厚接触者の待機7日に　10日間から短縮、政府最終調整</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA27E520X20C22A1000000/" target="blank" rel="noopener">
-                国の大規模接種、まず1日720人分</a>
-        </li> 
+                        国の大規模接種、まず1日720人分</a>
+        </li>
 
-    <hr>
-     2022年01月27日
-    
+        <hr>
+        2022年01月27日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC273CE0X20C22A1000000/" target="blank" rel="noopener">
-                東京都、新たに1万6538人感染　3日連続で過去最多更新</a>
+                        東京都、新たに1万6538人感染　3日連続で過去最多更新</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC27BB80X20C22A1000000/" target="blank" rel="noopener">
-                新規感染7万8千人超　まん延防止、和歌山も要請へ</a>
+                        新規感染7万8千人超　まん延防止、和歌山も要請へ</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA27D3U0X20C22A1000000/" target="blank" rel="noopener">
-                首相、退院基準の緩和に意欲　オミクロン型対応</a>
-        </li> 
+                        首相、退院基準の緩和に意欲　オミクロン型対応</a>
+        </li>
 
-    <hr>
-         2022年01月26日
-    
+        <hr>
+        2022年01月26日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC260EN0W2A120C2000000/" target="blank" rel="noopener">
-                東京都、新たに1万4086人感染　連日の過去最多</a>
+                        東京都、新たに1万4086人感染　連日の過去最多</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA253MD0V20C22A1000000/" target="blank" rel="noopener">
-                「みなし陽性」対応難題に　柔軟な医療体制の重要性増す　</a>
+                        「みなし陽性」対応難題に　柔軟な医療体制の重要性増す　</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA24BP10U2A120C2000000/" target="blank" rel="noopener">
-                まん延防止34都道府県に拡大、政府決定　沖縄などは延長　</a>
-        </li> 
+                        まん延防止34都道府県に拡大、政府決定　沖縄などは延長　</a>
+        </li>
 
-    <hr>
-         2022年01月25日
-    
+        <hr>
+        2022年01月25日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC250FH0V20C22A1000000/" target="blank" rel="noopener">
-                東京都、新たに1万2813人感染　過去最多を更新</a>
+                        東京都、新たに1万2813人感染　過去最多を更新</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href=https://www.nikkei.com/article/DGXZQOCC259F70V20C22A1000000/"" target="blank" rel="noopener">
-                新規感染が初の6万人超　東京1万2813人、大阪は8612人</a>
+                        新規感染が初の6万人超　東京1万2813人、大阪は8612人</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGN25CQ30V20C22A1000000/" target="blank" rel="noopener">
-                米ファイザー、オミクロン特化ワクチンの治験開始</a>
-        </li> 
+                        米ファイザー、オミクロン特化ワクチンの治験開始</a>
+        </li>
 
-    <hr>
-         2022年01月24日
-    
+        <hr>
+        2022年01月24日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC240EH0U2A120C2000000/" target="blank" rel="noopener">
-                東京都、新たに8503人感染　7日平均で前週の2.6倍</a>
+                        東京都、新たに8503人感染　7日平均で前週の2.6倍</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA168AY0W1A111C2000000/" target="blank" rel="noopener">
-                成長求めキャリア再考　転職希望、コロナ禍で過去最高</a>
+                        成長求めキャリア再考　転職希望、コロナ禍で過去最高</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUD112360R10C22A1000000/" target="blank" rel="noopener">
-                コロナ感染で人格が変わる？ 　脳研究でわかってきたこと</a>
-        </li> 
+                        コロナ感染で人格が変わる？ 　脳研究でわかってきたこと</a>
+        </li>
 
-    <hr>
-         2022年01月23日
-    
+        <hr>
+        2022年01月23日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC231EK0T20C22A1000000/" target="blank" rel="noopener">
-                東京都、新たに9468人感染　7日平均で前週の2.8倍</a>
+                        東京都、新たに9468人感染　7日平均で前週の2.8倍</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCA2198C0R20C22A1000000/" target="blank" rel="noopener">
-                オミクロン、ピーク越えに1カ月　南アフリカやイギリス</a>
+                        オミクロン、ピーク越えに1カ月　南アフリカやイギリス</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC21DLH0R20C22A1000000/" target="blank" rel="noopener">
-                新規感染5万人超　まん延防止、30都道府県超す可能性も</a>
-        </li> 
+                        新規感染5万人超　まん延防止、30都道府県超す可能性も</a>
+        </li>
 
-    <hr>
-         2022年01月22日
-    
+        <hr>
+        2022年01月22日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC220WN0S2A120C2000000/" target="blank" rel="noopener">
-                東京都、新たに1万1227人感染　初の1万人超え</a>
+                        東京都、新たに1万1227人感染　初の1万人超え</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGN21F400R20C22A1000000/" target="blank" rel="noopener">
-                ワクチン追加接種、入院の予防効果90%　米CDC</a>
+                        ワクチン追加接種、入院の予防効果90%　米CDC</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGH181XX0Y2A110C2000000/" target="blank" rel="noopener">
-                コロナは小売りどう変えた？　消費者、商品の世界観重視</a>
-        </li> 
+                        コロナは小売りどう変えた？　消費者、商品の世界観重視</a>
+        </li>
 
-    <hr>
-         2022年01月21日
-    
+        <hr>
+        2022年01月21日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC210EG0R20C22A1000000/" target="blank" rel="noopener">
-                東京都、新たに9699人感染　7日平均で前週の3.2倍</a>
+                        東京都、新たに9699人感染　7日平均で前週の3.2倍</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA211SY0R20C22A1000000/" target="blank" rel="noopener">
-                米ファイザー製ワクチン、5～11歳向け承認　厚労省</a>
+                        米ファイザー製ワクチン、5～11歳向け承認　厚労省</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUC146KV0U2A110C2000000/" target="blank" rel="noopener">
-                ワクチン追加接種、サイトで治験参加者募集　バズリーチ</a>
-        </li> 
+                        ワクチン追加接種、サイトで治験参加者募集　バズリーチ</a>
+        </li>
 
-    <hr>
-         2022年01月20日
-    
+        <hr>
+        2022年01月20日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC200EI0Q2A120C2000000/" target="blank" rel="noopener">
-                東京都、新たに8638人感染　7日平均で前週の3.6倍</a>
+                        東京都、新たに8638人感染　7日平均で前週の3.6倍</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGR19DP10Z10C22A1000000/" target="blank" rel="noopener">
-                英、コロナ規制緩和　重症者増えずマスク着用義務撤廃</a>
+                        英、コロナ規制緩和　重症者増えずマスク着用義務撤廃</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC196WA0Z10C22A1000000/" target="blank" rel="noopener">
-                新規感染、初めて4万人上回る　東京・大阪も過去最多</a>
-        </li> 
+                        新規感染、初めて4万人上回る　東京・大阪も過去最多</a>
+        </li>
 
-    <hr>
-         2022年01月19日
-    
+        <hr>
+        2022年01月19日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC191HT0Z10C22A1000000/" target="blank" rel="noopener">
-                東京都、新たに7377人感染　過去最多を更新</a>
+                        東京都、新たに7377人感染　過去最多を更新</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA18D0L0Y2A110C2000000/" target="blank" rel="noopener">
-                13都県にまん延防止、19日夕決定　酒類提供は自治体判断</a>
+                        13都県にまん延防止、19日夕決定　酒類提供は自治体判断</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA0617L0W2A100C2000000/" target="blank" rel="noopener">
-                「まん延防止」どんな制限？　地域限定で飲食店時短</a>
-        </li> 
+                        「まん延防止」どんな制限？　地域限定で飲食店時短</a>
+        </li>
 
-    <hr>
-         2022年01月18日
-    
+        <hr>
+        2022年01月18日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC186H80Y2A110C2000000/" target="blank" rel="noopener">
-                東京都、新たに5185人感染　7日平均で前週の4.3倍</a>
+                        東京都、新たに5185人感染　7日平均で前週の4.3倍</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCB181G90Y2A110C2000000/" target="blank" rel="noopener">
-                オミクロン予防「4回接種でも不十分」　イスラエル研究</a>
+                        オミクロン予防「4回接種でも不十分」　イスラエル研究</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOFC185590Y2A110C2000000/" target="blank" rel="noopener">
-                さっぽろ雪まつり、2年連続で事実上中止　オンラインに</a>
-        </li> 
+                        さっぽろ雪まつり、2年連続で事実上中止　オンラインに</a>
+        </li>
 
-    <hr>
-         2022年01月17日
-    
+        <hr>
+        2022年01月17日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC171LN0X10C22A1000000/" target="blank" rel="noopener">
-                東京都、新たに3719人感染　7日平均で前週の4.2倍</a>
+                        東京都、新たに3719人感染　7日平均で前週の4.2倍</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUA170D90X10C22A1000000/" target="blank" rel="noopener">
-                大規模接種、31日に東京で再開へ　接種券で予約可能 大阪は2月以降開設の見通し</a>
+                        大規模接種、31日に東京で再開へ　接種券で予約可能 大阪は2月以降開設の見通し</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGN1414Y0U2A110C2000000/" target="blank" rel="noopener">
-                コロナ共生、競争の火蓋　米国「最悪」からの模索 本社コメンテーター　菅野幹雄</a>
-        </li> 
+                        コロナ共生、競争の火蓋　米国「最悪」からの模索 本社コメンテーター　菅野幹雄</a>
+        </li>
 
-    <hr>
-         2022年01月16日
-    
+        <hr>
+        2022年01月16日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC161IF0W2A110C2000000/" target="blank" rel="noopener">
-                東京都、新たに4172人感染　7日平均で前週の4.3倍</a>
+                        東京都、新たに4172人感染　7日平均で前週の4.3倍</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGM153RB0V10C22A1000000/" target="blank" rel="noopener">
-                中国、北京でオミクロン型を初確認　上海や広東省でも</a>
+                        中国、北京でオミクロン型を初確認　上海や広東省でも</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGN14ECX0U2A110C2000000/" target="blank" rel="noopener">
-                従業員のワクチン義務差し止め　米企業に戸惑い</a>
-        </li> 
+                        従業員のワクチン義務差し止め　米企業に戸惑い</a>
+        </li>
 
-    <hr>
-         2022年01月15日
-    
+        <hr>
+        2022年01月15日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC151U20V10C22A1000000/" target="blank" rel="noopener">
-                東京都、新たに4561人感染　7日平均で前週の4.8倍</a>
+                        東京都、新たに4561人感染　7日平均で前週の4.8倍</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGN13DW80T10C22A1000000/" target="blank" rel="noopener">
-                コロナ感染、米欧の一部でピーク越えか　NYや英で減少</a>
+                        コロナ感染、米欧の一部でピーク越えか　NYや英で減少</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUC1110O0R10C22A1000000/" target="blank" rel="noopener">
-                米でシカのコロナ感染、変異増幅？　進化の追跡必要</a>
-        </li> 
+                        米でシカのコロナ感染、変異増幅？　進化の追跡必要</a>
+        </li>
 
-    <hr>
-         2022年01月14日
-    
+        <hr>
+        2022年01月14日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC1422X0U2A110C2000000/" target="blank" rel="noopener">
-                東京都、新たに4051人感染　7日平均で前週の5.8倍</a>
+                        東京都、新たに4051人感染　7日平均で前週の5.8倍</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQODK130SZ0T10C22A1000000/" target="blank" rel="noopener">
-                対オミクロン、「2類相当」で大丈夫か</a>
+                        対オミクロン、「2類相当」で大丈夫か</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUC1433T0U1A111C2000000/" target="blank" rel="noopener">
-                ファイザー、コロナ飲み薬を国内で承認申請</a>
-        </li> 
+                        ファイザー、コロナ飲み薬を国内で承認申請</a>
+        </li>
 
-    <hr>
-         2022年01月13日
-    
+        <hr>
+        2022年01月13日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC131PP0T10C22A1000000/" target="blank" rel="noopener">
-                東京都、新たに3124人感染　7日平均で前週の6.9倍</a>
+                        東京都、新たに3124人感染　7日平均で前週の6.9倍</a>
         </li>
-         <li>
+        <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC1345R0T10C22A1000000/" target="blank" rel="noopener">
-                東京都、感染警戒水準上げ　1週間後9500人超の可能性も</a>
+                        東京都、感染警戒水準上げ　1週間後9500人超の可能性も</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC136DV0T10C22A1000000/" target="blank" rel="noopener">
-                東京都、病床使用率20%で「まん延防止」要請へ</a>
-        </li> 
+                        東京都、病床使用率20%で「まん延防止」要請へ</a>
+        </li>
 
-    <hr>
+        <hr>
         2022年01月12日
 
         <li>
@@ -1587,7 +1758,7 @@
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC100YJ0Q2A110C2000000/" target="blank" rel="noopener">
-                東京都、新たに871人感染　7日平均で前週の10.2倍</a>
+                        東京都、新たに871人感染　7日平均で前週の10.2倍</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
@@ -1597,7 +1768,7 @@
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOUE202KE0Q1A221C2000000/" target="blank" rel="noopener">
-                続く入国制限、留学生来日できず　人材グローバル化に影</a>
+                        続く入国制限、留学生来日できず　人材グローバル化に影</a>
         </li>
 
         <hr>
