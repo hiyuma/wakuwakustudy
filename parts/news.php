@@ -24,7 +24,7 @@
 
 
 
-        <!-- 2022年05月日
+        <!-- 2022年05月XX日
 
         <li>
                 <i class="far fa-file-alt"></i>
@@ -43,10 +43,123 @@
         </li>
         <hr> -->
 
+        2022年05月13日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC130CB0T10C22A5000000/" target="blank" rel="noopener">
+                東京都、新たに4109人感染　7日平均で前週の146.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN22ELW0S2A420C2000000/" target="blank" rel="noopener">
+                米のコロナ死者100万人に　ワクチン未接種、死亡率高く</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM12CU60S2A510C2000000/" target="blank" rel="noopener">
+                北京、自宅待機3日間を要請　市中心部でゼロコロナ堅持</a>
+        </li>
+        <hr>
 
 
+        2022年05月12日
 
-        2022年05月06日
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC120EE0S2A510C2000000/" target="blank" rel="noopener">
+                東京都、新たに4216人感染　7日平均で前週の130.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA1230Z0S2A510C2000000/" target="blank" rel="noopener">
+                屋外マスク、距離「2メートル以上」で不要　官房長官</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA11CLG0R10C22A5000000/" target="blank" rel="noopener">
+                入国時検査の一部免除、政府検討　ワクチン接種など条件</a>
+        </li>
+        <hr>
+
+
+        2022年05月11日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC110A20R10C22A5000000/" target="blank" rel="noopener">
+                        東京都、新たに4764人感染　7日平均で前週の106.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                        新型コロナ対応の検証着手　政府が有識者会議の初会合</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR10ERX0Q2A510C2000000/" target="blank" rel="noopener">
+                        WHO、中国のゼロコロナ規制「持続可能ではない」</a>
+        </li>
+        <hr>
+        
+        
+        2022年05月10日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC100V50Q2A510C2000000/" target="blank" rel="noopener">
+                        東京都、新たに4451人感染　7日平均で前週の88.0%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA096CX0Z00C22A5000000/" target="blank" rel="noopener">
+                        消費支出「コロナ前」届かず　21年度、4年ぶり増も</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM094HR0Z00C22A5000000/" target="blank" rel="noopener">
+                        上海封鎖で中国貿易停滞　輸出入額2%増に急減速</a>
+        </li>
+        <hr>
+
+        2022年05月09日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC090P60Z00C22A5000000/" target="blank" rel="noopener">
+                        東京都、新たに3011人感染　7日平均で前週の79.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC022M50S2A500C2000000/" target="blank" rel="noopener">
+                        3年ぶり「制限なし」大型連休、首都圏の観光地活況</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE122VY0S2A410C2000000/" target="blank" rel="noopener">
+                        3回目ワクチン、若者なお3割　特典・大規模会場で促進</a>
+        </li>
+        <hr>
+
+        2022年05月08日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC080LM0Y2A500C2000000/" target="blank" rel="noopener">
+                東京都、新たに4711人感染　7日平均で前週の75.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCA1994S0Z10C22A4000000/" target="blank" rel="noopener">
+                子どもの受診、コロナ前より2割減　低所得世帯で顕著</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF081JO0Y2A500C2000000/" target="blank" rel="noopener">
+                大阪府、8日の新規感染3324人　新型コロナ</a>
+        </li>
+        <hr>
+        2022年05月07日
 
         <li>
                 <i class="far fa-file-alt"></i>
@@ -62,6 +175,24 @@
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOGR053210V00C22A5000000/" target="blank" rel="noopener">
                         新型コロナ死者、実際は3倍の1490万人か　WHOが推計</a>
+        </li>
+        <hr>
+        2022年05月06日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC060820W2A500C2000000/" target="blank" rel="noopener">
+                東京都、新たに2681人感染　7日平均で前週の58.8%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM064QW0W2A500C2000000/" target="blank" rel="noopener">
+                中国広州で日本線など大量欠航　空港関係者がコロナ感染</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN0540T0V00C22A5000000/" target="blank" rel="noopener">
+                米就業者42万人増、失業率横ばい3.6%　インフレ圧力なお</a>
         </li>
 
         <hr>
