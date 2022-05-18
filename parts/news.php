@@ -42,7 +42,96 @@
                         </a>
         </li>
         <hr> -->
+        2022年05月18日
 
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC180U40Y2A510C2000000/" target="blank" rel="noopener">
+                東京都、新たに4355人感染　7日平均で前週の100.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB180LC0Y2A510C2000000/" target="blank" rel="noopener">
+                ゼロコロナ目指す北京、隔離強化で監視員需要急増</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA172JN0X10C22A5000000/" target="blank" rel="noopener">
+                1～3月GDP1.0%減、2期ぶりマイナス　コロナ制限響く</a>
+        </li>
+        <hr>
+        2022年05月17日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC170AR0X10C22A5000000/" target="blank" rel="noopener">
+                東京都、新たに3663人感染　7日平均で前週の109.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM1635Y0W2A510C2000000/" target="blank" rel="noopener">
+                中国景気、ゼロコロナの傷深く　4月生産・小売り悪化</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODK124UK0S2A510C2000000/" target="blank" rel="noopener">
+                ワクチン4回目接種　なぜ60歳未満は不要になったのか</a>
+        </li>
+        <hr>
+        2022年05月16日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC160B20W2A510C2000000/" target="blank" rel="noopener">
+                東京都、新たに2377人感染　7日平均で前週の118.2%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM1607M0W2A510C2000000/" target="blank" rel="noopener">
+                北朝鮮で発熱者1日39万人　金正恩氏、医薬品不足を叱責</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF1633U0W2A510C2000000/" target="blank" rel="noopener">
+                塩野義製薬、12~19歳対象にコロナワクチン治験開始</a>
+        </li>
+        <hr>
+        2022年05月15日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC152060V10C22A5000000/" target="blank" rel="noopener">
+                東京都、新たに3348人感染　7日平均で前週の124.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM1506P0V10C22A5000000/" target="blank" rel="noopener">
+                北朝鮮、1日で29万人発熱　コロナ治療法わからず切迫か</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA269PN0W2A420C2000000/" target="blank" rel="noopener">
+                コロナ制限の効果どこまで　8県、発令でも感染増</a>
+        </li>
+        <hr>
+        2022年05月14日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC141OX0U2A510C2000000/" target="blank" rel="noopener">
+                東京都、新たに3799人感染　7日平均で前週の140.2%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE140FE0U2A510C2000000/" target="blank" rel="noopener">
+                国内のコロナ死者3万人超　高齢者中心、今年1万人増</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC126ML0S2A510C2000000/" target="blank" rel="noopener">
+                BA.4などオミクロンの新派生型3種、免疫すり抜ける進化</a>
+        </li>
+        <hr>
         2022年05月13日
 
         <li>
