@@ -42,6 +42,42 @@
                         </a>
         </li>
         <hr> -->
+        2022年05月20日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC201DX0Q2A520C2000000/" target="blank" rel="noopener">
+                東京都、新たに3573人感染　7日平均で前週の87.0%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA193M70Z10C22A5000000/" target="blank" rel="noopener">
+                屋外マスク、距離十分なら不要　厚労省の専門家組織</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA201KZ0Q2A520C2000000/" target="blank" rel="noopener">
+                コロナワクチン4回目接種、25日にも開始</a>
+        </li>
+        <hr>
+        2022年05月19日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC191EI0Z10C22A5000000/" target="blank" rel="noopener">
+                東京都、新たに4172人感染　7日平均で前週の93.4%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM190FV0Z10C22A5000000/" target="blank" rel="noopener">
+                北朝鮮の発熱者減少せず　1日26万人、累計200万人迫る</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC276D90X20C22A4000000/" target="blank" rel="noopener">
+                ウエルシア、深夜も処方薬　受け取りロッカー260店設置</a>
+        </li>
+        <hr>
         2022年05月18日
 
         <li>
