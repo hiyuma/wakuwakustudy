@@ -42,6 +42,24 @@
                         </a>
         </li>
         <hr> -->
+        2022年05月21日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2120U0R20C22A5000000/" target="blank" rel="noopener">
+                東京都、新たに3464人感染　7日平均で前週の85.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN20DGW0Q2A520C2000000/" target="blank" rel="noopener">
+                米、コロナ新規感染再び10万人超　2月以来の水準</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODF2054O0Q2A520C2000000/" target="blank" rel="noopener">
+                コロナ政策、転換へ一歩　入国検査「8割免除」</a>
+        </li>
+        <hr>
         2022年05月20日
 
         <li>
