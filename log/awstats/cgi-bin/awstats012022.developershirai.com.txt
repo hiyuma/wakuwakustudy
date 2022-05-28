@@ -1,0 +1,1027 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 202201 will be lost/reset.
+# Last config file used to build this data file was /virtual/developershirai/public_html/log/awstats/cgi-bin/awstats.developershirai.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2116                
+POS_TIME 2789                
+POS_VISITOR 20727               
+POS_DAY 36015               
+POS_DOMAIN 3830                
+POS_LOGIN 4260                
+POS_ROBOT 4415                
+POS_WORMS 5651                
+POS_EMAILSENDER 5782                
+POS_EMAILRECEIVER 5925                
+POS_SESSION 36888               
+POS_SIDER 37095               
+POS_FILETYPES 6060                
+POS_DOWNLOADS 6400                
+POS_OS 6661                
+POS_BROWSER 6912                
+POS_SCREENSIZE 9006                
+POS_UNKNOWNREFERER 9080                
+POS_UNKNOWNREFERERBROWSER 9677                
+POS_ORIGIN 10113               
+POS_SEREFERRALS 10256               
+POS_PAGEREFS 10487               
+POS_SEARCHWORDS 10683               
+POS_KEYWORDS 10835               
+POS_MISC 2452                
+POS_ERRORS 10894               
+POS_CLUSTER 4116                
+POS_SIDER_403 11086               
+POS_SIDER_400 11168               
+POS_SIDER_404 11250               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220201000809 1 0 10692657593306
+FirstTime 20220101081347
+LastTime 20220131223558
+LastUpdate 20220202034035 1 0 0 0 0
+TotalVisits 289                 
+TotalUnique 245                 
+MonthHostsKnown 166                 
+MonthHostsUnknown 124                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 64 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 14 17 4224343 1071 1240 932653484
+1 8 63 3781269 614 673 798762504
+2 20 26 5714589 860 970 909421730
+3 15 60 4854487 758 936 936907612
+4 20 30 36426486 681 809 891860408
+5 19 25 5975093 1340 1758 1701854125
+6 51 196 10652568 913 1111 1611365450
+7 20 27 4752995 992 1246 1100292769
+8 18 23 8579735 1393 1763 877936266
+9 10 10 2658502 1672 1725 3631494244
+10 22 39 4485642 1807 1960 1521584483
+11 16 28 21206862 1927 2318 2933760059
+12 72 160 50266562 1485 1824 1170293430
+13 1678 2043 451715973 568 707 246485269
+14 1164 1350 138797414 939 1138 1320142686
+15 424 480 8742684 641 825 505987682
+16 397 833 173792740 1162 1311 783112746
+17 46 224 21006208 1195 1342 1675601249
+18 28 43 6127162 1652 1917 1277002638
+19 2117 2447 81524063 743 1016 698576905
+20 1178 1549 237120830 1122 1227 1393597179
+21 30 38 7978279 959 1150 917890202
+22 38 85 13737317 390 529 310643006
+23 1161 1918 157165872 1593 1734 1793469256
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+jp 5442 6561 665291379
+net 2308 2892 301418888
+ip 639 1484 254188519
+com 153 507 104849968
+tr 7 7 161397
+de 7 7 361615
+ru 3 3 115833
+eu 3 208 7522002
+nz 2 41 3241989
+cn 1 1 89940
+no 1 1 90209
+mx 0 1 14885
+id 0 1 14885
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 28
+MJ12bot/ 24845 29290576150 20220131233646 0
+bingbot/ 799 450603984 20220131230629 0
+AhrefsBot/ 398 73732348 20220131175842 0
+Googlebot/ 364 21964930 20220131131820 0
+wordpress 325 848591 20220131234350 0
+BLEXBot/ 256 4772183 20220131212250 0
+bot[\s_+:,\.\;\/\\-] 213 16707868 20220131234348 0
+crawl 113 1784371 20220131003824 0
+SemrushBot/ 82 1353353 20220131125605 0
+Googlebot\-Image/ 73 14619127 20220130143122 0
+no_user_agent 22 2763731 20220128083620 0
+Dalvik/ 14 1259904 20220113182434 0
+bingpreview 12 287435 20220126071442 0
+CFNetwork 1 32664 20220127123818 0
+MSIE[\x20]6 1 0 20220131031143 0
+baidu 1 670215 20220121004137 0
+curl 3 1395784 20220131210429 0
+DuckDuckGo\-Favicons\-Bot/ 6 541689 20220121113136 0
+custo 18 11577207 20220130140846 0
+dataprovider\.com 52 5050776 20220121210607 0
+python 6 544102 20220131160004 0
+Apache\-HttpClient/ 42 3800798 20220116145544 0
+favicon 3 270845 20220112053614 0
+archive\.org_bot 41 5603538 20220109083911 0
+linkdexbot/ 3 189396 20220116024656 0
+twitterbot 1 6702 20220105110556 0
+netcraft 4 2518455 20220105064839 0
+Applebot/ 6 702312 20220120212614 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+css 109 543213 0 0
+png 738 47068105 0 0
+ttf 5 46364 0 0
+pdf 10 9873803 0 0
+woff2 3 231480 0 0
+woff 3 37740 0 0
+php 535 102695808 0 0
+html 4 5465 0 0
+jpg 1861 231363354 0 0
+xml 1 104545 0 0
+js 314 2595138 0 0
+jpeg 26 2689776 0 0
+Unknown 8022 782231298 0 0
+gif 83 33949254 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 6
+/English2.pdf 20 0 15619700
+/English1.pdf 13 0 25637170
+/english.php/english1.pdf 1 0 26304
+/english.php/english2.pdf 1 0 26304
+/movie/20200920babysmile.mp4 1 7 109480756
+/movie/engDictation_Trim.mp4 0 8 36341560
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+linuxandroid 134 57
+winxp 4 1
+macosx11 14 14
+ios_iphone 5962 4932
+linux 132 54
+win7 327 57
+macosx 20 19
+macosx9 11 11
+win8 13 8
+win10 4805 3361
+win8.1 32 31
+Unknown 23 20
+macosx8 252 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 97
+firefox28.0 4 4
+firefox66.0 1 1
+chrome95.0.4638.69 26 5
+chrome84.0.4147.89 3 3
+chrome88.0.4240.193 25 25
+chrome80.0.3987.122 1 1
+edge12 3 3
+safari14.0.2 1 1
+chrome79.0.3945.79 135 7
+chrome83.0.4103.97 28 28
+msie8.0 1 1
+chrome42.0.2311.90 1 1
+chrome90.0.4430.72 44 5
+firefox73.0 5 5
+chrome89.0.4389.114 18 18
+msie7.0 1 1
+chrome76.0.3809.71 270 14
+chrome71.0.3578 1 1
+chrome91.0.4472.114 13 10
+opera54.0.2952.51 3 3
+chrome66.0.3359.181 18 18
+chrome90.0.4430.93 4 4
+chrome90.0.4430.85 14 14
+firefox50.0 1 1
+edge17 3 3
+chrome55.0.2883.87 3 3
+chrome65.0.3315.3 9 9
+chrome72.0.3626.119 812 383
+firefox72.0 2 2
+chrome81.0.4044.92 26 4
+chrome79.0.563.56 1 1
+chrome68.0.3440.106 3 3
+firefox68.0 2 2
+firefox33.0 2 2
+chrome47.0.2526.106 13 13
+mozilla 6 6
+chrome68.0.3440.84 9 9
+chrome73.0.2732.43 1 0
+chrome35.0.1916.47 9 9
+chrome97.0.4692.71 1965 1669
+chrome60.0.3112.90 244 16
+safari12.1.2 10 1
+chrome73.0.3683.90 118 48
+safari 1816 1589
+safari9.0.2 1 1
+chrome67.0.3396.87 3 3
+chrome94.0.4606.71 1 1
+android 4 4
+chrome87.0.4280.88 23 23
+chrome68.0.3440.75 3 3
+chrome73.0.1405.63 1 0
+chrome67.0.3396.79 6 6
+chrome97.0.4692.99 1 0
+chrome71.0.3578.98 3 3
+chrome36.0.1985.125 2 2
+safari14.0 1 0
+firefox95.0 27 2
+safari15.2 11 2
+iphone 24 4
+chrome61.0.3163.100 2 2
+chrome76.0.2778.51 1 0
+chrome26.0.1410.65 1 1
+firefox94.0 1 1
+chrome83.0.4103.61 10 1
+chrome74.0.3729.169 12 12
+chrome91.0.4472.164 1 1
+msie9.0 30 0
+safari14.1.2 1263 1047
+Unknown 17 14
+safari15.1 2838 2289
+firefox11.0 3 0
+chrome72.0.3626.109 13 9
+chrome96.0.4664.110 1386 1099
+firefox84.0 2 2
+opera54.0.2952.71 6 6
+firefox89.0 3 3
+opera53.0.2907.99 3 3
+chrome75.0.3833.92 1 1
+firefox91.0 1 1
+opera53.0.2907.68 3 3
+chrome76.0.3809.100 2 2
+chrome78.0.3904.108 22 22
+chrome28.0.1500.71 251 0
+chrome59.0.3071.125 8 2
+chrome45.0.2454.94 1 1
+msie11.0 6 1
+chrome67.0.3396.99 15 15
+opera53.0.2907.106 6 6
+firefox81.0 1 1
+chrome81.0.4044.138 2 2
+chrome89.0.4389.90 3 3
+opera54.0.2952.64 6 6
+firefox96.0 13 1
+chrome75.0.3194.83 1 1
+opera36.0.2130.32 2 2
+chrome96.0.4664.45 1 0
+chrome65.0.3325.146 6 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Embarcadero_URI_Client/1.0 20220123113918
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20220129195123
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20220128221528
+Turnitin_(https://bit.ly/2UvnfoQ) 20220102234437
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20220124062411
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~virustotalcloud) 20220120224740
+Faraday_v0.9.2 20220122231541
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+Embarcadero_URI_Client/1.0 20220123113918
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20220129195123
+Turnitin_(https://bit.ly/2UvnfoQ) 20220102234437
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~virustotalcloud) 20220120224740
+Faraday_v0.9.2 20220122231541
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 349 645
+From1 9 9
+From2 21 41
+From3 0 5
+From4 8187 11029
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+search_yahoo_co_jp 3 3
+www_google_co_jp 3 6
+www_google_com_hk 1 1
+www_google_com 14 31
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://sys-t-p.com/app_2ch_new/pc/index.php 0 5
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+206 27 23034358
+303 5 0
+400 4 904
+401 286 24882
+302 366 82440
+409 2 5726
+405 300 12474
+301 41 3424
+404 2428 1241484
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 0
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 173
+/nikkei.com/puyo2/puyo2/smt.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/www/avocado.html 1 -
+/nikkei.com/article/gallery.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/jspractice/avocado.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/diary.html 1 -
+/nikkei.com/article/movie.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/www/avocado.html 1 -
+/mt/mt-atom.cgi 1 yahoo.com
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/www/movie.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/www/movie.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/video.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/www/about.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/jspractice/avocado.html 1 -
+/nikkei.com/article/puyo2/puyo2/jspractice/smt.html 1 -
+/link.html 1 -
+/nikkei.com/puyo2/movie.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/jspractice/avocado.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/link.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/smt.html 1 -
+/nikkei.com/jspractice/omikuji.html 1 -
+/nikkei.com/avocado.html 1 -
+/nikkei.com/article/link.html 1 -
+/nikkei.com/jspractice/about.html 1 -
+/nikkei.com/puyo2/puyo2/link.html 1 -
+/wp-login.php 3 -
+/nikkei.com/article/jspractice/index.html 1 -
+/nikkei.com/article/about.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/www/about.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/www/about.html 1 -
+/nikkei.com/aboutsite.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/puyo2/english.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/www/smt.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/test.html 1 -
+/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/www/movie.html 1 -
+/nikkei.com/puyo2/jspractice/about.html 1 -
+/nikkei.com/puyo2/puyo2/music.html 1 -
+/blog/mt-atom.cgi 1 yahoo.com
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/test.html 1 -
+/jspractice/avocado.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/www/smt.html 1 -
+/nikkei.com/puyo2/puyo2/www/smt.html 1 -
+/index.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/www/puyoforlaptop.html 1 -
+/nikkei.com/article/puyo2/puyo2/diary.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/jspractice/english.html 1 -
+/nikkei.com/article/avocado.html 1 -
+/cgi/mt-atom.cgi 1 yahoo.com
+/nikkei.com/article/puyo2/smt.html 1 -
+/nikkei.com/puyo2/puyo2/movie.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/diary.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/aboutsite.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/www/movie.html 1 -
+/nikkei.com/article/puyo2/www/avocado.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/www/english.html 1 -
+/cms/mt-atom.cgi 1 yahoo.com
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/www/english.html 1 -
+/MT/mt-atom.cgi 1 yahoo.com
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/smt.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/aboutsite.html 1 -
+/nikkei.com/article/puyo2/puyo2/avocado.html 1 -
+/cgi-bin/mt-atom.cgi 1 yahoo.com
+/cgi-bin/mt/mt-atom.cgi 1 yahoo.com
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/test.html 1 -
+/mtos/mt-atom.cgi 1 yahoo.com
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/avocado.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/jspractice/english.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/jspractice/movie.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/movie.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/diary.html 1 -
+/nikkei.com/puyo2/puyo2/www/english.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/jspractice/omikuji.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/puyo2/about.html 1 -
+/nikkei.com/article/puyo2/www/puyoforlaptop.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/www/smt.html 1 -
+/nikkei.com/puyo2/www/smt.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/jspractice/index.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/www/movie.html 1 -
+/robots.txt 37 -
+/2018京都 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/puyo2/index.html 1 -
+/alfacgiapi/perl.alfa 1 www.google.com
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/puyo2/test.html 1 -
+/jspractice/smt.php 1 -
+/nikkei.com/puyo2/puyo2/puyo2/about.html 1 -
+/nikkei.com/about.html 1 -
+/nikkei.com/article/puyo2/puyo2/english.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/index.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/about.html 1 -
+/nikkei.com/article/aboutsite.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/about.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/www/smt.html 1 -
+/nikkei.com/video.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/avocado.html 1 -
+/video.html 1 -
+/nikkei.com/puyo2/jspractice/movie.html 1 -
+/nikkei.com/article/DGXZQOUA1578F0V11C21A0000000/ 1 http://developershirai.com/
+/nikkei.com/article/puyo2/puyo2/puyo2/smt.html 1 -
+/nikkei.com/puyo2/puyo2/jspractice/smt.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/index.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/link.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/index.html 1 -
+/cgi-bin/MT/mt-atom.cgi 1 yahoo.com
+/nikkei.com/puyo2/puyo2/puyo2/www/about.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/avocado.html 1 -
+/js/app.js 2 -
+/nikkei.com/puyo2/about.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/index.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/jspractice/about.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/music.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/jspractice/english.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/music.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/about.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/jspractice/about.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/www/puyoforlaptop.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/puyo2/www/about.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/jspractice/movie.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/puyo2/diary.html 1 -
+/nikkei.com/puyo2/smt.html 1 -
+/nikkei.com/article/puyo2/puyo2/jspractice/omikuji.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/english.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/jspractice/index.html 1 -
+/mt-atom.cgi 1 yahoo.com
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/diary.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/jspractice/about.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/jspractice/omikuji.html 1 -
+/nikkei.com/puyo2/www/english.html 1 -
+/nikkei.com/article/puyo2/puyo2/www/avocado.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/diary.html 1 -
+/jspractice/diary.php 1 -
+/nikkei.com/article/DGXZQODZ29A510Z20C21A1000000/avocado.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/www/smt.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/english.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/avocado.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/puyo2/jspractice/avocado.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/www/about.html 1 -
+/nikkei.com/gallery.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/link.html 1 -
+/jspractice/index.php 2 http://developershirai.com/
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/gallery.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/jspractice/omikuji.html 1 -
+/.env 2 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/www/smt.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/about.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/music.html 1 -
+/nikkei.com/puyo2/puyo2/gallery.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/jspractice/smt.html 1 -
+/nikkei.com/puyo2/puyo2/index.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/link.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/index.html 1 -
+/nikkei.com/puyo2/puyo2/jspractice/movie.html 1 -
+/nikkei.com/article/puyo2/jspractice/smt.html 1 -
+/nikkei.com/article/puyo2/puyo2/www/movie.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/www/puyoforlaptop.html 1 -
+/nikkei.com/puyo2/puyo2/jspractice/avocado.html 1 -
+/nikkei.com/puyo2/test.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/jspractice/about.html 1 -
+/puyo2/www/puyoformobile.html 1 -
+/nikkei.com/jspractice/avocado.html 1 -
+/nikkei.com/puyo2/index.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/jspractice/smt.html 1 -
+/gallery.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/movie.html 1 -
+/nikkei.com/article/puyo2/puyo2/gallery.html 1 -
+/nikkei.com/article/puyo2/puyo2/puyo2/puyo2/jspractice/index.html 1 -
+/nikkei.com/puyo2/puyo2/video.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/www/english.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/www/puyoforlaptop.html 1 -
+/nikkei.com/puyo2/puyo2/english.html 1 -
+/nikkei.com/article/puyo2/puyo2/www/smt.html 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/www/puyoforlaptop.html 1 -
+/english-daily-memo.php 1 -
+/nikkei.com/puyo2/puyo2/puyo2/puyo2/puyo2/puyo2/gallery.html 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 290
+m106072135193.v4.enabler.ne.jp 4339 5105 508958269 20220124221716
+softbank126077208077.bbtec.net 1167 1495 187383752 20220112203427
+softbank060065097046.bbtec.net 1124 1351 110367758 20220115231545
+112-137-38-95.jcomnet.j-cnet.jp 1041 1239 60187928 20220130185204
+111.7.100.20 216 297 10308288 20220104163238
+111.7.100.25 76 220 85945889 20220104165148
+111.7.100.26 49 109 66740887 20220104162441
+om126034121001.18.openmobile.ne.jp 48 118 89949346 20220112131920
+111.7.100.27 37 172 8909413 20220104164047
+ec2-13-231-48-55.ap-northeast-1.compute.amazonaws.com 12 12 3889747 20220125162025
+167.71.4.78 1 1 26304 20220103043622
+ec2-34-219-84-254.us-west-2.compute.amazonaws.com 1 1 92693 20220130062936
+p648131-ipoe.ipoe.ocn.ne.jp 1 10 1538023 20220102125413
+rate-limited-proxy-72-14-199-187.google.com 0 12 403737 
+ec2-52-27-230-194.us-west-2.compute.amazonaws.com 1 1 91757 20220125103348
+ec2-35-89-12-241.us-west-2.compute.amazonaws.com 1 1 91950 20220127061910
+139.59.104.241 6 6 549442 20220119043511
+ec2-54-187-144-235.us-west-2.compute.amazonaws.com 1 1 655359 20220126152833
+57.194.178.107.gae.googleusercontent.com 0 2 115167 
+121.5.103.58 1 1 89634 20220106065444
+111.7.100.21 2 11 1045323 20220104162958
+ec2-54-201-179-78.us-west-2.compute.amazonaws.com 1 1 91187 20220118001024
+138.199.59.184 3 3 671612 20220127051357
+185.191.34.215 3 3 0 20220126183726
+194.44.247.218 1 1 646664 20220117072722
+ec2-34-208-36-205.us-west-2.compute.amazonaws.com 1 1 92230 20220129061327
+45.129.18.66 1 1 0 20220107164759
+static.232.55.161.5.clients.your-server.de 1 1 115167 20220103110721
+petalbot-114-119-128-202.petalsearch.com 2 4 0 20220131045059
+86.106.74.249 3 3 665822 20220121031826
+68.183.9.106 2 2 12511 20220102232036
+ec2-34-217-96-206.us-west-2.compute.amazonaws.com 2 2 182385 20220121063204
+rate-limited-proxy-72-14-199-182.google.com 0 17 701464 
+191.101.31.235 3 3 665978 20220119052537
+rate-limited-proxy-72-14-199-57.google.com 0 12 2741238 
+25.23.243.35.bc.googleusercontent.com 1 1 0 20220120221827
+ec2-52-37-29-95.us-west-2.compute.amazonaws.com 1 1 670215 20220126021416
+167.172.62.209 1 1 3759 20220103025439
+53.194.178.107.gae.googleusercontent.com 0 2 115167 
+170.83.176.4 1 1 3320 20220117175917
+tcn033011.tcn-catv.ne.jp 0 1 63422 
+ec2-16-170-170-85.eu-north-1.compute.amazonaws.com 1 1 0 20220105175254
+ec2-35-72-11-38.ap-northeast-1.compute.amazonaws.com 1 13 14999955 20220127135135
+151.106.8.45 3 3 683096 20220131064011
+msnbot-207-46-13-210.search.msn.com 0 2 52608 
+ec2-35-86-154-116.us-west-2.compute.amazonaws.com 1 1 92812 20220131061408
+ec2-35-88-194-91.us-west-2.compute.amazonaws.com 1 1 108599 20220115160021
+45.129.18.167 1 1 0 20220113030928
+40.84.44.240 6 6 3922110 20220125050803
+46-138-221-80.dynamic.spd-mgts.ru 2 2 25072 20220102162802
+ec2-35-72-184-186.ap-northeast-1.compute.amazonaws.com 2 25 24474175 20220113045146
+131.19.199.146.dyn.plus.net 1 1 670215 20220121004137
+google-proxy-66-249-82-72.google.com 0 1 6871 
+msnbot-207-46-13-22.search.msn.com 0 2 454 
+ec2-54-189-74-162.us-west-2.compute.amazonaws.com 1 1 92575 20220129062714
+static.219.53.161.5.clients.your-server.de 1 1 20628 20220102222104
+195-154-179-86.rev.poneytelecom.eu 1 1 90916 20220116144210
+ec2-35-160-130-182.us-west-2.compute.amazonaws.com 1 1 92264 20220127062216
+128.199.183.114 3 3 1954701 20220122221824
+crawler.turnitin.com 1 1 30053 20220102234437
+crawler-57.nicecrawler.com 4 26 2529054 20220125234543
+188.126.73.207 3 3 671290 20220125014423
+137.184.118.34 3 3 1952049 20220122130315
+ec2-54-190-1-113.us-west-2.compute.amazonaws.com 1 1 92575 20220129062726
+msnbot-207-46-13-5.search.msn.com 0 2 115394 
+ec2-54-185-207-196.us-west-2.compute.amazonaws.com 1 1 670215 20220116090548
+178.128.223.187 3 3 1977078 20220131191054
+146.70.8.14 3 3 1317919 20220126031308
+137.184.114.246 1 1 89657 20220102221859
+ec2-35-164-36-125.us-west-2.compute.amazonaws.com 0 1 780985 
+p5010133-ipoe.ipoe.ocn.ne.jp 1 10 674064 20220104202125
+111.7.100.24 1 1 18255 20220104165008
+msnbot-207-46-13-31.search.msn.com 0 3 19534 
+msnbot-207-46-13-183.search.msn.com 0 1 30910 
+static.76.54.161.5.clients.your-server.de 1 1 1943 20220103000331
+unn-84-17-60-185.cdn77.com 3 3 660227 20220114132820
+ec2-52-209-165-116.eu-west-1.compute.amazonaws.com 1 1 89961 20220109181152
+msnbot-157-55-39-172.search.msn.com 0 1 14805 
+107.170.96.6 1 1 90022 20220110142803
+google-proxy-66-102-6-119.google.com 0 3 37997 
+45.129.18.59 1 1 0 20220102170853
+unn-138-199-26-74.datapacket.com 3 3 670717 20220124120622
+37.120.235.170 3 3 645959 20220104093444
+108-81.119.185.ip.idealhosting.net.tr 7 7 161397 20220107151028
+fpb6aa7394.ap.nuro.jp 2 17 180425 20220114132149
+194.32.122.14 3 3 653171 20220112015154
+ec2-54-185-126-167.us-west-2.compute.amazonaws.com 1 1 92271 20220127061433
+128.199.101.122 3 3 1932036 20220114025947
+ec2-35-88-30-32.us-west-2.compute.amazonaws.com 1 1 92812 20220131062128
+ec2-52-34-91-71.us-west-2.compute.amazonaws.com 1 1 161106 20220102130232
+google-proxy-66-249-88-30.google.com 0 2 456873 
+msnbot-40-77-167-4.search.msn.com 0 1 3319 
+159.223.126.170 1 1 3999 20220103030129
+66.115.182.136 1 1 670215 20220121004137
+167.71.235.30 2 2 230334 20220121020811
+static.143.57.161.5.clients.your-server.de 1 1 13222 20220102214026
+92.118.160.1 1 1 658127 20220129195123
+ec2-52-39-69-229.us-west-2.compute.amazonaws.com 1 1 92146 20220126075900
+rate-limited-proxy-72-14-199-53.google.com 0 47 7336515 
+msnbot-207-46-13-138.search.msn.com 0 2 230334 
+unn-84-17-60-120.cdn77.com 3 3 665428 20220118030509
+ec2-52-35-90-4.us-west-2.compute.amazonaws.com 2 2 181016 20220113133812
+scanner-06.ch1.censys-scanner.com 4 4 366360 20220128221528
+106.55.250.60 1 1 89659 20220106023052
+cerebro-sdc-prod-103.kaspersky-labs.com 1 1 90041 20220110051608
+kd036013201010.ppp-bb.dion.ne.jp 0 1 5513 
+151.106.10.134 3 3 649799 20220107134456
+159.203.196.79 1 1 89863 20220108083223
+23.23.243.35.bc.googleusercontent.com 1 1 0 20220120215653
+kangaroo.digitalhostgroup.com 3 3 1952049 20220121225656
+ec2-54-202-52-81.us-west-2.compute.amazonaws.com 1 1 92457 20220131061222
+183.79.251.206 0 1 61908 
+165.227.19.27 2 2 180226 20220111231228
+205.169.39.25 7 135 5858503 20220120230240
+ec2-54-245-54-116.us-west-2.compute.amazonaws.com 1 1 91768 20220125103350
+msnbot-207-46-13-186.search.msn.com 0 3 62781 
+167.99.209.88 1 1 18336 20220103001150
+google-proxy-66-102-6-117.google.com 1 2 91477 20220115231437
+f170-enews.quiethyde.com 1 1 90209 20220108161559
+20.116.23.82 2 2 182666 20220122221555
+ec2-54-190-97-232.us-west-2.compute.amazonaws.com 1 1 92293 20220130061119
+ec2-54-190-43-8.us-west-2.compute.amazonaws.com 1 1 92812 20220131063304
+sp1-75-1-231.msc.spmode.ne.jp 1 3 184856 20220117211717
+rate-limited-proxy-72-14-199-55.google.com 0 32 5619973 
+143.198.227.232 3 3 1891536 20220105115903
+ec2-54-193-201-179.us-west-1.compute.amazonaws.com 1 1 90018 20220110112333
+ip36.ip-51-89-24.eu 1 206 7341583 20220120233758
+ec2-54-213-147-128.us-west-2.compute.amazonaws.com 1 1 92282 20220130061301
+38.18.37.120 1 1 89773 20220107175832
+167.172.62.245 1 1 41209 20220103170358
+159.223.103.240 2 2 1291544 20220115174953
+68.183.1.60 1 1 89258 20220102190935
+62-210-88-24.rev.poneytelecom.eu 1 1 89503 20220105131003
+185.85.162.242 3 3 650760 20220110115942
+93.158.91.251 1 1 89651 20220103021408
+121.5.145.96 1 1 90609 20220114042450
+137.184.37.190 1 1 8612 20220102223559
+fp83935f86.chbd119.ap.nuro.jp 0 5 458783 
+45.129.18.119 1 1 0 20220114182824
+msnbot-40-77-167-55.search.msn.com 0 1 4604 
+138.197.194.139 1 1 115167 20220121020656
+ec2-44-240-40-121.us-west-2.compute.amazonaws.com 1 1 91768 20220126074629
+193.43.118.110 1 1 3319 20220107124957
+128.199.2.131 3 3 1977078 20220131223558
+ec2-54-201-255-26.us-west-2.compute.amazonaws.com 1 1 92264 20220127062538
+ec2-54-187-83-123.us-west-2.compute.amazonaws.com 1 1 102133 20220124123308
+45.151.144.12 1 1 651567 20220123113918
+146.70.8.6 3 3 670388 20220125144038
+unn-156-146-35-48.cdn77.com 3 3 678214 20220126004509
+83.142.55.195 1 1 115167 20220115130936
+ec2-18-237-232-182.us-west-2.compute.amazonaws.com 1 1 92230 20220129061325
+21.23.243.35.bc.googleusercontent.com 2 2 229849 20220120221827
+204.101.161.67 4 25 2072304 20220124221505
+ec2-54-187-48-125.us-west-2.compute.amazonaws.com 1 1 92272 20220128064955
+static.185.181.60.189.terrahost.no 1 1 90209 20220107192925
+2.57.122.50 3 3 276152 20220126141958
+ec2-54-70-234-51.us-west-2.compute.amazonaws.com 1 1 670215 20220103155737
+ec2-34-209-238-228.us-west-2.compute.amazonaws.com 1 1 91757 20220126075543
+google-proxy-66-249-82-77.google.com 1 1 91250 20220115231437
+143.198.57.156 2 2 1257450 20220103115818
+ip239.ip-144-217-233.net 4 26 2502392 20220120200133
+45.129.18.58 1 1 0 20220121005303
+ec2-52-12-218-83.us-west-2.compute.amazonaws.com 0 1 727 
+20.65.92.206 6 6 3909402 20220123082533
+45.129.18.84 1 1 0 20220111110556
+92.118.160.61.netsystemsresearch.com 2 2 1281646 20220117153059
+193.43.118.181 1 1 3319 20220111053844
+217.138.217.57 3 3 1974381 20220129224622
+68.183.13.38 2 2 35319 20220103025043
+93.158.92.233 1 1 90761 20220115015638
+crawl-149-56-150-167.dataproviderbot.com 12 13 2781311 20220121210519
+google-proxy-66-102-8-41.google.com 0 1 43356 
+45.148.234.116 1 1 115167 20220117115422
+ec2-52-43-156-11.us-west-2.compute.amazonaws.com 1 1 92812 20220131063202
+ec2-54-245-162-12.us-west-2.compute.amazonaws.com 1 1 92812 20220131061805
+103-14-143-67.ip.cis.gen.nz 2 41 3241989 20220120233012
+102.89.2.189 1 1 8612 20220107081650
+151.106.11.183 3 3 672426 20220128092624
+unn-84-17-60-182.cdn77.com 3 3 672493 20220127044419
+msnbot-40-77-167-53.search.msn.com 0 1 14805 
+137.184.37.173 1 1 30053 20220102233849
+45.129.18.160 1 1 0 20220129043415
+191.101.217.144 3 3 673554 20220127105814
+unn-156-146-34-21.cdn77.com 1 1 670215 20220121004137
+167.172.62.216 1 1 1804 20220102213744
+133-32-232-34.west.xps.vectant.ne.jp 4 23 265518 20220122231613
+191.101.105.201 2 2 93077 20220107125003
+ec2-52-27-181-238.us-west-2.compute.amazonaws.com 1 1 92693 20220130061546
+138.199.56.247 3 3 671582 20220127211347
+unn-84-17-60-125.cdn77.com 3 3 652711 20220111104828
+sp49-98-131-228.msd.spmode.ne.jp 4 26 2407588 20220127134025
+ec2-18-236-147-113.us-west-2.compute.amazonaws.com 1 1 92271 20220127063101
+static.45.206.21.65.clients.your-server.de 1 1 91768 20220125140006
+2.58.149.253 4 4 184533 20220108224341
+srv01.blackbitrix.ru 1 1 90761 20220115113119
+159.223.8.243 1 1 4604 20220102210343
+msnbot-157-55-39-55.search.msn.com 0 1 115167 
+45.129.18.21 1 1 0 20220104105956
+ec2-34-222-136-250.us-west-2.compute.amazonaws.com 1 1 92446 20220131060534
+46.101.137.163 1 1 91532 20220123141551
+159.223.126.26 1 1 6130 20220102233654
+146.70.8.12 3 3 669902 20220124094254
+42.83.147.34 4 4 362785 20220126033029
+204.11.225.117 1 1 91187 20220118054648
+www2.netping.com 1 1 0 20220103191033
+93.158.92.199 1 1 91959 20220127232708
+netblock-208-127-164-93.dslextreme.com 0 1 35319 
+ec2-54-84-210-135.compute-1.amazonaws.com 2 2 184216 20220128102112
+ec2-54-202-240-151.us-west-2.compute.amazonaws.com 2 2 182692 20220123061053
+static.46.206.21.65.clients.your-server.de 1 1 91184 20220117190830
+217.138.217.58 3 3 1977078 20220131181746
+petalbot-114-119-128-27.petalsearch.com 1 2 89750 20220107171948
+unn-143-244-45-132.datapacket.com 3 3 1974381 20220130085616
+ec2-35-166-193-12.us-west-2.compute.amazonaws.com 1 1 91939 20220127131711
+fm-dyn-111-95-41-99.fast.net.id 0 1 14885 
+158.224.201.35.bc.googleusercontent.com 1 1 91344 20220122231541
+msnbot-157-55-39-67.search.msn.com 0 2 136094 
+137.184.37.203 1 1 89298 20220102195609
+ec2-54-148-182-246.us-west-2.compute.amazonaws.com 1 1 91940 20220128062404
+rate-limited-proxy-72-14-199-51.google.com 0 86 8597225 
+92.118.160.17.netsystemsresearch.com 2 2 1281646 20220117075415
+111.7.100.23 1 1 4604 20220104162829
+cerebro-ldc-prod-102.kaspersky-labs.com 1 1 91534 20220124055430
+ec2-54-202-158-117.us-west-2.compute.amazonaws.com 1 1 92812 20220131061340
+20.124.229.81 1 1 88917 20220101081347
+ec2-54-201-19-113.us-west-2.compute.amazonaws.com 2 2 182710 20220122064747
+167.172.62.255 2 2 55783 20220103044326
+msnbot-157-55-39-167.search.msn.com 0 2 136094 
+ec2-52-37-250-252.us-west-2.compute.amazonaws.com 0 1 306 
+106.75.225.174 1 1 90209 20220112165709
+92.118.160.41.netsystemsresearch.com 1 1 650683 20220122023804
+ec2-34-217-122-110.us-west-2.compute.amazonaws.com 1 1 92575 20220129061348
+unn-156-146-35-13.cdn77.com 3 3 672070 20220126123639
+45.129.18.192 1 1 0 20220116222902
+92.118.160.57.netsystemsresearch.com 1 1 651567 20220122180319
+65.154.226.220 8 145 6011725 20220122065308
+212.119.47.178 1 1 115167 20220118104317
+65.155.30.101 7 135 5858018 20220120231656
+ec2-54-187-134-214.us-west-2.compute.amazonaws.com 1 1 91768 20220126062622
+ec2-34-214-209-135.us-west-2.compute.amazonaws.com 0 1 211 
+175.188.245.35.bc.googleusercontent.com 1 1 631393 20220105185458
+59-171-192-10.rev.home.ne.jp 0 1 81327 
+92.118.160.9.netsystemsresearch.com 1 1 627831 20220102043201
+191.96.168.110 3 3 669608 20220126005849
+ec2-34-214-141-206.us-west-2.compute.amazonaws.com 1 1 92219 20220129070027
+55.194.178.107.gae.googleusercontent.com 0 2 115167 
+static.81.57.161.5.clients.your-server.de 1 1 27703 20220102224123
+134.122.98.218 2 2 179499 20220107075156
+20.102.84.147 2 2 182878 20220121211221
+20.83.148.119 2 2 1307370 20220126043646
+20.151.207.220 2 2 1318052 20220131182200
+174.138.18.105 3 3 1896867 20220106205407
+msnbot-40-77-167-61.search.msn.com 0 1 20927 
+144.168.166.253 2 2 93825 20220111053846
+softbank060109047232.bbtec.net 0 1 76245 
+46.148.206.226 4 4 687006 20220127070043
+167.94.138.113 1 1 89961 20220109071203
+sp1-72-8-111.msc.spmode.ne.jp 1 3 336317 20220112191651
+137.184.42.156 1 1 3868 20220102223353
+107-172-225-31-host.colocrossing.com 2 2 94480 20220117175919
+ec2-34-222-227-169.us-west-2.compute.amazonaws.com 1 1 92271 20220127062624
+176.74.192.85 1 1 91559 20220121113857
+111.7.100.22 1 1 6130 20220104164910
+undefine.inidc.com.cn 1 1 89940 20220109025525
+61.147.15.67 3 3 269451 20220113182613
+unn-84-17-60-187.cdn77.com 3 3 676644 20220131021210
+20.96.4.12 4 4 2590544 20220118040041
+194.32.122.8 3 3 653264 20220111101458
+154.62.50.132 6 6 3954156 20220131123417
+43.135.170.199 1 1 89915 20220107042944
+92.118.160.1.netsystemsresearch.com 1 1 628725 20220103102212
+191.101.217.125 3 3 670227 20220117071431
+unn-138-199-36-136.datapacket.com 3 3 678230 20220125101055
+ec2-34-212-106-246.us-west-2.compute.amazonaws.com 1 1 670215 20220126021406
+msnbot-207-46-13-61.search.msn.com 0 3 38437 
+google-proxy-66-102-6-121.google.com 0 1 154 
+rate-limited-proxy-72-14-199-177.google.com 1 46 1977888 20220124062411
+151.106.10.132 3 3 662185 20220114072730
+customer-187-217-236-78.uninet-ide.com.mx 0 1 14885 
+159.223.0.148 1 1 6702 20220103031250
+163.43.136.68 0 1 91818 
+191.101.217.31 1 1 670215 20220121004137
+36.150.60.24 9 9 811936 20220112181722
+ec2-34-223-243-135.us-west-2.compute.amazonaws.com 1 1 228063 20220117074917
+msnbot-40-77-167-73.search.msn.com 0 2 100905 
+138.68.54.63 1 1 89375 20220104053300
+107.150.63.173 1 1 89642 20220106011608
+ns5004707.ip-192-99-18.net 12 24 418526 20220124135038
+ec2-44-241-63-227.us-west-2.compute.amazonaws.com 1 1 92146 20220126080717
+85.143.106.77 5 5 672210 20220111060533
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20220101 1071 1214 18815033 2
+20220102 24 52 3882527 22
+20220103 19 29 19252686 17
+20220104 391 832 174744171 14
+20220105 6 20 3002858 4
+20220106 37 173 17875687 8
+20220107 23 25 1726850 13
+20220108 4 5 348747 3
+20220109 6 12 632194 5
+20220110 8 9 2205610 6
+20220111 19 22 2581355 9
+20220112 1228 1647 346999261 8
+20220113 5 16 31112110 4
+20220114 14 84 5768346 7
+20220115 1139 1370 138063123 10
+20220116 4 12 1079475 4
+20220117 15 29 4353859 11
+20220118 10 74 18536934 5
+20220119 13 54 8961051 6
+20220120 27 559 25723904 9
+20220121 101 176 54489930 17
+20220122 25 184 12039359 9
+20220123 4203 4756 488615695 7
+20220124 28 69 4638248 10
+20220125 28 54 8841398 9
+20220126 27 33 7579001 16
+20220127 30 68 35913394 16
+20220128 10 24 1781658 6
+20220129 11 13 3417246 9
+20220130 8 55 4533638 6
+20220131 32 44 13772327 17
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 1
+5mn-15mn 7
+2mn-5mn 8
+15mn-30mn 4
+30s-2mn 9
+0s-30s 258
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 102
+/gallery2/2021年日常/resize/favorite 2863 39142346 0 0
+/gallery2/2012年 880 10691449 0 0
+/gallery2/2011年 733 8357734 0 0
+/gallery2/和田堀公園/resize/和田堀公園 541 8560351 0 0
+/gallery2/2013年 538 6240852 0 0
+/gallery2/2013-11青森/2013-11青森small/2013-11 522 6281041 0 0
+/gallery2/2013年2月 443 5542326 0 0
+/ 306 91333038 214 165
+/gallery2/2020-1129 243 4085483 0 0
+/gallery2/2013年9月18日 235 3252388 0 0
+/gallery/diary/2020-07-07 4 381604 0 0
+/puyo2/www/puyoforlaptop.php 2 4644 1 1
+/gallery/avocado/avo20210710 9 966063 0 0
+/gallery/avocado/avo20210626 8 725620 0 0
+/portfolio1/portfolio1.html 3 5412 1 1
+/gallery2/2021ǯ日常/resize/favorite 1 12843 0 0
+/gallery/コメント 18 3308724 0 2
+/gallery/avocado/avo20210529 8 712132 0 1
+/link.php 1 6059 0 0
+/puyo2/www/puyoformobile.php 4 7464 0 0
+/gallery/diary/シリコンスチーマー 24 2500744 0 0
+/gallery/diary/diary20210228/4in1 39 91140258 2 2
+/wp/wp-content/themes/cocoon-master/webfonts/icomoon/fonts/icomoon.ttf 3 37500 0 1
+/gallery2/2021年11月 139 2238933 0 0
+/avocado.php 11 370335 3 3
+/wp/wp-json/wp/v2/users 1 652 0 0
+/wp/テスト+今-日-の-ね-こ-ち-ゃ-ん-お-み-く-じ/ 1 15951 0 0
+/smt.php 6 268398 1 1
+/gallery/techimg/Inkedリスト変更前スクリーンショット 3 131106 0 1
+/gallery2/2021井の頭公園/resize/井の頭公園 187 2927942 0 1
+/gallery/techimg/PHP現在nichiji 3 271107 0 0
+/about.php 9 98003 4 3
+/gallery/avocado/avo20210718 7 694645 0 0
+/gallery/smart/smt20210123 15 562176 0 0
+/confirm.php 24 155827 0 23
+/js/lightgallery/fonts/lg.ttf 2 8864 0 0
+/gallery/avocado/avo20210424 8 705352 0 0
+/gallery/avocado/avo20220121 9 520480 0 0
+/wp/home/ 1 14390 0 0
+/gallery/techimg/20210214/AddSitemap 3 183057 0 0
+/gallery.php 15 563058 2 2
+/contact.php 48 472370 5 13
+/wp/wp-content/themes/cocoon-master/lib/analytics/access.php 4 0 0 1
+/gallery/avocado/avo20210807 6 543188 0 0
+/gallery/techimg/スクロールバー変更CSS 3 181728 0 0
+/gallery/avocado/avo20210724 6 639532 0 1
+/janken.php 1 3999 1 1
+/gallery/avocado/avo20210501 8 599796 0 0
+/gallery/avocado/avo20210401 8 660804 0 0
+/movie.php 12 500449 3 4
+/video.php 2 18382 0 1
+/gallery/avocado/avo20210522 12 1107604 0 0
+/gallery/avocado/avo20211003 6 589020 0 0
+/diary.php 9 395616 3 1
+/gallery/smart/smt20200704 12 436446 0 0
+/gallery/avocado/avo20210703 12 1086532 0 0
+/gallery2/2021年日常/favorite 123 418424576 0 2
+/gallery2/2021年3月25日新宿御苑/resize/20210326新宿御苑桜 91 1451220 0 0
+/jspractice/nekochan.php 1 3868 1 1
+/gallery/diary/kiyytpen 4 631892 0 0
+/gallery/diary/Photos/餃子 8 935396 0 0
+/gallery/avocado/avo20210822 6 694154 0 0
+/google8e5591913ca5a3f4.html 1 53 1 1
+/gallery/ナ豕哀薀jpg 1 0 0 0
+/gallery/avocado/avo20210619 8 857724 0 0
+/gallery/avocado/shirahyu-avocado20200602 4 483240 0 0
+/wp/author/developershirai/ 1 13329 0 1
+/gallery/techimg/Inkedスクロールバー変更後スクリーンショット 3 131565 0 2
+/wp/about/ 2 28050 0 0
+/english-memo.php 4 251265 4 4
+/wp/ 8 105776 4 2
+/gallery/diary/diary20210428/diary20210428 16 1164480 0 0
+/error/404.php 1 3759 1 1
+/gallery/avocado/avo20210415 8 773304 0 0
+/wp/photo/ 1 14010 0 0
+/gallery/visual 18 3419118 0 0
+/wp/wp-login.php 5 14463 1 1
+/gallery/avocado/avo20210604 8 715436 0 0
+/music.php 1 14805 1 1
+/gallery2/2021年3月25日新宿御苑/20210326新宿御苑桜 48 138182319 0 1
+/jspractice/work.php 4 40405 2 2
+/gallery/avocado/avo20210315 8 784812 0 0
+/test.php 2 4888 0 2
+/gallery/avocado/avo20210515 8 677108 0 0
+/jspractice/omikuji.php 2 3886 1 1
+/aboutsite.php 9 51825 3 4
+/questionnaire.php 1 6702 1 1
+/english.php 4 187511 2 2
+/gallery/avocado/avo20210216 8 752004 0 0
+/technical-diary.php 27 7318589 22 19
+/privacy-policy.php 1 11795 0 0
+/gallery/diary/2020-06-06 4 564916 0 0
+/english-daily-conversation.php 5 392899 5 5
+/gallery/FTTTP 18 506880 0 6
+/gallery/avocado/avo20210612 8 743644 0 0
+/gallery/diary/shareholder 16 903540 0 0
+/gallery/smart/smt20210212 18 656508 0 0
+/gallery/avocado/avo20210508 8 777028 0 0
+/gallery/diary/applejelly 16 1709612 0 0
+/gallery/smart/smt2020515 3 166677 0 1
+/gallery/techimg/Inkedスクロールバー変更前スクリーンショット 3 128505 0 0
+/gallery2/2012ǯ 1 13582 0 0
+END_SIDER

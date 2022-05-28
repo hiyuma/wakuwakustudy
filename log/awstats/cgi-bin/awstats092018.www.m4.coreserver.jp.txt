@@ -1,0 +1,403 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201809 will be lost/reset.
+# Last config file used to build this data file was /virtual/www/public_html/log/awstats/cgi-bin/awstats.www.m4.coreserver.jp.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2105                
+POS_TIME 2776                
+POS_VISITOR 8056                
+POS_DAY 10607               
+POS_DOMAIN 3680                
+POS_LOGIN 3980                
+POS_ROBOT 4135                
+POS_WORMS 4900                
+POS_EMAILSENDER 5031                
+POS_EMAILRECEIVER 5174                
+POS_SESSION 11356               
+POS_SIDER 11564               
+POS_FILETYPES 5309                
+POS_DOWNLOADS 5532                
+POS_OS 5580                
+POS_BROWSER 5811                
+POS_SCREENSIZE 6185                
+POS_UNKNOWNREFERER 6259                
+POS_UNKNOWNREFERERBROWSER 6363                
+POS_ORIGIN 6462                
+POS_SEREFERRALS 6603                
+POS_PAGEREFS 6747                
+POS_SEARCHWORDS 7044                
+POS_KEYWORDS 7196                
+POS_MISC 2440                
+POS_ERRORS 7255                
+POS_CLUSTER 3836                
+POS_SIDER_403 7378                
+POS_SIDER_400 7505                
+POS_SIDER_404 7587                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20181001000027 1 0 6483991675340
+FirstTime 20180901031514
+LastTime 20180930234035
+LastUpdate 20181002044014 1 0 0 0 0
+TotalVisits 215                 
+TotalUnique 46                  
+MonthHostsKnown 32                  
+MonthHostsUnknown 14                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 6 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 7 37489 2723 2778 179191
+1 65 68 2013989 2726 2753 169738
+2 22 24 79434 2761 2806 192256
+3 16 16 58541 2674 2695 131590
+4 1 1 5356 2742 2753 187630
+5 2 2 10714 2672 2674 139944
+6 10 10 53573 2736 2757 191828
+7 12 12 59440 2735 2770 172626
+8 23 25 78356 2687 2725 156514
+9 30 32 151653 2717 2763 154286
+10 30 30 168483 2754 2789 203152
+11 27 27 111555 2798 2824 344421
+12 249 278 736198 2765 2803 228923
+13 19 19 126840 2718 2792 191013
+14 15 15 80355 2686 2750 136915
+15 21 21 154616 2723 2735 180016
+16 197 502 2655943 2775 2806 191033
+17 155 158 838576 2744 2766 151167
+18 101 174 1007642 2725 2763 169789
+19 33 34 165679 2709 2774 160182
+20 50 54 186471 2719 2756 198313
+21 151 151 648277 2666 2712 174616
+22 18 18 91760 2625 2684 162273
+23 15 15 80352 2643 2725 171696
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+jp 1226 1650 9347479
+ip 27 27 179887
+net 9 9 48204
+com 5 5 15010
+fr 1 1 5356
+eu 1 1 5356
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+Wget/ 64726 3678463 20180930235949 0
+MSIE[\x20]5 120 83640 20180930034900 0
+no_user_agent 88 24892 20180930220438 0
+YandexBot/ 26 13338 20180930183040 0
+bot[\s_+:,\.\;\/\\-] 26 18122 20180929125649 0
+favicon 25 57556 20180929135620 0
+Googlebot/ 23 60245 20180930031214 0
+bingbot/ 17 81892 20180927235818 0
+Apache\-HttpClient/ 7 37498 20180929213753 0
+SemrushBot/ 3 16067 20180921002049 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 697 20180909132514 0
+Sogou[\x20]web[\x20]spider/ 1 5357 20180909131425 0
+ICC\-Crawler/ 1 17887 20180908062037 0
+steeler 3 16068 20180925174547 0
+MJ12bot/ 2 18584 20180929070747 0
+netcraft 1 697 20180903021920 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 39 292697 0 0
+png 197 366170 0 0
+cgi 283 1639035 0 0
+php 976 4689553 0 0
+tif 5 810 0 0
+html 5 910 0 0
+js 121 2486561 0 0
+jpg 50 119820 0 0
+gif 17 5736 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+linuxandroid 1 1
+winxp 6 6
+macosx6 30 28
+ios_iphone 181 181
+winnt 2 2
+macosx12 4 4
+win7 857 446
+macosx 63 63
+macosx10 28 27
+Unknown 1 1
+win10 496 486
+ios_ipad 24 24
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 17
+safari11.0 50 50
+safari8.0.8 28 27
+chrome34.0.1847.131 1 1
+safari12.0 155 155
+chrome68.0.3440.106 152 122
+chrome69.0.3497.92 251 222
+firefox56.0 14 12
+msie8.0 8 8
+msie11.0 496 144
+mozilla 40 40
+msie7.0 1 1
+chrome50.0.2661.102 1 1
+chrome69.0.3497.100 462 454
+msie9.0 2 2
+safari5.1.9 30 28
+Unknown 1 1
+opera11.2.3.102637 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+\ 20180914210844
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+\ 20180914210844
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 335 335
+From1 0 0
+From2 0 0
+From3 29 29
+From4 905 1329
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+https://ss1.coressl.jp/www.m4.coreserver.jp/jp/admin.cgi 26 26
+https://mainte.value-domain.com 2 2
+https://mainte.value-domain.com/eventview.cgi 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 2 30
+302 141 0
+500 10 42795
+404 701 158384
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 1
+/mailr/ 2 http://www.m4.coreserver.jp/mailr/
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 5
+/apple-touch-icon-152x152.png 2 -
+/apple-touch-icon-precomposed.png 2 -
+/robots.txt 1 -
+/apple-touch-icon.png 2 -
+/apple-touch-icon-152x152-precomposed.png 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 46
+p1019197-ipngn200804fukuokachu.fukuoka.ocn.ne.jp 430 837 3855801 20180925185452
+p858159-ipbf504niigatani.niigata.ocn.ne.jp 240 243 928930 20180928214636
+p991163-ipngn200706kobeminato.hyogo.ocn.ne.jp 220 223 1120966 20180928181018
+cache1.coreserver.jp 190 190 1096116 20180930224733
+183.251.2.103.shared.user.transix.jp 41 41 219619 20180930234035
+p1042184-ipngn200810kyoto.kyoto.ocn.ne.jp 22 23 1812408 20180906011211
+p1033053-ipngn200809kyoto.kyoto.ocn.ne.jp 20 22 68610 20180912195049
+p1106166-omed01.osaka.ocn.ne.jp 13 13 41160 20180919125509
+sp1-75-10-161.msc.spmode.ne.jp 12 14 19438 20180915080310
+220x218x156x229.ap220.ftth.ucom.ne.jp 9 11 72633 20180927012821
+92.184.116.0 2 2 10712 20180929202114
+ns343855.ip-94-23-45.eu 1 1 5356 20180929164345
+57.190.1.29 1 1 5355 20180930032502
+uq036011224024.au-net.ne.jp 2 2 10714 20180924134721
+92.184.108.122 2 2 10720 20180927145506
+92.184.104.186 1 1 5356 20180925220012
+212.77.220.109 1 1 5355 20180930064740
+103.89.91.95 3 3 53661 20180920163122
+122-223-244-36.east.fdn.vectant.ne.jp 5 7 12403 20180920094509
+uq036011224226.au-net.ne.jp 3 3 16071 20180924222524
+92.184.112.232 1 1 5355 20180926021730
+kd027085206038.au-net.ne.jp 1 1 5357 20180907200115
+kd027093161208.au-net.ne.jp 1 1 5357 20180905193152
+103.89.90.83 2 2 17887 20180906150457
+jst-office-gw2.stream.co.jp 1 1 697 20180924225742
+uq036011225118.au-net.ne.jp 1 1 5354 20180918102215
+101.199.108.118 1 1 513 20180905073517
+167.98.102.106 3 3 16072 20180928145910
+kd027093162217.au-net.ne.jp 1 1 5356 20180910103723
+uq036011225185.au-net.ne.jp 1 1 5358 20180922175633
+kd106139011022.au-net.ne.jp 2 2 10716 20180916191150
+80.12.59.54 3 3 16068 20180928112329
+80.12.27.121 5 5 26780 20180929025211
+uq036011225135.au-net.ne.jp 1 1 5355 20180930211512
+p8fbd24cc.miygnt01.ap.so-net.ne.jp 7 9 12991 20180917205414
+kd027093160204.au-net.ne.jp 2 2 10713 20180904090517
+tru75-19-78-196-197-121.fbx.proxad.net 1 1 5356 20180929160534
+softbank221019034115.bbtec.net 8 8 42848 20180926164835
+ec2-54-185-85-155.us-west-2.compute.amazonaws.com 1 1 3002 20180905110821
+103.15.216.102 1 1 697 20180914202534
+lputeaux-657-1-252-145.w80-14.abo.wanadoo.fr 1 1 5356 20180929143100
+ec2-52-54-211-93.compute-1.amazonaws.com 2 2 6004 20180927014814
+ec2-34-214-188-65.us-west-2.compute.amazonaws.com 1 1 3002 20180928210016
+80.12.43.214 1 1 5356 20180925231110
+uq036011225031.au-net.ne.jp 1 1 5356 20180921183305
+ec2-54-218-108-178.us-west-2.compute.amazonaws.com 1 1 3002 20180904014326
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20180901 8 8 42848 6
+20180902 9 9 48231 6
+20180903 20 21 1822686 6
+20180904 25 25 103490 5
+20180905 24 24 90644 11
+20180906 25 25 120112 9
+20180907 9 9 48213 7
+20180908 8 8 42856 3
+20180909 17 17 125000 3
+20180910 9 9 48204 8
+20180911 17 18 78230 7
+20180912 206 512 2666966 5
+20180913 3 3 16074 3
+20180914 7 7 32839 4
+20180915 19 21 56923 7
+20180916 7 7 37506 7
+20180917 16 18 61195 10
+20180918 6 6 32124 6
+20180919 21 21 84008 5
+20180920 16 18 108928 8
+20180921 16 16 85696 11
+20180922 11 11 73522 7
+20180923 6 6 32136 6
+20180924 10 10 48910 9
+20180925 276 379 1388973 10
+20180926 9 9 48195 5
+20180927 47 49 266583 11
+20180928 404 409 1893799 13
+20180929 11 11 58916 10
+20180930 7 7 37485 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 3
+5mn-15mn 5
+0s-30s 176
+15mn-30mn 7
+2mn-5mn 2
+30s-2mn 9
+30mn-1h 13
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 18
+/mail/src/right_main.php 298 3097531 0 9
+/jp/admin.cgi 283 1639035 188 188
+/mailr/ 269 353299 0 3
+/mail/src/read_body.php 171 687428 0 0
+/mail/src/left_main.php 72 104498 0 1
+/mail/src/search.php 55 304255 0 0
+/mail/src/webmail.php 53 12932 13 0
+/mail/src/login.php 14 27052 11 5
+/mail/plugins/newmail/newmail.php 14 13327 0 2
+/mail/src/signout.php 13 5928 0 2
+/ 3 1907 3 3
+/mail/src/view_text.php 2 6384 0 0
+/mailr/skins/larry/watermark.html 5 910 0 0
+/mail/src/compose.php 7 16759 0 1
+/mailr/program/resources/blank.tif 5 810 0 0
+/mail/src/download.php 1 51609 0 1
+/mail/src/move_messages.php 3 3868 0 0
+/mail/src/addressbook.php 1 2776 0 0
+END_SIDER

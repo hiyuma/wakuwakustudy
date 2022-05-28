@@ -1,0 +1,385 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201805 will be lost/reset.
+# Last config file used to build this data file was /virtual/www/public_html/log/awstats/cgi-bin/awstats.www.m4.coreserver.jp.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2105                
+POS_TIME 2776                
+POS_VISITOR 8213                
+POS_DAY 10267               
+POS_DOMAIN 3678                
+POS_LOGIN 3948                
+POS_ROBOT 4103                
+POS_WORMS 4840                
+POS_EMAILSENDER 4971                
+POS_EMAILRECEIVER 5114                
+POS_SESSION 11059               
+POS_SIDER 11268               
+POS_FILETYPES 5249                
+POS_DOWNLOADS 5464                
+POS_OS 5512                
+POS_BROWSER 5715                
+POS_SCREENSIZE 6032                
+POS_UNKNOWNREFERER 6106                
+POS_UNKNOWNREFERERBROWSER 6210                
+POS_ORIGIN 6309                
+POS_SEREFERRALS 6452                
+POS_PAGEREFS 6596                
+POS_SEARCHWORDS 7257                
+POS_KEYWORDS 7409                
+POS_MISC 2440                
+POS_ERRORS 7468                
+POS_CLUSTER 3804                
+POS_SIDER_403 7580                
+POS_SIDER_400 7662                
+POS_SIDER_404 7744                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180601000025 1 0 8061948911203
+FirstTime 20180501000702
+LastTime 20180531225056
+LastUpdate 20180602045031 1 0 0 0 0
+TotalVisits 252                 
+TotalUnique 33                  
+MonthHostsKnown 32                  
+MonthHostsUnknown 1                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 1 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 88 88 273131 2823 2902 166230
+1 85 87 1895407 2819 2876 237417
+2 40 41 139771 2798 2860 156432
+3 1 1 5356 2815 2828 161582
+4 0 0 0 2794 2795 164768
+5 0 0 0 2813 2814 147910
+6 3 3 16073 2790 2803 161825
+7 12 12 64275 2819 2820 167083
+8 18 18 96417 2822 2834 165252
+9 28 28 139271 2832 2846 233210
+10 68 70 211705 2810 2827 199913
+11 78 81 228537 2889 2912 263873
+12 112 113 346543 2857 2872 257844
+13 197 206 615254 2918 2943 234922
+14 110 113 4158434 2848 2862 206497
+15 195 195 802284 2937 2950 186765
+16 173 173 798639 2951 2958 188390
+17 135 136 557168 2840 2840 140903
+18 83 91 169416 2808 2821 163206
+19 54 55 152210 2843 2856 185352
+20 114 144 585570 2804 2838 171908
+21 40 40 147365 2801 2839 166323
+22 43 43 164841 2826 2843 175477
+23 45 45 141932 2828 2844 174968
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+jp 1708 1769 11676064
+com 11 11 33022
+net 2 2 0
+ip 1 1 513
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+Wget/ 67066 3772244 20180531235947 0
+Python\-urllib/ 176 122672 20180531190656 0
+MSIE[\x20]5 144 100368 20180531224038 0
+no_user_agent 141 33266 20180531174805 0
+favicon 40 111705 20180530102453 0
+YandexBot/ 35 41967 20180530223826 0
+Googlebot/ 17 47472 20180531161747 0
+bingbot/ 6 9998 20180531151757 0
+MSIE[\x20]6 5 41411 20180506165118 0
+python 4 2052 20180531195137 0
+SemrushBot/ 2 10713 20180525093117 0
+PhantomJS 2 1210 20180510031703 0
+Apache\-HttpClient/ 1 5355 20180531130345 0
+steeler 1 5357 20180513200740 0
+Google[\x20]Web[\x20]Preview 1 4849 20180511114359 0
+netcraft 1 697 20180504204503 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 3 21061 0 0
+png 45 105836 0 0
+cgi 319 1732493 0 0
+php 1401 9667985 0 0
+tif 1 270 0 0
+html 1 182 0 0
+js 8 150238 0 0
+jpg 4 30100 0 0
+gif 1 1434 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+macosx6 50 48
+winxp 11 11
+ios_iphone 143 143
+linux 4 4
+win7 854 830
+macosx 169 139
+Unknown 61 61
+win10 464 460
+win8.1 3 2
+ios_ipad 24 24
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 14
+msie8.0 11 11
+opera42.0.2393.94 2 2
+msie11.0 738 718
+safari11.0 167 167
+mozilla 61 61
+chrome66.0.3359.139 451 448
+firefox59.0 155 123
+safari11.1.1 8 8
+chrome66.0.3359.181 59 58
+safari5.1.9 50 48
+chrome46.0.2490.71 1 1
+Unknown 61 61
+firefox56.0 15 12
+firefox47.0 4 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+\ 20180531145911
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+\ 20180531145911
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 456 456
+From1 0 0
+From2 0 0
+From3 74 105
+From4 1192 1222
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 7
+https://ss1.coressl.jp/www.m4.coreserver.jp/mailr/ 68 70
+https://ss1.coressl.jp/www.m4.coreserver.jp/jp/admin.cgi 5 5
+https://ss1.coressl.jp/www.m4.coreserver.jp/mailr/index.php 1 21
+https://ss1.coressl.jp/www.m4.coreserver.jp/mail/src/login.php 0 1
+https://ss1.coressl.jp/www.m4.coreserver.jp/mailr/skins/larry/styles.css 0 4
+https://ss1.coressl.jp/www.m4.coreserver.jp/mailr/plugins/jqueryui/themes/larry/jquery-ui-1.9.1.custom.css 0 3
+https://ss1.coressl.jp/www.m4.coreserver.jp/mailr/skins/larry/mail.css 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 436 0
+500 7 85084
+404 358 80480
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 0
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 5
+/apple-touch-icon-152x152.png 2 -
+/apple-touch-icon-precomposed.png 2 -
+/robots.txt 3 -
+/apple-touch-icon.png 2 -
+/apple-touch-icon-152x152-precomposed.png 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 33
+sp49-98-168-214.msd.spmode.ne.jp 622 625 6236505 20180506150552
+p858159-ipbf504niigatani.niigata.ocn.ne.jp 433 434 1105108 20180522110406
+cache1.coreserver.jp 330 361 1836601 20180531225056
+p181067-ipngn200705fukuokachu.fukuoka.ocn.ne.jp 129 141 177802 20180521132905
+p1678019-omed01.tokyo.ocn.ne.jp 48 50 1807980 20180527003847
+81.251.2.103.shared.user.transix.jp 29 29 155338 20180531024322
+p1441044-ipngn200809fukuokachu.fukuoka.ocn.ne.jp 27 29 49019 20180509133805
+p1109125-ipngn200807fukuokachu.fukuoka.ocn.ne.jp 25 25 55725 20180511105501
+118-106-193-228.gifu1.commufa.jp 13 13 87533 20180513162946
+p1250105-ipngn201004fukuokachu.fukuoka.ocn.ne.jp 11 14 22765 20180530135848
+kd106139007100.au-net.ne.jp 1 1 5356 20180504214812
+150-70-188-170.trendmicro.com 1 1 3002 20180522110523
+sp1-75-3-186.msc.spmode.ne.jp 10 11 16955 20180514141239
+150-70-188-168.trendmicro.com 2 2 6004 20180505124516
+kd106139004119.au-net.ne.jp 1 1 5358 20180507200745
+150-70-188-165.trendmicro.com 2 2 6004 20180519231909
+p185141-ipngn200705fukuokachu.fukuoka.ocn.ne.jp 9 13 15553 20180522132712
+kd106139010090.au-net.ne.jp 1 1 5356 20180502131133
+kd106139010010.au-net.ne.jp 3 3 16071 20180512195902
+st0379.nas811.p-tokyo.nttpc.ne.jp 5 5 40771 20180502130756
+ec2-34-217-2-17.us-west-2.compute.amazonaws.com 1 1 3002 20180510003808
+ec2-54-165-156-249.compute-1.amazonaws.com 1 1 3002 20180521010105
+h106-73.fcsrv.net 2 2 0 20180518093433
+ec2-18-236-155-116.us-west-2.compute.amazonaws.com 1 1 3002 20180514144913
+kd106139012208.au-net.ne.jp 2 2 10714 20180521140839
+ec2-50-112-194-65.us-west-2.compute.amazonaws.com 1 1 3002 20180502014621
+kd027085206228.au-net.ne.jp 1 1 5357 20180516112824
+sp1-75-242-248.msb.spmode.ne.jp 6 8 9482 20180511111651
+150-70-188-176.trendmicro.com 1 1 3002 20180518002033
+kd106139009243.au-net.ne.jp 1 1 5358 20180511215816
+195.211.103.245 1 1 513 20180521010355
+kd027085206090.au-net.ne.jp 1 1 5357 20180525124640
+150-70-188-166.trendmicro.com 1 1 3002 20180511165426
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20180501 30 30 66124 5
+20180502 608 612 2472502 13
+20180503 21 21 88007 9
+20180504 12 12 64272 11
+20180505 31 31 123402 7
+20180506 76 76 4041577 8
+20180507 29 29 125504 11
+20180508 11 11 58905 7
+20180509 36 38 97223 7
+20180510 59 60 1855812 12
+20180511 89 91 209891 11
+20180512 85 115 487671 8
+20180513 17 17 108961 5
+20180514 169 170 382292 9
+20180515 39 39 99062 8
+20180516 5 5 26785 5
+20180517 67 77 124685 7
+20180518 88 91 208643 10
+20180519 31 31 129124 8
+20180520 15 15 58032 6
+20180521 56 57 188974 14
+20180522 25 29 79977 8
+20180523 10 10 53550 5
+20180524 8 8 42848 6
+20180525 5 5 26785 4
+20180526 14 14 74998 10
+20180527 19 19 87693 9
+20180528 15 15 80340 8
+20180529 5 5 26785 4
+20180530 21 24 76335 9
+20180531 26 26 142840 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 11
+5mn-15mn 7
+0s-30s 205
+30s-2mn 8
+15mn-30mn 6
+2mn-5mn 2
+30mn-1h 13
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 17
+/mail/src/right_main.php 690 4596482 0 13
+/jp/admin.cgi 319 1732493 206 206
+/mail/src/left_main.php 294 509461 3 7
+/mail/plugins/newmail/newmail.php 128 121783 0 8
+/mail/src/read_body.php 82 321242 0 2
+/mailr/ 68 147586 1 1
+/mail/src/webmail.php 60 19894 15 2
+/mail/src/compose.php 34 100436 0 0
+/mail/src/login.php 28 55768 26 12
+/mail/src/options.php 5 16267 0 0
+/ 1 513 1 1
+/mail/src/image.php 2 2570 0 0
+/mail/src/folders.php 1 3253 0 0
+/mail/src/redirect.php 3 3075 0 0
+/mailr/skins/larry/watermark.html 1 182 0 0
+/mailr/program/resources/blank.tif 1 270 0 0
+/mail/src/download.php 5 3769655 0 0
+END_SIDER

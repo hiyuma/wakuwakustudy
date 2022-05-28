@@ -1,0 +1,375 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201910 will be lost/reset.
+# Last config file used to build this data file was /virtual/www/public_html/log/awstats/cgi-bin/awstats.www.m4.coreserver.jp.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2105                
+POS_TIME 2777                
+POS_VISITOR 7768                
+POS_DAY 9560                
+POS_DOMAIN 3657                
+POS_LOGIN 3946                
+POS_ROBOT 4101                
+POS_WORMS 4732                
+POS_EMAILSENDER 4863                
+POS_EMAILRECEIVER 5006                
+POS_SESSION 10262               
+POS_SIDER 10468               
+POS_FILETYPES 5141                
+POS_DOWNLOADS 5371                
+POS_OS 5436                
+POS_BROWSER 5656                
+POS_SCREENSIZE 6062                
+POS_UNKNOWNREFERER 6136                
+POS_UNKNOWNREFERERBROWSER 6257                
+POS_ORIGIN 6373                
+POS_SEREFERRALS 6515                
+POS_PAGEREFS 6659                
+POS_SEARCHWORDS 6956                
+POS_KEYWORDS 7108                
+POS_MISC 2441                
+POS_ERRORS 7167                
+POS_CLUSTER 3802                
+POS_SIDER_403 7279                
+POS_SIDER_400 7361                
+POS_SIDER_404 7443                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20191101000012 1 0 19460852952793
+FirstTime 20191001013349
+LastTime 20191031235952
+LastUpdate 20191102042108 1 0 0 0 0
+TotalVisits 98                  
+TotalUnique 28                  
+MonthHostsKnown 22                  
+MonthHostsUnknown 6                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 1 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 336 336 2810485 3516 3523 931597
+1 242 242 1256532 3490 3496 869934
+2 6 6 297909 3542 3545 896311
+3 0 0 0 3481 3483 882375
+4 0 0 0 3487 3489 876046
+5 2 2 1026 3459 3463 889110
+6 0 0 0 3534 3535 883312
+7 7 7 25476 3518 3524 901286
+8 26 26 128781 3557 3562 902752
+9 30 33 113694 3503 3507 876368
+10 58 58 485671 3525 3537 907278
+11 65 70 1041806 3573 3582 1037403
+12 33 36 263441 3543 3545 931139
+13 17 17 44333 3559 3559 959282
+14 26 26 103928 3523 3526 888165
+15 24 24 86038 3538 3547 921436
+16 16 16 43638 3522 3523 920726
+17 18 19 50702 3522 3524 897389
+18 14 14 46957 3517 3517 883819
+19 19 19 110275 3536 3538 914652
+20 1 1 513 3487 3489 883733
+21 2 2 10220 3527 3534 898742
+22 175 175 2474821 3520 3525 894729
+23 417 443 4051227 3518 3527 917578
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+jp 1508 1546 13375153
+ip 13 13 39526
+com 10 10 26408
+cn 2 2 1026
+net 1 1 5360
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+Wget/ 64974 8094974 20191031235948 0
+no_user_agent 19312 13390632 20191031235914 0
+Googlebot/ 41 98585 20191028070359 0
+favicon 21 29644 20191031235440 0
+bingbot/ 6 19175 20191028204641 0
+YandexBot/ 5 2565 20191024104424 0
+SemrushBot/ 5 26795 20191020112038 0
+(firefox/)([0-9]\.|[0-1][0]\.) 2 1394 20191002132347 0
+Applebot/ 2 10716 20191026083024 0
+PhantomJS 2 1210 20191001183238 0
+python 1 513 20191014031342 0
+Sogou[\x20]web[\x20]spider/ 1 5360 20191025004651 0
+MJ12bot/ 1 513 20191024203616 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 3 21061 0 0
+png 22 95443 0 0
+cgi 140 772734 0 0
+shtm 1 159 0 0
+php 1391 12375852 0 0
+tif 1 270 0 0
+html 1 182 0 0
+jpg 4 30100 0 0
+js 8 150238 0 0
+gif 1 1434 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/ubar.txt 1 0 45
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+linuxandroid 6 4
+macosx11 2 2
+winxp 3 3
+ios_iphone 89 86
+macosx12 51 51
+win7 49 46
+macosx 2 2
+win8 2 2
+macosx9 2 2
+win10 1362 1332
+win8.1 2 2
+Unknown 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 18
+chrome48.0.2564.10 2 2
+safari13.0.2 2 2
+chrome77.0.3865.90 275 272
+chrome34.0.1847.131 1 1
+safari12.0 51 51
+chrome77.0.3865.92 6 4
+safari12.1 8 7
+chrome53.0.2785.34 2 2
+chrome77.0.3865.120 839 813
+msie11.0 13 11
+mozilla 53 53
+chrome78.0.3904.70 272 270
+msie7.0 3 3
+chrome50.0.2661.102 4 4
+safari13.0.1 6 6
+Unknown 2 2
+safari 24 22
+chrome72.0.3626.109 9 9
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Go-http-client/1.1 20191016024641
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Go-http-client/1.1 20191016024641
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 156 156
+From1 0 0
+From2 0 0
+From3 25 25
+From4 1353 1391
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+https://ss1.coressl.jp/www.m4.coreserver.jp/jp/admin.cgi 20 20
+https://mainte.value-domain.com 4 4
+https://mainte.value-domain.com/eventview.cgi 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 100 0
+500 11 71352
+404 61 10584
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 0
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1
+/robots.txt 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 28
+p955107-ipbf517niigatani.niigata.ocn.ne.jp 1306 1310 12209538 20191031170340
+cache1.coreserver.jp 128 128 696576 20191031194034
+p219163-ipngn200706fukuokachu.fukuoka.ocn.ne.jp 24 25 61405 20191007182503
+ntsitm195228.sitm.nt.ngn.ppp.infoweb.ne.jp 11 37 316602 20191031235952
+p024805.kmmtff01.ap.so-net.ne.jp 10 12 15321 20191003130414
+p7163211-ipngn32801marunouchi.tokyo.ocn.ne.jp 9 11 15186 20191003094609
+sp1-72-4-86.msc.spmode.ne.jp 7 8 16309 20191031094958
+om126255020252.24.openmobile.ne.jp 6 6 24963 20191022070652
+173.239.198.169 4 4 18048 20191025084333
+p1573151-li-mobac01.osaka.ocn.ne.jp 4 6 8336 20191003115943
+ec2-54-198-5-34.compute-1.amazonaws.com 1 1 513 20191017072655
+118.123.12.126 2 2 1026 20191012121648
+142.46.65.125.broad.ls.sc.dynamic.163data.com.cn 2 2 1026 20191003051012
+ec2-35-166-104-60.us-west-2.compute.amazonaws.com 1 1 3002 20191018001714
+92.242.62.90 2 2 1026 20191016024641
+ec2-54-203-213-125.us-west-2.compute.amazonaws.com 1 1 3002 20191021220838
+96.9.209.33 1 1 513 20191018204933
+199.167.137.26 2 2 17887 20191027141601
+ec2-18-237-137-164.us-west-2.compute.amazonaws.com 1 1 3002 20191028233710
+ec2-18-237-174-213.us-west-2.compute.amazonaws.com 1 1 3002 20191011014926
+ec2-34-219-176-170.us-west-2.compute.amazonaws.com 1 1 3002 20191016004610
+91-171-238-8.subs.proxad.net 1 1 5360 20191019021255
+jst-office-gw2.stream.co.jp 1 1 697 20191016021024
+122.227.189.200 2 2 1026 20191021103939
+p6429157-ipngn31501marunouchi.tokyo.ocn.ne.jp 2 2 10220 20191023214319
+ec2-54-201-148-205.us-west-2.compute.amazonaws.com 2 2 4881 20191029234724
+ec2-18-237-27-204.us-west-2.compute.amazonaws.com 1 1 3002 20191001013404
+ec2-34-213-40-18.us-west-2.compute.amazonaws.com 1 1 3002 20191030235407
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20191001 45 45 181301 3
+20191002 6 6 32148 3
+20191003 25 31 39869 4
+20191004 6 6 32160 3
+20191005 57 57 235655 5
+20191007 28 29 82841 3
+20191008 4 4 21436 2
+20191009 2 2 10716 1
+20191010 2 2 10722 1
+20191011 149 149 1166737 3
+20191012 2 2 1026 1
+20191014 2 2 10716 1
+20191015 4 4 21436 2
+20191016 159 159 1767003 6
+20191017 1 1 513 1
+20191018 165 165 1066773 7
+20191019 3 3 16080 2
+20191021 151 153 1324255 8
+20191022 18 18 53473 3
+20191023 10 10 53100 5
+20191024 2 2 17887 1
+20191025 10 10 43041 5
+20191026 8 8 42864 4
+20191027 2 2 17887 1
+20191028 375 375 3679462 4
+20191029 86 86 1316059 4
+20191030 81 81 676866 10
+20191031 131 160 1525447 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 5
+5mn-15mn 4
+30s-2mn 3
+15mn-30mn 1
+2mn-5mn 6
+0s-30s 74
+30mn-1h 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 17
+/mail/src/read_body.php 913 3692126 0 2
+/mail/src/right_main.php 184 8204152 0 8
+/jp/admin.cgi 140 772734 59 60
+/mail/src/left_main.php 118 284710 4 2
+/mail/plugins/newmail/newmail.php 101 96236 0 9
+/mail/src/webmail.php 25 6904 6 0
+/mail/src/login.php 21 41410 19 8
+/ 11 5827 7 7
+/mailr/ 9 28356 1 1
+/mail/src/compose.php 3 10301 0 0
+/mail/src/redirect.php 1 1025 0 0
+/mailr/skins/larry/watermark.html 1 182 0 0
+/mailr/program/resources/blank.tif 1 270 0 0
+/jp/ 2 161 1 1
+/jp/admin.shtm 1 159 1 0
+/mail/src/printer_friendly_bottom.php 1 2224 0 0
+/mail/src/move_messages.php 2 2420 0 0
+END_SIDER

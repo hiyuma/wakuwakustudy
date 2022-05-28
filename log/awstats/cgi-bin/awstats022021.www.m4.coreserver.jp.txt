@@ -1,0 +1,342 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 202102 will be lost/reset.
+# Last config file used to build this data file was /virtual/www/public_html/log/awstats/cgi-bin/awstats.www.m4.coreserver.jp.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2105                
+POS_TIME 2776                
+POS_VISITOR 7666                
+POS_DAY 8511                
+POS_DOMAIN 3675                
+POS_LOGIN 3959                
+POS_ROBOT 4114                
+POS_WORMS 4685                
+POS_EMAILSENDER 4816                
+POS_EMAILRECEIVER 4959                
+POS_SESSION 9236                
+POS_SIDER 9433                
+POS_FILETYPES 5094                
+POS_DOWNLOADS 5291                
+POS_OS 5402                
+POS_BROWSER 5584                
+POS_SCREENSIZE 5911                
+POS_UNKNOWNREFERER 5985                
+POS_UNKNOWNREFERERBROWSER 6109                
+POS_ORIGIN 6191                
+POS_SEREFERRALS 6333                
+POS_PAGEREFS 6496                
+POS_SEARCHWORDS 6825                
+POS_KEYWORDS 6977                
+POS_MISC 2440                
+POS_ERRORS 7036                
+POS_CLUSTER 3815                
+POS_SIDER_403 7143                
+POS_SIDER_400 7225                
+POS_SIDER_404 7307                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210301000036 1 0 7772562144741
+FirstTime 20210201000423
+LastTime 20210228235911
+LastUpdate 20210302041916 1 0 0 0 0
+TotalVisits 79                  
+TotalUnique 12                  
+MonthHostsKnown 11                  
+MonthHostsUnknown 4                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 1 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 341 341 1907 3272 3273 503027
+1 336 336 0 3267 3269 495260
+2 342 343 6902 3278 3280 519322
+3 337 337 0 3293 3293 513433
+4 338 338 1026 3292 3294 508872
+5 337 337 0 3298 3300 502848
+6 336 336 0 3307 3311 527871
+7 337 337 513 3303 3305 521381
+8 355 355 96454 3282 3282 500197
+9 346 346 53586 3306 3326 506501
+10 361 385 392791 3281 3285 521624
+11 342 342 32154 3269 3269 509147
+12 347 349 24520 3308 3311 534475
+13 338 338 10718 3295 3297 509168
+14 353 353 85728 3286 3288 522450
+15 342 342 32152 3283 3283 510566
+16 338 338 10718 3290 3291 512459
+17 346 346 73611 3280 3283 506511
+18 337 337 0 3305 3307 522016
+19 336 336 0 3296 3296 510577
+20 336 336 0 3269 3269 502570
+21 339 339 1026 3299 3299 510941
+22 340 340 21432 3263 3263 509300
+23 338 339 4454 3281 3285 524966
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+ip 8080 8080 3078
+jp 113 140 839679
+com 4 4 2052
+ru 1 1 697
+net 0 1 4186
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+Wget/ 78702 12228581 20210228235949 0
+no_user_agent 132 8218 20210228230538 0
+Googlebot/ 19 9747 20210227180217 0
+favicon 3 1539 20210222171735 0
+bingbot/ 3 16077 20210225121323 0
+MJ12bot/ 3 6386 20210220142327 0
+YandexBot/ 2 1026 20210225050854 0
+SemrushBot/ 2 10717 20210212232748 0
+python 1 513 20210208095816 0
+curl 1 513 20210204035627 0
+netcraft 1 697 20210228102415 0
+Applebot/ 1 5358 20210219004239 0
+crawl 1 513 20210213122307 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 2 15616 0 0
+png 12 92646 0 0
+cgi 92 513009 0 0
+txt 3 12280 0 0
+php 8106 40151 0 0
+js 7 145036 0 0
+jpg 3 29520 0 0
+gif 1 1434 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/chat.swordworldweb.net/swrpgchat.sougou/log/log.txt 3 0 12280
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+winxp 3 3
+ios_iphone 41 41
+macosx12 41 41
+linux 1 1
+win7 8078 8077
+macosx10 12 11
+win8.1 3 3
+win10 46 20
+Unknown 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 13
+chrome52.0.2743.116 8074 8074
+chrome88.0.4324.150 44 17
+chrome36.0.1985.143 2 2
+chrome84.0.4147.135 1 1
+mozilla 41 41
+netscape5.0 1 1
+msie7.0 3 3
+safari10.1.2 12 11
+chrome75.0.3770.80 2 2
+chrome83.0.4103.34 1 1
+chrome50.0.2661.102 3 3
+safari12.0 41 41
+chrome81.0.4044.129 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0_zgrab/0.x 20210211000154
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 102 102
+From1 0 0
+From2 1 1
+From3 8082 8085
+From4 13 38
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+https://www.cloudremix.net 8074 8074
+https://ss1.coressl.jp/www.m4.coreserver.jp/jp/admin.cgi 8 8
+http://swww.m4.coreserver.jp/chat.swordworldweb.net/swrpgchat.sougou/index.php 0 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 7 0
+500 2 531
+404 71 13916
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 0
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 3
+/sitemap.txt 1 -
+/robots.txt 1 -
+/.git/config 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 15
+158.101.131.29 8074 8074 0 20210228235911
+cache1.coreserver.jp 92 92 513009 20210227163616
+p963251-ipngn200803kyoto.kyoto.ocn.ne.jp 11 12 20334 20210227125615
+ntsitm602224.sitm.nt.ngn.ppp.infoweb.ne.jp 8 32 296848 20210212041807
+61.177.20.70 2 2 1026 20210219215525
+222.186.171.224 2 2 1026 20210210020650
+jst-office-gw2.stream.co.jp 2 2 1394 20210214005001
+219.151.28.163 2 2 1026 20210205024153
+ec2-54-72-123-16.eu-west-1.compute.amazonaws.com 2 2 1026 20210223074418
+216.151.27.66.fasternetwork.com 1 1 513 20210211000154
+softbank126010070243.bbtec.net 0 1 4186 
+61-21-88-234.rev.home.ne.jp 0 1 4337 
+m014010098130.v4.enabler.ne.jp 0 1 3757 
+ec2-99-79-7-244.ca-central-1.compute.amazonaws.com 1 1 513 20210203040449
+host-93-124-48-45.dsl.sura.ru 1 1 697 20210215005118
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20210201 290 290 10724 2
+20210202 291 291 10716 2
+20210203 295 295 32667 4
+20210204 290 290 0 1
+20210205 296 296 33180 5
+20210206 292 292 11411 3
+20210207 290 290 0 1
+20210208 290 290 10720 2
+20210209 296 296 42856 4
+20210210 301 325 318797 5
+20210211 289 289 513 2
+20210212 297 297 43377 6
+20210213 294 294 32154 4
+20210214 293 294 25886 3
+20210215 294 294 22133 3
+20210216 296 296 42864 5
+20210217 300 302 92850 3
+20210218 289 289 513 2
+20210219 290 290 1026 2
+20210220 292 292 21432 3
+20210221 288 288 0 1
+20210222 292 292 21436 3
+20210223 295 295 21949 4
+20210224 289 289 0 1
+20210225 288 288 0 1
+20210226 288 288 0 1
+20210227 305 306 52488 5
+20210228 288 288 0 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 28
+5mn-15mn 1
+15mn-30mn 3
+2mn-5mn 1
+0s-30s 45
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 8088 7734 39 39
+/jp/admin.cgi 92 513009 38 38
+/mail/src/right_main.php 7 17249 0 1
+/mailr/ 5 10308 0 0
+/mail/src/webmail.php 4 2552 2 1
+/mail/src/left_main.php 2 2308 0 0
+END_SIDER

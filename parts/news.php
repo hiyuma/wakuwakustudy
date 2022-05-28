@@ -42,6 +42,132 @@
                         </a>
         </li>
         <hr> -->
+        2022年05月28日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                東京都、新たに2549人感染　7日平均で前週の84.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://vdata.nikkei.com/newsgraphics/coronavirus-chart-list/#asiaNewInfected" target="blank" rel="noopener">
+                        アジア新規感染者数</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF2829Y0Y2A520C2000000/" target="blank" rel="noopener">
+                大阪府、28日の新規感染2243人　新型コロナ</a>
+        </li>
+        <hr>
+        2022年05月27日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC270YJ0X20C22A5000000/" target="blank" rel="noopener">
+                東京都、新たに2630人感染　7日平均で前週の87.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC123HT0S2A510C2000000/" target="blank" rel="noopener">
+                期限切れコロナワクチン廃棄、自治体が抑制に苦慮</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA26CUH0W2A520C2000000/" target="blank" rel="noopener">
+                米中など98カ国・地域から観光客受け入れ　6月10日から</a>
+        </li>
+        <hr>
+        2022年05月26日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC260Z60W2A520C2000000/" target="blank" rel="noopener">
+                東京都、新たに3391人感染　7日平均で前週の89.0%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC244Q20U2A520C2000000/" target="blank" rel="noopener">
+                製造業、高揚感なきV字回復　円安水準も先行きに不安</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR25ETU0V20C22A5000000/" target="blank" rel="noopener">
+                米ファイザー、ワクチンなど無利益で販売　低所得国で</a>
+        </li>
+        <hr>
+        2022年05月25日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC250SN0V20C22A5000000/" target="blank" rel="noopener">
+                東京都、新たに3929人感染　7日平均で前週の91.8%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR24DN70U2A520C2000000/" target="blank" rel="noopener">
+                コロナ共生の英、観光客戻る　規制解除から3カ月</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA25BV20V20C22A5000000/" target="blank" rel="noopener">
+                コロナ感染「全国的に減少」　厚労省の専門家組織</a>
+        </li>
+        <hr>
+        2022年05月24日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC245OB0U2A520C2000000/" target="blank" rel="noopener">
+                東京都、新たに3271人感染　7日平均で前週の92.0%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC245CE0U2A520C2000000/" target="blank" rel="noopener">
+                コロナワクチン4回目接種、新潟県内で26日開始</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN23CZ30T20C22A5000000/" target="blank" rel="noopener">
+                5歳未満の3回目接種、有効性80%　ファイザー製</a>
+        </li>
+        <hr>
+        2022年05月23日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC230QW0T20C22A5000000/" target="blank" rel="noopener">
+                東京都、新たに2025人感染　7日平均で前週の90.8%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA237CE0T20C22A5000000/" target="blank" rel="noopener">
+                体育・部活動、マスク「不要」　政府が基本的対処方針</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC232L30T20C22A5000000/" target="blank" rel="noopener">
+                東京都、コロナ病床5000床に縮小　医療提供体制見直し</a>
+        </li>
+        <hr>
+        2022年05月22日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC221CQ0S2A520C2000000/" target="blank" rel="noopener">
+                東京都、新たに3317人感染　7日平均で前週の90%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC1229V0S2A510C2000000/" target="blank" rel="noopener">
+                新型コロナ「後遺症も労災に」　対象拡大で申請数4倍</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCA128150S2A510C2000000/" target="blank" rel="noopener">
+                コロナ飲み薬の処方進まず　22年1億人分余剰、民間試算</a>
+        </li>
+        <hr>
         2022年05月21日
 
         <li>

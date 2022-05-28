@@ -1,0 +1,638 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201811 will be lost/reset.
+# Last config file used to build this data file was /virtual/www/public_html/log/awstats/cgi-bin/awstats.www.m4.coreserver.jp.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2105                
+POS_TIME 2776                
+POS_VISITOR 14881               
+POS_DAY 17530               
+POS_DOMAIN 3665                
+POS_LOGIN 3964                
+POS_ROBOT 4119                
+POS_WORMS 4793                
+POS_EMAILSENDER 4924                
+POS_EMAILRECEIVER 5067                
+POS_SESSION 18286               
+POS_SIDER 18493               
+POS_FILETYPES 5202                
+POS_DOWNLOADS 5402                
+POS_OS 5450                
+POS_BROWSER 5691                
+POS_SCREENSIZE 6095                
+POS_UNKNOWNREFERER 6169                
+POS_UNKNOWNREFERERBROWSER 6256                
+POS_ORIGIN 6338                
+POS_SEREFERRALS 6478                
+POS_PAGEREFS 6622                
+POS_SEARCHWORDS 6831                
+POS_KEYWORDS 6983                
+POS_MISC 2440                
+POS_ERRORS 7042                
+POS_CLUSTER 3820                
+POS_SIDER_403 7191                
+POS_SIDER_400 7285                
+POS_SIDER_404 7367                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20181201000030 1 0 7971670711896
+FirstTime 20181101001358
+LastTime 20181130215954
+LastUpdate 20181202045003 1 0 0 0 0
+TotalVisits 159                 
+TotalUnique 43                  
+MonthHostsKnown 42                  
+MonthHostsUnknown 1                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 1 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 109 109 343671 2678 2693 157645
+1 23 23 54115 2655 2696 145309
+2 0 0 0 2582 2585 118428
+3 0 0 0 2640 2640 162945
+4 0 0 0 2602 2603 131418
+5 1 1 5358 2606 2618 143338
+6 44 46 149956 2656 2667 164416
+7 6 6 21424 2533 2534 153624
+8 16 18 70316 2515 2542 146338
+9 9 9 48927 2550 2594 172506
+10 38 38 146490 2614 2655 417954
+11 135 136 248195 2668 2824 292117
+12 3 3 16070 2539 2539 256725
+13 14 15 45309 2499 2552 191097
+14 32 32 84778 2524 2550 198674
+15 36 38 1906696 2468 2504 177098
+16 257 281 1402728 2442 2448 173806
+17 31 33 98231 2452 2495 153792
+18 136 140 431111 2485 2504 143364
+19 21 21 72536 2450 2453 198390
+20 44 48 139082 2428 2456 154129
+21 431 431 1511803 2673 2729 168819
+22 201 202 1048204 2502 2519 268523
+23 352 356 19787720 2393 2420 151264
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+jp 1911 1955 27555039
+com 16 18 47998
+net 7 7 26789
+ip 3 4 1684
+adsl 1 1 513
+ru 1 1 697
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+Wget/ 60170 3728152 20181130235957 0
+no_user_agent 93 27275 20181130175821 0
+MSIE[\x20]5 74 51578 20181130161059 0
+Googlebot/ 29 58467 20181129175337 0
+favicon 25 49522 20181130110626 0
+bot[\s_+:,\.\;\/\\-] 24 16728 20181130165232 0
+YandexBot/ 23 11799 20181125200024 0
+bingbot/ 4 12775 20181124150914 0
+steeler 4 21427 20181121145147 0
+(firefox/)([0-9]\.|[0-1][0]\.) 2 1394 20181121202824 0
+Apache\-HttpClient/ 1 5356 20181109063131 0
+MSIE[\x20]6 2 35774 20181124194119 0
+MJ12bot/ 1 697 20181128175925 0
+SemrushBot/ 1 5358 20181125184652 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 2 15616 0 0
+png 33 119867 0 0
+cgi 147 788241 0 0
+php 1792 26532861 0 0
+js 7 145036 0 0
+jpg 3 29520 0 0
+xml 1 145 0 0
+gif 1 1434 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+linuxandroid 10 8
+macosx6 201 176
+winxp 9 9
+ios_iphone 147 141
+macosx12 2 2
+win7 13 12
+macosx 17 17
+macosx9 4 3
+macosx10 104 102
+win8.1 424 422
+win10 1042 1034
+ios_ipad 13 13
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 18
+edge17 43 41
+opera42.0.2393.94 3 3
+safari11.0 30 27
+chrome70.0.3538.77 211 211
+safari10.1.2 104 102
+safari12.0 130 127
+chrome36.0.1985.125 4 3
+firefox56.0 6 4
+firefox63.0 9 8
+msie8.0 9 9
+msie11.0 424 422
+safari12.0.1 2 2
+chrome67.0.3396.99 1 1
+mozilla 17 17
+chrome70.0.3538.110 9 7
+chrome70.0.3538.102 782 778
+safari5.1.9 201 176
+opera11.2.3.102637 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 215 216
+From1 0 0
+From2 0 0
+From3 1 1
+From4 1723 1769
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://ss1.coressl.jp/www.m4.coreserver.jp/jp/admin.cgi 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 1 215
+503 151 45149
+302 381 0
+500 57 227878
+301 1 242
+404 630 140783
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 1
+/admin/ 1 -
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 243
+/webbuilder/script/locale/wb-lang-zh_CN.js 1 -
+/stylesheet.css 1 -
+/Help 1 -
+/feed.asp 1 -
+/examples/file-manager.html 1 -
+/admin.php 2 -
+/CuteSoft_Client/CuteEditor/ImageEditor/listfiles.aspx 1 -
+/coremail/common/help/images/helplogo.gif 1 -
+/images/2_11.gif 1 -
+/ckeditor/ckfinder/install.txt 1 -
+/siteserver/login.aspx 1 -
+/phpmyadmin/themes/original/img/logo_right.png 1 -
+/images/login/logo.gif 1 -
+/Site/Pages/WebResources.ashx/PoweredByKodakImage 1 -
+/CuteSoft_Client/CuteEditor/Images/log.gif 1 -
+/new_gb/help/images/usage/3.3.gif 1 -
+/help/ch_gb/images/help-title.gif 1 -
+/fckeditor/fckeditor.js 1 -
+/common/common.js 1 -
+/issmall/ 1 -
+/Admin/Images/LoginImages/admin_top.gif 1 -
+/API/DW/Dwplugin/TemplateManage/manage_site.htm 1 -
+/Images/login/lefttu.jpg 1 -
+/API/DW/Dwplugin/TemplateManage/login_site.htm 1 -
+/Images/login/mainlogo.gif 1 -
+/examples/readonly.html 1 -
+/Admin/Common/HelpLinks.xml 1 -
+/Editor.js 1 -
+/ids/admin/login.jsp 1 -
+/wcm/ 1 -
+/member/space/company/info.txt 1 -
+/admin/start/index.php 1 -
+/FCK/fckeditor.js 1 -
+/CuteSoft_Client/CuteEditor/Style/IE.css 1 -
+/media/com_hikashop/js/hikashop.js 1 -
+/was/main.html 1 -
+/wp-content 1 -
+/templates/jsn_glass_pro/ext/hikashop/jsn_ext_hikashop.css 1 -
+/siteserver/upgrade/default.aspx 1 -
+/back/scripts/jspxcms_choose.js 1 -
+/images/logo-white.png 1 -
+/administrator/manifests/files/joomla.xml 1 -
+/business/images/index-gg1.jpg 1 -
+/dialog/dialog.js 1 -
+/index.cgi 1 -
+/static/hgicon.png 1 -
+/whir_system/login.aspx 1 -
+/doku.php 1 -
+/img/pic/login/top-left.jpg 1 -
+/apple-touch-icon-152x152.png 2 -
+/datacenter/downloadApp/showDownload.do 1 -
+/images/branding/logo.gif 1 -
+/apple-touch-icon-152x152-precomposed.png 2 -
+/docs.css 1 -
+/was/help.jsp 1 -
+/wp-login.php 1 -
+/admin/inc/xml.xslt 1 -
+/inc/rsd.php 1 -
+/app/js/source/wcmlib/WCMConstants.js 1 -
+/help/user/index.html 1 -
+/User/Login.aspx 1 -
+/kindeditor.js 1 -
+/Include/EcsServerApi.js 1 -
+/logo/logo_jw.png 1 -
+/pub/guiedit/guiedit.js 1 -
+/UserCenter/css/admin/bgimg/admin_all_bg.png 1 -
+/bencandy.php 1 -
+/jcms/index_jcms.jsp 1 -
+/API/DW/Dwplugin/TemplateManage/save_template.htm 1 -
+/data/admin/ver.txt 1 -
+/plugins/anchor/anchor.js 1 -
+/pub/skins/pmwiki/pmwiki.css 1 -
+/images/zh-CN/logo.ico 1 -
+/CuteSoft_Client/CuteEditor/Help/default.htm 1 -
+/README.txt 1 -
+/admin/SouthidcEditor/ButtonImage/standard/componentmenu.gif 1 -
+/Images/login/biaoti.jpg 1 -
+/coremail/common/help/images/helplogo_zh.gif 1 -
+/admin/js/IdSUtil.js 1 -
+/eams/static/scripts/grade/course/input.js 1 -
+/license.txt 1 -
+/help/en/h_authenticate.html 1 -
+/e/master/login.aspx 1 -
+/archiver/ 1 -
+/skin/frontend/default/modern/css/styles.css 1 -
+/plug/publish 1 -
+/themes/default/default.css 1 -
+/cgi/index.cgi 1 -
+/themes/default/graphics/horde-power1.png 1 -
+/history.txt 1 -
+/weblog/ 1 -
+/images/login/icon-up.gif 1 -
+/images/Default_bg_002.gif 1 -
+/addons/theme/stv1/_static/ts2/layout.css 1 -
+/admin/login.asp 1 -
+/tpl/login/user/images/login_bg_1.jpg 1 -
+/admin/SouthidcEditor/ewebeditor.asp 1 -
+/FCK/editor/js/fckeditorcode_ie.js 1 -
+/images/logo_product-cml.png 1 -
+/deptWebsiteAction.do 1 -
+/plus/sitemap.html 1 -
+/install 1 -
+/images/default/post_bt.gif 1 -
+/readme.html 1 -
+/rss.aspx 1 -
+/plus/download.php 1 -
+/wp-cron.php 1 -
+/system/language/zh-cn.xml 1 -
+/fckeditor.js 1 -
+/forum.php 1 -
+/includes/general.js 1 -
+/docs/DOCUMENTATION.txt 1 -
+/kindeditor-min.js 1 -
+/addons/theme/stv2/_static/ts2/layout.css 1 -
+/fckeditor/license.txt 1 -
+/script/login.js 1 -
+/default/css/em_css.css 1 -
+/jcms/index.jsp 1 -
+/system/skins/default/system.login.htm 1 -
+/app/images/login/toplogo.gif 1 -
+/editor/js/fckeditorcode_ie.js 1 -
+/Template/Default/Skin/user/images/login_back.jpg 1 -
+/phpmyadmin/docs.css 1 -
+/fckeditor/fckconfig.js 1 -
+/whir_system/module/security/login.aspx 1 -
+/robots.txt 5 -
+/archive/archive.css 1 -
+/app/home/skins/default/style.css 1 -
+/fckeditor/editor/dtd/fck_dtd_test.html 1 -
+/images/hwem.css 1 -
+/forum/ 1 -
+/style/default/hdwiki.css 1 -
+/custom/SkinTemplate/skin/public/images/sys-logo-1caitong-180.jpg 1 -
+/admin/login.php 1 -
+/licence.txt 1 -
+/admin/SouthidcEditor/Dialog/dialog.js 1 -
+/console/js/CTRSRequestParam.js 1 -
+/max-templates/classic/styles/app.css 1 -
+/lang/en.js 1 -
+/admin/index.php 1 -
+/system/Update.aspx 1 -
+/changelog.txt 1 -
+/console/js/CWCMDialogHead.js 1 -
+/examples/index.html 1 -
+/app/images/login/logo.png 1 -
+/inc/playerKinds.xml 1 -
+/Admin/Images/LoginImages/admin_text.gif 1 -
+/forums/list.page 1 -
+/404.jpg 1 -
+/ids/admin/userhome/forgetPwd.jsp 1 -
+/ckfinder/install.txt 1 -
+/Search.html 1 -
+/phpmyadmin/ 1 -
+/list.php 1 -
+/Prompt/images/P_Wrong.gif 1 -
+/Admin/Login.aspx 1 -
+/data/images/wap_logo.gif 1 -
+/login/Jeecms.do 1 -
+/template/home.htm 1 -
+/default/images/logo.gif 1 -
+/m 1 -
+/include/dialog/config.php 1 -
+/plus/rssmap.html 1 -
+/script/valid_formdata.js 1 -
+/apple-touch-icon-120x120.png 4 -
+/advfile/ad12.js 1 -
+/Site/SystemThemes/7917A0869761B5458281E407AE0090F5/Images/ISBanner58px.jpg 1 -
+/apple-touch-icon-120x120-precomposed.png 4 -
+/ycportal/js/wbTextBox/showimg.jsp 1 -
+/docs/ 1 -
+/ckfinder/ckfinder.html 1 -
+/ymail/images/index_r1_c4.jpg 1 -
+/plugin.php 1 -
+/web2/login_template/1.files/Logo1.jpg 1 -
+/editor/fckeditor.js 1 -
+/console/auth/reg_newuser.jsp 1 -
+/base/login/login.php 1 -
+/rss.php 1 -
+/images/logo_88x31.gif 1 -
+/include/dedeajax2.js 1 -
+/apple-touch-icon.png 6 -
+/images/login/eyoumail.gif 1 -
+/admin/editor/ 1 -
+/static/images/logo/webserver_small.gif 1 -
+/Error.aspx 1 -
+/public/js/ipb.js 1 -
+/imagesschool/style1/flash2.jpg 1 -
+/ckeditor/ckeditor.js 1 -
+/Install/logo.gif 1 -
+/blog/ 1 -
+/public/about.html 1 -
+/next/img/logo.gif 1 -
+/images/login9/login_33.jpg 1 -
+/ks_inc/ajax.js 1 -
+/was5/web/index.jsp 1 -
+/bbs/ 1 -
+/digg.php 1 -
+/archiver 1 -
+/clientscript/vbulletin_ajax_htmlloader.js 1 -
+/helpnew/faq/faq_simple_zh_CN.jsp 1 -
+/maintlogin.jsp 1 -
+/admin/template/article_more/config.htm 1 -
+/themes/graphics/horde-power1.png 1 -
+/nobody/mobile.htm 1 -
+/common/help/images/helplogo.gif 1 -
+/adminsoft/templates/images/login_bg_top.jpg 1 -
+/asp.net/README.txt 1 -
+/plugins/filemanager/filemanager/js 1 -
+/CHANGELOG.txt 1 -
+/apple-touch-icon-precomposed.png 6 -
+/inc/Templates/rss.xslt 1 -
+/API/DW/Dwplugin/SystemLabel/SiteConfig.htm 1 -
+/License.txt 1 -
+/ckeditor/ckfinder/ckfinder.html 1 -
+/customdir/images/english_logo.jpg 1 -
+/API/DW/Dwplugin/ThirdPartyTags/SiteFactory.xml 1 -
+/extman/default/images/logo.gif 1 -
+/app/login.jsp 1 -
+/uc_server/control/admin/db.php 1 -
+/Scripts/jquery/maticsoft.jquery.min.js 1 -
+/common/help/images/helplogo_zh.gif 1 -
+/admin/admin_login.php 1 -
+/images/login_Name.jpg 1 -
+/Wq_StranJF.js 1 -
+/master/login.aspx 1 -
+/extern.php 1 -
+/admin/login.aspx 1 -
+/plus/heightsearch.php 1 -
+/system/Login.aspx 1 -
+/app/Tpl/fanwe_1/js/DD_belatedPNG_0.0.8a-min.js 1 -
+/tpl/user/tpl1/css/skins/blue.css 1 -
+/test_404_page/ 1 -
+/console/include/not_login.htm 1 -
+/tools/rss.aspx 1 -
+/index.php 5 -
+/Public/Admin/Images/login_main_bg.jpg 1 -
+/auth/login 1 -
+/fckeditor/editor/js/fckeditorcode_ie.js 1 -
+/js/buttons.js 1 -
+/apps/admin/_static/image/login_box_bg.png 1 -
+/Ntalker/lawfirm.aspx 1 -
+/include/install_ocx.aspx 1 -
+/template/1/bluewise/_files/jspxcms.css 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 43
+p955107-ipbf517niigatani.niigata.ocn.ne.jp 877 879 22171827 20181123014702
+p6fd9d944.miygnt01.ap.so-net.ne.jp 422 424 1468477 20181128215030
+p1033053-ipngn200809kyoto.kyoto.ocn.ne.jp 278 305 2579542 20181106144843
+p991163-ipngn200706kobeminato.hyogo.ocn.ne.jp 108 110 308261 20181114183041
+cache1.coreserver.jp 93 93 498882 20181130215954
+p210252-ipngn200407niho.hiroshima.ocn.ne.jp 41 43 138546 20181101061823
+p6495058-ipngn28701marunouchi.tokyo.ocn.ne.jp 22 24 66593 20181101210337
+183.251.2.103.shared.user.transix.jp 11 11 58922 20181113065258
+p6429157-ipngn31501marunouchi.tokyo.ocn.ne.jp 10 10 53566 20181125221414
+sp110-163-217-105.msb.spmode.ne.jp 10 13 31604 20181130183644
+p6947242-ipngnfx01marunouchi.tokyo.ocn.ne.jp 4 4 32246 20181113104735
+h108-73.fcsrv.net 3 3 5357 20181113072121
+hn.kd.ny.adsl 1 1 513 20181105014212
+uq036011224120.au-net.ne.jp 1 1 5356 20181104154006
+uq036011224165.au-net.ne.jp 2 2 10718 20181107171600
+uq036011225025.au-net.ne.jp 3 3 16070 20181125152024
+uq036011224083.au-net.ne.jp 1 1 5356 20181102134453
+125.64.94.208 3 4 1684 20181101111445
+uq036011225162.au-net.ne.jp 2 2 10713 20181113144116
+uq036011224251.au-net.ne.jp 3 3 16067 20181102112425
+uq036011225146.au-net.ne.jp 1 1 5356 20181110134640
+uq036011224006.au-net.ne.jp 1 1 5357 20181105093254
+kd175132098137.ppp-bb.dion.ne.jp 4 6 7257 20181102233446
+uq036011225133.au-net.ne.jp 3 3 16062 20181124144346
+uq036011225087.au-net.ne.jp 1 1 5355 20181101095336
+google-proxy-66-249-82-157.google.com 3 4 16221 20181124081019
+ec2-52-91-61-38.compute-1.amazonaws.com 1 1 3002 20181102231142
+uq036011224220.au-net.ne.jp 1 1 5356 20181123012849
+ec2-34-217-59-241.us-west-2.compute.amazonaws.com 1 1 3002 20181101002717
+ec2-18-236-220-237.us-west-2.compute.amazonaws.com 1 1 3002 20181121230351
+uq036011224013.au-net.ne.jp 1 1 5356 20181129174630
+softbank221019034115.bbtec.net 4 4 21432 20181119135909
+ec2-34-228-240-168.compute-1.amazonaws.com 1 1 1879 20181113005023
+uq036011225111.au-net.ne.jp 1 1 5357 20181108153119
+ec2-52-90-210-212.compute-1.amazonaws.com 1 1 3002 20181112232103
+ec2-34-227-28-217.compute-1.amazonaws.com 2 2 6004 20181120161420
+ec2-18-236-221-49.us-west-2.compute.amazonaws.com 2 2 6004 20181117164023
+google-proxy-66-249-82-159.google.com 2 3 2424 20181124081014
+host-95-152-62-96.dsl.sura.ru 1 1 697 20181126063807
+google-proxy-66-249-82-158.google.com 2 2 3458 20181124081017
+pw126236167139.12.panda-world.ne.jp 1 2 8311 20181108185705
+uq036011225032.au-net.ne.jp 1 1 5357 20181121211613
+p1019197-ipngn200804fukuokachu.fukuoka.ocn.ne.jp 8 9 13169 20181113130828
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20181101 147 152 547422 13
+20181102 42 44 156900 10
+20181103 15 16 67240 4
+20181104 2 2 10712 2
+20181105 90 116 2253607 8
+20181106 188 188 334206 6
+20181107 12 12 60710 7
+20181108 6 7 35096 6
+20181109 1 1 5356 1
+20181110 4 4 21424 3
+20181111 3 3 16074 3
+20181112 92 92 392110 8
+20181113 42 43 120279 10
+20181114 112 114 329685 4
+20181115 9 9 48213 6
+20181116 4 4 21428 4
+20181117 173 173 790638 7
+20181118 3 3 16068 3
+20181119 10 10 53580 6
+20181120 78 78 342338 3
+20181121 133 135 18772420 4
+20181122 279 279 1503367 7
+20181123 23 23 44929 2
+20181124 18 20 80997 13
+20181125 5 5 26790 5
+20181126 1 1 697 1
+20181127 3 3 16068 2
+20181128 427 429 1495267 4
+20181129 4 4 21424 3
+20181130 13 16 47675 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 7
+5mn-15mn 5
+0s-30s 133
+15mn-30mn 2
+30s-2mn 3
+2mn-5mn 2
+30mn-1h 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 22
+/mail/src/right_main.php 803 5794646 1 10
+/mail/src/read_body.php 539 2222147 0 2
+/mail/src/left_main.php 276 454173 4 10
+/jp/admin.cgi 147 788241 120 120
+/mail/src/webmail.php 54 14531 14 1
+/mail/plugins/newmail/newmail.php 38 36092 0 4
+/mail/src/login.php 20 40072 17 8
+/mail/plugins/mail_fetch/fetch.php 17 21015 0 0
+/mail/src/compose.php 8 17406 0 0
+/mail/src/signout.php 7 3192 0 1
+/ 5 2749 3 3
+/mail/src/options.php 1 2224 0 0
+/mail/src/search.php 5 11652 0 0
+/mail/src/image.php 1 1482 0 0
+/mail/plugins/calendar/calendar.php 1 2498 0 0
+/mail/src/help.php 1 2243 0 0
+/mail/src/folders.php 5 14927 0 0
+/mail/src/redirect.php 2 2050 0 0
+/mail/src/download.php 5 17883706 0 0
+/mailr/ 1 1969 0 0
+/mail/src/folders_rename_getname.php 2 3009 0 0
+/mail/src/move_messages.php 1 1078 0 0
+END_SIDER

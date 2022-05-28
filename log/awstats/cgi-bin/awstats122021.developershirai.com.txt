@@ -1,0 +1,909 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 202112 will be lost/reset.
+# Last config file used to build this data file was /virtual/developershirai/public_html/log/awstats/cgi-bin/awstats.developershirai.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2116                
+POS_TIME 2789                
+POS_VISITOR 13786               
+POS_DAY 29217               
+POS_DOMAIN 3832                
+POS_LOGIN 4281                
+POS_ROBOT 4436                
+POS_WORMS 5848                
+POS_EMAILSENDER 5979                
+POS_EMAILRECEIVER 6122                
+POS_SESSION 30092               
+POS_SIDER 30295               
+POS_FILETYPES 6257                
+POS_DOWNLOADS 6597                
+POS_OS 6857                
+POS_BROWSER 7195                
+POS_SCREENSIZE 9839                
+POS_UNKNOWNREFERER 9913                
+POS_UNKNOWNREFERERBROWSER 10516               
+POS_ORIGIN 10815               
+POS_SEREFERRALS 10958               
+POS_PAGEREFS 11194               
+POS_SEARCHWORDS 11440               
+POS_KEYWORDS 11592               
+POS_MISC 2452                
+POS_ERRORS 11651               
+POS_CLUSTER 4137                
+POS_SIDER_403 11818               
+POS_SIDER_400 11900               
+POS_SIDER_404 12019               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220101000128 1 0 13795540846575
+FirstTime 20211201021835
+LastTime 20211231174917
+LastUpdate 20220102034053 1 0 0 0 0
+TotalVisits 265                 
+TotalUnique 233                 
+MonthHostsKnown 198                 
+MonthHostsUnknown 60                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 59 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 26 28 4707143 806 876 836064198
+1 19 19 4160413 1186 1487 1676788090
+2 36 78 43372853 763 947 903814565
+3 1139 1275 1606178836 1503 1709 2073737060
+4 268 275 489081321 1148 1262 1580103902
+5 26 84 6355309 1033 1139 1833436384
+6 64 68 9652005 693 818 626666657
+7 47 139 60582045 691 904 694502816
+8 18 46 2629668 1361 1541 954162350
+9 16 47 67775398 751 823 502134962
+10 1085 1227 21193548 261 328 100423964
+11 26 26 2071901 1719 1954 1564971311
+12 706 790 29610048 1290 1390 1499649018
+13 20 23 8102595 972 1132 715387718
+14 42 178 10445506 499 587 500244244
+15 23 75 7583893 1152 1227 1009784332
+16 13 65 7456240 640 830 587433363
+17 31 76 7657148 1811 2062 1605914080
+18 1178 1365 81324623 729 898 1436051770
+19 1140 1402 133983632 1321 1548 800702822
+20 67 187 118169005 1817 2330 2912957889
+21 76 214 120171783 1142 1349 593750888
+22 4116 5143 265097337 1295 1673 1575498437
+23 14 16 2376944 714 851 634649614
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+jp 4306 5562 440976998
+com 4290 5417 345311991
+net 1417 1575 2098275078
+ip 155 254 51468580
+adsl 8 8 1717944
+ru 7 7 1958149
+cnc 4 4 860514
+uk 2 2 172612
+org 2 2 174
+de 2 2 174444
+ca 1 10 8495966
+no 1 1 88130
+cloud 1 1 88950
+th 0 1 14885
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 32
+MJ12bot/ 23595 26451322113 20211231190732 0
+AhrefsBot/ 1356 70839139 20211231233637 0
+bingbot/ 1200 576962619 20211231235434 0
+wordpress 251 859430 20211231202642 0
+bot[\s_+:,\.\;\/\\-] 241 16038959 20211231221049 0
+Googlebot/ 151 7967561 20211230234438 0
+BLEXBot/ 149 2697844 20211226094636 0
+Googlebot\-Image/ 119 2812393 20211231144756 0
+link 72 1310756 20211230075052 0
+SemrushBot/ 69 1111349 20211231085236 0
+no_user_agent 30 4686559 20211230121235 0
+Dalvik/ 2 176963 20211225020113 0
+bingpreview 3 633 20211213195243 0
+ips\-agent 3 94986 20211218225827 0
+curl 1 617816 20211220200513 0
+custo 16 9838438 20211231084505 0
+Apache\-HttpClient/ 20 1753462 20211215190040 0
+twitterbot 2 13404 20211221201232 0
+Applebot/ 1 18336 20211221101743 0
+crawl 16 526075 20211229220630 0
+^Mozilla/6\.0[\x20]\(compatible\)$ 29 49677546 20211224040929 0
+ia_archiver 20 4063454 20211203162119 0
+MSIE[\x20]6 1 86896 20211213085725 0
+DuckDuckGo\-Favicons\-Bot/ 4 347874 20211231101103 0
+dataprovider\.com 64 7113854 20211221204733 0
+python 6 517060 20211207195506 0
+archive\.org_bot 26 2035306 20211230213111 0
+java 1 0 20211210224930 0
+favicon 2 174986 20211221123029 0
+linkdexbot/ 4 267829 20211210234804 0
+facebookexternalhit/ 19 1726938 20211203075430 0
+netcraft 2 1204953 20211203192211 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+css 191 1220253 0 0
+png 392 37947025 0 0
+ttf 7 79432 0 0
+pdf 8 7120728 0 0
+woff2 6 462960 0 0
+woff 6 75480 0 0
+php 610 100197266 0 0
+html 6 14328 0 0
+js 449 3481508 0 0
+jpg 1508 164331598 0 0
+jpeg 23 2374698 0 0
+Unknown 9573 2450013015 0 0
+gif 59 22146814 0 0
+svg 8 4531 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 6
+/English2.pdf 12 0 9371820
+/English1.pdf 9 0 17748810
+/movie/engDictation_Trim.mp4 3 22 116921770
+/english.php/english1.pdf 1 0 26304
+/english.php/english2.pdf 1 0 26304
+/movie/20200920babysmile.mp4 1 5 87584604
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 18
+linuxandroid 1426 1141
+winlong 71 65
+macosx6 56 53
+macosx11 4 4
+winxp 79 76
+ios_iphone 3250 2455
+winvista 3 3
+macosx9 183 171
+win8 100 90
+macosx7 61 55
+linuxubuntu 22 20
+linux 393 201
+win7 667 590
+macosx 105 75
+win10 6132 4925
+win8.1 121 112
+Unknown 47 45
+macosx8 153 115
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 124
+firefox28.0 19 16
+chrome95.0.4638.69 2 2
+chrome20.0.1092.0 1 1
+chrome32.0.1700.72 37 36
+firefox26.0 263 242
+chrome88.0.4240.193 3 3
+chrome40.0.2214.111 25 23
+chrome81.0.4044.129 8 8
+chrome31.0.1650.57 93 84
+chrome74.0.3729.157 1 1
+chrome31.0.1650.63 294 270
+chrome79.0.3945.117 1 1
+safari7.0.1 19 18
+msie11 23 21
+chrome83.0.4103.97 34 34
+safari14.1.1 1 1
+chrome90.0.4430.72 3 3
+chrome89.0.4389.114 27 27
+firefox43.0 1 1
+chrome76.0.3809.71 80 12
+safari14.0.3 1 1
+chrome91.0.4472.114 44 14
+chrome81.0.4044.145 1 1
+chrome66.0.3359.181 27 27
+chrome70.0.3538.102 113 20
+chrome96.0.4664.55 10 1
+firefox79.0 1 1
+chrome49.0.2623.112 3 3
+chrome79.0.434.62 1 1
+chrome65.0.3325.181 3 3
+chrome90.0.4430.85 5 5
+firefox50.0 6 6
+edge17 1472 1172
+opera12.16 15 14
+chrome32.0.1700.68 18 18
+firefox40.0 1 1
+chrome76.0.3809.132 2 2
+firefox77.0 1 1
+chrome68.0.3440.106 9 9
+chrome63.0.3239.132 2 2
+firefox29.0 8 7
+safari6.0.5 22 22
+firefox33.0 15 15
+chrome47.0.2526.106 2 2
+firefox75.0 2 2
+firefox25.0 89 82
+mozilla 38 36
+arora 1 1
+chrome68.0.3440.84 9 9
+opera70.0.3728.95 5 5
+chrome35.0.1916.47 2 2
+chrome84.0.4147.105 10 10
+safari6.1.1 35 31
+safari5.1.9 24 24
+chrome73.0.3683.90 1 1
+safari6.1 33 30
+firefox36.0 28 25
+safari 1379 1179
+safari7.0 16 16
+chrome67.0.3396.87 6 6
+chrome73.0.1220.22 1 0
+safari14.1 44 4
+chrome41.0.2225.0 3 3
+android 4 4
+chrome12.0.742.91 18 16
+chrome68.0.3440.75 3 3
+chrome67.0.3396.79 3 3
+firefox52.0 1 1
+opera55.0.2994.44 4 4
+chrome19.0.1061.1 1 1
+chrome32.0.1700.41 26 25
+chrome71.0.3578.98 1 1
+safari14.0 1 1
+firefox24.0 33 31
+firefox63.0 3325 2849
+firefox95.0 98 8
+firefox31.0 25 24
+iphone 179 61
+chrome70.0.669.19 1 0
+chrome96.0.4664.104 17 2
+edge16 3 3
+chrome26.0.1410.65 2 2
+chrome34.0.1847.116 5 5
+firefox94.0 1 1
+chrome83.0.4103.61 2 2
+chrome95.0.4638.74 1350 1123
+chrome74.0.3729.169 13 13
+msie9.0 80 47
+chrome57 8 3
+safari14.1.2 1443 1142
+Unknown 9 9
+safari15.1 205 69
+firefox27.0 35 32
+chrome14.0.835.202 12 12
+firefox11.0 1 0
+chrome72.0.3626.109 7 7
+chrome96.0.4664.110 1 0
+chrome74.0.1290.49 1 0
+chrome77.0.3865.90 8 8
+chrome30.0.1599.17 1 1
+firefox89.0 1 1
+opera54.0.2952.71 6 6
+opera53.0.2907.99 9 9
+chrome76.0.3809.100 2 2
+opera53.0.2907.68 3 3
+chrome78.0.3904.108 27 27
+opera8.01 1 1
+chrome41.0.2227.0 19 19
+chrome28.0.1500.71 32 0
+chrome79.0.3945.88 2 2
+msie11.0 80 71
+chrome45.0.2454.94 1 1
+chrome67.0.3396.99 9 9
+firefox81.0 13 13
+opera53.0.2907.106 3 3
+chrome35.0.1916.153 29 27
+chrome92.0.4515.107 27 5
+chrome92.0.4515.159 61 36
+chrome96.0.4664.93 1 0
+msie10.0 64 57
+opera54.0.2952.64 3 3
+chrome80.0.3987.132 33 11
+chrome96.0.4664.45 1050 737
+firefox27.3 27 22
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20211206051936
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20211227161542
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20211216231508
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20211224064648
+Turnitin_(https://bit.ly/2UvnfoQ) 20211226015116
+Mozilla/5.0_(compatible) 20211224040505
+GRequests/0.10 20211231104753
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20211227161542
+Turnitin_(https://bit.ly/2UvnfoQ) 20211226015116
+GRequests/0.10 20211231104753
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 310 393
+From1 1 1
+From2 31 39
+From3 6 6
+From4 9848 12434
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+search_yahoo_co_jp 1 1
+www_google_co_jp 2 4
+bing 2 2
+www_google_ca 1 1
+www_google_com 25 31
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+https://t.co 2 2
+http://m.facebook.com 2 2
+https://t.co/vB2kkTQSEy 1 1
+https://m.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+412 2 466
+303 5 0
+400 1 226
+401 144 12528
+302 154 33569
+405 64 2646
+404 1726 0
+301 30 2164
+END_ERRORS
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 0
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 1
+/cgi-bin/../../../../../bin/bash 1 -
+END_SIDER_400
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 43
+/blog/wp-includes/wlwmanifest.xml 6 -
+/js/smoothscroll.js 1 -
+//ワクチン接種に自衛隊+都内で5月24日に会場 1 -
+/website/wp-includes/wlwmanifest.xml 6 -
+/.well-known/ 1 binance.com
+/robots.txt 25 -
+/2018京都 1 -
+/X 1 -
+/site/wp-includes/wlwmanifest.xml 6 -
+/wp-admin/css/ 1 binance.com
+/admin/controller/extension/extension/ 1 binance.com
+/wp1/wp-includes/wlwmanifest.xml 6 -
+/error/avocado.php 1 -
+/error/contact.php 1 -
+/uploads/ 1 binance.com
+/wp-includes/wlwmanifest.xml 6 -
+/2019/wp-includes/wlwmanifest.xml 6 -
+/jspractice/index.php 4 -
+/sites/default/files/ 1 binance.com
+/cms/wp-includes/wlwmanifest.xml 6 -
+/test/wp-includes/wlwmanifest.xml 6 -
+/2018/wp-includes/wlwmanifest.xml 6 -
+/xmlrpc.php 6 -
+/jspractice/avocado.php 2 -
+/wp-content/ 2 -
+/diary.html 1 -
+/images/ 1 binance.com
+/東京都、新たに1004人感染+7日平均で前週の55.7% 1 -
+/web/wp-includes/wlwmanifest.xml 6 -
+/nikkei.com/article/DGXZQOUA1578F0V11C21A0000000/ 3 -
+/wp/wp-admin/admin-ajax.php 1 https://developershirai.com/wp/wp-admin/
+/jspractice/contact.php 2 -
+/jspractice/about.php 3 -
+/news/wp-includes/wlwmanifest.xml 6 -
+/wordpress/wp-includes/wlwmanifest.xml 6 -
+/sito/wp-includes/wlwmanifest.xml 6 -
+/shop/wp-includes/wlwmanifest.xml 6 -
+/media/wp-includes/wlwmanifest.xml 6 -
+/contactStyle.css 1 https://developershirai.com/contact.php
+/error/about.php 1 -
+/english-daily-memo.php 2 -
+/files/ 1 binance.com
+/wp2/wp-includes/wlwmanifest.xml 6 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 258
+ec2-34-228-66-49.compute-1.amazonaws.com 4038 4907 196220794 20211210224820
+m106072135193.v4.enabler.ne.jp 1915 2385 46810437 20211220211747
+bzq-82-80-249-158.dcenter.bezeqint.net 1387 1505 2089826951 20211224040919
+kd106128101181.au-net.ne.jp 1123 1350 108268236 20211218192247
+112-137-38-95.jcomnet.j-cnet.jp 1077 1225 45618913 20211230183919
+kd106131037144.au-net.ne.jp 61 160 46829859 20211201220418
+m106185158093.v4.enabler.ne.jp 54 147 91858479 20211206214211
+kd036012040045.au-net.ne.jp 53 141 91783500 20211204200119
+ec2-52-199-248-121.ap-northeast-1.compute.amazonaws.com 32 32 7501538 20211208230753
+hn.kd.ny.adsl 8 8 1717944 20211209230419
+38.77.197.149 1 1 86733 20211212062634
+84.247.48.10 3 3 625567 20211210030116
+210.191.197.75.hotcn.ne.jp 0 1 780985 
+ec2-34-219-87-132.us-west-2.compute.amazonaws.com 1 1 87 20211206051820
+msnbot-207-46-13-217.search.msn.com 0 3 59755 
+185.191.34.215 1 1 0 20211218173124
+ec2-35-86-246-175.us-west-2.compute.amazonaws.com 1 1 86642 20211210062151
+ec2-34-223-7-52.us-west-2.compute.amazonaws.com 1 1 670215 20211231174917
+ec2-52-214-139-15.eu-west-1.compute.amazonaws.com 4 4 103453 20211213132546
+ec2-35-87-13-151.us-west-2.compute.amazonaws.com 1 1 86533 20211206061417
+192.71.36.158 1 1 87108 20211214213845
+petalbot-114-119-128-202.petalsearch.com 1 4 0 20211222192209
+ec2-52-13-49-60.us-west-2.compute.amazonaws.com 1 1 86592 20211209062156
+185.210.217.13 3 3 618629 20211203005001
+unn-156-146-35-30.cdn77.com 3 3 639694 20211216204125
+ec2-54-74-27-244.eu-west-1.compute.amazonaws.com 1 1 86918 20211213004428
+ec2-34-210-68-131.us-west-2.compute.amazonaws.com 1 1 87004 20211210062231
+hosted-by.rootlayer.net 2 2 176432 20211221074632
+46.101.9.216 5 5 181787 20211229015021
+ppp-58-8-212-48.revip2.asianet.co.th 0 1 14885 
+msnbot-207-46-13-210.search.msn.com 0 3 92298 
+ec2-52-35-111-15.us-west-2.compute.amazonaws.com 1 1 85759 20211203064722
+ec2-54-71-150-167.us-west-2.compute.amazonaws.com 1 1 86895 20211209062415
+unn-84-17-60-179.cdn77.com 3 3 635893 20211222122644
+ec2-35-72-184-186.ap-northeast-1.compute.amazonaws.com 5 64 69965636 20211231074144
+158-255-151-159.dynamic.spd-mgts.ru 1 1 617432 20211220043251
+google-proxy-64-233-173-201.google.com 0 1 23114 
+msnbot-207-46-13-22.search.msn.com 0 1 32997 
+ec2-52-26-112-150.us-west-2.compute.amazonaws.com 1 1 670215 20211210131630
+ec2-54-214-145-54.us-west-2.compute.amazonaws.com 1 1 86266 20211204063751
+bras-base-toroon0411w-grc-90-174-95-106-153.dsl.bell.ca 1 13 8495966 20211210123713
+ec2-54-149-71-139.us-west-2.compute.amazonaws.com 1 1 86533 20211206061555
+84.247.48.13 3 3 1241091 20211217094847
+crawler.turnitin.com 1 1 41209 20211226015116
+ec2-34-243-12-97.eu-west-1.compute.amazonaws.com 4 4 103152 20211211143834
+92.204.188.254 3 3 635057 20211221073729
+221.150.127.106 2 2 1227548 20211216143556
+softbank060149140220.bbtec.net 4 44 1617641 20211227203225
+159.65.242.215 1 1 87890 20211221000948
+ec2-54-201-20-235.us-west-2.compute.amazonaws.com 1 1 86285 20211207060351
+unn-156-146-35-34.cdn77.com 3 3 632757 20211219031240
+crawler-52.nicecrawler.com 4 26 2511330 20211201022724
+78.138.99.181 3 3 637431 20211222002200
+45.129.18.89 1 1 0 20211202030732
+ec2-18-237-167-111.us-west-2.compute.amazonaws.com 1 1 85837 20211204064111
+191.101.31.192 3 3 618989 20211201172907
+78.138.99.183 3 3 1238097 20211216155056
+flh3-49-129-240-28.tky.mesh.ad.jp 2 17 180425 20211218182632
+138.199.56.249 3 3 620137 20211202194251
+ec2-34-223-248-242.us-west-2.compute.amazonaws.com 1 1 86592 20211209062401
+msnbot-207-46-13-31.search.msn.com 0 1 27703 
+msnbot-207-46-13-183.search.msn.com 0 1 26304 
+sp110-163-12-217.msb.spmode.ne.jp 4 26 2390974 20211212222437
+ec2-18-237-76-19.us-west-2.compute.amazonaws.com 1 1 88517 20211227020132
+ec2-34-253-82-83.eu-west-1.compute.amazonaws.com 3 3 630280 20211210103351
+ec2-52-208-21-237.eu-west-1.compute.amazonaws.com 4 4 103258 20211212060954
+45.129.18.171 1 1 0 20211227190226
+191.101.217.203 3 3 620188 20211203102816
+nm35-hdparm-help.rapidmms.com 1 1 86733 20211211221906
+sp49-98-131-155.msd.spmode.ne.jp 5 40 535045 20211206054544
+msnbot-40-77-167-4.search.msn.com 0 1 6702 
+59.175.144.19 1 1 88958 20211231104753
+108.61.165.97.vultr.com 1 1 88815 20211228231451
+ec2-52-88-151-167.us-west-2.compute.amazonaws.com 1 1 87002 20211211060712
+ec2-35-88-150-173.us-west-2.compute.amazonaws.com 1 1 87002 20211211060654
+ec2-54-68-100-30.us-west-2.compute.amazonaws.com 1 1 85648 20211202064824
+msnbot-40-77-167-79.search.msn.com 0 1 115167 
+ec2-13-231-193-21.ap-northeast-1.compute.amazonaws.com 1 1 88899 20211230035519
+rate-limited-proxy-72-14-199-53.google.com 0 11 179513 
+ec2-35-88-119-157.us-west-2.compute.amazonaws.com 1 1 86642 20211210062137
+ec2-3-250-20-234.eu-west-1.compute.amazonaws.com 1 1 86711 20211212115214
+kd106154143179.au-net.ne.jp 1 10 1160296 20211206020740
+vmi633572.contaboserver.net 7 7 4254718 20211212183232
+146.70.16.246 3 3 631235 20211217004511
+ec2-54-246-54-30.eu-west-1.compute.amazonaws.com 1 1 86733 20211212194113
+opt-123-254-48-153.client.pikara.ne.jp 1 10 1538023 20211211030105
+188.166.236.12 3 3 1878183 20211230020909
+sp49-98-173-21.msd.spmode.ne.jp 4 26 2389578 20211215171845
+unn-89-187-168-166.cdn77.com 3 3 633192 20211219000335
+msnbot-207-46-13-206.search.msn.com 0 1 227 
+109.248.148.252 3 3 1243633 20211219152211
+92.118.160.13.netsystemsresearch.com 1 1 605159 20211206014901
+92.204.188.248 3 3 640976 20211227141658
+65.154.226.165 8 54 5200995 20211206074011
+38.18.43.153 1 1 87606 20211218072943
+blae.cksjwo.com 2 2 176965 20211224214455
+78.138.99.187 3 3 628793 20211215002548
+up-in-pull.funfinest.net 1 1 609182 20211210042309
+ec2-34-244-89-255.eu-west-1.compute.amazonaws.com 1 1 87323 20211213142148
+151.106.8.44 3 3 623262 20211207122951
+rate-limited-proxy-72-14-199-55.google.com 0 15 248890 
+ec2-3-249-74-251.eu-west-1.compute.amazonaws.com 1 1 86642 20211211055428
+tor-exit-node.spongebob.nicdex.com 1 1 87990 20211222222822
+crawl-149-56-150-149.dataproviderbot.com 1 1 619207 20211221204647
+host75.kneasy.com 1 1 87769 20211220094651
+ec2-3-142-122-14.us-east-2.compute.amazonaws.com 1 1 87 20211206051935
+128.199.127.143 1 1 0 20211208190154
+ih2106398.ihor-dedic.ru 1 1 612087 20211214093213
+ec2-3-249-129-9.eu-west-1.compute.amazonaws.com 1 1 87106 20211213192801
+ec2-3-239-161-95.compute-1.amazonaws.com 4 26 2520965 20211207151531
+ec2-3-6-150-77.ap-south-1.compute.amazonaws.com 1 1 87371 20211216112232
+ec2-18-116-86-117.us-east-2.compute.amazonaws.com 1 1 87 20211206051820
+no-mans-land.m247.com 3 3 642275 20211230012116
+ec2-3-250-144-154.eu-west-1.compute.amazonaws.com 1 1 86918 20211213065820
+j333941.servers.jiffybox.net 1 1 88816 20211229105325
+ec2-13-112-186-23.ap-northeast-1.compute.amazonaws.com 1 1 161502 20211207024801
+117.102.201.239.static.zoot.jp 1 1 88497 20211228093549
+sp1-79-89-229.msb.spmode.ne.jp 0 1 31428 
+ec2-18-237-122-186.us-west-2.compute.amazonaws.com 1 1 86718 20211208064106
+ec2-54-188-232-115.us-west-2.compute.amazonaws.com 1 1 86619 20211207060404
+ec2-79-125-43-28.eu-west-1.compute.amazonaws.com 4 4 103621 20211214143354
+ec2-3-92-195-168.compute-1.amazonaws.com 1 1 87108 20211214182314
+52.138.175.107 6 6 3603720 20211201024722
+ec2-3-249-112-220.eu-west-1.compute.amazonaws.com 1 1 86711 20211212010848
+92.118.160.5.netsystemsresearch.com 1 1 621611 20211225162039
+static.185.181.60.189.terrahost.no 1 1 88130 20211220140704
+128.199.232.182 3 3 16084 20211221133203
+69.160.160.61 4 26 2504920 20211229220637
+unn-195-181-170-91.datapacket.com 4 4 1275299 20211231113826
+40.87.106.89 6 6 3603720 20211201130847
+194.32.122.17 3 3 635390 20211221085957
+ec2-52-192-94-22.ap-northeast-1.compute.amazonaws.com 2 2 3406 20211221044608
+20.77.49.95 2 2 171728 20211205004707
+ec2-52-17-38-20.eu-west-1.compute.amazonaws.com 1 1 86618 20211211123929
+msnbot-207-46-13-77.search.msn.com 0 1 20591 
+p7562200-ipoefx.ipoe.ocn.ne.jp 4 25 267486 20211216211232
+116.177.126.34.bc.googleusercontent.com 3 3 1828704 20211212200454
+ec2-52-26-175-173.us-west-2.compute.amazonaws.com 1 1 85859 20211204062451
+ec2-54-188-20-197.us-west-2.compute.amazonaws.com 1 1 86718 20211208063827
+ec2-52-12-166-202.us-west-2.compute.amazonaws.com 2 2 172735 20211206060920
+187.128.101.34.bc.googleusercontent.com 3 3 1810317 20211204010706
+m014008109129.v4.enabler.ne.jp 0 1 424209 
+swe-net-ip.as51430.net 1 1 670215 20211205025324
+115.179.164.132 0 1 31640 
+198.204.238.212 3 3 180584 20211222045638
+ec2-34-244-173-44.eu-west-1.compute.amazonaws.com 1 1 86618 20211211200235
+ec2-18-237-142-210.us-west-2.compute.amazonaws.com 1 1 228063 20211204212226
+228.231.158.61.ha.cnc 4 4 860514 20211207235435
+49.96.217.35.bc.googleusercontent.com 1 1 88827 20211228172302
+ec2-18-178-242-18.ap-northeast-1.compute.amazonaws.com 1 1 14805 20211230000124
+ec2-52-34-25-56.us-west-2.compute.amazonaws.com 1 1 85586 20211201063531
+abstraction-gb.careisle.org.uk 2 2 172612 20211207022823
+ec2-35-76-120-56.ap-northeast-1.compute.amazonaws.com 2 22 16421124 20211226181402
+ec2-34-254-96-13.eu-west-1.compute.amazonaws.com 4 4 103857 20211213111923
+ec2-35-167-216-19.us-west-2.compute.amazonaws.com 1 1 670215 20211212075409
+88-127-15-51.instances.scw.cloud 1 1 88950 20211231043322
+51.145.92.28 3 3 1864833 20211225060328
+static.45.206.21.65.clients.your-server.de 1 1 87802 20211216173131
+ec2-44-234-50-34.us-west-2.compute.amazonaws.com 1 1 88826 20211227030018
+srv01.blackbitrix.ru 1 1 86535 20211208191143
+ec2-18-237-95-188.us-west-2.compute.amazonaws.com 1 1 85645 20211202062815
+20.108.254.25 3 3 1864833 20211225141653
+42.83.147.34 5 5 437958 20211230191450
+msnbot-207-46-13-182.search.msn.com 0 3 70598 
+ec2-34-244-217-244.eu-west-1.compute.amazonaws.com 1 1 86434 20211208145151
+ec2-35-87-16-210.us-west-2.compute.amazonaws.com 1 1 85567 20211201064142
+ec2-52-40-102-70.us-west-2.compute.amazonaws.com 1 1 85951 20211201064140
+ec2-34-245-185-132.eu-west-1.compute.amazonaws.com 4 4 103246 20211212020238
+138.199.59.153 3 3 637342 20211224024356
+120.229.251.229 1 1 108599 20211218080045
+180.171.163.118 2 2 1236639 20211223034943
+ec2-34-209-227-88.us-west-2.compute.amazonaws.com 1 1 86895 20211209062413
+msnbot-157-55-39-190.search.msn.com 0 1 6702 
+scanner-07.ch1.censys-scanner.com 2 2 174940 20211216231508
+ec2-54-195-35-84.eu-west-1.compute.amazonaws.com 4 4 103177 20211211184745
+ec2-34-240-153-215.eu-west-1.compute.amazonaws.com 1 1 86711 20211212065925
+ec2-34-219-83-111.us-west-2.compute.amazonaws.com 1 1 85858 20211205062459
+8.142.40.86 3 8 212478 20211211222501
+ec2-35-167-103-112.us-west-2.compute.amazonaws.com 2 2 172368 20211203112609
+ec2-54-213-240-45.us-west-2.compute.amazonaws.com 1 1 86701 20211212061713
+rate-limited-proxy-72-14-199-51.google.com 1 7 115780 20211224064648
+159.223.80.86 2 2 1218364 20211210210134
+cerebro-ldc-prod-102.kaspersky-labs.com 1 1 88517 20211227051601
+92.204.174.91 3 3 639510 20211217180551
+195-246-120-175-static.serverhotell.net 3 3 633197 20211210064420
+191.101.31.93 3 3 632610 20211218001513
+ec2-13-230-3-14.ap-northeast-1.compute.amazonaws.com 1 12 8589522 20211222224445
+ec2-52-39-4-59.us-west-2.compute.amazonaws.com 1 1 87 20211206051935
+20.121.16.221 1 1 86322 20211206231949
+ec2-13-115-245-72.ap-northeast-1.compute.amazonaws.com 3 3 1862202 20211224053826
+92.118.160.41.netsystemsresearch.com 1 1 609182 20211211023528
+708017.cloudwaysapps.com 1 1 88958 20211231150504
+ppp91-79-16-206.pppoe.mtu-net.ru 2 2 30896 20211206003900
+92.118.160.57.netsystemsresearch.com 1 1 623164 20211227161542
+182.22.17.45 0 1 23548 
+92.118.160.37.netsystemsresearch.com 1 1 611199 20211213092903
+ec2-3-249-241-242.eu-west-1.compute.amazonaws.com 1 1 87108 20211214010225
+ec2-13-48-134-105.eu-north-1.compute.amazonaws.com 1 1 0 20211209200954
+kd106146019125.au-net.ne.jp 1 1 20628 20211204141900
+65.155.30.101 4 26 2520966 20211206180946
+outbound2.letsencrypt.org 2 2 174 20211206051935
+ec2-107-22-29-147.compute-1.amazonaws.com 1 1 670215 20211210151210
+ec2-3-120-130-29.eu-central-1.compute.amazonaws.com 1 1 87 20211206051820
+ec2-34-214-209-135.us-west-2.compute.amazonaws.com 1 1 670215 20211218175753
+ec2-34-211-36-35.us-west-2.compute.amazonaws.com 1 1 88676 20211224194011
+ec2-18-237-130-148.us-west-2.compute.amazonaws.com 1 1 85836 20211205062516
+ec2-52-42-54-159.us-west-2.compute.amazonaws.com 1 1 86711 20211212061700
+ec2-18-118-28-30.us-east-2.compute.amazonaws.com 6 36 357319 20211206152953
+191.101.217.47 3 3 624631 20211208020618
+190.43.229.50 0 1 14885 
+ec2-54-212-139-145.us-west-2.compute.amazonaws.com 1 1 86202 20211206060918
+100.109.76.34.bc.googleusercontent.com 1 1 88216 20211224000821
+ec2-34-222-142-191.us-west-2.compute.amazonaws.com 1 1 86184 20211203064720
+ec2-34-222-19-16.us-west-2.compute.amazonaws.com 1 1 86619 20211207061127
+109.248.148.243 3 3 639316 20211227073524
+vds3.domengood.ru 1 1 0 20211225095321
+ec2-3-250-99-25.eu-west-1.compute.amazonaws.com 4 4 103244 20211212173606
+ecs-124-70-74-250.compute.hwclouds-dns.com 1 1 88517 20211227034229
+130.255.166.213 1 1 87990 20211222115049
+unn-37-19-223-242.datapacket.com 3 3 635678 20211223071253
+ec2-52-12-45-53.us-west-2.compute.amazonaws.com 1 1 87002 20211211060740
+159.223.69.159 3 3 1862202 20211224181105
+ec2-54-212-210-135.us-west-2.compute.amazonaws.com 1 1 86718 20211208064106
+ec2-34-213-125-23.us-west-2.compute.amazonaws.com 1 1 86202 20211206061016
+ec2-34-210-29-38.us-west-2.compute.amazonaws.com 1 1 85858 20211205061802
+39.106.98.188 1 1 88517 20211226122637
+159.89.34.134 3 3 1853448 20211221102708
+61.147.15.67 2 2 177350 20211225020719
+ec2-54-212-180-96.us-west-2.compute.amazonaws.com 1 1 87002 20211211060105
+8.59.91.34.bc.googleusercontent.com 4 29 2950046 20211207141131
+ec2-54-244-202-186.us-west-2.compute.amazonaws.com 1 1 85664 20211202062816
+ec2-34-221-247-51.us-west-2.compute.amazonaws.com 1 1 86733 20211212063527
+msnbot-157-55-39-16.search.msn.com 0 1 32997 
+msnbot-207-46-13-197.search.msn.com 0 8 356339 
+152.174.20.86 0 1 14885 
+static.43.206.21.65.clients.your-server.de 1 1 86642 20211210024207
+unn-156-146-35-19.cdn77.com 3 3 619136 20211202015912
+130.255.166.24 1 1 88827 20211228170504
+ec2-18-159-196-172.eu-central-1.compute.amazonaws.com 1 1 87 20211206051936
+92.118.160.1.netsystemsresearch.com 1 1 606029 20211206212250
+ec2-34-239-156-175.compute-1.amazonaws.com 4 26 2515285 20211214161352
+ec2-34-216-195-107.us-west-2.compute.amazonaws.com 1 1 86533 20211206061403
+ns5007859.ip-15-235-9.net 1 1 10549 20211228184912
+ppp91-79-13-191.pppoe.mtu-net.ru 1 1 611199 20211213105430
+unn-156-146-35-50.cdn77.com 3 3 1211789 20211201021842
+51.11.108.8 6 6 3603720 20211201134039
+ec2-18-236-160-1.us-west-2.compute.amazonaws.com 1 1 86533 20211206061122
+ec2-18-183-242-222.ap-northeast-1.compute.amazonaws.com 1 1 623164 20211227141713
+msnbot-207-46-13-61.search.msn.com 0 4 277010 
+92.204.175.86 3 3 631128 20211215214219
+178-175-131-101.static.as43289.net 2 2 174019 20211213180000
+ec2-52-37-45-250.us-west-2.compute.amazonaws.com 1 1 87004 20211210063941
+ec2-13-231-201-35.ap-northeast-1.compute.amazonaws.com 6 6 3657408 20211212121421
+ec2-34-222-223-124.us-west-2.compute.amazonaws.com 2 2 172903 20211207060358
+ec2-34-222-164-87.us-west-2.compute.amazonaws.com 1 1 85759 20211203063711
+ec2-34-222-138-252.us-west-2.compute.amazonaws.com 1 1 228063 20211219113330
+ns5004707.ip-192-99-18.net 8 8 213358 20211222222844
+unn-37-19-217-217.datapacket.com 3 3 626643 20211210052616
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20211201 791 1092 74426745 12
+20211202 14 14 2351368 7
+20211203 69 199 16853726 9
+20211204 1136 1367 134171055 10
+20211205 6 6 1099495 5
+20211206 177 411 125570480 26
+20211207 27 79 7991936 11
+20211208 42 43 8660565 12
+20211209 9 9 1209780 6
+20211210 4063 4941 218499425 16
+20211211 20 35 3280988 14
+20211212 39 65 12786447 21
+20211213 16 16 1951992 10
+20211214 13 36 3620788 7
+20211215 10 34 3655629 3
+20211216 16 37 3722938 7
+20211217 9 9 2511836 3
+20211218 1132 1374 131867389 7
+20211219 11 18 3247308 5
+20211220 11 38 4505724 5
+20211221 18 19 4114782 8
+20211222 18 28 17975301 9
+20211223 4 4 1254885 2
+20211224 1401 1533 2094979869 8
+20211225 10 12 5309612 5
+20211226 4 21 31129207 4
+20211227 20 95 6245327 11
+20211228 5 6 388629 5
+20211229 12 53 64450256 4
+20211230 1083 1222 76319660 7
+20211231 10 30 45586052 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 2
+2mn-5mn 15
+30s-2mn 13
+0s-30s 230
+15mn-30mn 1
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 108
+/gallery2/2021年日常/resize/favorite 2751 37857270 0 0
+/gallery2/2012年 1163 26633372 0 0
+/gallery2/2011年 914 20129875 0 0
+/gallery2/2013年 737 12580361 0 1
+/gallery2/2021年日常/favorite 670 1392463161 1 3
+/gallery2/2013-11青森/2013-11青森small/2013-11 642 7740407 0 0
+/gallery2/2013年2月 608 12324086 0 0
+/gallery2/和田堀公園/resize/和田堀公園 485 7762349 0 0
+/gallery2/2013年9月18日 334 7449095 0 0
+/ 297 91198256 219 158
+/.well-known/acme-challenge/KxZEBuWGhqY0DaiOfhXeJMRktVAK-F04EKI-uU_6IRw 4 348 4 3
+/gallery/diary/2020-07-07 4 381604 0 0
+/puyo2/www/puyoforlaptop.php 3 6966 0 0
+/gallery/avocado/avo20210710 6 644042 0 0
+/gallery/avocado/avo20210626 4 362810 0 0
+/jspractice/ 1 7563 1 0
+/portfolio1/portfolio1.html 3 5412 0 0
+/portfolio2/skytravel.html 1 1300 0 1
+/gallery/コメント 21 3860178 0 1
+/gallery2/2021井の頭公園/井の頭公園 29 91982984 0 0
+/puyo2/www/puyoformobile.php 1 1866 0 1
+/gallery/avocado/avo20210529 4 356066 0 0
+/link.php 2 12118 0 1
+/gallery/diary/シリコンスチーマー 24 2500744 0 0
+/gallery/diary/diary20210228/4in1 32 75451328 0 0
+/wp/wp-content/themes/cocoon-master/webfonts/icomoon/fonts/icomoon.ttf 6 75000 0 1
+/gallery2/2021年11月 174 111569662 0 3
+/avocado.php 5 91680 0 0
+/wp/wp-json/wp/v2/users 4 2608 0 1
+/wp/テスト+今-日-の-ね-こ-ち-ゃ-ん-お-み-く-じ/ 2 31903 0 0
+/smt.php 4 110812 0 0
+/wp/wp-admin/admin-ajax.php 2 2360 0 0
+/gallery2/2021井の頭公園/resize/井の頭公園 183 2369255 0 0
+/about.php 17 146376 1 2
+/gallery/avocado/avo20210718 6 598590 0 0
+/gallery/smart/smt20210123 5 187392 0 0
+/gallery2/2012ヌッ 1 229430 0 0
+/confirm.php 24 156173 0 24
+/js/lightgallery/fonts/lg.ttf 1 4432 0 0
+/gallery/avocado/avo20210424 4 352676 0 0
+/wp/home/ 3 43170 0 0
+/gallery.php 14 288792 2 3
+/gallery2/2021ヌッニresize/favorite 2 17766 0 0
+/contact.php 59 533060 2 11
+/wp/wp-content/themes/cocoon-master/lib/analytics/access.php 5 0 0 1
+/gallery/avocado/avo20210807 6 543188 0 0
+/gallery/avocado/avo20210724 6 639532 0 0
+/janken.php 8 31992 0 0
+/gallery/avocado/avo20210501 4 299898 0 0
+/gallery/avocado/avo20210401 4 330402 0 0
+/gallery2/2021ǯ日常/favorite 1 84919 0 0
+/qresults.php 7 32195 0 2
+/movie.php 4 284512 1 1
+/video.php 4 36764 1 2
+/gallery/avocado/avo20211003 6 589020 0 0
+/gallery/avocado/avo20210522 6 553802 0 0
+/diary.php 6 197728 0 0
+/gallery/smart/smt20200704 4 145482 0 0
+/wp/wp-admin/ 1 40975 0 0
+/gallery2/2021年3月25日新宿御苑/resize/20210326新宿御苑桜 75 1207385 0 0
+/gallery/diary/kiyytpen 4 631892 0 0
+/gallery/avocado/avo20210703 6 543266 0 0
+/jspractice/nekochan.php 3 11604 0 0
+/qconfirm.php 12 43916 0 1
+/gallery/diary/Photos/餃子 8 935396 0 0
+/gallery/avocado/avo20210822 6 694154 0 0
+/google8e5591913ca5a3f4.html 1 53 1 1
+/gallery/avocado/avo20210619 4 428862 0 0
+/gallery2/2013-11青森/2013-11青森large/2013-11 82 7618392 0 0
+/wp/author/developershirai/ 2 26658 0 1
+/gallery/avocado/shirahyu-avocado20200602 2 241620 0 0
+/.well-known/acme-challenge/2PdwWAuR9YF9Kalz4dm69jTShnlGRcuzmvqa9myFyds 4 348 3 4
+/english-memo.php 3 90159 1 1
+/wp/ 7 92554 6 0
+/gallery/diary/diary20210428/diary20210428 16 1164480 0 0
+/error/404.php 2 7518 0 0
+/wp/wp-admin/load-styles.php 2 212374 0 1
+/gallery/avocado/avo20210415 4 386652 0 0
+/gallery/visual 22 4178922 0 5
+/wp/wp-login.php 19 53153 2 1
+/portfolio/portfolio2.php 1 1680 0 0
+/gallery/avocado/avo20210604 4 357718 0 0
+/gallery2/2021年3月25日新宿御苑/20210326新宿御苑桜 55 155398966 0 1
+/music.php 3 44415 1 1
+/jspractice/work.php 10 61266 0 3
+/gallery2/和田堀公園/和田堀公園 83 215182150 0 0
+/gallery/avocado/avo20210315 4 392406 0 0
+/gallery/avocado/avo20210515 4 338554 0 0
+/jspractice/omikuji.php 7 13601 0 1
+/wp/wp-admin/update-core.php 1 30460 0 0
+/aboutsite.php 21 127908 0 4
+/jankenResult.php 5 19233 0 0
+/questionnaire.php 13 87118 0 0
+/english.php 5 213815 1 1
+/technical-diary.php 7 4136457 6 6
+/gallery/avocado/avo20210216 4 376002 0 0
+/gallery/diary/2020-06-06 4 564916 0 0
+/privacy-policy.php 1 3978 0 0
+/gallery2/2020-1129 266 236137989 0 0
+/english-daily-conversation.php 16 1593728 12 9
+/gallery/FTTTP 21 591360 0 4
+/gallery/avocado/avo20210612 4 371822 0 0
+/gallery/smart/smt20210212 6 218836 0 0
+/gallery/diary/shareholder 16 903540 0 0
+/gallery/avocado/avo20210508 4 388514 0 0
+/gallery/diary/applejelly 16 1709612 0 0
+/wp/wp-admin/load-scripts.php 2 77973 0 0
+/gallery/smart/smt2020515 1 55559 0 0
+END_SIDER
