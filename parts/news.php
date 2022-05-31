@@ -42,6 +42,60 @@
                         </a>
         </li>
         <hr> -->
+        2022年05月31日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC310BK0R30C22A5000000/" target="blank" rel="noopener">
+                東京都、新たに2362人感染　7日平均で前週の76.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM301TW0Q2A530C2000000/" target="blank" rel="noopener">
+                中国景況感、3カ月連続50割れ　ゼロコロナで景気弱く</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB312H40R30C22A5000000/" target="blank" rel="noopener">
+                アフリカ初のコロナワクチン工場、半年で閉鎖の危機</a>
+        </li>
+        <hr>
+        2022年05月30日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC3009I0Q2A530C2000000/" target="blank" rel="noopener">
+                東京都、新たに1344人感染　7日平均で前週の78.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM309YH0Q2A530C2000000/" target="blank" rel="noopener">
+                上海市、6月1日にロックダウン解除　自由な外出可能に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC304QN0Q2A530C2000000/" target="blank" rel="noopener">
+                東京都、大規模会場で米ノババックス製ワクチン接種開始</a>
+        </li>
+        <hr>
+        2022年05月29日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC291TR0Z20C22A5000000/" target="blank" rel="noopener">
+                東京都、新たに2194人感染　7日平均で前週の80.2%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGH2526U0V20C22A5000000/" target="blank" rel="noopener">
+                ポストコロナの消費行動　実店舗とネットのいいとこ取り</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA093NA0Z00C22A5000000/" target="blank" rel="noopener">
+                欧米の旅行需要、ほぼコロナ前水準に　東アジアは低迷</a>
+        </li>
+        <hr>
         2022年05月28日
 
         <li>
