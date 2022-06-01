@@ -24,7 +24,7 @@
 
 
 
-        <!-- 2022年05月XX日
+        <!-- 2022年06月XX日
 
         <li>
                 <i class="far fa-file-alt"></i>
@@ -42,6 +42,24 @@
                         </a>
         </li>
         <hr> -->
+        2022年06月01日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC010UC0R00C22A6000000/" target="blank" rel="noopener">
+                東京都、新たに2415人感染　7日平均で前週の71.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE317EY0R30C22A5000000/" target="blank" rel="noopener">
+                入国上限、2万人に緩和　国・地域をリスクで3分類</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM31D6W0R30C22A5000000/" target="blank" rel="noopener">
+                上海市、2カ月ぶりロックダウン解除　正常化になお時間</a>
+        </li>
+        <hr>
         2022年05月31日
 
         <li>
