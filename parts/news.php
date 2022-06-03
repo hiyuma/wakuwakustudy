@@ -42,6 +42,42 @@
                         </a>
         </li>
         <hr> -->
+        2022年06月03日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC030BW0T00C22A6000000/" target="blank" rel="noopener">
+                東京都、新たに2111人感染　7日平均で前週の69.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC02C3Q0S2A600C2000000/" target="blank" rel="noopener">
+                「モデルナアーム」女性が5倍　自衛隊中央病院が推計</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOJC033580T00C22A6000000/" target="blank" rel="noopener">
+                九州沖縄7県、出生率低下　鹿児島は上昇、沖縄全国首位</a>
+        </li>
+        <hr>
+        2022年06月02日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC022SO0S2A600C2000000/" target="blank" rel="noopener">
+                東京都、新たに2335人感染　7日平均で前週の68.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA01AI40R00C22A6000000/" target="blank" rel="noopener">
+                子どもへのコロナ検査「有症状に限定を」　専門家組織</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC315K80R30C22A5000000/" target="blank" rel="noopener">
+                ANAの接客、スマホ主役に　変わる空のおもてなし</a>
+        </li>
+        <hr>
         2022年06月01日
 
         <li>
