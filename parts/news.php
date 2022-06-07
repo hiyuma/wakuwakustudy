@@ -42,6 +42,78 @@
                         </a>
         </li>
         <hr> -->
+        2022年06月07日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC070BA0X00C22A6000000/" target="blank" rel="noopener">
+                東京都、新たに1800人感染　7日平均で前週の72.4%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN06CK40W2A600C2000000/" target="blank" rel="noopener">
+                米、ワクチン8200万回分を廃棄　期限切れ・需要減で</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB070UF0X00C22A6000000/" target="blank" rel="noopener">
+                シンガポール、外国人労働者に続く「ロックダウン」</a>
+        </li>
+        <hr>
+        2022年06月06日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC060DK0W2A600C2000000/" target="blank" rel="noopener">
+                東京都、新たに1013人感染　7日平均で前週の71.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCD25AVB0V20C22A5000000/" target="blank" rel="noopener">
+                マスクいつまで着けるか　識者に聞く</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF231TT0T20C22A5000000/" target="blank" rel="noopener">
+                レジャーや飲食、人出回復にらみ採用拡大　USJは時給増</a>
+        </li>
+        <hr>
+        2022年06月05日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC051NO0V00C22A6000000/" target="blank" rel="noopener">
+                東京都、新たに1584人感染　7日平均で前週の71.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA021SU0S2A600C2000000/" target="blank" rel="noopener">
+                国内死亡数が急増、1～3月3.8万人増　コロナ感染死の4倍</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM0512P0V00C22A6000000/" target="blank" rel="noopener">
+                北京市、店内飲食が1カ月ぶりに解禁　6日から</a>
+        </li>
+        <hr>
+        2022年06月04日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC041JB0U2A600C2000000/" target="blank" rel="noopener">
+                東京都、新たに2071人感染　7日平均で前週の70.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN03DO00T00C22A6000000/" target="blank" rel="noopener">
+                「働かない1億人」　コロナが映した老いる米国</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC293DL0Z20C22A3000000/" target="blank" rel="noopener">
+                国産コロナワクチン実用化へ　塩野義製薬、月内にも申請</a>
+        </li>
+        <hr>
         2022年06月03日
 
         <li>
