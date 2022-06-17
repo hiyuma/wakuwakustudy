@@ -42,6 +42,186 @@
                         </a>
         </li>
         <hr> -->
+        2022年06月17日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC171AH0X10C22A6000000/" target="blank" rel="noopener">
+                東京都、新たに1596人感染　7日平均で前週の92.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB1723X0X10C22A6000000/" target="blank" rel="noopener">
+                ネコから人に感染初確認　タイ南部、新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC16C7H0W2A610C2000000/" target="blank" rel="noopener">
+                JAL社長「7月に単月黒字へ」　国際線、想定上回る回復</a>
+        </li>
+        <hr>
+        2022年06月16日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC160XS0W2A610C2000000/" target="blank" rel="noopener">
+                東京都、新たに1819人感染　7日平均で前週の88.7%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA141GX0U2A610C2000000/" target="blank" rel="noopener">
+                「感染症危機管理庁」新設、対応を一元化　首相表明へ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC16AE80W2A610C2000000/" target="blank" rel="noopener">
+                東京都、コロナ感染の警戒度引き下げ　上から3番目</a>
+        </li>
+        <hr>
+        2022年06月15日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC150W90V10C22A6000000/" target="blank" rel="noopener">
+                東京都、新たに2015人感染　7日平均で前週の86.0%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM153YI0V10C22A6000000/" target="blank" rel="noopener">
+                中国経済回復鈍く　5月小売売上高6.7%減、失業率は5.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA153VA0V10C22A6000000/" target="blank" rel="noopener">
+                病床確保、措置なく逼迫　コロナ対応検証会議が報告書</a>
+        </li>
+        <hr>
+        2022年06月14日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="東京都、新たに1528人感染　重症者初のゼロに" target="blank" rel="noopener">
+                東京都、新たに1528人感染　重症者初のゼロに</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB1213K0S2A610C2000000/" target="blank" rel="noopener">
+                動物からの感染症を警戒、最前線のウガンダ研究者</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC198J80Z10C22A5000000/" target="blank" rel="noopener">
+                旅行者向け新税、自治体で導入広がる　観光政策の財源に</a>
+        </li>
+        <hr>
+        2022年06月13日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1309T0T10C22A6000000/" target="blank" rel="noopener">
+                東京都、新たに960人感染　約5カ月ぶり1000人下回る</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUD281DK0Y2A520C2000000/" target="blank" rel="noopener">
+                新型コロナウイルスは体内にいつまで残るのか</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM1331T0T10C22A6000000/" target="blank" rel="noopener">
+                ベトナムの最低賃金　6%引き上げで決着　7月1日から</a>
+        </li>
+        <hr>
+        2022年06月12日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC120V20S2A610C2000000/" target="blank" rel="noopener">
+                東京都、新たに1546人感染　7日平均で前週の79.4%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC024PB0S2A500C2000000/" target="blank" rel="noopener">
+                飲食店予約、欧米はコロナ前超え　日本は回復遅れ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB1140D0R10C22A6000000/" target="blank" rel="noopener">
+                上海で大規模PCR実施　コロナ感染に警戒強化</a>
+        </li>
+        <hr>
+        2022年06月11日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC111UK0R10C22A6000000/" target="blank" rel="noopener">
+                東京都、新たに1526人感染　7日平均で前週の76.4%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN10D4Q0Q2A610C2000000/" target="blank" rel="noopener">
+                米、入国時の陰性証明不要に　新型コロナ検査</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC102160Q2A610C2000000/" target="blank" rel="noopener">
+                訪日客解禁、企業動く　経済効果「年16兆円」</a>
+        </li>
+        <hr>
+        2022年06月10日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC100D40Q2A610C2000000/" target="blank" rel="noopener">
+                東京都、新たに1600人感染　7日平均で前週の77.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN09DTY0Z00C22A6000000/" target="blank" rel="noopener">
+                新たなオミクロン派生型、米国で増加　「BA.5」など</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR09EW10Z00C22A6000000/" target="blank" rel="noopener">
+                WHO、新型コロナ起源「初期報告書」公表　進展乏しく</a>
+        </li>
+        <hr>
+        2022年06月09日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC090WG0Z00C22A6000000/" target="blank" rel="noopener">
+                東京都、新たに1876人感染　7日平均で前週の78.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC095EC0Z00C22A6000000/" target="blank" rel="noopener">
+                ANA、7月に羽田発着の国内線全便運航　20年3月以来</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC03CMK0T00C22A6000000/" target="blank" rel="noopener">
+                「勤務地不問」の求人数、コロナ前の11倍に</a>
+        </li>
+        <hr>
+        2022年06月08日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC080Z80Y2A600C2000000/" target="blank" rel="noopener">
+                東京都、新たに1935人感染　7日平均で前週の76.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC038XO0T00C22A6000000/" target="blank" rel="noopener">
+                コロナ下のメンタルヘルス支援、首都圏で産学官が連携</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUD309V80Q2A530C2000000/" target="blank" rel="noopener">
+                「孫育て」無理せず期待し過ぎず　コロナで距離感変化も</a>
+        </li>
+        <hr>
         2022年06月07日
 
         <li>
