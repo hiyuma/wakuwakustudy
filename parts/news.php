@@ -42,6 +42,204 @@
                         </a>
         </li>
         <hr> -->
+        2022年06月28日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC280CY0Y2A620C2000000/" target="blank" rel="noopener">
+                東京都、新たに2514人感染　7日平均で前週の128.4%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR27BTQ0X20C22A6000000/" target="blank" rel="noopener">
+                世界のコロナ感染者、増加傾向に　共生路線は変わらず </a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF287LN0Y2A620C2000000/" target="blank" rel="noopener">
+                大阪市、新型コロナ死者92人を計上漏れ　今年1～3月</a>
+        </li>
+        <hr>
+        2022年06月27日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2707S0X20C22A6000000/" target="blank" rel="noopener">
+                東京都、新たに1517人感染　7日平均で前週の128.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM24AW70U2A620C2000000/" target="blank" rel="noopener">
+                中国、地方債の発行加速　6月インフラ資金調達で最大に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODK241950U2A620C2000000/" target="blank" rel="noopener">
+                コロナ対策検証し医療改革の中身競え</a>
+        </li>
+        <hr>
+        2022年06月26日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC261C50W2A620C2000000/" target="blank" rel="noopener">
+                東京都、新たに2004人感染　7日平均で前週の125.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN260LO0W2A620C2000000/" target="blank" rel="noopener">
+                ファイザーの改良型ワクチン、オミクロン派生型に効果</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC2077S0Q2A620C2000000/" target="blank" rel="noopener">
+                コロナ出向終え本業復帰　観光関連、正常化へ備え</a>
+        </li>
+        <hr>
+        2022年06月25日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2521A0V20C22A6000000/" target="blank" rel="noopener">
+                東京都、新たに2160人感染　7日平均で前週の123.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN24DZT0U2A620C2000000/" target="blank" rel="noopener">
+                女性の新型コロナ症状、長引く傾向　研究者ら</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM251K50V20C22A6000000/" target="blank" rel="noopener">
+                上海市、コロナ感染「ゼロ」を達成　トップの李氏が宣言</a>
+        </li>
+        <hr>
+        2022年06月24日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC240DV0U2A620C2000000/" target="blank" rel="noopener">
+                東京都、新たに2181人感染　7日平均で前週の120.7% 新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGS23EQL0T20C22A6000000/" target="blank" rel="noopener">
+                タイ、マスク着用義務を解除　一部病院は感染増を報告 </a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB240N50U2A620C2000000/" target="blank" rel="noopener">
+                東南アジアの観光再開と輸出増、不況回避へ追い風</a>
+        </li>
+        <hr>
+        2022年06月23日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC230CM0T20C22A6000000/" target="blank" rel="noopener">
+                        東京都、新たに2413人感染　7日平均で前週の115.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA13A4C0T10C22A6000000/" target="blank" rel="noopener">
+                        訪日客回復に「出国前検査」の壁　際立つ日本の厳格さ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN22D6R0S2A620C2000000/" target="blank" rel="noopener">
+                        NYブロードウェー、7月から客のマスク着用義務を解除</a>
+        </li>
+        <hr>
+        2022年06月22日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC220M30S2A620C2000000/" target="blank" rel="noopener">
+                東京都、新たに2329人感染　7日平均で前週の109.4%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC223R50S2A620C2000000/" target="blank" rel="noopener">
+                ファイザー、コロナワクチン3回目接種申請　5～11歳用</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA136B80T10C22A6000000/" target="blank" rel="noopener">
+                医療、遅れるデジタル活用　開業医の統治不全に風穴を</a>
+        </li>
+        <hr>
+        2022年06月21日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC210TT0R20C22A6000000/" target="blank" rel="noopener">
+                東京都、新たに1963人感染　7日平均で前週の107.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR20CTC0Q2A620C2000000/" target="blank" rel="noopener">
+                「コロナ対策、国境封鎖は間違い」　航空業界団体トップ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA212FA0R20C22A6000000/" target="blank" rel="noopener">
+                夏ボーナス13.8%増、コロナ回復で4年ぶり　経団連集計</a>
+        </li>
+        <hr>
+        2022年06月20日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC200QH0Q2A620C2000000/" target="blank" rel="noopener">
+                東京都、新たに1076人感染　7日平均で前週の100.8%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF25A4R0V20C22A5000000/" target="blank" rel="noopener">
+                水族館にも値上げの波　ウクライナ侵攻で燃料高追い打ち </a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM181H40Y2A610C2000000/" target="blank" rel="noopener">
+                中国、政策金利据え置き　返済猶予など効果見極め</a>
+        </li>
+        <hr>
+        2022年06月19日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC191GV0Z10C22A6000000/" target="blank" rel="noopener">
+                東京都、新たに1622人感染　7日平均で前週の99.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC15EB80V10C22A6000000/" target="blank" rel="noopener">
+                豪州でインフル流行　コロナと同時「ツインデミック」に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC16E6Z0W2A610C2000000/" target="blank" rel="noopener">
+                オミクロン型、抗ウイルス薬への「耐性」出現リスク低く</a>
+        </li>
+        <hr>
+        2022年06月18日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC181N60Y2A610C2000000/" target="blank" rel="noopener">
+                東京都、新たに1681人感染　7日平均で前週の98.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN17ESK0X10C22A6000000/" target="blank" rel="noopener">
+                ワクチン、変異型にも有効　WHOが接種率向上求める</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFH1412F0U2A610C2000000/" target="blank" rel="noopener">
+                マスク外したい？外せない？100人の本音</a>
+        </li>
+        <hr>
         2022年06月17日
 
         <li>
