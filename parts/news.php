@@ -24,7 +24,7 @@
 
 
 
-        <!-- 2022年06月XX日
+        <!-- 2022年07月XX日
 
         <li>
                 <i class="far fa-file-alt"></i>
@@ -42,6 +42,60 @@
                         </a>
         </li>
         <hr> -->
+        2022年07月01日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC012BN0R00C22A7000000/" target="blank" rel="noopener">
+                東京都、新たに3546人感染　7日平均で前週の144.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA302W80Q2A630C2000000/" target="blank" rel="noopener">
+                路線価、20都道府県で上昇　「在宅」で都心下落</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGS018UI0R00C22A7000000/" target="blank" rel="noopener">
+                タイ航空、2024年に債務超過解消へ　再生計画修正を申請</a>
+        </li>
+        <hr>
+        2022年06月30日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC300V70Q2A630C2000000/" target="blank" rel="noopener">
+                東京都、新たに3621人感染　7日平均で前週の140.4%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB300IV0Q2A630C2000000/" target="blank" rel="noopener">
+                中国でコロナ対策アプリの「不正利用」が横行</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC2923X0Z20C22A6000000/" target="blank" rel="noopener">
+                副業に関心の理由、「コロナによる減収」は減少</a>
+        </li>
+        <hr>
+        2022年06月29日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC290CD0Z20C22A6000000/" target="blank" rel="noopener">
+                東京都、新たに3803人感染　7日平均で前週の137.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM29BDB0Z20C22A6000000/" target="blank" rel="noopener">
+                「雇用環境厳しい」45.6%で最大　中国人民銀4～6月調査</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN2908M0Z20C22A6000000/" target="blank" rel="noopener">
+                米専門家、コロナワクチンの見直し勧告　変異型に備え</a>
+        </li>
+        <hr>
         2022年06月28日
 
         <li>
