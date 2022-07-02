@@ -42,6 +42,24 @@
                         </a>
         </li>
         <hr> -->
+        2022年07月02日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC021KA0S2A700C2000000/" target="blank" rel="noopener">
+                東京都、新たに3616人感染　7日平均で前週の150.0%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC017D80R00C22A7000000/" target="blank" rel="noopener">
+                コロナ感染再拡大に自治体警戒　病床使用率は低く</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUD232AE0T20C22A5000000/" target="blank" rel="noopener">
+                調理音味わう中華、身ぶりでゲーム…「話さない」楽しみ</a>
+        </li>
+        <hr>
         2022年07月01日
 
         <li>
