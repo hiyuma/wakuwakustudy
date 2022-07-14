@@ -42,6 +42,222 @@
                         </a>
         </li>
         <hr> -->
+        2022年07月14日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC140CZ0U2A710C2000000/" target="blank" rel="noopener">
+                東京都、新たに1万6662人感染　7日平均で前週の220.8%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOJC1471E0U2A710C2000000/" target="blank" rel="noopener">
+                沖縄のコロナ感染3565人　3日連続最多更新</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC1443J0U2A710C2000000/" target="blank" rel="noopener">
+                オミクロン｢BA.5｣、｢BA.2｣と毒性に差なし　動物実験で</a>
+        </li>
+        <hr>
+        2022年07月13日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC130BE0T10C22A7000000/" target="blank" rel="noopener">
+                東京都、1万6878人感染　2日連続1万人超で20代最多</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA13CSO0T10C22A7000000/" target="blank" rel="noopener">
+                全国主要駅で無料検査　政府、感染拡大受け8月に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGV13DD70T10C22A7000000/" target="blank" rel="noopener">
+                米国、コロナ派生型が8割　新規入院は4月の4倍に</a>
+        </li>
+        <hr>
+        2022年07月12日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC121N30S2A710C2000000/" target="blank" rel="noopener">
+                全国でコロナ感染拡大　東京は1万人超、沖縄は最多更新</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF12CAH0S2A710C2000000/" target="blank" rel="noopener">
+                通天閣、再び「黄色」に　第7波への警戒呼びかけ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR11CC70R10C22A7000000/" target="blank" rel="noopener">
+                世界のコロナ感染者、3カ月ぶり水準に　重症化は抑制</a>
+        </li>
+        <hr>
+        2022年07月11日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC110CI0R10C22A7000000/" target="blank" rel="noopener">
+                東京都、新たに6231人感染　7日平均で前週の238.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC075980X00C22A7000000/" target="blank" rel="noopener">
+                東京都心でも人口流出　オフィス過剰の2023年問題</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM111PG0R10C22A7000000/" target="blank" rel="noopener">
+                マカオ、事実上の都市封鎖　コロナ感染拡大でカジノ閉鎖</a>
+        </li>
+        <hr>
+        2022年07月10日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC101GQ0Q2A710C2000000/" target="blank" rel="noopener">
+                東京都、新たに9482人感染　7日平均で前週の236.2%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE078CF0X00C22A7000000/" target="blank" rel="noopener">
+                参議院選挙の投票所、新型コロナ感染対策も入念</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB0890E0Y2A700C2000000/" target="blank" rel="noopener">
+                中国、低成長もゼロコロナ優先　15日に4～6月GDP</a>
+        </li>
+        <hr>
+        2022年07月09日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC091XH0Z00C22A7000000/" target="blank" rel="noopener">
+                東京都、新たに9716人感染　7日平均で前週の229%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE075PJ0X00C22A7000000/" target="blank" rel="noopener">
+                コロナ感染再拡大「第7波」懸念　新規5万人、搬送困難増</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF092DJ0Z00C22A7000000/" target="blank" rel="noopener">
+                大阪府、9日の新規感染5567人 5000人超は4月13日以来</a>
+        </li>
+        <hr>
+        2022年07月08日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC080DD0Y2A700C2000000/" target="blank" rel="noopener">
+                東京都、新たに8777人感染　7日平均で前週の214.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC078F80X00C22A7000000/" target="blank" rel="noopener">
+                都内感染者、第6波ピークの2倍で病床不足も　専門家試算</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC073370X00C22A7000000/?unlock=1" target="blank" rel="noopener">
+                米欧で感染拡大、コロナ派生型「BA.5」とは？</a>
+        </li>
+        <hr>
+        2022年07月07日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC070D70X00C22A7000000/" target="blank" rel="noopener">
+                東京都、新たに8529人感染　7日平均で前週の201.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN06DGE0W2A700C2000000/" target="blank" rel="noopener">
+                世界の感染3割増、「BA.5」など猛威　死者は低水準</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC01E7I0R00C22A7000000/" target="blank" rel="noopener">
+                中国リスク「上昇」5割超す　社長100人アンケート</a>
+        </li>
+        <hr>
+        2022年07月06日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC060BJ0W2A700C2000000/" target="blank" rel="noopener">
+                東京都、新たに8341人感染　7日平均で前週の186.8%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC060PN0W2A700C2000000/" target="blank" rel="noopener">
+                KMバイオ、コロナワクチンの効果確認　9月承認申請</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA285470Y2A620C2000000/" target="blank" rel="noopener">
+                国内コロナ感染者942万人　医療再建、踏み込み不足</a>
+        </li>
+        <hr>
+        2022年07月05日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC050LE0V00C22A7000000/" target="blank" rel="noopener">
+                東京都、新たに5302人感染　7日平均で前週の174.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC0597X0V00C22A7000000/" target="blank" rel="noopener">
+                東京、コロナ感染2カ月ぶり5千人超　島根・熊本など最多</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC054SD0V00C22A7000000/" target="blank" rel="noopener">
+                愛媛県のコロナ感染者、過去最多の582人を確認</a>
+        </li>
+        <hr>
+        2022年07月04日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC0412A0U2A700C2000000/" target="blank" rel="noopener">
+                東京都、新たに2772人感染　7日平均で前週の162.4%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC046420U2A700C2000000/" target="blank" rel="noopener">
+                東京都、自宅療養者120人と連絡付かず　KDDI障害発生後</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFD15CA00V10C22A6000000/" target="blank" rel="noopener">
+                中部で3年ぶり花火大会　感染対策を工夫、資金に不安も</a>
+        </li>
+        <hr>
+        2022年07月03日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC030TR0T00C22A7000000/" target="blank" rel="noopener">
+                東京都、新たに3788人感染　7日平均で前週の158.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA2715F0X20C22A6000000/" target="blank" rel="noopener">
+                「アフターコロナ」難題さらに重く　安堵は遠い厚労省</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM190QW0Z10C22A6000000/" target="blank" rel="noopener">
+                中国ゼロコロナ失業、大都市に打撃　格差是正の妨げに</a>
+        </li>
+        <hr>
         2022年07月02日
 
         <li>
