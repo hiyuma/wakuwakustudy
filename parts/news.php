@@ -42,6 +42,42 @@
                         </a>
         </li>
         <hr> -->
+        2022年07月16日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1611A0W2A710C2000000/" target="blank" rel="noopener">
+                東京都、新たに1万8919人感染　7日平均で前週の209.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA153CJ0V10C22A7000000/" target="blank" rel="noopener">
+                4回目接種、高齢者3割どまり　コロナ新規感染10万人超</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOJC162670W2A710C2000000/" target="blank" rel="noopener">
+                沖縄のコロナ感染、過去最多の3904人</a>
+        </li>
+        <hr>
+        2022年07月15日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC150D30V10C22A7000000/" target="blank" rel="noopener">
+                東京都、新たに1万9059人感染　7日平均で前週の217.7%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1598D0V10C22A7000000/" target="blank" rel="noopener">
+                コロナ国内感染、5カ月ぶり10万人超　2月以来</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM1369T0T10C22A7000000/" target="blank" rel="noopener">
+                中国実質成長率0.4%に失速　4～6月、ゼロコロナ打撃</a>
+        </li>
+        <hr>
         2022年07月14日
 
         <li>
