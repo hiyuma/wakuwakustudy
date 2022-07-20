@@ -42,6 +42,78 @@
                         </a>
         </li>
         <hr> -->
+        2022年07月20日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC200CN0Q2A720C2000000/" target="blank" rel="noopener">
+                東京都、新たに2万401人感染　5カ月半ぶり2万人台</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA203CU0Q2A720C2000000/" target="blank" rel="noopener">
+                10～30代も3回目接種を　官房長官「若い人も重症化」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC205XA0Q2A720C2000000/" target="blank" rel="noopener">
+                コロナ国内感染、過去最多の15万人超に</a>
+        </li>
+        <hr>
+        2022年07月19日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1909B0Z10C22A7000000/" target="blank" rel="noopener">
+                東京都、新たに1万1018人感染　7日平均で前週の180.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN1845U0Y2A710C2000000/" target="blank" rel="noopener">
+                米で派生型「BA.5」感染じわり拡大　マスク着用再強化も</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC08BJX0Y2A700C2000000/" target="blank" rel="noopener">
+                ツアー再開も遠い海外旅行　円安や水際対策が重荷</a>
+        </li>
+        <hr>
+        2022年07月18日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1819R0Y2A710C2000000/" target="blank" rel="noopener">
+                東京都、新たに1万2696人感染　7日平均で前週の201.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOKC181LA0Y2A710C2000000/" target="blank" rel="noopener">
+                サッカーアジア杯、代替開催地に豪州など4カ国が立候補</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://vdata.nikkei.com/newsgraphics/coronavirus-world-map/" target="blank" rel="noopener">
+                世界のコロナ感染者、累計5億6241万人　死者は636万人</a>
+        </li>
+        <hr>
+        2022年07月17日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC171310X10C22A7000000/" target="blank" rel="noopener">
+                東京都、新たに1万7790人感染　7日平均で前週の202.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA239JZ0T20C22A6000000/" target="blank" rel="noopener">
+                消費回復、同業で二極化　対面・アルコールは厳しく</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC07D0O0X00C22A7000000/" target="blank" rel="noopener">
+                看護師免許はあるけれど　机上の70万人「戻りたくない」</a>
+        </li>
+        <hr>
         2022年07月16日
 
         <li>
