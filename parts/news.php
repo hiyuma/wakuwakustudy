@@ -42,6 +42,24 @@
                         </a>
         </li>
         <hr> -->
+        2022年07月21日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC213PD0R20C22A7000000/" target="blank" rel="noopener">
+                東京都の感染、初の3万人台　最多3万1878人</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC1940J0Z10C22A7000000/" target="blank" rel="noopener">
+                オミクロン｢BA.5｣、抗ウイルス薬が有効　東大など発表</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC216U00R20C22A7000000/" target="blank" rel="noopener">
+                全国のコロナ感染、過去最多18万6000人に</a>
+        </li>
+        <hr>
         2022年07月20日
 
         <li>
