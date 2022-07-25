@@ -42,6 +42,78 @@
                         </a>
         </li>
         <hr> -->
+        2022年07月XX日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC250XJ0V20C22A7000000/" target="blank" rel="noopener">
+                東京都、新たに2万2387人感染　7日平均で前週の159.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC233MT0T20C22A7000000/" target="blank" rel="noopener">
+                コロナ急増、改めて出社か在宅か　働き方を考える6選</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM194IG0Z10C22A7000000/" target="blank" rel="noopener">
+                中国、ゼロコロナで揺らぐ「世界の工場」　雇用戻らず</a>
+        </li>
+        <hr>
+        2022年07月24日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC240GY0U2A720C2000000/" target="blank" rel="noopener">
+                東京都、新たに2万8112人感染　7日平均で前週の160.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOJC2263P0S2A720C2000000/" target="blank" rel="noopener">
+                病床使用率8県で50%超　感染者「医療の入り口」に殺到</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC114P30R10C22A7000000/" target="blank" rel="noopener">
+                「リベンジ」しきれぬ消費の憂鬱　7月の日経DI</a>
+        </li>
+        <hr>
+        2022年07月23日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC231SW0T20C22A7000000/" target="blank" rel="noopener">
+                東京都、新たに3万2698人感染　3日連続の3万人超</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC232E70T20C22A7000000/" target="blank" rel="noopener">
+                全国のコロナ感染者、初の20万人超　4日連続で最多更新</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA225GJ0S2A720C2000000/" target="blank" rel="noopener">
+                行動制限とは　外出自粛など要請、経済活動へ影響大きく</a>
+        </li>
+        <hr>
+        2022年07月22日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC221150S2A720C2000000/" target="blank" rel="noopener">
+                東京都、最多3万4995人感染　2日連続で3万人台</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC228WO0S2A720C2000000/" target="blank" rel="noopener">
+                全国のコロナ感染19万5000人　過去最多を更新</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODK144P70U2A710C2000000/" target="blank" rel="noopener">
+                コロナ禍巡る専門知の死角　責任負うのは政治の役割</a>
+        </li>
+        <hr>
         2022年07月21日
 
         <li>
