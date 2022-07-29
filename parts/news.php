@@ -42,7 +42,79 @@
                         </a>
         </li>
         <hr> -->
-        2022年07月XX日
+        2022年07月29日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC290DU0Z20C22A7000000/" target="blank" rel="noopener">
+                東京都、コロナ3万6814人感染　7日平均で前週の149.7%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA2959K0Z20C22A7000000/" target="blank" rel="noopener">
+                「BA.5対策強化宣言」創設　自治体が行動自粛求めやすく</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA286JN0Y2A720C2000000/" target="blank" rel="noopener">
+                21年の平均寿命、男女とも10年ぶりに短く　コロナが影響</a>
+        </li>
+        <hr>
+        2022年07月28日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC280AX0Y2A720C2000000/" target="blank" rel="noopener">
+                東京都、コロナ4万406人感染　初の4万人超</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB284080Y2A720C2000000/" target="blank" rel="noopener">
+                日本のコロナ新規感染世界最多、1週間で97万人　WHO</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC27EBZ0X20C22A7000000/" target="blank" rel="noopener">
+                俗称「ケンタウロス」、コロナ新派生型「BA.2.75」とは</a>
+        </li>
+        <hr>
+        2022年07月27日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC270EG0X20C22A7000000/" target="blank" rel="noopener">
+                東京都、コロナ2万9036人感染　累計感染200万人超に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF272GE0X20C22A7000000/" target="blank" rel="noopener">
+                大阪府「医療非常事態宣言」決定　2月8日以来4回目</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF278R20X20C22A7000000/" target="blank" rel="noopener">
+                コロナ新規感染、兵庫が初の1万人超　京都は5000人超え</a>
+        </li>
+        <hr>
+        2022年07月26日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC261290W2A720C2000000/" target="blank" rel="noopener">
+                東京都、新たに3万1593人感染　7日平均で前週の178.8%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC262MG0W2A720C2000000/" target="blank" rel="noopener">
+                全国のコロナ感染19万6000人　過去2番目の多さ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODK2434F0U2A720C2000000/" target="blank" rel="noopener">
+                ［社説］サル痘にコロナの教訓生かせ</a>
+        </li>
+        <hr>
+        2022年07月25日
 
         <li>
                 <i class="far fa-file-alt"></i>
