@@ -24,7 +24,7 @@
 
 
 
-        <!-- 2022年07月XX日
+        <!-- 2022年08月XX日
 
         <li>
                 <i class="far fa-file-alt"></i>
@@ -42,6 +42,78 @@
                         </a>
         </li>
         <hr> -->
+        2022年08月02日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC020CB0S2A800C2000000/" target="blank" rel="noopener">
+                東京都、コロナ3万842人感染　7日平均で前週の110.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE0269B0S2A800C2000000/" target="blank" rel="noopener">
+                救急搬送困難が最多、第6波超え　コロナ・熱中症で逼迫</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC027XV0S2A800C2000000/" target="blank" rel="noopener">
+                長野県のコロナ新規感染者数2205人　過去最多</a>
+        </li>
+        <hr>
+        2022年08月01日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC0109X0R00C22A8000000/" target="blank" rel="noopener">
+                東京都、コロナ2万1958人感染　7日平均で前週の123.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://vdata.nikkei.com/newsgraphics/semiconductor-silicon-cycle/" target="blank" rel="noopener">
+                半導体不足が終わる？　シリコンサイクルを解説</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUD14BJ20U2A710C2000000/" target="blank" rel="noopener">
+                コロナワクチン接種4回目　既存品か最新待つか？</a>
+        </li>
+        <hr>
+        2022年07月31日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC311EU0R30C22A7000000/" target="blank" rel="noopener">
+                東京都、コロナ3万1541人感染　7日平均で前週の131.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA2426B0U2A720C2000000/" target="blank" rel="noopener">
+                4回目接種拡大、急旋回した厚労省　手本なき判断始まる</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE139KI0T10C22A7000000/" target="blank" rel="noopener">
+                10代以下、コロナ陽性者の3割　夏休みの課外活動に影響</a>
+        </li>
+        <hr>
+        2022年07月30日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC3016O0Q2A730C2000000/" target="blank" rel="noopener">
+                東京都、コロナ3万3466人感染　7日平均で前週の137.4%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB300QY0Q2A730C2000000/" target="blank" rel="noopener">
+                発熱患者「ゼロ」と主張　北朝鮮、感染警戒は継続</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA289GX0Y2A720C2000000/" target="blank" rel="noopener">
+                4～6月GDP2.7%増　民間予測、消費回復も反発力弱く</a>
+        </li>
+        <hr>
         2022年07月29日
 
         <li>
