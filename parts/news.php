@@ -42,6 +42,168 @@
                         </a>
         </li>
         <hr> -->
+        2022年08月11日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC111FJ0R10C22A8000000/" target="blank" rel="noopener">
+                東京都、コロナ3万1247人感染　7日平均で前週の90.7%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR01C600R00C22A8000000/" target="blank" rel="noopener">
+                欧米コロナ感染統計、実態示さず　陽性でも未申告が増加</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA10DNW0Q2A810C2000000/" target="blank" rel="noopener">
+                コロナ検査キットのネット販売、厚労省が検討表明</a>
+        </li>
+        <hr>
+        2022年08月10日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC100B70Q2A810C2000000/" target="blank" rel="noopener">
+                東京都、コロナ3万4243人感染　7日平均で前週の90.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA089K00Y2A800C2000000/" target="blank" rel="noopener">
+                1都3県初の人口減、東京へ流入鈍る　コロナで意識変化</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM0961Z0Z00C22A8000000/?unlock=1" target="blank" rel="noopener">
+                シンガポール、「嵐」の中の独立記念日パレード</a>
+        </li>
+        <hr>
+        2022年08月09日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC090BL0Z00C22A8000000/" target="blank" rel="noopener">
+                東京都、コロナ2万9115人感染　7日平均で前週の96.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC040110U2A800C2000000/" target="blank" rel="noopener">
+                4回目ワクチン、3回目と同等効果確認　海外報告相次ぐ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC088FM0Y2A800C2000000/" target="blank" rel="noopener">
+                訪日再開2カ月、進まぬ水際緩和　受け入れ体制課題も</a>
+        </li>
+        <hr>
+        2022年08月08日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC0809N0Y2A800C2000000/" target="blank" rel="noopener">
+                東京都、コロナ1万7884人感染　7日平均で前週の97.0%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA089BO0Y2A800C2000000/" target="blank" rel="noopener">
+                コロナ検査キット、ネット販売解禁へ　政府調整</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA083JE0Y2A800C2000000/" target="blank" rel="noopener">
+                オミクロン型コロナワクチン10月開始　2回目終了者想定</a>
+        </li>
+        <hr>
+        2022年08月07日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC071KP0X00C22A8000000/" target="blank" rel="noopener">
+                東京都、コロナ2万6313人感染　7日平均で前週の98.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN064OB0W2A800C2000000/" target="blank" rel="noopener">
+                0.75%利上げ「物価上昇鈍るまで同程度検討」　FRB理事</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODL064VH0W2A800C2000000/" target="blank" rel="noopener">
+                バイデン米大統領、コロナ陰性に　2回確認まで隔離継続</a>
+        </li>
+        <hr>
+        2022年08月06日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC061XF0W2A800C2000000/" target="blank" rel="noopener">
+                東京都、コロナ3万970人感染　7日平均で前週の102.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM30F2F0Q2A630C2000000/" target="blank" rel="noopener">
+                一時帰国の記者がみた日本のコロナ対策のちぐはぐ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC297LH0Z20C22A7000000/" target="blank" rel="noopener">
+                解熱薬、コロナ急拡大で品薄　「カロナール」など増産へ</a>
+        </li>
+        <hr>
+        2022年08月05日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC050CF0V00C22A8000000/" target="blank" rel="noopener">
+                東京都、コロナ3万7767人感染　7日平均で前週の104%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUB051DM0V00C22A8000000/" target="blank" rel="noopener">
+                コロナ「みなし入院」急増苦悩　日本生命、給付上限下げ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE02AYG0S2A800C2000000/" target="blank" rel="noopener">
+                コロナ支援金の調査甘く　相次ぐ不正、検査院が是正要求</a>
+        </li>
+        <hr>
+        2022年08月04日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC041430U2A800C2000000/" target="blank" rel="noopener">
+                東京都、コロナ3万5339人感染　7日平均で前週の104.4%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC0493S0U2A800C2000000/" target="blank" rel="noopener">
+                新型コロナ感染、全国で23万8000人　3日連続20万人超</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODK03CH10T00C22A8000000/" target="blank" rel="noopener">
+                コロナ医療は特別扱い減らし負担軽く</a>
+        </li>
+        <hr>
+        2022年08月03日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC033IQ0T00C22A8000000/" target="blank" rel="noopener">
+                東京都、コロナ3万8940人感染　7日平均で前週の111.0%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC032BB0T00C22A8000000/" target="blank" rel="noopener">
+                東京のコロナ感染、3～5日にも1日あたり最多　民間予測</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB0331V0T00C22A8000000/?unlock=1" target="blank" rel="noopener">
+                コロナ感染の情報を公開　金正恩流のプロパガンダ</a>
+        </li>
+        <hr>
         2022年08月02日
 
         <li>
