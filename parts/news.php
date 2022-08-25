@@ -42,6 +42,60 @@
                         </a>
         </li>
         <hr> -->
+        2022年08月25日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC250CX0V20C22A8000000/" target="blank" rel="noopener">
+                東京都、コロナ2万3129人感染　7日平均で前週の95.7%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC258Z60V20C22A8000000/" target="blank" rel="noopener">
+                小池都知事、コロナ患者の全数把握「当面続ける」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR24DMG0U2A820C2000000/" target="blank" rel="noopener">
+                水際継続なら7割が「訪日見送り」　外国人対象調査</a>
+        </li>
+        <hr>
+        2022年08月24日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC240CK0U2A820C2000000/" target="blank" rel="noopener">
+                東京都、コロナ2万5444人感染　7日平均で前週の96.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCD2324Q0T20C22A8000000/" target="blank" rel="noopener">
+                コロナに打ち勝った国と負け続ける国</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA241ZN0U2A820C2000000/" target="blank" rel="noopener">
+                入国前の現地コロナ検査免除、9月7日から　岸田首相表明</a>
+        </li>
+        <hr>
+        2022年08月23日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC230D40T20C22A8000000/" target="blank" rel="noopener">
+                東京都、コロナ2万1770人感染　7日平均で前週の95.8%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA2383O0T20C22A8000000/" target="blank" rel="noopener">
+                ワクチン接種の担い手確保策議論　厚労省</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN22C3S0S2A820C2000000/" target="blank" rel="noopener">
+                オミクロン型対応ワクチン、ファイザーが米国で承認申請</a>
+        </li>
+        <hr>
         2022年08月22日
 
         <li>
