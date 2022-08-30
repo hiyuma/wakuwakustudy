@@ -24,7 +24,7 @@
 
 
 
-        <!-- 2022年08月XX日
+        <!-- 2022年09月XX日
 
         <li>
                 <i class="far fa-file-alt"></i>
@@ -42,6 +42,114 @@
                         </a>
         </li>
         <hr> -->
+        <!-- 2022年08月31日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                        </a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                        </a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="" target="blank" rel="noopener">
+                        </a>
+        </li>
+        <hr> -->
+        2022年08月30日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC300BI0Q2A830C2000000/" target="blank" rel="noopener">
+                東京都、コロナ1万4219人感染　7日平均で前週の72.4%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA29BEE0Z20C22A8000000/" target="blank" rel="noopener">
+                オミクロン型対応ワクチン、9月にも接種へ　厚労省検討</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA291Z70Z20C22A8000000/" target="blank" rel="noopener">
+                新型コロナ抗体薬を承認へ　厚労省、発症予防の効果も</a>
+        </li>
+        <hr>
+        2022年08月29日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2909Q0Z20C22A8000000/" target="blank" rel="noopener">
+                東京都、コロナ9880人感染　1カ月半ぶり1万人未満</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA292VE0Z20C22A8000000/" target="blank" rel="noopener">
+                コロナ療養の期間短縮　官房長官「速やかに示す」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB293VO0Z20C22A8000000/" target="blank" rel="noopener">
+                中国人の「リベンジ消費」を見込む欧州高級ブランド</a>
+        </li>
+        <hr>
+        2022年08月28日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC281IR0Y2A820C2000000/" target="blank" rel="noopener">
+                東京都、コロナ1万5834人感染　7日平均で前週の75.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA223A90S2A820C2000000/" target="blank" rel="noopener">
+                検査キットのネット販売、解禁遅れの代償　非正規品浸透</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOJC25D030V20C22A8000000/" target="blank" rel="noopener">
+                開業まで1カ月　「挑む　西九州新幹線」まとめ読み</a>
+        </li>
+        <hr>
+        2022年08月27日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC271FA0X20C22A8000000/" target="blank" rel="noopener">
+                東京都、コロナ1万7126人感染　7日平均で前週の81.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA2726B0X20C22A8000000/" target="blank" rel="noopener">
+                コロナ全数把握見直し「全国一律が基本」　岸田首相</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB271YR0X20C22A8000000/" target="blank" rel="noopener">
+                世界のコロナ感染6億人に　日本1800万人で10番目</a>
+        </li>
+        <hr>
+        2022年08月26日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC261AY0W2A820C2000000/" target="blank" rel="noopener">
+                東京都、コロナ1万8423人感染　7日平均で前週の86.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC22B1I0S2A820C2000000/" target="blank" rel="noopener">
+                コロナ後遺症、2年後も認知機能に影響　経済活動に負荷</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB2609R0W2A820C2000000/" target="blank" rel="noopener">
+                Appleが出社義務付け、揺れる米IT業界</a>
+        </li>
+        <hr>
         2022年08月25日
 
         <li>
