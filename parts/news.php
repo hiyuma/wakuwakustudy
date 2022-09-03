@@ -42,24 +42,78 @@
                         </a>
         </li>
         <hr> -->
-        <!-- 2022年08月31日
+        2022年09月03日
 
         <li>
                 <i class="far fa-file-alt"></i>
-                <a href="" target="blank" rel="noopener">
-                        </a>
+                <a href="https://www.nikkei.com/article/DGXZQOCC030NY0T00C22A9000000/" target="blank" rel="noopener">
+                東京都、コロナ1万2561人感染　7日平均で前週の65.0%</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
-                <a href="" target="blank" rel="noopener">
-                        </a>
+                <a href="https://www.nikkei.com/article/DGXZQOUA184NF0Y2A810C2000000/" target="blank" rel="noopener">
+                機能充実、自転車20年で7割高　コロナ下で人気も上昇</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
-                <a href="" target="blank" rel="noopener">
-                        </a>
+                <a href="https://www.nikkei.com/article/DGXZQOUA0257P0S2A900C2000000/" target="blank" rel="noopener">
+                新ワクチン、19日以降3000万回分配送　高齢者から接種</a>
         </li>
-        <hr> -->
+        <hr>
+        2022年09月02日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC020SG0S2A900C2000000/" target="blank" rel="noopener">
+                東京都、コロナ1万2413人感染　7日平均で前週の64.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC022I70S2A900C2000000/" target="blank" rel="noopener">
+                ロシュ、コロナ抗原検査キットを6日発売　アマゾンでも</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOJC016M70R00C22A9000000/" target="blank" rel="noopener">
+                沖縄県の22年度観光収入、3年ぶり増加　コロナ前の4割に</a>
+        </li>
+        <hr>
+        2022年09月01日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC010UC0R00C22A9000000/" target="blank" rel="noopener">
+                東京都、コロナ1万4451人感染　7日平均で前週の64.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA316790R30C22A8000000/" target="blank" rel="noopener">
+                コロナ対策、第7波後にらむ　水際緩和やワクチン前倒し</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC291KL0Z20C22A8000000/" target="blank" rel="noopener">
+                都民割が再開、ホテルなど即日完売も　「県民割」も好調</a>
+        </li>
+        <hr>
+        2022年08月31日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC310AZ0R30C22A8000000/" target="blank" rel="noopener">
+                東京都、コロナ1万5428人感染　7日平均で前週の68.1%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA315650R30C22A8000000/" target="blank" rel="noopener">
+                8月の消費者心理、3カ月ぶり改善　夏の人出増で</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUB30CUG0Q2A830C2000000/" target="blank" rel="noopener">
+                コロナ入院給付で生保誤算　全数把握見直し機に対象限定</a>
+        </li>
+        <hr>
         2022年08月30日
 
         <li>
