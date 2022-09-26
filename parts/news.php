@@ -42,6 +42,215 @@
                         </a>
         </li>
         <hr> -->
+
+        2022年09月26日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC260A40W2A920C2000000/" target="blank" rel="noopener">
+                東京都、コロナ6316人感染　7日平均で前週の77.2%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA2611T0W2A920C2000000/" target="blank" rel="noopener">
+                新型コロナ感染者の全数把握、全国一律で簡略化開始</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCD208NR0Q2A920C2000000/?unlock=1" target="blank" rel="noopener">
+                「10年ぶり日本買い」にワナ　不動産マネー、成長に回せ</a>
+        </li>
+        <hr>
+
+        2022年09月25日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC251I40V20C22A9000000/" target="blank" rel="noopener">
+                東京都、コロナ5621人感染　7日平均で前週の71.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC089Q10Y2A900C2000000/" target="blank" rel="noopener">
+                人手不足、コロナ後最大　企業の5割で正社員足りず</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA15ANR0V10C22A9000000/" target="blank" rel="noopener">
+                コロナ分科会再始動、政府との溝は埋まるか</a>
+        </li>
+        <hr>
+
+        2022年09月24日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC241EC0U2A920C2000000/" target="blank" rel="noopener">
+                東京都、コロナ4855人感染　7日平均で前週の75.9%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC209AU0Q2A920C2000000/" target="blank" rel="noopener">
+                並行在来線、細る受け入れ余力　新幹線開業の光と影</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGS232JV0T20C22A9000000/" target="blank" rel="noopener">
+                タイ、コロナ対策の非常事態宣言を解除へ　2年半ぶり</a>
+        </li>
+        <hr>
+
+        2022年09月23日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC231TT0T20C22A9000000/" target="blank" rel="noopener">
+                東京都、コロナ7559人感染　7日平均で前週の78.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC07CBD0X00C22A9000000/" target="blank" rel="noopener">
+                遠隔健康相談、コロナ機に拡大　エムスリーは3年で3倍</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA224ZJ0S2A920C2000000/" target="blank" rel="noopener">
+                岸田首相「NISA恒久化が必須」　ビザなし来日10月再開</a>
+        </li>
+        <hr>
+
+        2022年09月22日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC220YX0S2A920C2000000/" target="blank" rel="noopener">
+                東京都、コロナ8850人感染　7日平均で前週の79.6%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQODK150VB0V10C22A9000000/" target="blank" rel="noopener">
+                コロナワクチン、一体何回打てば終わるのか</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC228830S2A920C2000000/" target="blank" rel="noopener">
+                コロナ全数把握の見直し後、軽症者支援を強化　東京都</a>
+        </li>
+        <hr>
+
+        2022年09月21日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC210CI0R20C22A9000000/" target="blank" rel="noopener">
+                東京都、コロナ7059人感染　7日平均で前週の77.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA217A30R20C22A9000000/" target="blank" rel="noopener">
+                インフルエンザとコロナ同時流行懸念　厚労省専門家組織</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC2148T0R20C22A9000000/" target="blank" rel="noopener">
+                日産と東北大学、コロナウイルス不活化技術を開発</a>
+        </li>
+        <hr>
+
+        2022年09月20日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC200QP0Q2A920C2000000/" target="blank" rel="noopener">
+                東京都、コロナ3794人感染　7日平均で前週の79.2%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM137DT0T10C22A9000000/" target="blank" rel="noopener">
+                香港、コロナ規制見直しへ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA190V40Z10C22A9000000/" target="blank" rel="noopener">
+                マイホーム需要は郊外へ　住宅地、14都道府県で上昇</a>
+        </li>
+        <hr>
+
+        2022年09月19日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC191R10Z10C22A9000000/" target="blank" rel="noopener">
+                東京都、コロナ4069人感染　7日平均で前週の86.0%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA15AHD0V10C22A9000000/" target="blank" rel="noopener">
+                オミクロン型ワクチン接種開始、10月下旬から職場接種も</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN191730Z10C22A9000000/" target="blank" rel="noopener">
+                バイデン氏、新型コロナ「パンデミックは終わった」</a>
+        </li>
+        <hr>
+
+        2022年09月18日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC181HI0Y2A910C2000000/" target="blank" rel="noopener">
+                東京都、コロナ8077人感染　7日平均で前週の86.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF181LS0Y2A910C2000000/" target="blank" rel="noopener">
+                大阪府、コロナの新規感染4286人　14人死亡</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC25AWJ0V20C22A7000000/" target="blank" rel="noopener">
+                冷凍食品でぜいたく気分　1食1000円でレストラン風主役</a>
+        </li>
+        <hr>
+
+        2022年09月17日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC172130X10C22A9000000/" target="blank" rel="noopener">
+                東京都、コロナ8018人感染　7日平均で前週の83.5%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC050TF0V00C22A9000000/" target="blank" rel="noopener">
+                コロナ全数把握見直し、先行地域では発生届8割減</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC199470Z10C22A8000000/" target="blank" rel="noopener">
+                サンリオ、「推し活」で呼ぶ一人客　共感と共創がカギに</a>
+        </li>
+        <hr>
+
+        2022年09月16日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC160Y00W2A910C2000000/" target="blank" rel="noopener">
+                東京都、コロナ8636人感染　7日平均で前週の83.3%</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA16CAK0W2A910C2000000/" target="blank" rel="noopener">
+                コロナの自宅療養者、45%減の58万人に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC229N20S2A720C2000000/" target="blank" rel="noopener">
+                コロナ飲み薬、普及期へ　メルク製の一般流通始まる</a>
+        </li>
+        <hr>
         2022年09月15日
 
         <li>
