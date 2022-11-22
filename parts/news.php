@@ -24,7 +24,7 @@
 
 
 
-        <!-- 2022年10月XX日
+        <!-- 2022年11月XX日
 
         <li>
                 <i class="far fa-file-alt"></i>
@@ -36,12 +36,362 @@
                 <a href="" target="blank" rel="noopener">
                         </a>
         </li>
+        <hr> -->
+        <!-- 2022年11月23日
+
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="" target="blank" rel="noopener">
                         </a>
         </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC2125R0R21C22A1000000/" target="blank" rel="noopener">
+                        東京都、コロナ後遺症研修会　「感染後2カ月無理せず」</a>
+        </li>
         <hr> -->
+        2022年11月22日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE1748V0X11C22A1000000/" target="blank" rel="noopener">
+                就活のWebテスト、突かれた隙　「替え玉」にAI活用カギ 警視庁が関電社員を逮捕</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFC28E320Y2A021C2000000/" target="blank" rel="noopener">
+                釧路港クルーズで世界三大夕日　繁華街・末広も活性化</a>
+        </li>
+        <hr>
+        2022年11月21日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUD049YY0U2A101C2000000/" target="blank" rel="noopener">
+                RSウイルス、有効なワクチン実現へ　乳幼児の重症化防ぐ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM17AVF0X11C22A1000000/" target="blank" rel="noopener">
+                東南アジア、7～9月回復持続　観光回復も物価高に懸念</a>
+        </li>
+        <hr>
+        2022年11月20日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB203RA0Q2A121C2000000/" target="blank" rel="noopener">
+                中国、コロナ感染で死亡者　半年ぶり確認</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC01AVH0R01C22A1000000/" target="blank" rel="noopener">
+                非常時、パントリーで備える　災害・コロナで備蓄需要増</a>
+        </li>
+        <hr>
+        2022年11月19日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC27D1B0X20C22A9000000/" target="blank" rel="noopener">
+                国産ワクチン開発、周回遅れ　挽回へ審査の見直し急務</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUB109FF0Q2A111C2000000/" target="blank" rel="noopener">
+                3メガ損保、23年3月期純利益を下方修正　台風・コロナで</a>
+        </li>
+        <hr>
+        2022年11月18日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE153FM0V11C22A0000000/" target="blank" rel="noopener">
+                人気観光地、訪日客回復にばらつき　円安なども影響</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC163NP0W2A111C2000000/" target="blank" rel="noopener">
+                上期最高益の三井不動産、米国事業好調もくすぶる不安</a>
+        </li>
+        <hr>
+        2022年11月17日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC177BQ0X11C22A0000000/" target="blank" rel="noopener">
+                タクシー運転手、都内は32年ぶり最少　収入低迷響く 不足対策へAI活用や相乗り普及急ぐ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC17C4C0X11C22A1000000/" target="blank" rel="noopener">
+                知事会、コロナ第8波で緊急提言 「検査キット確保を」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFD179VZ0X11C22A1000000/" target="blank" rel="noopener">
+                コロナワクチン接種後死亡で　愛知医師会「体制に問題」</a>
+        </li>
+        <hr>
+        2022年11月16日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA16APN0W2A111C2000000/" target="blank" rel="noopener">
+                岸田首相「オンライン診療など充実」　コロナ感染拡大</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC16BD00W2A111C2000000/" target="blank" rel="noopener">
+                東京都、感染拡大時の自粛要請「整合性示せ」　国に要望</a>
+        </li>
+        <hr>
+        2022年11月15日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA15B8Y0V11C22A1000000/" target="blank" rel="noopener">
+                コロナの位置づけ「第8波後に見直し議論」　尾身茂会長</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC159GD0V11C22A1000000/" target="blank" rel="noopener">
+                コロナ感染者、2カ月ぶり10万人超　東京や北海道も1万人</a>
+        </li>
+        <hr>
+        2022年11月14日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOJC1420G0U2A111C2000000/" target="blank" rel="noopener">
+                九州7県のおでかけ指数、10月大幅回復　旅行支援で</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFC141RV0U2A111C2000000/" target="blank" rel="noopener">
+                JR北海道、4～9月期　営業赤字230億円に縮小</a>
+        </li>
+        <hr>
+        2022年11月12日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE09DRC0Z01C22A1000000/" target="blank" rel="noopener">
+                マスク着用基準知らず58%　屋外不要は浸透せず</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA11DIF0R11C22A1000000/" target="blank" rel="noopener">
+                岸田首相「中国・韓国と首脳会談調整」　通常形式めざす</a>
+        </li>
+        <hr>
+        2022年11月11日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA11BJG0R11C22A1000000/" target="blank" rel="noopener">
+                第8波に備え対策強化宣言新設　行動自粛要請可能に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA08BMM0Y2A101C2000000/" target="blank" rel="noopener">
+                コロナ第8波にどう備える？　症状出たらまず自己検査</a>
+        </li>
+        <hr>
+        2022年11月10日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFD104BF0Q2A111C2000000/" target="blank" rel="noopener">
+                コロナワクチン接種で女性死亡　愛知県医師会が対応検証</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA108TJ0Q2A111C2000000/" target="blank" rel="noopener">
+                尾身会長「第8波入りつつある」　岸田首相と対応協議</a>
+        </li>
+        <hr>
+        2022年11月09日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGS319N80R31C22A0000000/" target="blank" rel="noopener">
+                東南アジア、ハラル対応のコロナワクチン急ぐ　輸出視野 インドネシア、悲願の実用化</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC09A3M0Z01C22A1000000/" target="blank" rel="noopener">
+                東京都、4～5回目の米ノババックス製ワクチン接種開始</a>
+        </li>
+        <hr>
+        2022年11月08日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA071ZK0X01C22A1000000/" target="blank" rel="noopener">
+                感染症法改正案、対立回避へ付則に野党案　衆院で可決</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC0837J0Y2A101C2000000/" target="blank" rel="noopener">
+                東京都医師会長「病床拡充よりワクチン接種促進を」</a>
+        </li>
+        <hr>
+        2022年11月07日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUB075EC0X01C22A1000000/" target="blank" rel="noopener">
+                中国情勢「日本株にマイナス」43%　QUICK11月調査</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA0622C0W2A101C2000000/" target="blank" rel="noopener">
+                コロナワクチン、「全額国費」見直し求める　財制審</a>
+        </li>
+        <hr>
+        2022年11月06日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC151IE0V11C22A0000000/" target="blank" rel="noopener">
+                「裏アカ部屋」で趣味満喫　伊藤忠系、ユニーク物件続々</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA041670U2A101C2000000/" target="blank" rel="noopener">
+                コロナ・インフル同時流行に備え　自治体、臨時外来など</a>
+        </li>
+        <hr>
+        2022年11月05日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC134NK0T11C22A0000000/" target="blank" rel="noopener">
+                訪日客増へ人手不足の壁　宿泊業就業者、コロナで2割減</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN11DCL0R11C22A0000000/" target="blank" rel="noopener">
+                米遺伝子解析イルミナ、費用3分の1に　新興国で販売拡大</a>
+        </li>
+        <hr>
+        2022年11月04日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC017WH0R01C22A1000000/" target="blank" rel="noopener">
+                米欧でコロナ派生型「BQ.1」増加、アジアでは「XBB」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA0320A0T01C22A1000000/" target="blank" rel="noopener">
+                自治体向けコロナ交付金7500億円追加　補正予算案</a>
+        </li>
+        <hr>
+        2022年11月03日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN0331Y0T01C22A0000000/" target="blank" rel="noopener">
+                米医療、効率化で先行　コロナ禍がAI活用の契機に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC020Y10S2A101C2000000/" target="blank" rel="noopener">
+                スカイマーク、東証に再上場申請　コロナ後へ成長投資</a>
+        </li>
+        <hr>
+        2022年11月02日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE02DLD0S2A101C2000000/" target="blank" rel="noopener">
+                乳幼児のワクチン接種推奨　小児科学会、新型コロナ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA28B7M0Y2A021C2000000/" target="blank" rel="noopener">
+                かかりつけ医制度に反対　日医会長、地域連携で対応</a>
+        </li>
+        <hr>
+        2022年11月01日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA015KR0R01C22A1000000/" target="blank" rel="noopener">
+                塩野義コロナ薬、緊急承認制度で再審議へ　11月下旬にも</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC312HH0R31C22A0000000/" target="blank" rel="noopener">
+                卒業証書風の撮影用パネル、生徒の思い出づくりに</a>
+        </li>
+       
+        <hr>
+        2022年10月31日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA315EM0R31C22A0000000/" target="blank" rel="noopener">
+                モデルナ製「BA.5」ワクチン、厚労省部会が特例承認了承</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB18BQ40Y2A011C2000000/" target="blank" rel="noopener">
+                ワクチン国際基金、5000億円調達へ　途上国へ供給網整備</a>
+        </li>
+       
+        <hr>
+        2022年10月30日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF058YQ0V00C22A9000000/" target="blank" rel="noopener">
+                セルフ写真館、コロナ禍で人気一段と　NO密で撮影存分</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF277IT0X21C22A0000000/" target="blank" rel="noopener">
+                日本ホテル協会、「安心」な宴会体験会　需要増へ対策PR</a>
+        </li>
+        <hr>
+        2022年10月29日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://vdata.nikkei.com/newsgraphics/coronavirus-chart-list/" target="blank" rel="noopener">
+                チャートで見る世界の感染状況　新型コロナウイルス</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://vdata.nikkei.com/newsgraphics/coronavirus-japan-chart/" target="blank" rel="noopener">
+                国内の新型コロナ感染状況　チャートで見る</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1420F0U2A011C2000000/" target="blank" rel="noopener">
+                国内線14年ぶり新規参入へ　新潟｢トキエア｣を待つ逆風</a>
+        </li>
+        <hr>
+        2022年10月28日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC288900Y2A021C2000000/" target="blank" rel="noopener">
+                東京都、ワクチン追加接種者に抽選で特典　3~4回目</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC277D30X21C22A0000000/" target="blank" rel="noopener">
+                3分で新型コロナ検査　卓上型装置で、理研など</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC2716S0X21C22A0000000/" target="blank" rel="noopener">
+                ANAHD、26年3月期コロナ前超え　営業益2000億円目標</a>
+        </li>
+        <hr>
         2022年10月27日
 
         <li>
