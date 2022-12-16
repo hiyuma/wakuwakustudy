@@ -24,7 +24,7 @@
 
 
 
-        <!-- 2022年11月XX日
+        <!-- 2022年12月XX日
 
         <li>
                 <i class="far fa-file-alt"></i>
@@ -37,19 +37,318 @@
                         </a>
         </li>
         <hr> -->
-        <!-- 2022年11月23日
+        2022年12月16日
 
         <li>
                 <i class="far fa-file-alt"></i>
-                <a href="" target="blank" rel="noopener">
-                        </a>
+                <a href="https://www.nikkei.com/article/DGXZQOCC156C80V11C22A2000000/" target="blank" rel="noopener">
+                東京都、年末年始の診療・検査強化　コロナ警戒度は維持</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN160260W2A211C2000000/" target="blank" rel="noopener">
+                オミクロン派生型「深刻な脅威」 米科学誌、既存薬効かず</a>
+        </li>
+        <hr>
+        2022年12月15日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN14DQB0U2A211C2000000/" target="blank" rel="noopener">
+                コロナワクチン、米でやまぬ懐疑論　接種開始から2年</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGR1503R0V11C22A2000000/" target="blank" rel="noopener">
+                WHO事務局長、新型コロナ緊急事態「23年に終了期待」</a>
+        </li>
+        <hr>
+        2022年12月14日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA1495M0U2A211C2000000/" target="blank" rel="noopener">
+                専門家「インフルと大きな違い」　コロナ再分類向け評価</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC12C2K0S2A211C2000000/" target="blank" rel="noopener">
+                ｢世界の都市力｣東京3位維持も点数下げる　渡航規制が影</a>
+        </li>
+        <hr>
+        2022年12月13日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA134H30T11C22A2000000/" target="blank" rel="noopener">
+                コロナワクチン有料化を議論　リスク見極め判断</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA13A980T11C22A2000000/" target="blank" rel="noopener">
+                雇用保険料0.2%引き上げへ　23年4月から</a>
+        </li>
+        <hr>
+        2022年12月12日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC123D30S2A211C2000000/" target="blank" rel="noopener">
+                1都9県の景況感、1年ぶりプラス　関東財務局</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC1247Z0S2A211C2000000/" target="blank" rel="noopener">
+                東京都のオンライン発熱診療　1日600人対応、薬配送も</a>
+        </li>
+        <hr>
+        2022年12月11日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUF101L20Q2A211C2000000/" target="blank" rel="noopener">
+                塩野義のコロナ治療薬、重篤な副作用なし　1000人超使用</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN09DL30Z01C22A2000000/" target="blank" rel="noopener">
+                米国、病床使用率8割に　インフルなどで医療負荷高まる</a>
+        </li>
+        <hr>
+        2022年12月10日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC106CD0Q2A111C2000000/" target="blank" rel="noopener">
+                パーソルHD、アジアで飲食・軽作業向け人材派遣</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN07DSW0X01C22A2000000/" target="blank" rel="noopener">
+                米、子どもの予防接種率低下に懸念　「はしか」流行も</a>
+        </li>
+        <hr>
+        2022年12月09日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC063CR0W2A201C2000000/" target="blank" rel="noopener">
+                中国リスク回避､関東の企業も撤退･縮小　誘致の好機にも</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB0953L0Z01C22A2000000/" target="blank" rel="noopener">
+                解熱剤が足りない　ゼロコロナ緩和の北京で感染急増</a>
+        </li>
+        <hr>
+        2022年12月08日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC0588X0V01C22A2000000/" target="blank" rel="noopener">
+                コロナ「BQ.1.1」「XBB」、抗ウイルス薬有効　東京大学</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE1438O0U2A011C2000000/" target="blank" rel="noopener">
+                コロナ対策、自治体3割ばらまき　全住民に現金・商品券</a>
+        </li>
+        <hr>
+        2022年12月07日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM079820X01C22A2000000/" target="blank" rel="noopener">
+                中国ゼロコロナ緩和、経済減速に焦り　感染増で修正も</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUE119JE0R11C22A1000000/" target="blank" rel="noopener">
+                コロナ「第8波」、外来逼迫を警戒　インフル患者増加で</a>
+        </li>
+        <hr>
+        2022年12月06日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN05C4L0V01C22A2000000/" target="blank" rel="noopener">
+                米国のコロナ入院患者、前週比17%増　感謝祭後に急増</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUB0639C0W2A201C2000000/" target="blank" rel="noopener">
+                米株、下方修正ラッシュが重荷　上昇持続に業績の壁</a>
+        </li>
+        <hr>
+        2022年12月05日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCA052600V01C22A2000000/" target="blank" rel="noopener">
+                新型コロナ、第8波は怖くない？【動画解説】</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA303QF0Q2A131C2000000/" target="blank" rel="noopener">
+                検査キット市販、なお医師会の壁　インフル単独は見送り</a>
+        </li>
+        <hr>
+        2022年12月04日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN30DJH0Q2A131C2000000/" target="blank" rel="noopener">
+                インフルなど3種流行「トリプルデミック」、米欧で懸念</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN02DT10S2A201C2000000/" target="blank" rel="noopener">
+                米ファイザー、欧州に3400億円投資　ポストコロナにらむ</a>
+        </li>
+        <hr>
+        2022年12月03日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOJC01ABV0R01C22A1000000/" target="blank" rel="noopener">
+                復活目指す沖縄観光　サービスの質高め、長期滞在実現へ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOJC317U20R31C22A0000000/" target="blank" rel="noopener">
+                西九州新幹線開業　佐賀・長崎は周遊観光いざなう</a>
+        </li>
+        <hr>
+        2022年12月02日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC304500Q2A131C2000000/" target="blank" rel="noopener">
+                忘年会、企業の4割が意欲　ワタミは予約数8倍に</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA021GZ0S2A201C2000000/" target="blank" rel="noopener">
+                コロナ・インフル同時流行、ピーク時も診療可能　厚労省</a>
+        </li>
+        <hr>
+        2022年12月01日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCB01DNS0R01C22A2000000/" target="blank" rel="noopener">
+                ゼロコロナ緩和進める姿勢　中国副首相、抗議受け</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC018C30R01C22A2000000/" target="blank" rel="noopener">
+                小池都知事「新たな行動制限せず」　冬のコロナ対策決定</a>
+        </li>
+        <hr>
+        2022年11月30日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGN300DF0Q2A131C2000000/" target="blank" rel="noopener">
+                Twitter、新型コロナ投稿規制を終了　誤情報拡散の恐れ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM301EL0Q2A131C2000000/" target="blank" rel="noopener">
+                中国景況感さらに悪化　企業の資金繰り難、抗議の背景に</a>
+        </li>
+        <hr>
+        2022年11月29日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM299F30Z21C22A1000000/" target="blank" rel="noopener">
+                中国株が反発　「ゼロコロナ」政策見直し期待</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA2934W0Z21C22A1000000/" target="blank" rel="noopener">
+                コロナ・インフル同時検査キット、自宅でどう使う？</a>
+        </li>
+        <hr>
+        2022年11月28日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM2745W0X21C22A1000000/" target="blank" rel="noopener">
+                中国ゼロコロナに異例の抗議、北京・武漢など複数都市で</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOFC189CR0Y2A111C2000000/" target="blank" rel="noopener">
+                人の血液で抗体、感染症防げ　北大発イーベックに熱視線</a>
+        </li>
+        <hr>
+        2022年11月27日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUA241V90U2A121C2000000/" target="blank" rel="noopener">
+                塩野義製薬の国産コロナ新薬「ゾコーバ」、期待と慎重論</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC213Z50R21C22A0000000/" target="blank" rel="noopener">
+                気候変動、感染症200種の脅威増す　ウイルス移動広がる</a>
+        </li>
+        <hr>
+        2022年11月26日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC276PC0X20C22A9000000/" target="blank" rel="noopener">
+                三越伊勢丹やソニーの再生　カギは「脱・万人受け」</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOGM252QK0V21C22A1000000/" target="blank" rel="noopener">
+                フィリピン保健省、ワクチン配送体制強化　日本が支援</a>
+        </li>
+        <hr>
+        2022年11月25日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC255RV0V21C22A1000000/" target="blank" rel="noopener">
+                東京都内「コロナ破綻」1000件に　民間調べ</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC178R60X11C22A1000000/" target="blank" rel="noopener">
+                オミクロン出現1年、派生型600超　免疫回避の性質強まる</a>
+        </li>
+        <hr>
+        2022年11月24日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC248KP0U2A121C2000000/" target="blank" rel="noopener">
+                カネカ、塩野義のコロナ治療薬「ゾコーバ」の中間体生産</a>
+        </li>
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOUC246Z60U2A121C2000000/" target="blank" rel="noopener">
+                空港施設、23年3月期純利益2.5倍に　固定資産売却益計上</a>
+        </li>
+        <hr>
+        2022年11月23日
+
+        <li>
+                <i class="far fa-file-alt"></i>
+                <a href="https://www.nikkei.com/article/DGXZQOCC214SD0R21C22A1000000/" target="blank" rel="noopener">
+                個人住民税・扶助費・借金　データで見る、まちの家計簿</a>
         </li>
         <li>
                 <i class="far fa-file-alt"></i>
                 <a href="https://www.nikkei.com/article/DGXZQOCC2125R0R21C22A1000000/" target="blank" rel="noopener">
                         東京都、コロナ後遺症研修会　「感染後2カ月無理せず」</a>
         </li>
-        <hr> -->
+        <hr>
         2022年11月22日
 
         <li>
